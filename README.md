@@ -72,11 +72,15 @@ Esto demuestra la importancia y la extensión de la problemática.
 ### 1.2.2.1. Lean UX Problem Statements.
 En el servicio del cuidado del adulto mayor es una actividad que nos afecta indirectamente a todas las personas naturales, esto tanto que seamos los que cuidemos del ser querido o contratemos a alguien para que la cuide por nosotros. 
 ¿Cómo aseguramos la seguridad del adulto mayor para las personas que las cuidan?
-
+(Alfredo)
 ### 1.2.2.2. Lean UX Assumptions.
+(cristian y enrique)
 
 ### 1.2.2.3. Lean UX Hypothesis Statements.
+(cristian y enrique)
+
 
 ### 1.2.2.4. Lean UX Canvas.
+(cristian y enrique)
 
 # 1.3. Segmentos objetivo.
