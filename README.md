@@ -82,5 +82,16 @@ En el servicio del cuidado del adulto mayor es una actividad que nos afecta indi
 
 ### 1.2.2.4. Lean UX Canvas.
 (cristian y enrique)
+El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que
+tratamos de resolver, así como tener más claro nuestro modelo de negocio.
+
 
 # 1.3. Segmentos objetivo.
+La aplicación tiene como segmentos objetivos a dos grupos en particular: Personas responsables del cuidado de adultos mayores y Miembros de familias con adultos mayores a su cargo.
+Inicialmente, la aplicación estará disponible únicamente en Perú.
+
+**Personas responsables del cuidado de adultos mayores:**
+Este segmento comprende usuarios encargados del cuidado y atención de adultos mayores. Según datos del Instituto Nacional de Estadística e Informática (INEI), en Perú existen aproximadamente entre 410 y 415 geriatras. Estos usuarios, en su mayoría, son técnicos enfermeros con formación básica en diversas áreas relacionadas con el cuidado del paciente, incluyendo higiene, terapia ocupacional, prevención de accidentes y atención de emergencias.
+**Personas que tienen un adulto mayor en su familia:**
+Este grupo incluye a aquellos usuarios que conviven con adultos mayores en su entorno familiar y son responsables de su cuidado. Según el INEI, en Perú hay aproximadamente 4 millones 598,000 personas de 60 años en adelante. Los datos de la Encuesta Nacional de Hogares (ENAHO) indican que el 80% de los adultos mayores a nivel nacional sufren de problemas de salud crónicos, que incluyen artritis, hipertensión, asma, reumatismo, diabetes, tuberculosis, colesterol elevado, entre otros. Además, el 85.1% de las mujeres y el 74.2% de los hombres adultos mayores presentan al menos un problema de salud crónico.
+
