@@ -2,6 +2,24 @@
 
 # 2.1. Competidores
 
++ **MyTherapy** 
+
+    MyTherapy es una aplicación diseñada para asistir en el seguimiento del plan de medicación prescrito, ofreciendo recordatorios programados para tomar pastillas y comprimidos a tiempo. Además de los recordatorios, MyTherapy incluye un diario integrado que permite a los usuarios registrar mediciones, síntomas y citas médicas. Esta aplicación también ofrece la funcionalidad de recordar al usuario que controle su peso, mida su presión arterial o la saturación de oxígeno en sangre. Los datos de peso, presión arterial y saturación de oxígeno pueden ingresarse directamente en el diario de salud de MyTherapy.
+
+    <img src="https://www.smartpatient.eu/media/pages/press/08ea128dc6-1649865521/logo_mytherapy.png" width="300" height="100">
+
+
++ **Safe365**
+
+    Safe es una aplicación diseñada para brindar cuidado y atención a padres, abuelos y familiares mayores. Permite a los usuarios localizar a sus seres queridos en tiempo real, establecer rutinas diarias, fomentar hábitos saludables y mantenerse conectados con ellos. La aplicación también ofrece la función de recibir notificaciones cuando los familiares mayores ingresan o salen de ciertos lugares, así como un botón de emergencia/pánico para recibir alertas en caso de que necesiten ayuda urgente.
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIR_lMEycVjRli13UWvoXIZaNWQrcUDNxZpUufX3uyQ&s"  width="300" height="150">
+   
++ **MiCuidum** 
+
+    La aplicación MiCuidum está especialmente diseñada para familias que necesitan cuidados domiciliarios para personas mayores. Sus diversas funciones permiten un seguimiento más detallado de las rutinas diarias y la calidad de la atención recibida. Ofrece una variedad de planes de cuidado adaptados a las necesidades específicas de cada adulto mayor y facilita la comunicación con profesionales médicos especializados para abordar cualquier preocupación o pregunta que surja.
+
+    <img src="https://play-lh.googleusercontent.com/5F4DW9HZEA0QDMvItgLlaKbECIsMHXIEGuksqhoS0KaESKIEVkbqxn3piNJr00q-qKE" width="200" height="200">
 ## 2.1.1. Análisis competitivo
 |                       | Competitive Analysis Landsacape                                                          |
 | --------------------- | ---------------------------------------------------------------------------------------- |
