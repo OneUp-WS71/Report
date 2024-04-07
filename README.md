@@ -10,9 +10,13 @@ aplicación permite un acceso rápido a ayuda, lo que puede marcar la diferencia
 
 ## 1.1.2. Perfiles de integrantes del equipo
 
-**Piero Anthony Liberato Susanibar:**
++ **Piero Anthony Liberato Susanibar:**
 Universitario que cursa el 8to ciclo de, teniendo 22 años. En mis ratos libres me pongo a desarrollar un startup, hacer ejercicio, escuchar música, estudiar sobre temas de desarrollo personal y rara vez jugar videojuegos. Para mí la honestidad es uno de los valores más importantes en toda persona, siendo uno de mis valores principales, trabajador, amable y colaborativo. Mis habilidades son sobre todo cognitivas para la programación en React, Next y Flutter, aparte tengo conocimientos de oratoria y crear y pitchear una startup.
 
++ **Cristhian Orosco Orcotuma:** Mi nombre es Cristhian Orosco Orcotuma, estudio la carrera de Ingeniería de Software en la UPC. Me considero una persona detallista, amante de los animales, la música, sobre todo la tecnología y los videojuegos, en el futuro me gustaría crear un videojuego y tener mi propia empresa de videojuegos. Soy un chico al cual le gusta aprender todo tipo de cosas, porque considero que siempre uno debe estar preparado para todo. 
++ Completar 
++ Completar
++ Completar 
 # 1.2. Solution Profile
 
 ## 1.2.1 Antecedentes y problemática
@@ -74,16 +78,81 @@ En el servicio del cuidado del adulto mayor es una actividad que nos afecta indi
 ¿Cómo aseguramos la seguridad del adulto mayor para las personas que las cuidan?
 (Alfredo)
 ### 1.2.2.2. Lean UX Assumptions.
-(cristian y enrique)
+**Business Outcomes**
+1. Buscamos mejorar la calidad de vida y la seguridad de las personas mayores mediante una solución integral de cuidado y seguimiento, lo que puede resultar en una disminución de los incidentes médicos graves y una mayor tranquilidad para los cuidadores.
+
+2. Queremos facilitar la coordinación y comunicación entre miembros de la familia encargados del cuidado de adultos mayores, permitiéndoles compartir información relevante y tomar decisiones informadas de manera conjunta. 
+
+3. Buscamos aumentar la eficiencia del proceso de cuidado de adultos mayores al reducir el tiempo dedicado a tareas administrativas y aumentar el enfoque en la atención directa y el bienestar del adulto mayor.
+
+4. Queremos mejorar la seguridad de los adultos mayores al detectar y responder rápidamente a situaciones de emergencia o riesgo, como caídas, cambios bruscos en la salud o la salida del área designada.
+
+5. El valor principal que un cliente busca es la certeza de que el estado del adulto mayor monitoreado es preciso, confiable, seguro y en tiempo real.
+
+6. Las ganancias se generarán mediante la venta de las pulseras inteligentes vinculadas a la aplicación movil y  web, así como la suscripcion mensual para obtener la informacion de mas personas mayores.
+
+7. Obtendré a mis clientes a través de la promoción del producto en redes sociales como tiktok, facebook, instagram y youtube.
+
+8. Tomaremos ventaja sobre la competencia adaptando  la aplicación a las necesidades y habilidades tecnológicas de nuestro público objetivo, asegurando que el monitoreo en tiempo real sea comprensible y los avisos de problemas sean inmediatos.
+
+ 9. El riesgo con el producto es que la pulsera se desprenda o se dañe, lo que podría impedir la detección oportuna de problemas y la notificación instantánea al cuidador.
+
+10.  Se resolverá mediante un mecanismo de seguridad robusto en la pulsera, junto con pruebas exhaustivas y mejoras iterativas hasta lograr un alto nivel de efectividad.
+
+**User Outcomes**
+1. ¿Quiénes son nuestros usuarios?
+    + Cuidadores de adultos mayores que buscan una solución práctica y efectiva para monitorear la salud y seguridad de sus seres queridos.
+
+    + Familiares de adultos mayores que desean estar informados sobre el bienestar de sus seres queridos y poder actuar rápidamente en caso de emergencia.
+
+2. ¿Dónde encaja nuestro servicio para los usuarios?
+   + Nuestro servicio se integra perfectamente en la vida diaria de los cuidadores, proporcionándoles una herramienta fácil de usar para supervisar el bienestar de los adultos mayores a su cargo.
+
+    + Para los familiares de adultos mayores, nuestro servicio representa una forma de mantenerse conectados y cuidar de sus seres queridos a pesar de las limitaciones de tiempo y distancia.
+
+    + Para los profesionales de la salud, nuestra aplicación les brinda una herramienta adicional para monitorear la salud de sus pacientes y ofrecer un cuidado más personalizado.
+
+3. ¿Qué problemas resuelve nuestro producto?
+    + Simplifica el proceso de cuidado al proporcionar información en tiempo real sobre la salud y la ubicación del adulto mayor.
+
+    + Brinda tranquilidad a los cuidadores al ofrecer un sistema confiable de alerta en caso de emergencia o anomalía en la salud del adulto mayor.
+
+    + Facilita la coordinación entre los cuidadores y otros miembros de la familia, permitiendo una respuesta rápida y efectiva en situaciones de emergencia.
+
+4. ¿Cuándo y cómo es usado nuestro producto?
+
+   + Nuestro producto es utilizado por los cuidadores durante períodos en los que no pueden estar físicamente presentes con el adulto mayor, como durante el trabajo o cuando viajan.
+
+    + Se utiliza a través de una aplicación móvil que permite a los cuidadores monitorear remotamente la salud y la ubicación del adulto mayor en tiempo real.
+
+    + Por los familiares de adultos mayores para mantenerse informados sobre el bienestar de sus seres queridos, incluso cuando no pueden estar presentes físicamente.
+
+5. ¿Qué características son importantes?
+
+    + La precisión y confiabilidad de los datos recopilados por los sensores integrados en la pulsera inteligente.
+    
+    + La facilidad de uso de la aplicación móvil, con una interfaz intuitiva que permita a los usuarios acceder rápidamente a la información relevante.
+
+    + La capacidad de personalización para adaptar el sistema a las necesidades específicas de cada usuario y adulto mayor.
+
+    + La capacidad de personalización es esencial para adaptar el producto a las necesidades específicas de cada usuario y adulto mayor, asegurando así una experiencia de usuario óptima.
+
+6.   ¿Cómo debe verse y comportarse nuestro producto?
+     + La pulsera inteligente debe tener un diseño ergonómico y atractivo que la haga cómoda de llevar durante períodos prolongados.
+
+     +  La aplicación móvil debe tener una interfaz intuitiva y fácil de usar, con características visuales claras y una navegación sencilla.
+
+     +  Es importante que tanto la pulsera como la aplicación transmitan una sensación de seguridad y confianza, tanto en su diseño como en su funcionamiento.
 
 ### 1.2.2.3. Lean UX Hypothesis Statements.
-(cristian y enrique)
+(Enrique)
 
 
 ### 1.2.2.4. Lean UX Canvas.
 (cristian y enrique)
 El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que
 tratamos de resolver, así como tener más claro nuestro modelo de negocio.
+[Canvas LINK ](https://docs.google.com/presentation/d/1I53KZ_e-K7dpT-oVvup2YSNQh47FEEui/edit#slide=id.p1 )
 
 
 # 1.3. Segmentos objetivo.
