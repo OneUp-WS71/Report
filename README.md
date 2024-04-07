@@ -54,6 +54,22 @@
 
 ## 2.2.1. Diseño de entrevistas
 
+Segmento principal: Familiares
+
+1.	¿Cuál es tu nombre? ¿Cuál es tu edad?
+2.	¿Estudias o trabajas?
+3.	¿Cuántas horas al día estás alejado de tu hogar?
+4.	¿Quién es la persona a la que estás cuidando o supervisando? ¿Cuántos años tiene?
+5.	¿Esta persona cuenta con alguna discapacidad?
+6.	¿Tienes alguien que te pueda ayudar? ¿Estas personas también tienen trabajos o estudios qué atender?
+7.	Cuénteme sobre algún incidente que haya ocurrido con la persona que está cuidando.
+8.	¿Qué tipo de tecnología usa frecuentemente? Algo así como celular, laptop o televisión.
+*Luego de las preguntas anteriores, se le resume el proyecto*
+9.	¿Qué opina del proyecto? ¿Le gustó la propuesta?
+10.	¿Ha oído de alguna propuesta similar?
+11.	Cuéntenos de alguna sugerencia o añadido que le gustaría ver en la propuesta.
+
+
 ## 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas.
