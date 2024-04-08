@@ -72,7 +72,41 @@ Segmento principal: Familiares
 
 ## 2.2.2. Registro de entrevistas
 
-### 2.2.3. Análisis de entrevistas.
+
+### Segmento: Cuidadores
+
+**Nombre y Apellidos :** Raquel Lili Melany Romero Martinez <br>
+**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 24 años <br>
+**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
+<!---
+<img src="..\Assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+-->
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://www.google.com/) Al minuto xx:xx <br>
+
+Raquel es una estudiante de medicina que está alrededor de 5 o 6 horas al día fuera de su domicilio.<br>
+Actualmente está cuidando de su abuelo, que tiene 85 años y tiene problemas de movilidadad.<br>
+Mientras conversaba con ella, se puede notar un tanto de melancolía al pensar en la situación de<br>
+su padre, especialmente por su dificultad en moverse o levantarse de la cama. A pesar de estos<br>
+problemas de movilidad, él siempre encuentra como escaparse.<br>
+Raquel usa más frecuentemente su celular Android y su laptop, y su principal navegador de uso es Google Chrome.<br>
+
+**Nombre y Apellidos :** Norma Ismary Martinez Lozano <br>
+**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 51 años <br>
+**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
+<!---
+<img src="..\Assets\Screeshot_Norma_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+-->
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://www.google.com/) Al minuto xx:xx <br>
+
+Norma es una profesora de primaria, que se mantiene trabajando 8 horas, que se acumulan con otras actividades por lo que<br>
+no puede mantenerse mucho tiempo en su domicilio. La persona a su cuidado es su madre, la cual tiene presión alta<br>
+y varias enfermedades degenerativas que han estado bajando su calidad de vida. Norma parece muy enfocada en que siempre<br>
+exista alguien presente al lado de su madre para que la cuide en caso que algún incidente le ocurra para ella.<br>
+Norma utiliza mayormente su celular, su laptop y una cámara que tiene en el centro de la sala para vigilar a su<br>
+madre, y hablar con ella.<br>
+Norma tiene un celular android y su explorador principal es Google Chrome.<br>
+
+## 2.2.3. Análisis de entrevistas.
 
 # 2.3. Needfinding
 
