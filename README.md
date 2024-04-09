@@ -146,13 +146,6 @@ En el servicio del cuidado del adulto mayor es una actividad que nos afecta indi
 
 ### 1.2.2.3. Lean UX Hypothesis Statements.
 (Enrique)
-          + Creemos que si nuestra solución integral de cuidado y seguimiento mejora la calidad de vida y seguridad de los adultos mayores.Entonces veremos una disminución en los incidentes médicos graves y una mayor tranquilidad para los cuidadores.
-
-        + Creemos que si nuestra plataforma permite a los miembros de la familia compartir información relevante y tomar decisiones informadas de manera conjunta sobre el cuidado de los adultos mayores,Entonces veremos una mejora en la coordinación y comunicación entre los cuidadores familiares, lo que resultará en un cuidado más efectivo.
-
-        + Creemos que si nuestra solución reduce el tiempo dedicado a tareas administrativas y aumenta el enfoque en la atención directa y el bienestar de los adultos mayores,Entonces observaremos una mejora en la eficiencia del proceso de cuidado, liberando tiempo y recursos para una atención más personalizada
-  
-
 ### 1.2.2.4. Lean UX Canvas.
 (cristian y enrique)
 El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que
