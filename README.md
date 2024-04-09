@@ -16,7 +16,14 @@ Universitario que cursa el 8to ciclo de, teniendo 22 años. En mis ratos libres 
 + **Cristhian Orosco Orcotuma:** Estudio la carrera de Ingeniería de Software en la UPC. Me considero una persona detallista, amante de los animales, la música, sobre todo la tecnología y los videojuegos, en el futuro me gustaría crear un videojuego y tener mi propia empresa de videojuegos. Soy un chico al cual le gusta aprender todo tipo de cosas, porque considero que siempre uno debe estar preparado para todo. 
 
     ![Cristhian](/assets/profileCristhian.png)
-+ Completar 
+
++ **Anthony Samir Nuñez Martinez:** <br>
+Estudiante de Ingeniería de Software de 19 años en la Universidad Peruana de Ciencias y Tecnología, nacido el 15 de julio del 2004.<br>
+Me gusta la música punk y desarrollo videojuegos en mi tiempo libre. Me gusta resolver problemas y buscar soluciones creativas o únicas a las cosas, inclusive cuando no es la forma más eficiente de hacerla, y soy una persona muy obsecionada con la puntualidad.
+
+    <img src="assets\profileAnthony.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+
 + Completar
 + Completar 
 # 1.2. Solution Profile
