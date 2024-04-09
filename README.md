@@ -126,11 +126,121 @@ Ante la diferenciación la competencia dijo que serian los relojos pero algo que
 
 ## 2.3.1. User Personas
 
+A continuación, se construirán los User Persona de cada segmento objetivo de nuestra plataforma. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas.
+
+**User Persona – Cuidador de adulto mayor en minorias.**
+
+![](Assets/UserPersonaMinorias.png)
+
+**User Persona – Cuidador de adulto mayor en mayorias.**
+
+![](Assets/UserPersonaMayorias.png)
+
 ## 2.3.2. User Task Matrix
+
+**User Persona – Cuidador de adulto mayor en minorias.**
+
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>User Task Matrix&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="2">&nbsp;&nbsp;&nbsp;<br>Luisa Costa&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Frecuencia&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Importancia&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Monitorear signos vitales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Comunicarse con familiares y&nbsp;&nbsp;&nbsp;otros profesionales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Mantener registros y&nbsp;&nbsp;&nbsp;documentación&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Administrar medicamentos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Facilitar actividades&nbsp;&nbsp;&nbsp;recreativas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+**User Persona – Cuidador de adulto mayor en mayorias.**
+
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>User Task Matrix&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="2">   <br>Ana Contreras</th>
+  </tr>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Frecuencia&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Importancia&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Monitorear signos vitales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Comunicarse con familiares y&nbsp;&nbsp;&nbsp;otros profesionales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Mantener registros y&nbsp;&nbsp;&nbsp;documentación&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Administrar medicamentos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Facilitar actividades&nbsp;&nbsp;&nbsp;recreativas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 ## 2.3.3. User Journey Mapping
 
+**User Journey Mapping – Cuidador de adulto mayor en minorias.**
+
+![](Assets/JourneyMapMinorias.png)
+
+**User Journey Mapping – Cuidador de adulto mayor en mayorias.**
+
+![](Assets/JourneyMapMayorias.png)
+
 ## 2.3.4. Empathy Mapping
+
+**Empathy Mapping – Cuidador de adulto mayor en minorias.**
+
+![](Assets/EmpathyMapMinorias.png)
+
+**Empathy Mapping – Cuidador de adulto mayor en mayorias.**
+
+![](Assets/EmpathyMapMayorias.png)
 
 ## 2.3.5. As-is Scenario Mapping
 
