@@ -120,4 +120,6 @@ Norma tiene un celular android y su explorador principal es Google Chrome.<br>
 
 ## 2.3.5. As-is Scenario Mapping
 
+<img src="Assets\AsIs.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+
 # 2.4. Ubiquitous Language
