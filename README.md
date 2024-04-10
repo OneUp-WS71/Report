@@ -79,7 +79,7 @@ Segmento principal: Familiares
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 24 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
 
-<img src="Assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 22:53 <br>
 
@@ -94,7 +94,7 @@ Raquel usa más frecuentemente su celular Android y su laptop, y su principal na
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 51 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
 
-<img src="Assets\Screeshot_Norma_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Screeshot_Norma_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 30:57 <br>
 
@@ -110,7 +110,7 @@ Norma tiene un celular android y su explorador principal es Google Chrome.<br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 23 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Huaral, Lima <br>
 
-<img src="Assets\EntrevistadoJordi.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\EntrevistadoJordi.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 00:00 <br>
 
@@ -119,6 +119,16 @@ Lo importante a realizar a un abuelo es que no les genere ulceras por presión, 
 En caso de que los abuelos quieran irse es una constante cuando se les saca de paseo, ya que necesitan estimulación tanto fisica como mental. <br>
 En caso del producto es necesario para los pacientes de hipertensión, ya que es necesario revisar su presión o que tomen sus pastillas a tiempo, sino podrian caer en un taquicardia o un paro cardiaco. En estos casos es una revisión cada 8 horas o 3 veces al dia. <br>
 Ante la diferenciación la competencia dijo que serian los relojos pero algo que no tienen es la presión, eso seria relevante<br>
+
+**Nombre y Apellidos :** Maryfe Pamela Cortez Menguay <br>
+**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 26 años <br>
+**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Callao, Lima <br>
+
+![Maryfe](assets/EntrevistaCristhian.png)
+
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Entrevista de Cristhian](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 13:43 <br>
+
+Maryfe es una enfermera 
 
 ## 2.2.3. Análisis de entrevistas.
 
