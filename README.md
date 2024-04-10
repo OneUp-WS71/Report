@@ -79,7 +79,7 @@ Segmento principal: Familiares
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 24 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
 
-<img src="assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 22:53 <br>
 
@@ -94,7 +94,7 @@ Raquel usa más frecuentemente su celular Android y su laptop, y su principal na
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 51 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
 
-<img src="assets\Screeshot_Norma_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Screeshot_Norma_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 30:57 <br>
 
@@ -110,7 +110,7 @@ Norma tiene un celular android y su explorador principal es Google Chrome.<br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 23 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Huaral, Lima <br>
 
-<img src="assets\EntrevistadoJordi.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\EntrevistadoJordi.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 00:00 <br>
 
@@ -120,15 +120,19 @@ En caso de que los abuelos quieran irse es una constante cuando se les saca de p
 En caso del producto es necesario para los pacientes de hipertensión, ya que es necesario revisar su presión o que tomen sus pastillas a tiempo, sino podrian caer en un taquicardia o un paro cardiaco. En estos casos es una revisión cada 8 horas o 3 veces al dia. <br>
 Ante la diferenciación la competencia dijo que serian los relojos pero algo que no tienen es la presión, eso seria relevante<br>
 
-**Nombre y Apellidos :** Maryfe Pamela Cortez Menguay <br>
-**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 26 años <br>
-**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Callao, Lima <br>
+**Nombre y Apellidos :** Jonatan Curi 
 
-![Maryfe](assets/EntrevistaCristhian.png)
+**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 22 años 
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Entrevista de Cristhian](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 13:43 <br>
+**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Carabayllo, Lima 
 
-Maryfe es una enfermera 
+![](Assets/Entrevista_Jonatan.png)
+
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 07:30 
+
+Jonatan, estudiante de la UPC, enfrenta el desafío de equilibrar sus estudios con el cuidado especializado de un familiar de edad avanzada. Aunque se compromete con esta responsabilidad debido a su estrecha relación con su ser querido, reconoce las limitaciones de tiempo que le impone. 
+
+Jonatan sugiere mejoras para facilitar su situación, como la flexibilización de horarios académicos y el acceso a recursos de apoyo para estudiantes en circunstancias similares. Su experiencia resalta la importancia de considerar las necesidades de aquellos que enfrentan responsabilidades de cuidado familiar mientras persiguen sus objetivos educativos.
 
 ## 2.2.3. Análisis de entrevistas.
 
@@ -136,11 +140,121 @@ Maryfe es una enfermera
 
 ## 2.3.1. User Personas
 
+A continuación, se construirán los User Persona de cada segmento objetivo de nuestra plataforma. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas.
+
+**User Persona – Cuidador de adulto mayor en minorias.**
+
+![](Assets/UserPersonaMinorias.png)
+
+**User Persona – Cuidador de adulto mayor en mayorias.**
+
+![](Assets/UserPersonaMayorias.png)
+
 ## 2.3.2. User Task Matrix
+
+**User Persona – Cuidador de adulto mayor en minorias.**
+
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>User Task Matrix&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="2">&nbsp;&nbsp;&nbsp;<br>Luisa Costa&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Frecuencia&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Importancia&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Monitorear signos vitales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Comunicarse con familiares y&nbsp;&nbsp;&nbsp;otros profesionales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Mantener registros y&nbsp;&nbsp;&nbsp;documentación&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Administrar medicamentos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Facilitar actividades&nbsp;&nbsp;&nbsp;recreativas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+**User Persona – Cuidador de adulto mayor en mayorias.**
+
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>User Task Matrix&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="2">   <br>Ana Contreras</th>
+  </tr>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Frecuencia&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Importancia&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Monitorear signos vitales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Comunicarse con familiares y&nbsp;&nbsp;&nbsp;otros profesionales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Mantener registros y&nbsp;&nbsp;&nbsp;documentación&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Administrar medicamentos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Facilitar actividades&nbsp;&nbsp;&nbsp;recreativas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 ## 2.3.3. User Journey Mapping
 
+**User Journey Mapping – Cuidador de adulto mayor en minorias.**
+
+![](Assets/JourneyMapMinorias.png)
+
+**User Journey Mapping – Cuidador de adulto mayor en mayorias.**
+
+![](Assets/JourneyMapMayorias.png)
+
 ## 2.3.4. Empathy Mapping
+
+**Empathy Mapping – Cuidador de adulto mayor en minorias.**
+
+![](Assets/EmpathyMapMinorias.png)
+
+**Empathy Mapping – Cuidador de adulto mayor en mayorias.**
+
+![](Assets/EmpathyMapMayorias.png)
 
 ## 2.3.5. As-is Scenario Mapping
 
