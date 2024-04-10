@@ -301,3 +301,12 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 <img src="Assets\AsIs.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 # 2.4. Ubiquitous Language
+(colocar 2 cada uno )
++ **Pulsera Inteligente:**  
+Se refiere al dispositivo wearable que se utilizará para recopilar datos biométricos y de ubicación del adulto mayor en tiempo real.
+
++ **Cuidador:**     
+  Persona responsable del cuidado y atención del adulto mayor, puede ser un familiar o un profesional de la salud.
+
++ **Ubicación en Tiempo Real:**     
+  Capacidad de rastrear la ubicación exacta del adulto mayor en todo momento, proporcionando tranquilidad al cuidador y permitiendo una respuesta rápida en caso de emergencia.
