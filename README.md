@@ -54,7 +54,7 @@
 
 ## 2.2.1. Diseño de entrevistas
 
-Segmento principal: Familiares
+Segmento principal: Cuidadores de adultos mayores 
 
 1.	¿Cuál es tu nombre? ¿Cuál es tu edad?
 2.	¿Estudias o trabajas?
@@ -72,9 +72,10 @@ Segmento principal: Familiares
 
 ## 2.2.2. Registro de entrevistas
 
+En esta sección se presenta la información recolectada en las entrevistas realizadas a los usuarios de los segmentos objetivo.
 
 ### Segmento: Cuidadores
-
+ 
 **Nombre y Apellidos :** Raquel Lili Melany Romero Martinez <br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 24 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
@@ -142,10 +143,27 @@ Jonatan sugiere mejoras para facilitar su situación, como la flexibilización d
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Entrevista de Cristhian](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 13:43 <br>
 
-Maryfe es una enfermera .....................
+Maryfe es una enfermera que cuida a una paciente mayor con diversas complicaciones de salud, incluyendo fibrosis pulmonar. Maryfe trabaja junto a otra persona para atender las necesidades de la paciente las 24 horas del día. La paciente es dependiente de sus cuidadores debido a su condición médica y no puede caminar ni alimentarse sola.
+Maryfe no observa ninguna discapacidad adicional en la paciente aparte de sus problemas de salud. Ella utiliza principalmente su teléfono celular para tecnología y encuentra interesante el proyecto, que propone una aplicación móvil y una pulsera inteligente para monitorear a adultos mayores. Sugiere que la aplicación también registre la frecuencia cardíaca, ya que es un indicador importante de la salud del paciente. 
 
 ## 2.2.3. Análisis de entrevistas.
+De acuerdo a las entrevistas realizadas, los cuidadores de adultos mayores hacen uso de la tecnologia, se observa que los dispositivos que utilizan principalmente son las computadoras, laptops asi como los celulares. 
 
+![Dispositivos](Assets/Dispositivos.png)
+
+De la misma manera, se observa que los cuidadores de adultos mayores utilizan en su mayoria marcas de celulares con el sistema operativo Android.
+
+![Marcas](Assets/Marcas.png)
+
+La mayoría de los entrevistados muestra interés y aceptación hacia el proyecto propuesto de una aplicación móvil y pulsera inteligente para el monitoreo de adultos mayores.
+
+![Uso](Assets/Uso.png)
+
+En cuanto a los navegadores web, los cuidadores de adultos mayores utilizan principalmente Google Chrome.
+
+![Navegadores](Assets/navegadorWeb.png)
+
+Asimismo, se destaca la importancia del monitoreo de diferentes aspectos de la salud de los adultos mayores, como la presión arterial y la frecuencia cardíaca. Los entrevistados resaltan la relevancia de incluir estos parámetros en la aplicación móvil y la pulsera inteligente para proporcionar un monitoreo integral de la salud de los pacientes. 
 # 2.3. Needfinding
 
 ## 2.3.1. User Personas
