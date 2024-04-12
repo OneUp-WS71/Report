@@ -8,6 +8,39 @@
 
 ### 4.1.1.2 Domain Message Flows Modeling.
 
+### Leyenda 
+<img src="Assets\DMFM_Leyenda.jpg" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### Scenario: Inicio de sesión (Móvil).
+<img src="Assets\DMFM_ScenarioInicioSesionMobile.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### Scenario: Inicio de sesión (Web).
+<img src="Assets\DMFM_ScenarioInicioSesionWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### Scenario: Registro de usuario (Móvil).
+<img src="Assets\DMFM_ScenarioRegistroMobile.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### Scenario: Registro de usuario (Web).
+<img src="Assets\DMFM_ScenarioRegistroWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### Scenario: Visualización de datos de la pulsera en la aplicación (Móvil).
+<img src="Assets\DMFM_ScenarioVisualizacionDatosMobile.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### Scenario: Visualización de datos de la pulsera en la aplicación (Web).
+<img src="Assets\DMFM_ScenarioVisualizacionDatosWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### Scenario: Visualización de datos del historial médico del adulto mayor (Web).
+<img src="Assets\DMFM_ScenarioVisualizacionHistorialWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### Scenario: Recordatorio de Cita médica activada.
+<img src="Assets\DMFM_ScenarioRecordatorioCitaMed.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### Scenario: Recordatorio sobre consumo de medicina activada.
+<img src="Assets\DMFM_ScenarioRecordatorioMedicina.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### Scenario: Alarma de Emergencia activada.
+<img src="Assets\DMFM_ScenarioAlarmaEmergencia.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
 ### 4.1.1.3 Bounded Context Canvases.
 
 ## 4.1.2. Context Mapping
