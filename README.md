@@ -48,11 +48,12 @@
 ## 4.1.3. Software Architecture.
 
 ### 4.1.3.1. Software Architecture System Landscape Diagram.
+<img src="Assets\landscape.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### 4.1.3.2. Software Architecture Context Level Diagrams.
-
+<img src="Assets\Context.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 ### 4.1.3.2. Software Architecture Container Level Diagrams.
-
+<img src="Assets\container.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 ### 4.1.3.3. Software Architecture Deployment Diagrams.
 
 # 4.2. Tactical-Level Domain-Driven Design
