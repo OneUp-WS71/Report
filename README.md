@@ -57,20 +57,125 @@
 
 # 4.2. Tactical-Level Domain-Driven Design
 
-## 4.2.X. Bounded Context:
+## 4.2.1. Bounded Context: Device
+Este bounded context abarca todas las funcionalidades relacionadas con la pulsera de monitoreo. Incluye la gestión de sensores, recolección y envío de datos, así como la sincronización con la aplicación móvil y web.
 
-### 4.2.X.1. Domain Layer.
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr" colspan="2">Nombre</th>
+    <th class="tg-0pky" colspan="2">Device</th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fymr" colspan="2">Descripción</td>
+    <td class="tg-0pky" colspan="2">Representa el dispositivo de monitoreo(pulsera)</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr" colspan="2">Atributos</td>
+    <td class="tg-fymr" colspan="2">Relaciones</td>
+    <td class="tg-fymr" rowspan="2">Metodos</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Nombre</td>
+    <td class="tg-1wig">Tipo de dato</td>
+    <td class="tg-1wig">Tipo</td>
+    <td class="tg-1wig">Clases/Enums</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">deviceID</td>
+    <td class="tg-0lax">String</td>
+    <td class="tg-0lax">Composicón</td>
+    <td class="tg-0lax">BatteryDevice</td>
+    <td class="tg-0lax">connect()</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">deviceName</td>
+    <td class="tg-0lax">String</td>
+    <td class="tg-0lax">Composición</td>
+    <td class="tg-0lax">LocationSensor</td>
+    <td class="tg-0lax">disconnect()</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">deviceType</td>
+    <td class="tg-0lax">String</td>
+    <td class="tg-0lax">Agregación</td>
+    <td class="tg-0lax">DataManager</td>
+    <td class="tg-0lax">activate()</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">bateryDevice</td>
+    <td class="tg-0lax">BatteryDevice</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">deactivate()</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">locationSensor</td>
+    <td class="tg-0lax">LocationSensor</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">sendData()</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">dataManager</td>
+    <td class="tg-0pky">DataManager</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">updateBatteryStatus()</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">lastConnectionTime</td>
+    <td class="tg-0lax">Date</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">visualizeData()</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">isConnected</td>
+    <td class="tg-0lax">boolean</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">processData()</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">isActive</td>
+    <td class="tg-0lax">boolean</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 
-### 4.2.X.2. Interface Layer.
+### 4.2.1.1. Domain Layer.
 
-### 4.2.X.3. Application Layer.
+### 4.2.1.2. Interface Layer.
 
-### 4.2.X.4. Infrastructure Layer.
+### 4.2.1.3. Application Layer.
 
-### 4.2.X.6. Bounded Context Software Architecture Component Level Diagrams.
+### 4.2.1.4. Infrastructure Layer.
 
-### 4.2.X.7. Bounded Context Software Architecture Code Level Diagrams.
+### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams.
 
-#### 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams.
+### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams.
 
-#### 4.2.X.7.2. Bounded Context Database Design Diagram.
+#### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams.
+A continuación, presentamos el diagrama de clases del dominio considerado para el Device.
+
+![Device Domain Layer Class Diagram](Assets\Device_ClassDiagram.png)
+#### 4.2.1.7.2. Bounded Context Database Design Diagram.
