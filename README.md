@@ -907,9 +907,116 @@ A continuación, presentamos el diagrama de clases del dominio considerado para 
 
 #### 4.2.3.7.2. Bounded Context Database Design Diagram.
 
+
+
 A continuación, presentamos el diagrama de base de datos considerado para el DevicePurchaseContext.
 
 ![](Assets/clases_alfredo_2.png)
 
 
-## 4.2.4. Bounded Context: Elderly Profile
+
+
+4\.2.4. Bounded Context: Elderly Profile
+
+<img src="Assets\boundedcontext1.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+(Aspose.Words.2227f55b-24bb-45df-ae5a-5d64f316230e.001.png)
+
+
+<img src="Assets\boundedcontext2.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+
+<img src="Assets\boundedcontext3.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+<img src="Assets\boundedcontext4.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+<img src="Assets\boundedcontext5.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+<img src="Assets\boundedcontext6.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+
+4\.2.4.1. Domain Layer. 
+
+Se identificó que una clase que es parte del core del negocio es la clase Elderly Adult, la cual es la cual es la persona que es cuidada por el usuario. Las reglas de negocio, es que  el usuario registra a su cuidado al Elderly Adult donde  registra su información a excepción de la fecha de inicio que se autogenera con la fecha en la que se agrega.
+
+**Entidades:**
+
+- ElderlyAdult **(Agregate)**: Es la representación de un adulto mayor que necesita cuidados.
+
+**Value Objects:**
+
+- ElderlyAdultId **(Agregate)**: Es la representación del adulto mayor que necesita cuidados.
+- UserId **(Agregate)**: Es la representación del identificador del cuidador del ElderlyAdult.
+- Time: Es la representación del tiempo que cuidara al ElderlyAdult.
+
+**Enums:**
+
+- Availability **(Agregate)**: Es la representación de la disposición que tiene el usuario con el Elderly Adult
+- Experience: Es la representación de la experiencia mínima necesaria para aplicar al cuidado del ElderlyAdult
+- Userinfo: Es la representación de la información del usuario cuidador.
+
+**Interfaces:**
+
+- ElderlyAdultRepository: interfaz de la clase ElderlyAdultRepository, ayuda a mantener un bajo acoplamiento
+
+<img src="Assets\boundedcontext7.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+- IElderlyAdultServices: interfaz de la clase IElderlyAdultService, ayuda a mantener un bajo acoplamiento.
+
+<img src="Assets\boundedcontext8.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+<img src="Assets\boundedcontext9.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+4\.2.4.2. Interface Layer. 
+
+En esta sección se presentan las interfaces serán consumidas por la aplicación cliente para realizar cambios relacionados al estado de salud del ElderlyAdult.
+
+- **IElderlyAdultController:**
+
+ <img src="Assets\boundedcontext10.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+Define las funciones que reciben las solicitudes relacionadas al cuidado de ElderlyAdult.
+**
+
+**
+
+
+4\.2.4.3. Application Layer.
+
+En esta sección presentamos los commandHandlers y EventHandlers encargados de manejar los comandos y eventos respectivos tras las solicitudes realizadas a las implementaciones de las interfaces del ítem anterior.
+
+- **RegisterElderAdultCommandHandler**: Maneja el comando de registrar Adultos mayores
+- **ElderAdultRegisteredEventHandler**: Maneja el evento de registro de un Adulto mayor
+
+4\.2.4.4. Infrastructure Layer. 
+
+En esta sección presentamos las clases que se encargan de conectar con servicios externos:
+
+- **ElderlyAdultRegisterRepository**: establece la conexión del componente Offer con la base de datos, permitiendo el intercambio de datos entre ambas partes
+- **ElderlyAdultRegisterMailService**: establece la conexión con el sistema de emails notifications.
+
+4\.2.4.6. Bounded Context Software Architecture Component Level Diagrams. 
+
+A continuación, presentamos el component level diagram considerado para el ElderlyAdultOfferContext.
+
+<img src="Assets\boundedcontext11.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+4\.2.4.7. Bounded Context Software Architecture Code Level Diagrams. 
+
+4\.3.4.7.1. Bounded Context Domain Layer Class Diagrams.
+
+` `A continuación, presentamos el diagrama de clases del dominio considerado para el ElderlyAdultContext.
+
+<img src="Assets\boundedcontext12.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+4\.3.4.7.2. Bounded Context Database Design Diagram. 
+
+A continuación, presentamos el diagrama de base de datos considerado para el ElderlyAdultRegisterContext.
+
+<img src="Assets\boundedcontext13.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+
