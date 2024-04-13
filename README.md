@@ -23,6 +23,10 @@ Me gusta la música punk y desarrollo videojuegos en mi tiempo libre. Me gusta r
 
     <img src="assets\profileAnthony.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
++ **Enrique Aldhair Llatas Flores:** <br>
+Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 7mo ciclo de la carrera de Ingeniería de Software  tengo habilidades en frontend y backend, también cuento con conocimiento en margenes ágiles y otros lenguajes como C++ y C#. Espero seguir aumentando mis conocimientos durante este ciclo.En mis tiempos libres me gusta investigar sobre margenes agiles ,jugar  y hacer ejercicio.Me gusta escuchar rock
+
+  <img src="assets\enrique.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 + Completar
 + Completar 
