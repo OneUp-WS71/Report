@@ -603,17 +603,7 @@ Se refiere al dispositivo wearable que se utilizará para recopilar datos biomé
 ## 4.2.1. Bounded Context: Device
 Este bounded context abarca todas las funcionalidades relacionadas con la pulsera de monitoreo. Incluye la gestión de sensores, recolección y envío de datos, así como la sincronización con la aplicación móvil y web.
 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -956,7 +946,7 @@ A continuación, presentamos el diagrama de clases del dominio considerado para 
 ![Device Domain Layer Class Diagram](/Assets/Device_ClassDiagram.png)
 #### 4.2.1.7.2. Bounded Context Database Design Diagram.
 
-![Device Database Design Diagram](/assets/Database_Device.png)
+![Device Database Design Diagram](/Assets/Database_Device.png)
 
 ## 4.2.2. Bounded Context: Reminder
 
