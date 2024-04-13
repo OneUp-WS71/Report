@@ -24,8 +24,9 @@ Me gusta la música punk y desarrollo videojuegos en mi tiempo libre. Me gusta r
     <img src="assets\profileAnthony.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 
-+ Completar
-+ Completar 
++ **Alfredo Farro Caballero:**
+Soy Alfredo Farro, actualmente me encuentro cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me considero una persona con gran potencial para trabajar en grupo, ya que siempre buscó entregar todo a tiempo. 
+
 # 1.2. Solution Profile
 
 ## 1.2.1 Antecedentes y problemática
