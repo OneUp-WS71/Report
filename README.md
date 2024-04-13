@@ -385,10 +385,26 @@ Se identificó que la única clase que es parte del core del negocio es la clase
 **Interfaces**
 + DeviceRepository: Interfaz para la gestión de datos. 
 ### 4.2.1.3. Application Layer.
+En esta sección se presentan las interfaces serán consumidas por la aplicación cliente para realizar cambios relacionados a los datos de la pulsera.
+
++ DeviceController: Define las funciones que serán consumidos por la aplicación cliente para realizar cambios relacionados a los datos de la pulsera.
+
+**Aplicacition Layer**
+En esta sección presentamos los commandHandlers y EventHandlers encargados de manejar los comandos y eventos respectivos tras las solicitudes realizadas a las implementaciones de las interfaces del ítem anterior.
++ CreateDeviceCommandHandler: Maneja el comando de crear un nuevo dispositivo.
++ DeviceCreatedEventHandler: Maneja el evento de creación de un nuevo dispositivo.
 
 ### 4.2.1.4. Infrastructure Layer.
+En esta sección presentamos las clases que se encargan de conectar con servicios externos:
+
++ LocationServiceProvider: Proveedor de servicios externos para obtener datos de ubicación.
+
++ NotificationServiceProvider: Proveedor de servicios externos para enviar notificaciones
+
 
 ### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams.
+A continuación, presentamos el component level diagram considerado para el Device.
+
 
 ### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams.
 
@@ -398,7 +414,7 @@ A continuación, presentamos el diagrama de clases del dominio considerado para 
 ![Device Domain Layer Class Diagram](Assets\Device_ClassDiagram.png)
 #### 4.2.1.7.2. Bounded Context Database Design Diagram.
 
-
+![Device Database Design Diagram](Assets\Database_Device.png)
 
 ## 4.2.2. Bounded Context: Reminder
 
