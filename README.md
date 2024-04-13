@@ -159,16 +159,17 @@ En el servicio del cuidado del adulto mayor es una actividad que nos afecta indi
      +  Es importante que tanto la pulsera como la aplicación transmitan una sensación de seguridad y confianza, tanto en su diseño como en su funcionamiento.
 
 ### 1.2.2.3. Lean UX Hypothesis Statements.
-(Enrique)
+
 +  Creemos que si nuestra solución integral de cuidado y seguimiento mejora la calidad de vida y seguridad de los adultos mayores.Entonces veremos una disminución en los incidentes médicos graves y una mayor tranquilidad para los cuidadores.
 +  Creemos que si nuestra plataforma permite a los miembros de la familia compartir información relevante y tomar decisiones informadas de manera conjunta sobre el cuidado de los adultos mayores,Entonces veremos una mejora en la coordinación y comunicación entre los cuidadores familiares, lo que resultará en un cuidado más efectivo.
 +  Creemos que si nuestra solución reduce el tiempo dedicado a tareas administrativas y aumenta el enfoque en la atención directa y el bienestar de los adultos mayores,Entonces observaremos una mejora en la eficiencia del proceso de cuidado, liberando tiempo y recursos para una atención más personalizada
 
 ### 1.2.2.4. Lean UX Canvas.
-(cristian y enrique)
+
 El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que
 tratamos de resolver, así como tener más claro nuestro modelo de negocio.
-[Canvas LINK ](https://docs.google.com/presentation/d/1I53KZ_e-K7dpT-oVvup2YSNQh47FEEui/edit#slide=id.p1 )
+
+![Canvas LINK ](/assets//LeanUxCanvas.png) 
 
 
 # 1.3. Segmentos objetivo.
@@ -952,10 +953,10 @@ A continuación, presentamos el component level diagram considerado para el Devi
 #### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams.
 A continuación, presentamos el diagrama de clases del dominio considerado para el Device.
 
-![Device Domain Layer Class Diagram](Assets\Device_ClassDiagram.png)
+![Device Domain Layer Class Diagram](/Assets/Device_ClassDiagram.png)
 #### 4.2.1.7.2. Bounded Context Database Design Diagram.
 
-![Device Database Design Diagram](Assets\Database_Device.png)
+![Device Database Design Diagram](/assets/Database_Device.png)
 
 ## 4.2.2. Bounded Context: Reminder
 
