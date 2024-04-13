@@ -366,10 +366,24 @@ Este bounded context abarca todas las funcionalidades relacionadas con la pulser
   </tr>
 </tbody>
 </table>
+
 ### 4.2.1.1. Domain Layer.
+Se identificó que la única clase que es parte del core del negocio es la clase Device, la cual es la representacion la pulsera en el sistema de monitoreo. Las reglas de negocio, es que la pulsera debe tener un sensor de localización y un sensor de batería como tambien sensores para los diferentes datos que se va a obtener como la temperatura, ritmo cardiaco, etc. Los datos siempre se van a gestionar cuando la pulsera este conectada a la aplicación móvil y este conectada con internet.
 
 ### 4.2.1.2. Interface Layer.
+**Entites**
++ Device: Representa el dispositivo de monitoreo(pulsera)
 
+**Value Objects**
++ BatteryLevel: Representa el nivel de la batería de un dispositivo.
++ Location: Representa la ubicación geográfica de un dispositivo.
+
+**Enums**
++ SensorType: Enumera los tipos de sensores disponibles.
+**Factories**
++ DeviceFactory: Fabrica para crear instancias de dispositivos.
+**Interfaces**
++ DeviceRepository: Interfaz para la gestión de datos. 
 ### 4.2.1.3. Application Layer.
 
 ### 4.2.1.4. Infrastructure Layer.
@@ -880,3 +894,6 @@ A continuación, presentamos el diagrama de clases del dominio considerado para 
 A continuación, presentamos el diagrama de base de datos considerado para el DevicePurchaseContext.
 
 ![](Assets/clases_alfredo_2.png)
+
+
+## 4.2.4. Bounded Context: Elderly Profile
