@@ -3,6 +3,7 @@
 # 4.1. Strategic-Level Domain-Driven Design.
 
 ## 4.1.1. EventStorming.
+<img src="Assets\EventStorming.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### 4.1.1.1 Candidate Context Discovery.
 
