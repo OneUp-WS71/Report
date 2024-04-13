@@ -496,3 +496,6 @@ A continuación se les presentan las clases encargadas de conectar el Frontend c
 
 <img src="Assets\Reminder_DatabaseDiagram.png" style="width: 50%; padding-top: 12px;padding-bottom: 12px;">
 
+
+
+## 4.2.4. Bounded Context: Elderly Profile
