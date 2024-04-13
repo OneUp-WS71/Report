@@ -162,6 +162,209 @@ Este bounded context abarca todas las funcionalidades relacionadas con la pulser
 </tbody>
 </table>
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Nombre</th>
+    <th class="tg-0pky" colspan="2">BatteryDevice</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Descripcion</td>
+    <td class="tg-0pky" colspan="2">Representa el nivel de batería de la pulsera </td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="2">Atributos </td>
+    <td class="tg-0pky" rowspan="2">Metodos</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nombre</td>
+    <td class="tg-0pky">Tipo de dato</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">batteryLevel</td>
+    <td class="tg-0lax">int</td>
+    <td class="tg-0lax">getBatteryLevel()</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">setBatteryLevel()</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Nombre</th>
+    <th class="tg-0pky" colspan="4">DataManager</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Descripcion</td>
+    <td class="tg-0pky" colspan="4">Representa la gestión de los datos del sensor</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="2">Atributos </td>
+    <td class="tg-c3ow" rowspan="2">Metodos</td>
+    <td class="tg-baqh" colspan="2" rowspan="2">Relaciones</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nombre</td>
+    <td class="tg-0pky">Tipo de dato</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">sensor</td>
+    <td class="tg-0pky">Sensor</td>
+    <td class="tg-0pky">removeSensor()</td>
+    <td class="tg-0lax">Sensor</td>
+    <td class="tg-0lax">Agregación</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">getSensors()</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">getData(String)</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">generateReport()</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Nombre</th>
+    <th class="tg-0pky" colspan="2">Sensor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Descripcion</td>
+    <td class="tg-0pky" colspan="2">Representa los datos&nbsp;&nbsp;obtenidos del sensor</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="2">Atributos </td>
+    <td class="tg-c3ow" rowspan="2">Metodos</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nombre</td>
+    <td class="tg-0pky">Tipo de dato</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">sensorType</td>
+    <td class="tg-0pky">String</td>
+    <td class="tg-0pky">getSensorType</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">status</td>
+    <td class="tg-0pky">String</td>
+    <td class="tg-0pky">getData</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">data</td>
+    <td class="tg-0lax">Object</td>
+    <td class="tg-0lax">updateStatus</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">sensorID</td>
+    <td class="tg-0lax">String</td>
+    <td class="tg-0lax">updateData</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Nombre</th>
+    <th class="tg-0pky" colspan="2">LocationSensor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Descripcion</td>
+    <td class="tg-0pky" colspan="2">Representa la localización de la pulsera</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="2">Atributos </td>
+    <td class="tg-0pky" rowspan="2">Metodos</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nombre</td>
+    <td class="tg-0pky">Tipo de dato</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">longitude</td>
+    <td class="tg-0lax">double</td>
+    <td class="tg-0lax">getLocation()</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">latitude</td>
+    <td class="tg-0lax">double</td>
+    <td class="tg-0lax">setLocation()</td>
+  </tr>
+</tbody>
+</table>
 ### 4.2.1.1. Domain Layer.
 
 ### 4.2.1.2. Interface Layer.
