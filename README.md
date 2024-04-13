@@ -918,23 +918,23 @@ A continuación, presentamos el diagrama de base de datos considerado para el De
 
 4\.2.4. Bounded Context: Elderly Profile
 
-<img src="Assets\boundedcontext1.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext1.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 (Aspose.Words.2227f55b-24bb-45df-ae5a-5d64f316230e.001.png)
 
 
-<img src="Assets\boundedcontext2.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext2.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 
-<img src="Assets\boundedcontext3.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext3.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
-<img src="Assets\boundedcontext4.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext4.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 
-<img src="Assets\boundedcontext5.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext5.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
-<img src="Assets\boundedcontext6.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext6.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 
@@ -962,14 +962,14 @@ Se identificó que una clase que es parte del core del negocio es la clase Elder
 
 - ElderlyAdultRepository: interfaz de la clase ElderlyAdultRepository, ayuda a mantener un bajo acoplamiento
 
-<img src="Assets\boundedcontext7.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext7.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 - IElderlyAdultServices: interfaz de la clase IElderlyAdultService, ayuda a mantener un bajo acoplamiento.
 
-<img src="Assets\boundedcontext8.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext8.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
-<img src="Assets\boundedcontext9.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext9.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 4\.2.4.2. Interface Layer. 
 
@@ -977,7 +977,7 @@ En esta sección se presentan las interfaces serán consumidas por la aplicació
 
 - **IElderlyAdultController:**
 
- <img src="Assets\boundedcontext10.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+ <img src="Assets\boundedcontext10.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 Define las funciones que reciben las solicitudes relacionadas al cuidado de ElderlyAdult.
 **
 
@@ -1002,7 +1002,7 @@ En esta sección presentamos las clases que se encargan de conectar con servicio
 
 A continuación, presentamos el component level diagram considerado para el ElderlyAdultOfferContext.
 
-<img src="Assets\boundedcontext11.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext11.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 4\.2.4.7. Bounded Context Software Architecture Code Level Diagrams. 
@@ -1011,12 +1011,12 @@ A continuación, presentamos el component level diagram considerado para el Elde
 
 ` `A continuación, presentamos el diagrama de clases del dominio considerado para el ElderlyAdultContext.
 
-<img src="Assets\boundedcontext12.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext12.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 4\.3.4.7.2. Bounded Context Database Design Diagram. 
 
 A continuación, presentamos el diagrama de base de datos considerado para el ElderlyAdultRegisterContext.
 
-<img src="Assets\boundedcontext13.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext13.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 
