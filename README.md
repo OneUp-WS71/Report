@@ -161,19 +161,19 @@ Maryfe no observa ninguna discapacidad adicional en la paciente aparte de sus pr
 ## 2.2.3. Análisis de entrevistas.
 De acuerdo a las entrevistas realizadas, los cuidadores de adultos mayores hacen uso de la tecnologia, se observa que los dispositivos que utilizan principalmente son las computadoras, laptops asi como los celulares. 
 
-![Dispositivos](Assets/Dispositivos.png)
+![Dispositivos](assets/Dispositivos.png)
 
 De la misma manera, se observa que los cuidadores de adultos mayores utilizan en su mayoria marcas de celulares con el sistema operativo Android.
 
-![Marcas](Assets/Marcas.png)
+![Marcas](assets/Marcas.png)
 
 La mayoría de los entrevistados muestra interés y aceptación hacia el proyecto propuesto de una aplicación móvil y pulsera inteligente para el monitoreo de adultos mayores.
 
-![Uso](Assets/Uso.png)
+![Uso](assets/Uso.png)
 
 En cuanto a los navegadores web, los cuidadores de adultos mayores utilizan principalmente Google Chrome.
 
-![Navegadores](Assets/navegadorWeb.png)
+![Navegadores](assets/navegadorWeb.png)
 
 Asimismo, se destaca la importancia del monitoreo de diferentes aspectos de la salud de los adultos mayores, como la presión arterial y la frecuencia cardíaca. Los entrevistados resaltan la relevancia de incluir estos parámetros en la aplicación móvil y la pulsera inteligente para proporcionar un monitoreo integral de la salud de los pacientes. 
 # 2.3. Needfinding
