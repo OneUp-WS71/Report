@@ -412,10 +412,10 @@ A continuación, presentamos el component level diagram considerado para el Devi
 #### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams.
 A continuación, presentamos el diagrama de clases del dominio considerado para el Device.
 
-![Device Domain Layer Class Diagram](assets\Device_ClassDiagram.png)
+![Device Domain Layer Class Diagram](Assets\Device_ClassDiagram.png)
 #### 4.2.1.7.2. Bounded Context Database Design Diagram.
 
-![Device Database Design Diagram](assets\Database_Device.png)
+![Device Database Design Diagram](Assets\Database_Device.png)
 
 ## 4.2.2. Bounded Context: Reminder
 
