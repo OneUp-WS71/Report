@@ -1563,6 +1563,39 @@ A continuación, presentamos el diagrama de base de datos considerado para el El
 ## 5.1. Style Guidelines.
 
 ## 5.1.1. General Style Guidelines.
+## Introducción
+
+Las siguientes pautas de estilo han sido diseñadas para garantizar la coherencia y la claridad en la interfaz de usuario de la aplicación de cuidado de personas mayores. Estas pautas abarcan aspectos como tipografía, colores, escritura y espaciado, con el objetivo de proporcionar una experiencia de usuario intuitiva y fácil de usar para los cuidadores.
+
+## Tipografía
+
+- **Fuente:** Inter
+- **Tamaños:** Seleccionar entre los tamaños disponibles para asegurar una legibilidad adecuada en diferentes dispositivos y tamaños de pantalla.
+- **Estilos:** Utilizar estilos como negrita o cursiva para resaltar información importante.
+- **Espaciado entre letras y líneas:** Ajustar según sea necesario para mejorar la legibilidad, especialmente en textos largos.
+
+<img src="Assets\Tipografia_General.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+## Colores
+
+- **Significado del color:** El índigo representa la intuición, la sabiduría y la percepción psíquica, lo que refleja la naturaleza sensible y empática del cuidado de personas mayores.
+- **Paleta de colores:** Utilizar la paleta de colores Indigo 50/100/200/300/400/500/600/700/800/900 para elementos visuales como botones, barras de progreso y fondos.
+
+<img src="Assets\Color_General.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+## Espaciado
+
+- **Espaciado entre componentes:** Utilizar un espaciado con métricas de 4^n (por ejemplo, 8px, 12px, 16px, 24px, 32px) para garantizar una disposición equilibrada y armoniosa de los elementos en la interfaz de usuario.
+
+Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicación para garantizar una experiencia de usuario coherente y fácil de usar para los cuidadores.
+
+<img src="Assets\Espaciado_General.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+## Escritura
+
+- **Estilo de escritura:** Utilizar una escritura clara y concisa para comunicar de manera efectiva información relevante a los cuidadores.
+- **Lenguaje:** Evitar jergas o términos técnicos que puedan resultar confusos para los usuarios no especializados en el cuidado de personas mayores.
+- **Consistencia:** Mantener un tono y estilo de escritura coherentes en toda la aplicación para una experiencia de usuario unificada.
 
 ## 5.1.2. Web, Mobile and IoT Style Guidelines.
 
