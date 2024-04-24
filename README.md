@@ -1574,14 +1574,14 @@ Las siguientes pautas de estilo han sido diseñadas para garantizar la coherenci
 - **Estilos:** Utilizar estilos como negrita o cursiva para resaltar información importante.
 - **Espaciado entre letras y líneas:** Ajustar según sea necesario para mejorar la legibilidad, especialmente en textos largos.
 
-<img src="Assets\Tipografia_General.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Tipografia_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## Colores
 
 - **Significado del color:** El índigo representa la intuición, la sabiduría y la percepción psíquica, lo que refleja la naturaleza sensible y empática del cuidado de personas mayores.
 - **Paleta de colores:** Utilizar la paleta de colores Indigo 50/100/200/300/400/500/600/700/800/900 para elementos visuales como botones, barras de progreso y fondos.
 
-<img src="Assets\Color_General.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Color_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## Espaciado
 
@@ -1589,7 +1589,7 @@ Las siguientes pautas de estilo han sido diseñadas para garantizar la coherenci
 
 Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicación para garantizar una experiencia de usuario coherente y fácil de usar para los cuidadores.
 
-<img src="Assets\Espaciado_General.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Espaciado_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## Escritura
 
