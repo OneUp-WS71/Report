@@ -1,4 +1,69 @@
-
+### Universidad Peruana de Ciencias Aplicadas 
+#### Ingeniería de Sistemas y Computación | Ingeniería de Software
+#### Desarrollo de Soluciones IOT
+# INFORME TB1 
+## _____________
+## OneUp
+#### Team Members 
++ Piero
++ Alfredo 
++ Orosco Orcotuma, Cristhian  U201921031 
++ Antonhy
++ Enrique 
+#### Sección: WS71
+#### Profesor: Angel Augusto Velasquez Nuñez 
+#### Abril, 2024
+#### Producto: ElderlyCare                    -      Ciclo: 2024-01
+_____________________
+## Registro de versiones del informe 
+<table>
+<thead>
+  <tr>
+    <th>Versión </th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripción de modificación</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 ## Capítulo I: Introducción
 
 # 1.1. Startup Profile
