@@ -1,9 +1,9 @@
 ### Universidad Peruana de Ciencias Aplicadas 
 #### Ingeniería de Sistemas y Computación | Ingeniería de Software
 #### Desarrollo de Soluciones IOT
-# INFORME TB1 
+## INFORME TB1 
 ## _____________
-## OneUp
+### OneUp
 #### Team Members 
 + Piero
 + Alfredo 
@@ -12,8 +12,12 @@
 + Enrique 
 #### Sección: WS71
 #### Profesor: Angel Augusto Velasquez Nuñez 
-#### Abril, 2024
-#### Producto: ElderlyCare                    -      Ciclo: 2024-01
+
+<center> <h4> Abril, 2024</h4> </center>
+
+#### Producto: ElderlyCare                         
+#### Ciclo: 2024-01
+
 _____________________
 ## Registro de versiones del informe 
 <table>
@@ -64,6 +68,11 @@ _____________________
   </tr>
 </tbody>
 </table>
+
+## Project Report Collaboration Insights
+
+## Contenido 
+## Student Outcome 
 ## Capítulo I: Introducción
 
 # 1.1. Startup Profile
