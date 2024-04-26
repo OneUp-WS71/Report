@@ -88,9 +88,15 @@ Esto demuestra la importancia y la extensión de la problemática.
 ## 1.2.2 Lean UX Process.
 
 ### 1.2.2.1. Lean UX Problem Statements.
-En el servicio del cuidado del adulto mayor es una actividad que nos afecta indirectamente a todas las personas naturales, esto tanto que seamos los que cuidemos del ser querido o contratemos a alguien para que la cuide por nosotros. 
-¿Cómo aseguramos la seguridad del adulto mayor para las personas que las cuidan?
-(Alfredo)
+El estado actual del cuidado del adulto mayor se ha centrado principalmente en recordar, contratar cuidador y seguito a tiempo real, pero de forma individual.
+
+Lo que los servicios existentes no abordan es un seguimiento mas completo e individual o colectivo, del adulto mayor.
+
+Nuestro servicio e producto abordará esta carencia mediante una aplicación que posee todas estas funciones e conectarlo con dispositivos iot para el monitoreo.
+
+Nuestro objetivo inicial será personas que cuidan del adulto mayor, tanto familiares como cuidadores.
+sabremos que hemos tenido éxito cuando veamos un uso de nuestro producto por 3 o 4 meses.
+
 ### 1.2.2.2. Lean UX Assumptions.
 **Business Outcomes**
 1. Buscamos mejorar la calidad de vida y la seguridad de las personas mayores mediante una solución integral de cuidado y seguimiento, lo que puede resultar en una disminución de los incidentes médicos graves y una mayor tranquilidad para los cuidadores.
