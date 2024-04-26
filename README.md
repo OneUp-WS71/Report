@@ -1422,9 +1422,97 @@ A continuación, presentamos el diagrama de base de datos considerado para el De
 
 4\.2.4. Bounded Context: Elderly Profile
 
-<img src="Assets\boundedcontext1.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
-(Aspose.Words.2227f55b-24bb-45df-ae5a-5d64f316230e.001.png)
+<table>
+<thead>
+  <tr>
+    <th>   <br>Nombre   </th>
+    <th>   <br>Elderly Profile   </th>
+    <th></th>
+    <th></th>
+    <th>   <br>    </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>   <br>Descripción   </td>
+    <td>   <br>Representa a los adultos mayores   </td>
+    <td></td>
+    <td></td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>Atributos   </td>
+    <td></td>
+    <td>   <br>Relaciones   </td>
+    <td></td>
+    <td>   <br> <br>   <br>Métodos   </td>
+  </tr>
+  <tr>
+    <td>   <br>Nombre   </td>
+    <td>   <br>Tipo de Dato   </td>
+    <td>   <br>Tipo   </td>
+    <td>   <br>Clases/Enums   </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>   <br>ElderlyProfileId   </td>
+    <td>   <br>ElderlyProfileId   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>JobOfferId   </td>
+    <td>   <br>apply()   </td>
+  </tr>
+  <tr>
+    <td>   <br>UserrId   </td>
+    <td>   <br>UserrId   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>RecruiterId   </td>
+    <td>   <br>cancelApply()   </td>
+  </tr>
+  <tr>
+    <td>   <br>name   </td>
+    <td>   <br>string   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>Money   </td>
+    <td>   <br>disable()   </td>
+  </tr>
+  <tr>
+    <td>   <br>          direction   </td>
+    <td>   <br>String   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>Availability   </td>
+    <td>   <br>seedirection()   </td>
+  </tr>
+  <tr>
+    <td>   <br>initialDate   </td>
+    <td>   <br>Date   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>UserProfile   </td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>endDate   </td>
+    <td>   <br>Date   </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>age   </td>
+    <td>   <br>string   </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>disease   </td>
+    <td>   <br>int   </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+  </tr>
+</tbody>
+</table>
 
 
 <img src="Assets\boundedcontext2.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
