@@ -1767,14 +1767,127 @@ Se identificó que una clase que es parte del core del negocio es la clase Elder
 
 - ElderlyAdultRepository: interfaz de la clase ElderlyAdultRepository, ayuda a mantener un bajo acoplamiento
 
-<img src="Assets\boundedcontext7.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
-
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>ElderlyAdultRepository&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>permite la conexión con la base de datos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Métodos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findAll()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findById()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findByUserId()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>create()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>update()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 - IElderlyAdultServices: interfaz de la clase IElderlyAdultService, ayuda a mantener un bajo acoplamiento.
 
-<img src="Assets\boundedcontext8.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>ElderlyAdultRepository&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>permite la conexión con la base de datos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Métodos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findAll()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findById()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findByUserId()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>create()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>update()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>delete()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>IElderlyAdultController&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Define las funciones que reciben las solicitudes relacionadas al&nbsp;&nbsp;&nbsp;cuidado de ElderlyAdult.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Métodos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>getAll()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>geById()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>getByUserId()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>state()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>create()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>delete()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>apply()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>renew()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>enable()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>disable()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>update()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
-<img src="Assets\boundedcontext9.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 4\.2.4.2. Interface Layer. 
 
@@ -1782,12 +1895,58 @@ En esta sección se presentan las interfaces serán consumidas por la aplicació
 
 - **IElderlyAdultController:**
 
- <img src="Assets\boundedcontext10.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
-Define las funciones que reciben las solicitudes relacionadas al cuidado de ElderlyAdult.
-**
-
-**
-
+- Define las funciones que reciben las solicitudes relacionadas al cuidado de ElderlyAdult.
+  
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>IElderlyAdultController&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Define las funciones que reciben las solicitudes relacionadas al&nbsp;&nbsp;&nbsp;cuidado de ElderlyAdult.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Métodos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>getAll()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>geById()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>getByUserId()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>state()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>create()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>delete()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>apply()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>renew()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>enable()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>disable()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>update()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 4\.2.4.3. Application Layer.
 
