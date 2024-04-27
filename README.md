@@ -117,6 +117,27 @@ _____________________
     - [4.1.3.4. Software Architecture Deployment Diagrams](/README.md#4134-software-architecture-deployment-diagrams)
   - [4.2. Tactical-Level Domain-Driven Design](/README.md#42-tactical-level-domain-driven-design) 
 ## Student Outcome 
+<table>
+<thead>
+  <tr>
+    <th class="tg-0pky">Criterio específico</th>
+    <th class="tg-0pky">Acciones realizadas</th>
+    <th class="tg-0pky">Conclusiones</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
 ## Capítulo I: Introducción
 
 # 1.1. Startup Profile
