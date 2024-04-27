@@ -103,27 +103,19 @@ _____________________
   - [3.2. User Stories](/README.md#32-user-stories)
   - [3.3. Impact Mapping](/README.md#33-impact-mapping)
   - [3.4. Product Backlog](/README.md#34-product-backlog)
-- [Capítulo IV: Strategic-Level Software Design](/README.md#capítulo-iv-strategic-level-software-design)
-  - [4.1. Strategic-Level Attribute-Driven Design](/README.md#41-strategic-level-attribute-driven-design)
-    - [4.1.1. Design Purpose](/README.md#411-design-purpose)
-    - [4.1.2. Attribute-Driven Design Inputs](/README.md#412-attribute-driven-design-inputs)
-      - [4.1.2.1. Primary Functionality (Primary User Stories)](/README.md#4121-primary-functionality-primary-user-stories)
-      - [4.1.2.2. Quality attribute Scenarios](/README.md#4122-quality-attribute-scenarios)
-      - [4.1.2.3. Constraints](/README.md#4123-constraints)
-    - [4.1.3. Architectural Drivers Backlog](/README.md#413-architectural-drivers-backlog)
-    - [4.1.4. Architectural Design Decisions](/README.md#414-architectural-design-decisions)
-    - [4.1.5. Quality Attribute Scenario Refinements](/README.md#415-quality-attribute-scenario-refinements)
-  - [4.2. Strategic-Level Domain-Driven Design](/README.md#42-strategic-level-domain-driven-design)
-    - [4.2.1. EventStorming](/README.md#421-eventstorming)
-    - [4.2.2. Candidate Context Discovery](/README.md#422-candidate-context-discovery)
-    - [4.2.3. Domain Message Flows Modeling](/README.md#423-domain-message-flows-modeling)
-    - [4.2.4. Bounded Context Canvases](/README.md#424-bounded-context-canvases)
-    - [4.2.5. Context Mapping](/README.md#425-context-mapping)
-  - [4.3. Software Architecture](/README.md#43-software-architecture)
-    - [4.3.1. Software Architecture System Landscape Diagram](/README.md#431-software-architecture-system-landscape-diagram)
-    - [4.3.2. Software Architecture Context Level Diagrams](/README.md#432-software-architecture-context-level-diagrams)
-    - [4.3.3. Software Architecture Container Level Diagrams](/README.md#433-software-architecture-container-level-diagrams)
-    - [4.3.4. Software Architecture Deployment Diagrams](/README.md#434-software-architecture-deployment-diagrams)
+- [Capítulo IV: Solution Software Design](/README.md#capítulo-iv-solution-software-design)
+  - [4.1. Strategic-Level Domain-Driven Design](/README.md#41-strategic-level-domain-driven-design)
+    - [4.1.1. EventStorming](/README.md#411-eventstorming)
+      - [4.1.1.1 Candidate Context Discovery](/README.md#4111-candidate-context-discovery)
+      - [4.1.1.2.  Domain Message Flows Modeling](/README.md#4112-domain-message-flows-modeling)
+      - [4.1.1.3. Bounded Context Canvases](/README.md#4113-bounded-context-canvases)
+    - [4.1.2. Context Mapping](/README.md#412-context-mapping)
+    - [4.1.3. Software Architecture](/README.md#413-software-architecture)
+    - [4.1.3.1. Software Architecture System Landscape Diagram](/README.md#4131-software-architecture-system-landscape-diagram)
+    - [4.1.3.2. Software Architecture Context Level Diagrams](/README.md#4132-software-architecture-context-level-diagrams)
+    - [4.1.3.3. Software Architecture Container Level Diagrams](/README.md#4133-software-architecture-container-level-diagrams)
+    - [4.1.3.4. Software Architecture Deployment Diagrams](/README.md#4134-software-architecture-deployment-diagrams)
+  - [4.2. Tactical-Level Domain-Driven Design](/README.md#42-tactical-level-domain-driven-design) 
 ## Student Outcome 
 ## Capítulo I: Introducción
 
@@ -727,9 +719,9 @@ Se refiere al dispositivo wearable que se utilizará para recopilar datos biomé
 
 ### 4.1.3.2. Software Architecture Context Level Diagrams.
 <img src="Assets\Context.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
-### 4.1.3.2. Software Architecture Container Level Diagrams.
+### 4.1.3.3. Software Architecture Container Level Diagrams.
 <img src="Assets\container.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
-### 4.1.3.3. Software Architecture Deployment Diagrams.
+### 4.1.3.4. Software Architecture Deployment Diagrams.
 
 # 4.2. Tactical-Level Domain-Driven Design
 
