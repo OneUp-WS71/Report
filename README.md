@@ -537,89 +537,13 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 ## 2.3.2. User Task Matrix
 
-**User Persona – Cuidador de adulto mayor en minorias.**
+En esta sección, se describirán las actividades que realizarían los usuarios con respecto al cuidado de un adulto mayor. En el primer caso, se usa al user persona relacionado al cuidado de adultos en minorías. En el segundo aso, se usa al user persona relacionado al cuidado de adultos en mayorías.
 
-<table>
-<thead>
-  <tr>
-    <th rowspan="2">&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>User Task Matrix&nbsp;&nbsp;&nbsp;</th>
-    <th colspan="2">&nbsp;&nbsp;&nbsp;<br>Luisa Costa&nbsp;&nbsp;&nbsp;</th>
-  </tr>
-  <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br>Frecuencia&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Importancia&nbsp;&nbsp;&nbsp;</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Monitorear signos vitales&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Comunicarse con familiares y&nbsp;&nbsp;&nbsp;otros profesionales&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Mantener registros y&nbsp;&nbsp;&nbsp;documentación&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Administrar medicamentos&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Facilitar actividades&nbsp;&nbsp;&nbsp;recreativas&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-</tbody>
-</table>
+<br>
 
-**User Persona – Cuidador de adulto mayor en mayorias.**
+<table><thead><tr><th rowspan="2"><br><br>User Task Matrix   <br><br></th><th colspan="2">Luisa Costa   <br></th><th colspan="2">Ana Contreras<br></th></tr><tr><th>Frecuencia<br></th><th>Importancia<br></th><th>Frecuencia<br></th><th>Importancia<br></th></tr></thead><tbody><tr><td><br>Monitorear signos vitales<br></td><td><br>Often</td><td><br>High</td><td><br>Often</td><td><br>High</td></tr><tr><td><br>Comunicarse con familiares y otros profesionales</td><td><br>Often<br></td><td><br>Medium</td><td><br>Often<br></td><td><br>Medium</td></tr><tr><td><br>Mantener registros y documentación<br></td><td><br>Often</td><td><br>High</td><td><br>Often</td><td><br>High</td></tr><tr><td><br>Administrar medicamentos<br></td><td><br>Often<br></td><td><br>High<br></td><td><br>Often<br></td><td><br>High<br></td></tr><tr><td><br>Facilitar actividades recreativas<br></td><td><br>Rarely<br></td><td><br>Medium<br></td><td><br>Rarely</td><td><br>Medium<br></td></tr></tbody></table>
 
-<table>
-<thead>
-  <tr>
-    <th rowspan="2">&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>User Task Matrix&nbsp;&nbsp;&nbsp;</th>
-    <th colspan="2">   <br>Ana Contreras</th>
-  </tr>
-  <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br>Frecuencia&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Importancia&nbsp;&nbsp;&nbsp;</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Monitorear signos vitales&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Comunicarse con familiares y&nbsp;&nbsp;&nbsp;otros profesionales&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Mantener registros y&nbsp;&nbsp;&nbsp;documentación&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Administrar medicamentos&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Facilitar actividades&nbsp;&nbsp;&nbsp;recreativas&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-</tbody>
-</table>
+<br>
 
 ## 2.3.3. User Journey Mapping
 
