@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/Logo_Upc.png" alt="Logo" width="200"/>
+</p>
+
 ### Universidad Peruana de Ciencias Aplicadas 
 #### Ingeniería de Sistemas y Computación | Ingeniería de Software
 #### Desarrollo de Soluciones IOT
@@ -5,11 +9,11 @@
 ## _____________
 ### OneUp
 #### Team Members 
-+ Piero
-+ Alfredo 
-+ Orosco Orcotuma, Cristhian  U201921031 
++ Liberato Susanibar, Piero Anthony_U20181H057
++ Farro Caballero, Alfredo Nolberto_201911924
++ Orosco Orcotuma, Cristhian_U201921031 
 + Antonhy
-+ Enrique 
++ Llatas Flores, Enrique Aldhair_U20201F172 
 #### Sección: WS71
 #### Profesor: Angel Augusto Velasquez Nuñez 
 
@@ -17,7 +21,6 @@
 
 #### Producto: ElderlyCare                         
 #### Ciclo: 2024-01
-
 _____________________
 ## Registro de versiones del informe 
 <table>
@@ -31,22 +34,25 @@ _____________________
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>V1.0</td>
+    <td>13/04/2024</td>
+    <td>OneUp</td>
+    <td>Se agregaron las siguientes secciones: 
+  Contenido, Student Outcome, Capítulo I, Capítulo II, Capítulo III, Capítulo IV  
+  </td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>V 1.1</td>
+    <td>29/04/2024</td>
+    <td>OneUp</td>
+    <td>Se agrego el contenido que faltaba en la TB1 y se aplico del Capítulo I hasta el Capítulo IV las correcciones</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>V2.0</td>
+    <td>02/05/2024</td>
+    <td>OneUp</td>
+    <td>Se agregaron las siguientes secciones:
+    Capítulo V, Capítulo VI, Avance de Conclusiones, Bibliografía y Anexos</td>
   </tr>
   <tr>
     <td></td>
@@ -70,6 +76,12 @@ _____________________
 </table>
 
 ## Project Report Collaboration Insights
++ Link del repositorio Github:  [Github](https://github.com/OneUp-WS71) / https://github.com/OneUp-WS71 
+
+  **Desarrollo de las actividades del informe:**  
+  + TB1: Para esta entrega se desarrollaron las secciones del capitulo I al capitulo IV, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
+  ![commits](/assets/Commits_tb1.png)
+  + TP: Para la entrega del TP se desarrollo las secciones del capitulo V al capitulo VI, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
 
 ## Contenido 
 - [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
@@ -120,21 +132,21 @@ _____________________
 <table>
 <thead>
   <tr>
-    <th class="tg-0pky">Criterio específico</th>
-    <th class="tg-0pky">Acciones realizadas</th>
-    <th class="tg-0pky">Conclusiones</th>
+    <th>Criterio específico</th>
+    <th>Acciones realizada</th>
+    <th>Conclusiones</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
+    <td>Orosco Orcotuma, Cristhian<br>TB1: <br>Se identificaron diferentes problemas en<br>base al desarrollo del trabajo tanto como la<br>identificación del producto, como la elaboración<br>del Lean ux y estructura de la aplicación, pero supimos implementar las soluciones con los compañeros a todas estas. Asimismo, Se modificó<br>los diferentes puntos del lean Ux, el canvas, los<br>assumptions y modificar nuestro objetivo</td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
+    <td>Orosco Orcotuma, Cristhian<br>TB1:<br>Para solucionar los problemas presentados<br>en el trabajo se usó las metodologías ágiles de<br>software para poder tener la mejor solución<br>posible. Asimismo, se tuvieron que aprender<br>nuevos conceptos acerca del Lean Ux, como<br>mejorar en base al trabajo anterior puntos para<br>definir mejor nuestra plataforma.</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
@@ -158,16 +170,16 @@ Universitario que cursa el 8to ciclo de, teniendo 22 años. En mis ratos libres 
 
 + **Cristhian Orosco Orcotuma:** Estudio la carrera de Ingeniería de Software en la UPC. Me considero una persona detallista, amante de los animales, la música, sobre todo la tecnología y los videojuegos, en el futuro me gustaría crear un videojuego y tener mi propia empresa de videojuegos. Soy un chico al cual le gusta aprender todo tipo de cosas, porque considero que siempre uno debe estar preparado para todo. 
 
-    ![Cristhian](/assets/profileCristhian.png)
+
+    <img src="/assets/Cristhian_perfil_original.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 + **Anthony Samir Nuñez Martinez:** <br>
-Estudiante de Ingeniería de Software de 19 años en la Universidad Peruana de Ciencias y Tecnología, nacido el 15 de julio del 2004.<br>
-Me gusta la música punk y desarrollo videojuegos en mi tiempo libre. Me gusta resolver problemas y buscar soluciones creativas o únicas a las cosas, inclusive cuando no es la forma más eficiente de hacerla, y soy una persona muy obsecionada con la puntualidad.
+Estudiante de Ingeniería de Software de 19 años en la Universidad Peruana de Ciencias y Tecnología, nacido el 15 de julio del 2004. Me gusta la música punk y desarrollo videojuegos en mi tiempo libre. Me gusta resolver problemas y buscar soluciones creativas o únicas a las cosas, inclusive cuando no es la forma más eficiente de hacerla, y soy una persona muy obsecionada con la puntualidad.
 
-    <img src="assets\profileAnthony.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+    <img src="assets\profileAnthony.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br> 
 
 + **Enrique Aldhair Llatas Flores:** <br>
-Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 7mo ciclo de la carrera de Ingeniería de Software  tengo habilidades en frontend y backend, también cuento con conocimiento en margenes ágiles y otros lenguajes como C++ y C#. Espero seguir aumentando mis conocimientos durante este ciclo.En mis tiempos libres me gusta investigar sobre margenes agiles ,jugar  y hacer ejercicio.Me gusta escuchar rock
+Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 7mo ciclo de la carrera de Ingeniería de Software  tengo habilidades en frontend y backend, también cuento con conocimiento en margenes ágiles y otros lenguajes como C++ y C#. Espero seguir aumentando mis conocimientos durante este ciclo.En mis tiempos libres me gusta investigar sobre margenes agiles ,jugar  y hacer ejercicio. Me gusta escuchar rock
 
   <img src="assets\enrique.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
