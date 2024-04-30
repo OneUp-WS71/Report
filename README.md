@@ -6,7 +6,6 @@
 #### Ingeniería de Sistemas y Computación | Ingeniería de Software
 #### Desarrollo de Soluciones IOT
 ## INFORME TB1 
-## _____________
 ### OneUp
 #### Team Members 
 + Liberato Susanibar, Piero Anthony_U20181H057
@@ -17,7 +16,7 @@
 #### Sección: WS71
 #### Profesor: Angel Augusto Velasquez Nuñez 
 
-<center> <h4> Abril, 2024</h4> </center>
+<h4 align="center "> Abril, 2024</h4> 
 
 #### Producto: ElderlyCare                         
 #### Ciclo: 2024-01
