@@ -2,11 +2,12 @@
   <img src="/assets/Logo_Upc.png" alt="Logo" width="200"/>
 </p>
 
-### Universidad Peruana de Ciencias Aplicadas 
-#### Ingeniería de Sistemas y Computación | Ingeniería de Software
-#### Desarrollo de Soluciones IOT
-## INFORME TB1 
-### OneUp
+<h3 align="center"> Universidad Peruana de Ciencias Aplicadas</h3> 
+<h4 align="center"> Ingeniería de Sistemas y Computación | Ingeniería de Software  </h4>
+<h4 align="center"> Desarrollo de Soluciones IOT </h4>
+<h4 align="center"> Informe de Trabajo Parcial  </h4>
+
+### Startup: OneUp
 #### Team Members 
 + Liberato Susanibar, Piero Anthony_U20181H057
 + Farro Caballero, Alfredo Nolberto_201911924
@@ -15,11 +16,10 @@
 + Llatas Flores, Enrique Aldhair_U20201F172 
 #### Sección: WS71
 #### Profesor: Angel Augusto Velasquez Nuñez 
-
-<h4 align="center "> Abril, 2024</h4> 
-
 #### Producto: ElderlyCare                         
 #### Ciclo: 2024-01
+<h4 align="center "> Abril, 2024</h4>  
+
 _____________________
 ## Registro de versiones del informe 
 <table>
@@ -182,8 +182,7 @@ Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 7mo ciclo de la carrera
 
   <img src="assets\enrique.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
-+ Completar
-+ Completar 
+
 # 1.2. Solution Profile
 
 ## 1.2.1 Antecedentes y problemática
@@ -251,28 +250,7 @@ Nuestro objetivo inicial será personas que cuidan del adulto mayor, tanto famil
 sabremos que hemos tenido éxito cuando veamos un uso de nuestro producto por 3 o 4 meses.
 
 ### 1.2.2.2. Lean UX Assumptions.
-**Business Outcomes**
-1. Buscamos mejorar la calidad de vida y la seguridad de las personas mayores mediante una solución integral de cuidado y seguimiento, lo que puede resultar en una disminución de los incidentes médicos graves y una mayor tranquilidad para los cuidadores.
-
-2. Queremos facilitar la coordinación y comunicación entre miembros de la familia encargados del cuidado de adultos mayores, permitiéndoles compartir información relevante y tomar decisiones informadas de manera conjunta. 
-
-3. Buscamos aumentar la eficiencia del proceso de cuidado de adultos mayores al reducir el tiempo dedicado a tareas administrativas y aumentar el enfoque en la atención directa y el bienestar del adulto mayor.
-
-4. Queremos mejorar la seguridad de los adultos mayores al detectar y responder rápidamente a situaciones de emergencia o riesgo, como caídas, cambios bruscos en la salud o la salida del área designada.
-
-5. El valor principal que un cliente busca es la certeza de que el estado del adulto mayor monitoreado es preciso, confiable, seguro y en tiempo real.
-
-6. Las ganancias se generarán mediante la venta de las pulseras inteligentes vinculadas a la aplicación movil y  web, así como la suscripcion mensual para obtener la informacion de mas personas mayores.
-
-7. Obtendré a mis clientes a través de la promoción del producto en redes sociales como tiktok, facebook, instagram y youtube.
-
-8. Tomaremos ventaja sobre la competencia adaptando  la aplicación a las necesidades y habilidades tecnológicas de nuestro público objetivo, asegurando que el monitoreo en tiempo real sea comprensible y los avisos de problemas sean inmediatos.
-
- 9. El riesgo con el producto es que la pulsera se desprenda o se dañe, lo que podría impedir la detección oportuna de problemas y la notificación instantánea al cuidador.
-
-10.  Se resolverá mediante un mecanismo de seguridad robusto en la pulsera, junto con pruebas exhaustivas y mejoras iterativas hasta lograr un alto nivel de efectividad.
-
-**User Outcomes**
+**User Assumptions**
 1. ¿Quiénes son nuestros usuarios?
     + Cuidadores de adultos mayores que buscan una solución práctica y efectiva para monitorear la salud y seguridad de sus seres queridos.
 
@@ -316,6 +294,23 @@ sabremos que hemos tenido éxito cuando veamos un uso de nuestro producto por 3 
      +  La aplicación móvil debe tener una interfaz intuitiva y fácil de usar, con características visuales claras y una navegación sencilla.
 
      +  Es importante que tanto la pulsera como la aplicación transmitan una sensación de seguridad y confianza, tanto en su diseño como en su funcionamiento.
+
+
+
+**Business Assumptions**
++ Creo que mis clientes tienen la necesidad de una herramienta para mejorar la calidad de vida y la seguridad de las personas mayores, lo que puede resultar en una disminución de los incidentes médicos graves y una mayor tranquilidad para los cuidadores.
++ Estas necesidades se pueden solucionar con un software de uso seguro que permita a los miembros de la familia compartir información relevante y tomar decisiones informadas sobre alguna situacion de riesgo como caidas, cambios bruscos de temperatura, entre otros.
++ Mis clientes iniciales son familiares de adultos mayores que desean estar informados sobre el bienestar de sus seres queridos y poder actuar rápidamente en caso de emergencia. demás, incluimos a cuidadores de adultos mayores que buscan una solución práctica y efectiva para monitorear la salud y seguridad de los adultos mayores. 
++ El valor #1 que un cliente quiere obtener de mi servicio es la certeza de que el estado del adulto mayor monitoreado es preciso, confiable, seguro y en tiempo real.
++ También pueden obtener estos beneficios adicionales: Acceso a información detallada sobre la salud y bienestar del adulto mayor, mayor tranquilidad y seguridad al recibir alertas de emergencia en tiempo real, y facilitación de la coordinación y colaboración entre cuidadores familiares.
++ Adquiriré la mayoría de mis clientes a través de: La promoción del producto en redes sociales como TikTok, Facebook, Instagram y YouTube, la colaboración con residencias de ancianos y hospitales para promover la adopción del producto, y estrategias de marketing digital dirigidas a personas responsables del cuidado de adultos mayores.
++ Ganaré dinero de la siguiente manera: Ventas directas de pulseras inteligentes y suscripciones mensuales para obtener información sobre múltiples adultos mayores, y publicidad de otros productos y servicios relacionados con el cuidado de personas mayores en la aplicación.
++ Mi principal competencia en el mercado será: Aplicaciones similares como Medisafe, Life360 y FallSafety Pro, que también se centran en el cuidado del adulto mayor.
++ Les ganaremos debido a que nuestra aplicacion esta adaptado a las necesidades y  habilidades tecnológicas de nuestro público objetivo, ofreciendo un monitoreo en tiempo real comprensible y notificaciones de problemas inmediatas, y mejorando continuamente la seguridad y efectividad del producto.
++ Mi mayor riesgo de producto es que la pulsera se desprenda o se dañe, lo que podría impedir la detección oportuna de problemas y la notificación instantánea al cuidador.
++ Sabremos que tenemos éxito cuando veamos los siguientes cambios en el comportamiento de los clientes: Aumento en el número de usuarios que utilizan activamente la aplicación para monitorear la salud de adultos mayores, reducción en el número de incidentes médicos graves reportados por los usuarios, y mayor satisfacción y fidelidad del cliente.
++ Qué otros supuestos tenemos que, si se demuestra que son falsos, harán que nuestro negocio/proyecto fracase: 
+ La aceptación del mercado para este tipo de solución tecnológica, la disposición de los usuarios para pagar por el servicio de monitoreo y cuidado de adultos mayores, y la capacidad de la pulsera inteligente para proporcionar datos precisos y confiables en tiempo real.
 
 ### 1.2.2.3. Lean UX Hypothesis Statements.
 
