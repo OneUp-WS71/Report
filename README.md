@@ -582,15 +582,25 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
 <img src="Assets\AsIs.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 # 2.4. Ubiquitous Language
-(colocar 2 cada uno )
-+ **Pulsera Inteligente:**  
-Se refiere al dispositivo wearable que se utilizará para recopilar datos biométricos y de ubicación del adulto mayor en tiempo real.
 
-+ **Cuidador:**     
-  Persona responsable del cuidado y atención del adulto mayor, puede ser un familiar o un profesional de la salud.
++ **Elderly (Adulto mayor):**     
+  Una persona de la tercera edad (60 años a más).
 
-+ **Ubicación en Tiempo Real:**     
++ **Keeper (Cuidador):**     
+  Persona individual responsable del cuidado y atención de un adulto mayor, principalmente un familiar.
+
++ **Supervisor (Supervisor):**     
+  Persona individual responsable del cuidado y atención de varios adultos mayores, este supervisor representaría a un profesional de la salud.
+
++ **Real time ubication (Ubicación en Tiempo Real):**     
   Capacidad de rastrear la ubicación exacta del adulto mayor en todo momento, proporcionando tranquilidad al cuidador y permitiendo una respuesta rápida en caso de emergencia.
+
++ **Reminder (Recordatorio):**     
+  Recordatorio constante del consumo de consumo de medicina o de asistencia a una cita médica. Este recordatorio puede ser ya sea cada día, cada mes, o cada año.
+
+  + **Device purchase (Compra de dispositivo):**     
+  Se refiere al proceso de compra del dispositivo a través de medios oficiales, como podría ser nuestra aplicación web.
+
   # Capítulo III: Requirements Specification
 
 # 3.1. To-Be Scenario Mapping
