@@ -1147,7 +1147,10 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
 <img src="Assets\Context.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 ### 4.1.3.3. Software Architecture Container Level Diagrams.
 <img src="Assets\container.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+
 ### 4.1.3.4. Software Architecture Deployment Diagrams.
+En esta sección nos enfocamos en modelar la distribución física de los componentes de un sistema de
+software en un entorno de ejecución. 
 
 # 4.2. Tactical-Level Domain-Driven Design
 
