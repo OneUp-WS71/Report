@@ -1600,8 +1600,12 @@ Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicaci
 ## 5.1.2. Web, Mobile and IoT Style Guidelines.
 
 # 5.2. Information Architecture.
+En este capítulo, exploraremos cómo la Information Architecture puede mejorar la experiencia de usuario y la eficacia de sistemas relacionados con el cuidado de personas mayores.
+
+En particular, nos enfocaremos en cinco excepciones clave dentro de la Information Architecture aplicadas al cuidado de personas mayores:
 
 ## 5.2.1. Organization Systems.
+
 En Organization System nos enfocamos en mejorar la calidad de vida y seguridad de las personas mayores con soluciones innovadoras. Nuestro sistema integral ofrece funciones como recordatorios de medicamentos, seguimiento de salud, ubicación en tiempo real y acceso a números de emergencia. Buscamos brindar tranquilidad a familiares y cuidadores, garantizando una atención excepcional a las necesidades de los adultos mayores.
 A continuación, les presentaremos la imagen que representa visualmente el funcionamiento y beneficios de Organization System.
 
@@ -1611,8 +1615,15 @@ A continuación, les presentaremos la imagen que representa visualmente el funci
 
 ## 5.2.3. SEO Tags and Meta Tags
 
-<img src="Assets\Organization_Systems.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\SEO_Tags.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
+1. `<meta charset="utf-8">`: Esta línea especifica la codificación de caracteres utilizada en la página web, en este caso, UTF-8, que es ampliamente compatible y permite mostrar caracteres especiales y emojis correctamente.
+2. `<meta content="width=device-width, initial-scale=1.0" name="viewport">`: Esta línea establece las dimensiones de la ventana gráfica (viewport) para que se ajuste al ancho del dispositivo y tenga una escala inicial de 1.0, lo que garantiza una correcta visualización en dispositivos móviles y tablets.
+3. `<meta content="startup: elderly, designer: Piero Liberato, category: app" name="description">`: Aquí se proporciona una descripción de la página web, indicando que se trata de una startup enfocada en el cuidado de personas mayores, diseñada por Piero Liberato y categorizada como una aplicación.
+4. `<meta content="index, nofollow, translate, snippet" name="robots">`: Esta línea especifica cómo los robots de los motores de búsqueda deben interactuar con la página. En este caso, se indica que la página puede ser indexada, pero no seguida, y puede ser traducida y mostrada como un fragmento (snippet) en los resultados de búsqueda.
+5. `<meta content="ElderlyCare, TechCompany" name="copyright">`: Aquí se especifica la información de derechos de autor para la página, indicando que los derechos pertenecen a ElderlyCare y TechCompany.
+6. `<meta content="elderly, supervisor, healthy, treatment, reminder, security" name="keywords">`: Esta línea proporciona una lista de palabras clave que son relevantes para la página. Estas palabras clave ayudan a los motores de búsqueda a entender de qué trata la página y a mostrarla en los resultados relevantes.
+7. `<meta content="adult" name="rating">`: Esta línea especifica la clasificación de contenido de la página, indicando que es apta para adultos. Esto puede ser útil para los motores de búsqueda y los filtros de contenido.
 
 ## 5.2.4. Searching Systems.
 
