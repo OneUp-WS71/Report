@@ -12,7 +12,7 @@
 + Liberato Susanibar, Piero Anthony_U20181H057
 + Farro Caballero, Alfredo Nolberto_201911924
 + Orosco Orcotuma, Cristhian_U201921031 
-+ Antonhy
++ Nuñez Martinez, Anthony Samir_U
 + Llatas Flores, Enrique Aldhair_U20201F172 
 #### Sección: WS71
 #### Profesor: Angel Augusto Velasquez Nuñez 
@@ -607,8 +607,6 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
   # Capítulo III: Requirements Specification
 
 # 3.1. To-Be Scenario Mapping
-
-<img src="Assets\ToBe.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 # 3.2. User Stories
 
