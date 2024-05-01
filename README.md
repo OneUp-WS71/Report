@@ -1602,10 +1602,17 @@ Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicaci
 # 5.2. Information Architecture.
 
 ## 5.2.1. Organization Systems.
+En Organization System nos enfocamos en mejorar la calidad de vida y seguridad de las personas mayores con soluciones innovadoras. Nuestro sistema integral ofrece funciones como recordatorios de medicamentos, seguimiento de salud, ubicación en tiempo real y acceso a números de emergencia. Buscamos brindar tranquilidad a familiares y cuidadores, garantizando una atención excepcional a las necesidades de los adultos mayores.
+A continuación, les presentaremos la imagen que representa visualmente el funcionamiento y beneficios de Organization System.
+
+<img src="Assets\Organization_Systems.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 5.2.2. Labeling Systems.
 
 ## 5.2.3. SEO Tags and Meta Tags
+
+<img src="Assets\Organization_Systems.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
 
 ## 5.2.4. Searching Systems.
 
