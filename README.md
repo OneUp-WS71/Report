@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/Logo_Upc.png" alt="Logo" width="200"/>
+  <img src="/Assets/Logo_Upc.png" alt="Logo" width="200"/>
 </p>
 
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas</h3> 
@@ -139,12 +139,12 @@ _____________________
 <tbody>
   <tr>
     <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
-    <td>Orosco Orcotuma, Cristhian<br>TB1: <br>Se identificaron diferentes problemas en<br>base al desarrollo del trabajo tanto como la<br>identificación del producto, como la elaboración<br>del Lean ux y estructura de la aplicación, pero supimos implementar las soluciones con los compañeros a todas estas. Asimismo, Se modificó<br>los diferentes puntos del lean Ux, el canvas, los<br>assumptions y modificar nuestro objetivo</td>
+    <td>Orosco Orcotuma, Cristhian<br>TB1: <br>Se identificaron diferentes problemas en<br>base al desarrollo del trabajo tanto como la<br>identificación del producto, como la elaboración<br>del Lean ux y estructura de la aplicación, pero supimos implementar las soluciones con los compañeros a todas estas. Asimismo, Se modificó<br>los diferentes puntos del lean Ux, el canvas, los<br>assumptions y modificar nuestro objetivo <br> Liberato Susanibar, Piero Anthony <br> TB1: <br> Elabore el desarrrollo de la descripción de la startup, Antecedentes y problemática Lean UX Problem Statements, Análisis competitivo, Estrategias y tácticas frente a competidores y Software Architecture.  </td>
     <td></td>
   </tr>
   <tr>
     <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
-    <td>Orosco Orcotuma, Cristhian<br>TB1:<br>Para solucionar los problemas presentados<br>en el trabajo se usó las metodologías ágiles de<br>software para poder tener la mejor solución<br>posible. Asimismo, se tuvieron que aprender<br>nuevos conceptos acerca del Lean Ux, como<br>mejorar en base al trabajo anterior puntos para<br>definir mejor nuestra plataforma.</td>
+    <td>Orosco Orcotuma, Cristhian<br>TB1:<br>Para solucionar los problemas presentados<br>en el trabajo se usó las metodologías ágiles de<br>software para poder tener la mejor solución<br>posible. Asimismo, se tuvieron que aprender<br>nuevos conceptos acerca del Lean Ux, como<br>mejorar en base al trabajo anterior puntos para<br>definir mejor nuestra plataforma. <br> Liberato Susanibar, Piero Anthony <br> TB1: <br> Para este trabajo e realizado investigaciones apra conocer nuestro mercado, competidores, etc. Asi mismo entrevistar personas para conocer de primera mano sus necesidades y facilitarnos el proceso de desarrollo de nuestra organización.</td>
     <td></td>
   </tr>
 </tbody>
