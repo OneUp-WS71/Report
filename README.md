@@ -582,7 +582,13 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
 
 ## 2.3.5. As-is Scenario Mapping
 
+User - Cuidador
+
 <img src="Assets\AsIs.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+
+User - Supervisor
+
+<img src="Assets\AsIs2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 # 2.4. Ubiquitous Language
 
@@ -607,6 +613,16 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
   # Capítulo III: Requirements Specification
 
 # 3.1. To-Be Scenario Mapping
+
+
+User - Cuidador
+
+<img src="Assets\ToBe.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+
+User - Supervisor
+
+<img src="Assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+
 
 # 3.2. User Stories
 
