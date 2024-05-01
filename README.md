@@ -610,43 +610,486 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
 
 # 3.2. User Stories
 
-| **User Story ID** | **Título**                                                                           | **Descripción**                                                                                                                                                                                                               | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **EPIC ID** |
-|-------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| US01              | Acceso a la cuenta<br>(Web application)                                              | Como usuario de la aplicación.<br>Quiero acceder a mi cuenta de usuario.<br>Para poder verificar mi identidad<br>Y ver los datos de la persona cuidada.                                                                       | **Escenario: Ingreso incorrecto de datos**<br>Dado que el usuario está en la pantalla de acceso.<br>Cuando ingresa la contraseña y/o usuario incorrecto.<br>Entonces la página mosuestra un mensaje de<br>"Datos incorrectos".<br><br>**Escenario: Ingreso correcto de datos**<br>Dado que el usuario está en la pantalla de acceso.<br>Cuando ingresa la contraseña y/o usuario correcto.<br>Entonces el usuario es enviado a la página<br>principal.<br>Y se envia un mensaje al correo electrónico<br>afiliado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |             |
-| US02              | Acceso a la cuenta<br>(Mobile application)                                           | Como usuario de la aplicación.<br>Quiero acceder a mi cuenta de usuario.<br>Para poder verificar mi identidad<br>Y ver los datos de la persona cuidada.                                                                       | **Escenario: Ingreso incorrecto de datos**<br>Dado que el usuario está en la pantalla de acceso.<br>Cuando ingresa la contraseña y/o usuario incorrecto.<br>Entonces la página mosuestra un mensaje de<br>"Datos incorrectos".<br><br>**Escenario: Ingreso correcto de datos**<br>Dado que el usuario está en la pantalla de acceso.<br>Cuando ingresa la contraseña y/o usuario correcto.<br>Entonces el usuario es enviado a la página<br>principal.<br>Y se envia un mensaje al correo electrónico<br>afiliado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |             |
-| US03              | Registro de cuenta.<br>(Web Application)                                             | Como usuario de la aplicación.<br>Quiero poder registrarme en la aplicación.<br>Para poder comenzar con el monitoreo de<br>la persona a cuidar.                                                                               | **Escenario: Creación de la cuenta**<br>Dado que el usuario está en la pantalla de registro.<br>Cuando el usuario ingresa datos como correo<br>electrónico, nombre de usuario y contraseña<br>Entonces una nueva cuenta se crea<br>Y el usuario es llevado a la página principal.<br><br>**Escenario: Activación de la pulsera.**<br>Dado que el usuario tiene una cuenta<br>Y hay una pulsera afiliada a la cuenta.<br>Cuando la pulsera está prendida.<br>Entonces la pulsera actualiza los datos en la<br>base de datos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |
-| US04              | Registro de cuenta.<br>(Mobile Application)                                          | Como usuario de la aplicación.<br>Quiero poder registrarme en la aplicación.<br>Para poder comenzar con el monitoreo de<br>la persona a cuidar.                                                                               | **Escenario: Creación de la cuenta**<br>Dado que el usuario está en la pantalla de registro.<br>Cuando el usuario ingresa datos como correo<br>electrónico, nombre de usuario y contraseña<br>Entonces una nueva cuenta se crea<br>Y el usuario es llevado a la página principal.<br><br>**Escenario: Activación de la pulsera.**<br>Dado que el usuario tiene una cuenta<br>Y hay una pulsera afiliada a la cuenta.<br>Cuando la pulsera está prendida.<br>Entonces la pulsera actualiza los datos en la<br>base de datos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |
-| US05              | Edición de datos de la cuenta.                                                       | Como usuario de la aplicación.<br>Quiero poder editar ciertos datos<br>de mi cuenta como contraseña.<br>Para poder corregir errores<br>Y renovar la contraseña.                                                               | **Escenario: Editar nombre de usuario.**<br>Dado que el usuario está en la pantalla de actualización<br>de datos.<br>Cuando el usuario ingresa el nombre actualizado.<br>Entonces el nombre del usuario es actualizado.<br><br>**Escenario: Editar contraseña.**<br>Dado que el usuario está en la pantalla de actualización<br>de datos.<br>Cuando el usuario ingresa la contraseña actualizada.<br>Y ingresa la contraseña anterior<br>Y verifica a través de un correo electrónico.<br>Entonces se actualiza la contraseña de la cuenta.<br><br>**Escenario: Editar el correo electrónico<br>afiliado.**<br>Dado que el usuario está en la pantalla de actualización<br>de datos.<br>Cuando el usuario reingrese el correo electrónico<br>anterior <br>Y ingrese la contraseña para verificar<br>Entonces se actualizará el correo electrónico afiliado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |
-| US06              | Obtención de la información<br>sobre la persona cuidada.                             | Como usuario de la aplicación.<br>Quiero poder recibir información de la<br>pulsera.<br>Para poder tener constancia de la situación<br>de la persona que estoy cuidando.                                                      | **Escenario: Conexión con la pulsera.**<br>Dado que la pulsera está prendida<br>Cuando recibe una confirmación de afiliación con<br>una cuenta de un usuario.<br>Entonces la pulsera se afilia con la cuenta de tal<br>usuario.<br><br>**Escenario: Guardado de los datos<br>en una base de datos local.**<br>Dado que la pulsera está afiliada a una cuenta<br>Y se encuentra prendida.<br>Cuando se detecta algún cambio en el pulso cardiaco, <br>presión arterial o distancia de cierto punto.<br>Entonces se actualizan los datos dentro de la base<br>de datos local.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |
-| US07              | Visualización de la información sobre<br>la persona cuidada.<br>(Web application)    | Como usuario de la aplicación.<br>Quiero poder visualizar la información de la<br>pulsera.<br>Para poder tener constancia de la situación<br>de la persona que estoy cuidando<br>Y poder tomar medidas al respecto.           | **Escenario: Acceso a la pantalla de datos**<br>Dado a que el usuario se encuentra en la pantalla<br>principal.<br>Cuando el usuario seleccione la opción de visualizar la<br>información.<br>Entonces el usuario es enviado a una pantalla en dónde<br>de visualiza en tiempo real la presión arterial,<br>el pulso cardiaco y la distancia a cierto punto de la<br>pulsera.<br><br>**Escenario: Línea de tiempo de presión arterial**<br>Dado a que el usuario se encuentra en la pantalla de<br>visualización de datos.<br>Cuando presiona en la sección de presión arterial.<br>Entonces es llevado a una pantalla dónde hay una línea<br>de tiempo que recopila la presión arterial de los dos<br>últimos días.<br><br>**Escenario: Línea de tiempo de pulso cardiaco**<br>Dado a que el usuario se encuentra en la pantalla de<br>visualización de datos.<br>Cuando presiona en la sección de pulso cardiaco.<br>Entonces es llevado a una pantalla dónde hay<br>una línea de tiempo que recopila el pulso<br>cardiaco los dos últimos días.                                                                                                                                                                                                                                                                                                                   |             |
-| US08              | Visualización de la información sobre<br>la persona cuidada.<br>(Mobile application) | Como usuario de la aplicación.<br>Quiero poder visualizar la información de la<br>pulsera.<br>Para poder tener constancia de la situación<br>de la persona que estoy cuidando<br>Y poder tomar medidas al respecto.           | **Escenario: Acceso a la pantalla de datos**<br>Dado a que el usuario se encuentra en la pantalla<br>principal.<br>Cuando el usuario seleccione la opción de visualizar la<br>información.<br>Entonces el usuario es enviado a una pantalla en dónde<br>de visualiza en tiempo real la presión arterial,<br>el pulso cardiaco y la distancia a cierto punto de la<br>pulsera.<br><br>**Escenario: Línea de tiempo de presión arterial**<br>Dado a que el usuario se encuentra en la pantalla de<br>visualización de datos.<br>Cuando presiona en la sección de presión arterial.<br>Entonces es llevado a una pantalla dónde hay una línea<br>de tiempo que recopila la presión arterial de los dos<br>últimos días.<br><br>**Escenario: Línea de tiempo de pulso cardiaco**<br>Dado a que el usuario se encuentra en la pantalla de<br>visualización de datos.<br>Cuando presiona en la sección de pulso cardiaco.<br>Entonces es llevado a una pantalla dónde hay<br>una línea de tiempo que recopila el pulso<br>cardiaco los dos últimos días.                                                                                                                                                                                                                                                                                                                   |             |
-| US09              | Generar alarmas cuando se detecten<br>emergencias en la persona cuidada.             | Como usuario de la aplicación.<br>Quiero recibir alarmas en caso que se suceda<br>alguna emergencia.<br>Para poder tomar medidas al respecto.                                                                                 | **Escenario: Lectura anormal de pulso cardiaco.**<br>Dado a que la pulsera se encuentra afiliada a una cuenta<br>Y está prendida.<br>Cuando detecta una pulso cardiaco alto o bajo<br>(mayor a 100bpm o menor a 60 bpm).<br>Entonces la pulsera envía una notificación con alarma<br>al usuario con detalles del incidente, incluyendo<br>posición, pulso cardiaco y hora del incidente.<br><br>**Escenario: Lectura de presión arterial alta.**<br>Dado a que la pulsera se encuentra afiliada a una cuenta<br>Y está prendida.<br>Cuando detecta una presión arterial alta o baja (mayor a<br>140/90 mmHG o menor a 90/60 mmHG)<br>Entonces la pulsera envía una notificación con alarma<br>al usuario con detalles del incidente, incluyendo<br>posición, presión arterial y hora del incidente.<br><br>**Escenario: Lectura de distancia límite.**<br>Dado a que la pulsera se encuentra afiliada a una cuenta<br>Y está prendida<br>Y tiene un punto de referencia al cual referir la<br>distancia.<br>Cuando detecta que el punto de referencia está a una<br>distancia mayor (alrededor de 15 metros, pero<br>depende del usuario)<br>Entonces la pulsera envía una notificación con alarma<br>al usuario con detalles del incidente, incluyendo posición<br>al momento de generarse la emergencia, presión arterial,<br>pulso cardiaco y hora del incidente. |             |
-| US10              | Sección About Us                                                                     | Como visitante de la página destino<br>Quiero poder visualizar la información<br>del grupo de desarrolladores<br>Para poder confirmar que los desarrolladores<br>tienen experiencia anterior en el<br>desarrollo de software. | **Escenario: Misión de la empresa**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección sobre la empresa<br>Entonces el visitante visualiza un párrafo sobre la<br>misión de la empresa.<br><br>**Escenario: Visión de la empresa**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección sobre la empresa<br>Entonces el visitante visualiza un párrafo sobre<br>la visión de la empresa.<br><br>**Escenario: Integrantes de la empresa**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección sobre la empresa<br>Entonces el visitante visualiza varios párrafos<br>sobre cada uno de los desarrolladores de la<br>aplicación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |             |
-| US11              | Sección About the Product                                                            | Como visitante de la página de destino<br>Quiero poder visualizar la información<br>del producto<br>Para poder verificar las funcionalidades de<br>la aplicación antes de probarla.                                           | **Escenario: Descripción general de la aplicación**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección sobre la empresa<br>Entonces el visitante visualiza un párrafo corto<br>sobre el valor principal de la aplicación.<br><br>**Escenario: Funcionalidades de la aplicación**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección sobre la empresa<br>Entonces el visitante visualiza varios párrafos sobre<br>funcionalidades de la aplicación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             |
-| US12              | Sección Contacto                                                                     | Como visitante de la página de destino<br>Quiero poder enviar un mensaje <br>Para poder informar de errores o problemas<br>con la aplicación con el equipo<br>desarrollador.                                                  | **Escenario: Insertar mensaje.**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección de contacto<br>E ingresa un texto<br>Y envía el mensaje<br>Entonces un mensaje es enviado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |             |
-| US13              | Sección de Redes Sociales                                                            | Como visitante de la página<br>Quiero poder acceder a las redes sociales<br>de la empresa<br>Para poder ver distintas novedades<br>relacionadas a políticas de la empresa<br>o cambios en la aplicación.                      | **Escenario: Facebook**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja al pie de la página<br>y seleccione la opción de Facebook<br>Entonces el visitante es dirigido a la página de Facebook<br>de la empresa.<br><br>**Escenario: Instagram**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja al pie de la página<br>y seleccione la opción de Instagram<br>Entonces el visitante es dirigido a la página de<br>Instagram de la empresa.<br><br>**Escenario: Twitter**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja al pie de la página<br>y seleccione la opción de Twitter<br>Entonces el visitante es dirigido a la página de Twitter<br>de la empresa.                                                    |       |             |
-| US014 	| Configuración de Notificaciones de Medicamentos<br>(Mobile application) 	| Como usuario de la aplicación móvil, quiero poder configurar recordatorios para los medicamentos del adulto mayor, para asegurarme de que se administren a tiempo. 	| Escenario: Configurar recordatorio<br>Dado que el usuario está en la pantalla de gestión de medicamentos.<br>Cuando selecciona la opción para agregar un nuevo medicamento.<br>Entonces se le solicita ingresar detalles como el nombre del medicamento, la dosis, la frecuencia y la hora de administración.<br><br>Escenario: Activar notificaciones<br>Dado que el usuario ha agregado un nuevo medicamento.<br>Cuando activa la opción para recibir notificaciones para ese medicamento.<br>Entonces se programan automáticamente notificaciones diarias en la hora especificada para recordar la administración del medicamento. 	|
-| US015	| Configuración de notificaciones <br>(Mobile application)  	| Como usuario de la aplicación, quiero poder configurar las notificaciones de emergencia para adaptarlas a mis preferencias y necesidades específicas.  	| Escenario: Configuración de preferencias de notificación  <br>Dado que el usuario está en la pantalla de configuración de notificaciones.  <br>Cuando selecciona la opción para configurar las preferencias de notificación.  <br>Entonces se le presenta la posibilidad de activar o desactivar notificaciones para diferentes tipos de emergencias, como lecturas anormales de pulso cardiaco, presión arterial alta, o distancias límite.<br>  <br>Escenario: Guardado de preferencias de notificación  <br>Dado que el usuario ha configurado sus preferencias de notificación.  <br>Cuando guarda los cambios realizados.  <br>Entonces las preferencias de notificación se guardan en la cuenta del usuario y se aplican en futuras situaciones de emergencia. 	|
-| US016 	| Acceso a registros históricos<br>(Mobile application) 	| Como usuario de la aplicación, quiero  poder acceder a registros históricos de la salud y ubicación del adulto mayor para realizar un seguimiento a largo plazo y detectar tendencias. 	| Escenario: Acceso a registros históricos de salud<br>Dado que el usuario está en la pantalla de visualización de datos.<br>Cuando selecciona la opción para ver registros históricos de salud.<br>Entonces se le muestra una lista de fechas y puede seleccionar una para ver los datos de salud registrados en esa fecha.<br><br>Escenario: Acceso a registros históricos de ubicación<br>Dado que el usuario está en la pantalla de visualización de datos.<br>Cuando selecciona la opción para ver registros históricos de ubicación.<br>Entonces se le muestra una lista de fechas y puede seleccionar una para ver la ubicación registrada del adulto mayor en esa fecha. 	|
-| US017 	| Registro de múltiples cuentas de cuidadores (Mobile application) 	| Como usuario de la aplicación, quiero  poder registrar y alternar entre múltiples cuentas de cuidadores para supervisar a diferentes adultos mayores a mi cargo.  	| Escenario: Registro de una nueva cuenta de cuidador  <br>Dado que el usuario está en la pantalla de gestión de cuentas.  <br>Cuando selecciona la opción para agregar una nueva cuenta de cuidador.  <br>Entonces se le solicitan los datos necesarios para crear una nueva cuenta, como correo electrónico, nombre de usuario y contraseña.<br>  <br>Escenario: Alternar entre cuentas de cuidadores  <br>Dado que el usuario tiene múltiples cuentas de cuidador registradas.  <br>Cuando selecciona la opción para cambiar de cuenta.  <br>Entonces se le presenta una lista de las cuentas registradas y puede seleccionar la que desea utilizar en ese momento. 	|
-| US018 	| Configurar alertas personalizadas<br>(Mobile application) 	| Como usuario de la aplicación, quiero  poder configurar alertas personalizadas para recibir notificaciones específicas sobre la salud y seguridad del adulto mayor según mis necesidades y preferencias. 	| Escenario: Configurar alertas de medicamentos<br>Dado que el usuario está en la pantalla de configuración de alertas.<br>Cuando selecciona la opción para configurar alertas de medicamentos.<br>Entonces se le presenta la posibilidad de ingresar los horarios y nombres de los medicamentos, así como la dosis, para recibir recordatorios personalizados.<br><br>Escenario: Configurar alertas de actividades<br>Dado que el usuario está en la pantalla de configuración de alertas.<br>Cuando selecciona la opción para configurar alertas de actividades, como citas médicas o ejercicios.<br>Entonces se le presenta la posibilidad de ingresar los detalles de la actividad y recibir recordatorios en el momento deseado. 	|
-| US019 	| Seguimiento de la ubicación del adulto mayor<br>(Mobile application) 	| Como usuario de la aplicación, quiero  poder realizar un seguimiento de la ubicación del adulto mayor en tiempo real para garantizar su seguridad y poder responder rápidamente en caso de emergencia. 	| Escenario: Visualizar ubicación en el mapa<br>Dado que el usuario está en la pantalla principal de la aplicación.<br>Cuando selecciona la opción para ver la ubicación del adulto mayor.<br>Entonces se muestra un mapa con la ubicación actual del adulto mayor en tiempo real.<br><br>Escenario: Notificación de salida de zona segura<br>Dado que el usuario ha establecido una zona segura para el adulto mayor.<br>Cuando el adulto mayor sale de esta zona.<br>Entonces el usuario recibe una notificación en su dispositivo móvil para informarle sobre la salida de la zona segura. 	|
-| US020 	| Agregar lista de medicamentos con recordatorio<br>(Mobile application) 	| Como usuario de la aplicación, quiero  poder crear y gestionar una lista de medicamentos para el adulto mayor, así como recibir recordatorios para administrarlos correctamente y a tiempo. 	| Escenario: Agregar medicamento a la lista<br>Dado que el usuario está en la pantalla de gestión de medicamentos.<br>Cuando selecciona la opción para agregar un nuevo medicamento.<br>Entonces se le solicita que ingrese el nombre del medicamento, la dosis, la frecuencia y los horarios de administración.<br><br>Escenario: Configurar recordatorio para el medicamento<br>Dado que el usuario ha agregado un nuevo medicamento a la lista.<br>Cuando selecciona la opción para configurar un recordatorio para ese medicamento.<br>Entonces se le permite establecer el horario y la frecuencia de los recordatorios para garantizar que el medicamento se administre puntualmente. 	|
-| US021 	| Historial de ubicaciones del adulto mayor<br>(Mobile application) 	| Como usuario de la aplicación, quiero  poder acceder al historial de ubicaciones del adulto mayor para poder realizar un seguimiento de sus movimientos y patrones de comportamiento a lo largo del tiempo. 	| Escenario: Acceder al historial de ubicaciones<br>Dado que el usuario está en la pantalla de visualización de ubicaciones.<br>Cuando selecciona la opción para ver el historial de ubicaciones del adulto mayor.<br>Entonces se muestra una lista cronológica de todas las ubicaciones registradas del adulto mayor, con detalles como fecha, hora y descripción de la ubicación.<br><br>Escenario: Filtrar el historial de ubicaciones<br>Dado que el usuario está viendo el historial de ubicaciones del adulto mayor.<br>Cuando selecciona la opción para aplicar filtros, como fecha o ubicación específica.<br>Entonces se muestra una lista filtrada que cumple con los criterios seleccionados por el usuario. 	|
-| US022 	| Registrar un nuevo usuario(Back-end)| Como desarrollador, quiero poder agregar un nuevo usuario al sistema mediante una solicitud POST “API/V1/user”, proporcionando detalles como nombre, correo electrónico y contraseña, para permitir el login de nuevos usuarios en la plataforma. 	| Escenario:Ingreso de correo invalido <br>Dado que el usuario está registrándose<br>Cuando ingresa un correo invalido<br>Entonces la página muestra un mensaje de"correo invalido ".<br>Escenario: Ingreso correcto de correo.<br>Dado que el usuario está registrándose.<br>Cuando ingresa el correo correctamente.<br>Entonces el usuario es enviado a la página<br>principal.<br>Y se envía un mensaje al correo electrónico afiliado.|
-| US023 	| Agregar personas enfermas (back-end)|  Como desarrollador, quiero poder agregar una persona al cuidado de un usuario mediante una solicitud POST “API/V1/user/patient”, proporcionando detalles como nombre, dirección, edad, sexo y enfermedad, para que el usuario pueda cuidar de ellos con mayor facilidad.	|  <b>Escenario:</b> Ingreso de usuario<br>Dado que el usuario está registrándose<br>Cuando ingresa un correo invalido<br>Entonces la página muestra un mensaje de"correo invalido ".<br>Escenario: Ingreso correcto de correo.<br>Dado que el usuario está registrándose.<br>Cuando ingresa el correo correctamente.<br>Entonces el usuario es enviado a la página principal.<br>Y se envía un mensaje al correo electrónico afiliado.|
-| US024 	| Iniciar sesión (backend)|  Como desarrollador, quiero implementar un endpoint en el backend para que los usuarios inicien sesión enviando una solicitud POST a "/API/V1/usuarios/login", permitiendo un acceso seguro a la plataforma.	| Escenario: Inicio de sesión exitoso<br>Dado que el usuario ha ingresado sus credenciales correctamente<br>Cuando envía una solicitud POST a "/API/V1/usuarios/login" con su correo electrónico y contraseña válidos<br>Entonces el backend verifica las credenciales<br>Y devuelve un código de estado 200 junto con un token de sesión válido<br>Escenario: Inicio de sesión fallido<br>Dado que el usuario ha ingresado credenciales incorrectas<br>Cuando envía una solicitud POST a "/API/V1/usuarios/login" con información incorrecta<br>Entonces el backend rechaza la solicitud<br>Y devuelve un mensaje de error indicando que las credenciales son inválidas|
-| US025 	| Recuperar contraseña (Backend)| Como desarrollador, quiero diseñar un endpoint en el backend para permitir que los usuarios recuperen su contraseña mediante una solicitud POST a "/API/V1/usuarios/recuperar-contraseña", para proporcionar una solución efectiva en caso de olvido de la contraseña..|  Escenario: Recuperación de contraseña exitosa<br>Dado que el usuario ha olvidado su contraseña y desea restablecerla.Cuando envía una solicitud POST a "/API/V1/usuarios/recuperar-contraseña" proporcionando su correo electrónico registrado<br>Entonces el backend genera un enlace de restablecimiento de contraseña y lo envía al correo electrónico registrado del usuario<br>Escenario: Correo electrónico no registrado<br>Dado que el usuario proporciona un correo electrónico que no está registrado en la plataforma<br>Cuando envía una solicitud POST a "/API/V1/usuarios/recuperar-contraseña".Entonces el backend responde con un mensaje indicando que el correo electrónico no está asociado a ninguna cuenta|
-|US26|Actualizar Información (backend)|<p>**Como** desarrollador, **quiero** crear un endpoint en el backend **para** permitir que los usuarios actualicen su información personal mediante una solicitud PUT a "/API/V1/usuarios/informacion", para mantener actualizados sus perfiles.</p><p></p>|<p>**Escenario: Actualización exitosa de información**</p><p>Dado que el usuario desea actualizar su información personal.Cuando envía una solicitud PUT a"/API/V1/usuarios/informacion" con los campos a actualizar</p><p>Entonces el backend actualiza la información del usuario en la base de datos</p><p>Y devuelve un código de estado 200 junto con un mensaje de éxito</p><p>**Escenario: Campos inválidos**</p><p>**Dado que el usuario** proporciona campos inválidos o incompletos para la actualización .Cuando envía una solicitud PUT a"/API/V1/usuarios/informacion"</p><p>Entonces el backend responde con un mensaje de error indicando los campos que deben corregirse</p>|
-|US27|Eliminar Cuenta(backend)|<p>**Como** desarrollador, **quiero** implementar un endpoint en el backend **para** permitir que los usuarios eliminen su cuenta mediante una solicitud DELETE a "/API/V1/usuarios/cuenta", asegurando la integridad de los datos y la privacidad del usuario.</p><p></p>|<p>**Escenario: Eliminación exitosa de la cuenta**</p><p>Dado que el usuario desea eliminar permanentemente su cuenta</p><p>Cuando envía una solicitud DELETE a "/API/V1/usuarios/cuenta"</p><p>Entonces el backend elimina todos los datos asociados con la cuenta del usuario</p><p>Y devuelve un código de estado 200 junto con un mensaje de confirmación</p><p>**Escenario: Error en la eliminación de cuenta**</p><p>Dado que ocurre un error durante el proceso de eliminación de la cuenta</p><p>Cuando envía una solicitud DELETE a "/API/V1/usuarios/cuenta"</p><p>Entonces el backend responde con un mensaje de error indicando que la eliminación de la cuenta no fue exitosa</p>|
-|US28|Endpoint Soporte (backend)|<p>**Como** desarrollador, **quiero** diseñar un endpoint en el backend **para** permitir que los usuarios envíen una solicitud de ayuda mediante una solicitud POST a "/API/V1/usuarios/solicitar-ayuda", para ofrecer un soporte eficiente y satisfactorio.</p><p></p>|<p>**Escenario: Solicitud de ayuda enviada con éxito**</p><p>Dado que el usuario necesita ayuda o asistencia técnica</p><p>Cuando envía una solicitud POST a "/API/V1/usuarios/solicitar-ayuda" proporcionando detalles del problema</p><p>Entonces el backend registra la solicitud de ayuda y la asigna al departamento correspondiente</p><p>Y devuelve un código de estado 200 junto con un mensaje de confirmación</p><p>**Escenario: Campos vacíos en la solicitud de ayuda**</p><p>Dado que el usuario envía una solicitud de ayuda con campos vacíos</p><p>Cuando envía una solicitud POST a "/API/V1/usuarios/solicitar-ayuda" sin proporcionar detalles del problema</p><p>Entonces el backend responde con un mensaje de error indicando que los campos son obligatorios y deben completarse</p>|
-|US29|Proceso de ventas|**Como** desarrollador, **quiero** implementar un endpoint en el backend **para** procesar las ventas realizadas por los usuarios, de modo que se actualicen los registros de inventario y se registren las transacciones correspondientes en la base de datos.|<p>**Escenario: Procesamiento exitoso de una venta**</p><p>Dado que un usuario realiza una compra de un producto en la plataforma</p><p>Cuando se envía una solicitud POST a "/API/V1/ventas" con los detalles de la venta, incluyendo el ID del usuario, el ID del producto y la cantidad comprada</p><p>Entonces el backend actualiza el inventario </p><p>Y registra la transacción de venta en la base de datos, incluyendo detalles como el usuario que realizó la compra, el producto comprado, la cantidad adquirida y la dirección.</p><p></p><p>Escenario: Error en el procesamiento de la venta</p><p></p><p>Dado que ocurre un error durante el procesamiento de la venta, como un producto fuera de stock o un error interno del servidor</p><p>Cuando se envía una solicitud POST a "/API/V1/ventas" con los detalles de la venta</p><p>Entonces el backend responde con un código 400</p><p>Y devuelve un mensaje de error descriptivo indicando la causa del problema .</p>|
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Epic ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Título&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Desarrollo del Landing&nbsp;&nbsp;&nbsp;page&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Se centra en el&nbsp;&nbsp;&nbsp;desarrollo del sitio web estático para la empresa. Incluye la creación de las&nbsp;&nbsp;&nbsp;diferentes secciones y funcionalidades necesarias para proporcionar&nbsp;&nbsp;&nbsp;información relevante sobre la empresa y el producto.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Autenticación y&nbsp;&nbsp;&nbsp;Registro de Usuarios&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Abarca las&nbsp;&nbsp;&nbsp;funcionalidades relacionadas con la autenticación y el registro de usuarios&nbsp;&nbsp;&nbsp;en la aplicación, tanto en la versión web como móvil.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Monitorización y&nbsp;&nbsp;&nbsp;Seguimiento de la Persona Cuidada&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Se enfoca en las&nbsp;&nbsp;&nbsp;funcionalidades relacionadas con la monitorización y seguimiento en tiempo&nbsp;&nbsp;&nbsp;real de la persona a cuidar, así como la visualización de datos históricos y&nbsp;&nbsp;&nbsp;la configuración de alertas.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de&nbsp;&nbsp;&nbsp;Configuraciones y Notificaciones&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Las&nbsp;&nbsp;&nbsp;funcionalidades relacionadas con la configuración de notificaciones y alertas&nbsp;&nbsp;&nbsp;personalizadas, así como la gestión de configuraciones de cuenta y&nbsp;&nbsp;&nbsp;medicamentos.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Desarrollo del&nbsp;&nbsp;&nbsp;Back-end&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Se enfoca en el&nbsp;&nbsp;&nbsp;desarrollo del back-end de la aplicación&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Conexión con&nbsp;&nbsp;&nbsp;Dispositivos de Monitoreo&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>La integración con&nbsp;&nbsp;&nbsp;dispositivos de monitoreo de salud externos, así como la implementación de&nbsp;&nbsp;&nbsp;notificaciones push y análisis de datos.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>User Story ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Título&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Criterios de Aceptación&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>EPIC ID&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a la cuenta<br>&nbsp;&nbsp;&nbsp;(Web application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero acceder a mi cuenta de usuario.<br>&nbsp;&nbsp;&nbsp;Para poder verificar mi identidad<br>&nbsp;&nbsp;&nbsp;Y ver los datos de la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Ingreso incorrecto de datos  <br> Dado que el usuario está en la pantalla de acceso.<br>   Cuando ingresa la contraseña y/o usuario incorrecto.<br>   Entonces la página muestra un mensaje de<br>   "Datos incorrectos".<br>   <br>   Escenario: Ingreso correcto de datos<br>   Dado que el usuario está en la pantalla de acceso.<br>   Cuando ingresa la contraseña y/o usuario correcto.<br>   Entonces el usuario es enviado a la página<br>   principal.<br>   Y se envia un mensaje al correo electrónico<br>   afiliado.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a la cuenta<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero acceder a mi cuenta de usuario.<br>&nbsp;&nbsp;&nbsp;Para poder verificar mi identidad<br>&nbsp;&nbsp;&nbsp;Y ver los datos de la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Ingreso incorrecto de datos   <br>Dado que el usuario está en la pantalla de acceso.<br>   Cuando ingresa la contraseña y/o usuario incorrecto.<br>   Entonces la página mosuestra un mensaje de<br>   "Datos incorrectos".<br>   <br>   Escenario: Ingreso correcto de datos<br>   Dado que el usuario está en la pantalla de acceso.<br>   Cuando ingresa la contraseña y/o usuario correcto.<br>   Entonces el usuario es enviado a la página<br>   principal.<br>   Y se envia un mensaje al correo electrónico<br>   afiliado.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de cuenta.<br>&nbsp;&nbsp;&nbsp;(Web Application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder registrarme en la aplicación.<br>&nbsp;&nbsp;&nbsp;Para poder comenzar con el monitoreo de<br>&nbsp;&nbsp;&nbsp;la persona a cuidar.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Creación de la cuenta   <br>Dado que el usuario está en la pantalla de registro.<br>   Cuando el usuario ingresa datos como correo<br>   electrónico, nombre de usuario y contraseña<br>   Entonces una nueva cuenta se crea<br>   Y el usuario es llevado a la página principal.<br>   <br>   Escenario: Activación de la pulsera.<br>   Dado que el usuario tiene una cuenta<br>   Y hay una pulsera afiliada a la cuenta.<br>   Cuando la pulsera está prendida.<br>   Entonces la pulsera actualiza los datos en la<br>   base de datos.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de cuenta.<br>&nbsp;&nbsp;&nbsp;(Mobile Application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder registrarme en la aplicación.<br>&nbsp;&nbsp;&nbsp;Para poder comenzar con el monitoreo de<br>&nbsp;&nbsp;&nbsp;la persona a cuidar.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Creación de la cuenta   <br>Dado que el usuario está en la pantalla de registro.<br>   Cuando el usuario ingresa datos como correo<br>   electrónico, nombre de usuario y contraseña<br>   Entonces una nueva cuenta se crea<br>   Y el usuario es llevado a la página principal.<br>   <br>   Escenario: Activación de la pulsera.<br>   Dado que el usuario tiene una cuenta<br>   Y hay una pulsera afiliada a la cuenta.<br>   Cuando la pulsera está prendida.<br>   Entonces la pulsera actualiza los datos en la<br>   base de datos.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Edición de datos de la cuenta.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder editar ciertos datos<br>&nbsp;&nbsp;&nbsp;de mi cuenta como contraseña.<br>&nbsp;&nbsp;&nbsp;Para poder corregir errores<br>&nbsp;&nbsp;&nbsp;Y renovar la contraseña.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Editar nombre de usuario.&nbsp;&nbsp;&nbsp;Dado que el usuario está en la pantalla de actualización<br>&nbsp;&nbsp;&nbsp;de datos.<br>&nbsp;&nbsp;&nbsp;Cuando el usuario ingresa el nombre actualizado.<br>&nbsp;&nbsp;&nbsp;Entonces el nombre del usuario es actualizado.<br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Escenario: Editar contraseña.<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está en la pantalla de actualización<br>&nbsp;&nbsp;&nbsp;de datos.<br>&nbsp;&nbsp;&nbsp;Cuando el usuario ingresa la contraseña actualizada.<br>&nbsp;&nbsp;&nbsp;Y ingresa la contraseña anterior<br>&nbsp;&nbsp;&nbsp;Y verifica a través de un correo electrónico.<br>&nbsp;&nbsp;&nbsp;Entonces se actualiza la contraseña de la cuenta.<br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Escenario: Editar el correo electrónico<br>&nbsp;&nbsp;&nbsp;afiliado.<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está en la pantalla de actualización<br>&nbsp;&nbsp;&nbsp;de datos.<br>&nbsp;&nbsp;&nbsp;Cuando el usuario reingrese el correo electrónico<br>&nbsp;&nbsp;&nbsp;anterior<br>&nbsp;&nbsp;&nbsp;Y ingrese la contraseña para verificar<br>&nbsp;&nbsp;&nbsp;Entonces se actualizará el correo electrónico afiliado.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Obtención de la información<br>&nbsp;&nbsp;&nbsp;sobre la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder recibir información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Conexión con la pulsera.   <br>Dado que la pulsera está prendida<br>   Cuando recibe una confirmación de afiliación con<br>   una cuenta de un usuario.<br>   Entonces la pulsera se afilia con la cuenta de tal<br>   usuario.<br>   <br>   Escenario: Guardado de los datos<br>   en una base de datos local.<br>   Dado que la pulsera está afiliada a una cuenta<br>   Y se encuentra prendida.<br>   Cuando se detecta algún cambio en el pulso cardiaco,<br>   presión arterial o distancia de cierto punto.<br>   Entonces se actualizan los datos dentro de la base<br>   de datos local.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US07&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Visualización de la información sobre<br>&nbsp;&nbsp;&nbsp;la persona cuidada.<br>&nbsp;&nbsp;&nbsp;(Web application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando<br>&nbsp;&nbsp;&nbsp;Y poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Acceso a la pantalla de datos   <br>Dado a que el usuario se encuentra en la pantalla<br>   principal.<br>   Cuando el usuario seleccione la opción de visualizar la<br>   información.<br>   Entonces el usuario es enviado a una pantalla en dónde<br>   de visualiza en tiempo real la presión arterial,<br>   el pulso cardiaco y la distancia a cierto punto de la<br>   pulsera.<br>   <br>   Escenario: Línea de tiempo de presión arterial<br>   Dado a que el usuario se encuentra en la pantalla de<br>   visualización de datos.<br>   Cuando presiona en la sección de presión arterial.<br>   Entonces es llevado a una pantalla dónde hay una línea<br>   de tiempo que recopila la presión arterial de los dos<br>   últimos días.<br>   <br>   Escenario: Línea de tiempo de pulso cardiaco<br>   Dado a que el usuario se encuentra en la pantalla de<br>   visualización de datos.<br>   Cuando presiona en la sección de pulso cardiaco.<br>   Entonces es llevado a una pantalla dónde hay<br>   una línea de tiempo que recopila el pulso<br>   cardiaco los dos últimos días.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US08&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Visualización de la información sobre<br>&nbsp;&nbsp;&nbsp;la persona cuidada.<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando<br>&nbsp;&nbsp;&nbsp;Y poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Acceso a la pantalla de datos  <br> Dado a que el usuario se encuentra en la pantalla<br>   principal.<br>   Cuando el usuario seleccione la opción de visualizar la<br>   información.<br>   Entonces el usuario es enviado a una pantalla en dónde<br>   de visualiza en tiempo real la presión arterial,<br>   el pulso cardiaco y la distancia a cierto punto de la<br>   pulsera.<br>   <br>   Escenario: Línea de tiempo de presión arterial<br>   Dado a que el usuario se encuentra en la pantalla de<br>   visualización de datos.<br>   Cuando presiona en la sección de presión arterial.<br>   Entonces es llevado a una pantalla dónde hay una línea<br>   de tiempo que recopila la presión arterial de los dos<br>   últimos días.<br>   <br>   Escenario: Línea de tiempo de pulso cardiaco<br>   Dado a que el usuario se encuentra en la pantalla de<br>   visualización de datos.<br>   Cuando presiona en la sección de pulso cardiaco.<br>   Entonces es llevado a una pantalla dónde hay<br>   una línea de tiempo que recopila el pulso<br>   cardiaco los dos últimos días.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US09&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Generar alarmas cuando se detecten<br>&nbsp;&nbsp;&nbsp;emergencias en la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero recibir alarmas en caso que se suceda<br>&nbsp;&nbsp;&nbsp;alguna emergencia.<br>&nbsp;&nbsp;&nbsp;Para poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Lectura anormal de pulso cardiaco.  <br> Dado a que la pulsera se encuentra afiliada a una cuenta<br>   Y está prendida.<br>   Cuando detecta una pulso cardiaco alto o bajo<br>   (mayor a 100bpm o menor a 60 bpm).<br>   Entonces la pulsera envía una notificación con alarma<br>   al usuario con detalles del incidente, incluyendo<br>   posición, pulso cardiaco y hora del incidente.<br>   <br>   Escenario: Lectura de presión arterial alta.<br>   Dado a que la pulsera se encuentra afiliada a una cuenta<br>   Y está prendida.<br>   Cuando detecta una presión arterial alta o baja (mayor a<br>   140/90 mmHG o menor a 90/60 mmHG)<br>   Entonces la pulsera envía una notificación con alarma<br>   al usuario con detalles del incidente, incluyendo<br>   posición, presión arterial y hora del incidente.<br>   <br>   Escenario: Lectura de distancia límite.<br>   Dado a que la pulsera se encuentra afiliada a una cuenta<br>   Y está prendida<br>   Y tiene un punto de referencia al cual referir la<br>   distancia.<br>   Cuando detecta que el punto de referencia está a una<br>   distancia mayor (alrededor de 15 metros, pero<br>   depende del usuario)<br>   Entonces la pulsera envía una notificación con alarma<br>   al usuario con detalles del incidente, incluyendo posición<br>   al momento de generarse la emergencia, presión arterial,<br>   pulso cardiaco y hora del incidente.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US10&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección About Us&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página destino<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información<br>&nbsp;&nbsp;&nbsp;del grupo de desarrolladores<br>&nbsp;&nbsp;&nbsp;Para poder confirmar que los desarrolladores<br>&nbsp;&nbsp;&nbsp;tienen experiencia anterior en el<br>&nbsp;&nbsp;&nbsp;desarrollo de software.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Misión de la empresa  <br> Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección sobre la empresa<br>   Entonces el visitante visualiza un párrafo sobre la<br>   misión de la empresa.<br>   <br>   Escenario: Visión de la empresa<br>   Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección sobre la empresa<br>   Entonces el visitante visualiza un párrafo sobre<br>   la visión de la empresa.<br>   <br>   Escenario: Integrantes de la empresa<br>   Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección sobre la empresa<br>   Entonces el visitante visualiza varios párrafos<br>   sobre cada uno de los desarrolladores de la<br>   aplicación.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US11&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección About the Product&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página de destino<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información<br>&nbsp;&nbsp;&nbsp;del producto<br>&nbsp;&nbsp;&nbsp;Para poder verificar las funcionalidades de<br>&nbsp;&nbsp;&nbsp;la aplicación antes de probarla.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Descripción general de la aplicación   <br>Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección sobre la empresa<br>   Entonces el visitante visualiza un párrafo corto<br>   sobre el valor principal de la aplicación.<br>   <br>   Escenario: Funcionalidades de la aplicación<br>   Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección sobre la empresa<br>   Entonces el visitante visualiza varios párrafos sobre<br>   funcionalidades de la aplicación.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US12&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección Contacto&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página de destino<br>&nbsp;&nbsp;&nbsp;Quiero poder enviar un mensaje<br>&nbsp;&nbsp;&nbsp;Para poder informar de errores o problemas<br>&nbsp;&nbsp;&nbsp;con la aplicación con el equipo<br>&nbsp;&nbsp;&nbsp;desarrollador.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Insertar mensaje.   <br>Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección de contacto<br>   E ingresa un texto<br>   Y envía el mensaje<br>   Entonces un mensaje es enviado   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US13&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección de Redes Sociales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página<br>&nbsp;&nbsp;&nbsp;Quiero poder acceder a las redes sociales<br>&nbsp;&nbsp;&nbsp;de la empresa<br>&nbsp;&nbsp;&nbsp;Para poder ver distintas novedades<br>&nbsp;&nbsp;&nbsp;relacionadas a políticas de la empresa<br>&nbsp;&nbsp;&nbsp;o cambios en la aplicación.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Facebook  <br> Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja al pie de la página<br>   y seleccione la opción de Facebook<br>   Entonces el visitante es dirigido a la página de Facebook<br>   de la empresa.<br>   <br>   Escenario: Instagram<br>   Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja al pie de la página<br>   y seleccione la opción de Instagram<br>   Entonces el visitante es dirigido a la página de<br>   Instagram de la empresa.<br>   <br>   Escenario: Twitter<br>   Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja al pie de la página<br>   y seleccione la opción de Twitter<br>   Entonces el visitante es dirigido a la página de Twitter<br>   de la empresa.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US014&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configuración de Notificaciones de Medicamentos<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil,&nbsp;&nbsp;&nbsp;quiero poder configurar los recordatorios de medicamentos del adulto mayor,&nbsp;&nbsp;&nbsp;para asegurarme que se administren a tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Configurar Recordatorio<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está gestionando la lista de medicamentos.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario quiere modificar un recordatorio de algún medicamento.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le solicita modificar el nombre del medicamento, la dosis, la frecuencia y&nbsp;&nbsp;&nbsp;la hora de administración.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Activar Notificaciones<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario agrega un nuevo medicamento.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario activa las notificaciones para ese medicamento.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se programan automáticamente notificaciones diarias para recordar la&nbsp;&nbsp;&nbsp;administración del medicamento.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US015&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configuración de notificaciones<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil,&nbsp;&nbsp;&nbsp;quiero poder configurar las notificaciones de emergencia para adaptarlas a&nbsp;&nbsp;&nbsp;mis preferencias y necesidades específicas.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Configuración de Preferencias de Notificación<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está en la sección de configuración.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;ajusta las preferencias de notificación.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se presenta la posibilidad de activar o desactivar notificaciones para&nbsp;&nbsp;&nbsp;diferentes tipos de emergencias.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Guardado de Preferencias de Notificación<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario configura sus preferencias de notificación.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;guarda los cambios realizados.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;las preferencias de notificación se guardan y se aplican en futuras&nbsp;&nbsp;&nbsp;situaciones de emergencia.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US016&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a registros históricos<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil,&nbsp;&nbsp;&nbsp;quiero  poder acceder a registros históricos de la salud del adulto&nbsp;&nbsp;&nbsp;mayor para realizar un seguimiento a largo plazo y detectar tendencias.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Acceder a Registros Históricos de Salud<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario desea revisar datos históricos.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;busca los registros de salud.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;puede seleccionar una fecha para ver los datos registrados en esa fecha.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Acceder a Registros Históricos de Ubicación<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario desea revisar datos históricos.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;busca los registros de salud en una fecha que no tiene registros.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;el usuario deberá visualizar una advertencia que no se encuentra registrada&nbsp;&nbsp;&nbsp;en la fecha específica.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US017&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de múltiples cuentas de cuidadores (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil ,&nbsp;&nbsp;&nbsp;quiero  poder registrar y alternar entre múltiples cuentas de cuidadores&nbsp;&nbsp;&nbsp;para supervisar a diferentes adultos mayores a mi cargo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Registro de una Nueva Cuenta de Cuidador<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está gestionando cuentas.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;agrega una nueva cuenta de cuidador.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le solicitan los datos necesarios para crear la cuenta.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Alternar entre Cuentas de Cuidadores<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario tiene múltiples cuentas de cuidador registradas.<br>&nbsp;&nbsp;&nbsp;<br>Cuando selecciona&nbsp;&nbsp;&nbsp;la opción para cambiar de cuenta.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se presenta una lista de las cuentas registradas y puede seleccionar la que&nbsp;&nbsp;&nbsp;desea utilizar.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US018&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configurar alertas personalizadas<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la&nbsp;&nbsp;&nbsp;aplicación móvil, quiero poder configurar las  alertas  para&nbsp;&nbsp;&nbsp;recibir notificaciones específicas sobre la salud y seguridad del adulto&nbsp;&nbsp;&nbsp;mayor según mis necesidades y preferencias.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Configurar Alertas de Medicamentos<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está en la sección de configuración.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario quiere modificar las alertas de medicamentos.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le presenta la posibilidad de cambiar el tono de la alerta en base a su&nbsp;&nbsp;&nbsp;preferencia.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Configurar Alertas de Actividades<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está en la sección de configuración.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;quiere modificar las alertas de actividades, como citas médicas o ejercicios.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le presenta la posibilidad de ingresar los detalles de la actividad y&nbsp;&nbsp;&nbsp;recibir recordatorios en el momento deseado.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US019&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Seguimiento de la ubicación del adulto mayor<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil,&nbsp;&nbsp;&nbsp;quiero poder realizar un seguimiento de la ubicación del adulto mayor en&nbsp;&nbsp;&nbsp;tiempo real para garantizar su seguridad y poder responder rápidamente en&nbsp;&nbsp;&nbsp;caso de emergencia.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Visualizar Ubicación en el Mapa<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario ha accedido a la aplicación.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;quiere visualizar la ubicación del adulto mayor.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se muestra un mapa con la ubicación actual del adulto mayor en tiempo real.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Notificación de Salida de Zona Segura<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario ha establecido una zona segura para el adulto mayor.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;adulto mayor sale de esta zona.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;el usuario recibe una notificación en su dispositivo móvil para informarle&nbsp;&nbsp;&nbsp;sobre la salida de la zona segura.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US020&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Agregar lista de medicamentos con recordatorio<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación, quiero&nbsp;&nbsp;&nbsp;agregar y gestionar una lista de medicamentos del adulto mayor, para administrarlo&nbsp;&nbsp;&nbsp;correctamente a tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Agregar Medicamento a la Lista<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario ingresa a la aplicación.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario quiere agregar un nuevo medicamento.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le solicita que ingrese el nombre del medicamento, la dosis, la frecuencia&nbsp;&nbsp;&nbsp;y los horarios de administración.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Agregar Cita médica a la Lista<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario ingresa a la aplicación.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario quiere agregar una cita médica.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le solicita que ingrese el horario de la cita, y detalles de este.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US021&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Historial de ubicaciones del adulto mayor<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil,&nbsp;&nbsp;&nbsp;quiero poder acceder al historial de ubicaciones del adulto mayor para poder&nbsp;&nbsp;&nbsp;realizar un seguimiento de sus movimientos y patrones de comportamiento a lo&nbsp;&nbsp;&nbsp;largo del tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Acceder al Historial de Ubicaciones<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario desea revisar datos históricos.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;busca los registros de ubicaciones.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;puede elegir una fecha para ver el historial de ubicaciones del adulto mayor.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Filtrar el Historial de Ubicaciones<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está revisando el historial de ubicaciones del adulto mayor.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario quiere filtrar por fecha o ubicación específica.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se muestra una lista filtrada que cumple con los criterios seleccionados por&nbsp;&nbsp;&nbsp;el usuario.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US022&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registrar un nuevo usuario(Back-end)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero poder agregar un nuevo usuario al sistema&nbsp;&nbsp;&nbsp;mediante una solicitud POST “API/V1/user”, proporcionando detalles como&nbsp;&nbsp;&nbsp;nombre, correo electrónico y contraseña, para permitir el login de nuevos&nbsp;&nbsp;&nbsp;usuarios en la plataforma.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:Ingreso de correo invalido<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está registrándose<br>&nbsp;&nbsp;&nbsp;Cuando ingresa un correo invalido<br>&nbsp;&nbsp;&nbsp;Entonces la página muestra un mensaje de"correo invalido ".<br>&nbsp;&nbsp;&nbsp;Escenario: Ingreso correcto de correo.<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está registrándose.<br>&nbsp;&nbsp;&nbsp;Cuando ingresa el correo correctamente.<br>&nbsp;&nbsp;&nbsp;Entonces el usuario es enviado a la página<br>&nbsp;&nbsp;&nbsp;principal.<br>&nbsp;&nbsp;&nbsp;Y se envía un mensaje al correo electrónico afiliado.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US023&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Agregar personas enfermas (back-end)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero poder agregar una persona al cuidado de un&nbsp;&nbsp;&nbsp;usuario mediante una solicitud POST “API/V1/user/patient”, proporcionando&nbsp;&nbsp;&nbsp;detalles como nombre, dirección, edad, sexo y enfermedad, para que el usuario&nbsp;&nbsp;&nbsp;pueda cuidar de ellos con mayor facilidad.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Ingreso de usuario<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está registrándose<br>&nbsp;&nbsp;&nbsp;Cuando ingresa un correo invalido<br>&nbsp;&nbsp;&nbsp;Entonces la página muestra un mensaje de"correo invalido ".<br>&nbsp;&nbsp;&nbsp;Escenario: Ingreso correcto de correo.<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está registrándose.<br>&nbsp;&nbsp;&nbsp;Cuando ingresa el correo correctamente.<br>&nbsp;&nbsp;&nbsp;Entonces el usuario es enviado a la página principal.<br>&nbsp;&nbsp;&nbsp;Y se envía un mensaje al correo electrónico afiliado.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Iniciar sesión (backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero implementar un endpoint en el backend para&nbsp;&nbsp;&nbsp;que los usuarios inicien sesión enviando una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/login", permitiendo un acceso seguro a la&nbsp;&nbsp;&nbsp;plataforma.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Inicio de sesión exitoso<br>&nbsp;&nbsp;&nbsp;Dado que el usuario ha ingresado sus credenciales correctamente<br>&nbsp;&nbsp;&nbsp;Cuando envía una solicitud POST a "/API/V1/usuarios/login" con su&nbsp;&nbsp;&nbsp;correo electrónico y contraseña válidos<br>&nbsp;&nbsp;&nbsp;Entonces el backend verifica las credenciales<br>&nbsp;&nbsp;&nbsp;Y devuelve un código de estado 200 junto con un token de sesión válido<br>&nbsp;&nbsp;&nbsp;Escenario: Inicio de sesión fallido<br>&nbsp;&nbsp;&nbsp;Dado que el usuario ha ingresado credenciales incorrectas<br>&nbsp;&nbsp;&nbsp;Cuando envía una solicitud POST a "/API/V1/usuarios/login" con&nbsp;&nbsp;&nbsp;información incorrecta<br>&nbsp;&nbsp;&nbsp;Entonces el backend rechaza la solicitud<br>&nbsp;&nbsp;&nbsp;Y devuelve un mensaje de error indicando que las credenciales son inválidas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US025&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Recuperar contraseña (Backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero diseñar un endpoint en el backend para&nbsp;&nbsp;&nbsp;permitir que los usuarios recuperen su contraseña mediante una solicitud POST&nbsp;&nbsp;&nbsp;a "/API/V1/usuarios/recuperar-contraseña", para proporcionar una&nbsp;&nbsp;&nbsp;solución efectiva en caso de olvido de la contraseña..&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Recuperación de contraseña exitosa<br>&nbsp;&nbsp;&nbsp;Dado que el usuario ha olvidado su contraseña y desea restablecerla.Cuando&nbsp;&nbsp;&nbsp;envía una solicitud POST a "/API/V1/usuarios/recuperar-contraseña"&nbsp;&nbsp;&nbsp;proporcionando su correo electrónico registrado<br>&nbsp;&nbsp;&nbsp;Entonces el backend genera un enlace de restablecimiento de contraseña y lo&nbsp;&nbsp;&nbsp;envía al correo electrónico registrado del usuario<br>&nbsp;&nbsp;&nbsp;Escenario: Correo electrónico no registrado<br>&nbsp;&nbsp;&nbsp;Dado que el usuario proporciona un correo electrónico que no está registrado&nbsp;&nbsp;&nbsp;en la plataforma<br>&nbsp;&nbsp;&nbsp;Cuando envía una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/recuperar-contraseña".Entonces el backend&nbsp;&nbsp;&nbsp;responde con un mensaje indicando que el correo electrónico no está asociado&nbsp;&nbsp;&nbsp;a ninguna cuenta&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US26&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Actualizar Información (backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero crear&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;actualicen su información personal mediante una solicitud PUT a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/informacion", para mantener actualizados sus&nbsp;&nbsp;&nbsp;perfiles.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Actualización exitosa de información<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario desea actualizar su información personal.Cuando&nbsp;&nbsp;&nbsp;envía una solicitud PUT a"/API/V1/usuarios/informacion" con los&nbsp;&nbsp;&nbsp;campos a actualizar<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend actualiza la información del usuario en la base de&nbsp;&nbsp;&nbsp;datos<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un código de estado 200 junto con un mensaje de éxito<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Campos inválidos<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario proporciona campos inválidos o incompletos para la actualización&nbsp;&nbsp;&nbsp;.Cuando envía una solicitud PUT a"/API/V1/usuarios/informacion"<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un mensaje de error indicando los&nbsp;&nbsp;&nbsp;campos que deben corregirse&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US27&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Eliminar Cuenta(backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero implementar&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;eliminen su cuenta mediante una solicitud DELETE a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/cuenta", asegurando la integridad de los datos y&nbsp;&nbsp;&nbsp;la privacidad del usuario.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Eliminación exitosa de la cuenta<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario desea eliminar permanentemente su cuenta<br>&nbsp;&nbsp;&nbsp;<br>Cuando envía una solicitud DELETE a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/cuenta"<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend elimina todos los datos asociados con la cuenta&nbsp;&nbsp;&nbsp;del usuario<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un código de estado 200 junto con un mensaje de&nbsp;&nbsp;&nbsp;confirmación<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la eliminación de cuenta<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante el proceso de eliminación de la&nbsp;&nbsp;&nbsp;cuenta<br>&nbsp;&nbsp;&nbsp;<br>Cuando envía una solicitud DELETE a "/API/V1/usuarios/cuenta"<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un mensaje de error indicando que la&nbsp;&nbsp;&nbsp;eliminación de la cuenta no fue exitosa&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US28&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Endpoint Soporte (backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero diseñar&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;envíen una solicitud de ayuda mediante una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/solicitar-ayuda", para ofrecer un soporte&nbsp;&nbsp;&nbsp;eficiente y satisfactorio.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Solicitud de ayuda enviada con éxito<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario necesita ayuda o asistencia técnica<br>&nbsp;&nbsp;&nbsp;<br>Cuando envía una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/solicitar-ayuda" proporcionando detalles del&nbsp;&nbsp;&nbsp;problema<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend registra la solicitud de ayuda y la asigna al&nbsp;&nbsp;&nbsp;departamento correspondiente<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un código de estado 200 junto con un mensaje de&nbsp;&nbsp;&nbsp;confirmación<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Campos vacíos en la solicitud de ayuda<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario envía una solicitud de ayuda con campos vacíos<br>&nbsp;&nbsp;&nbsp;<br>Cuando envía una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/solicitar-ayuda" sin proporcionar detalles del&nbsp;&nbsp;&nbsp;problema<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un mensaje de error indicando que los&nbsp;&nbsp;&nbsp;campos son obligatorios y deben completarse&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US29&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Proceso de ventas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero implementar&nbsp;&nbsp;&nbsp;un endpoint en el backend para procesar las ventas&nbsp;&nbsp;&nbsp;realizadas por los usuarios, de modo que se actualicen los registros de&nbsp;&nbsp;&nbsp;inventario y se registren las transacciones correspondientes en la base de&nbsp;&nbsp;&nbsp;datos.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Procesamiento exitoso de una venta<br>&nbsp;&nbsp;&nbsp;<br>Dado que un usuario realiza una compra de un producto en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud POST a "/API/V1/ventas" con&nbsp;&nbsp;&nbsp;los detalles de la venta, incluyendo el ID del usuario, el ID del producto y&nbsp;&nbsp;&nbsp;la cantidad comprada<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend actualiza el inventario<br>&nbsp;&nbsp;&nbsp;<br>Y registra la transacción de venta en la base de datos, incluyendo&nbsp;&nbsp;&nbsp;detalles como el usuario que realizó la compra, el producto comprado, la&nbsp;&nbsp;&nbsp;cantidad adquirida y la dirección.<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en el procesamiento de la venta<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante el procesamiento de la venta, como un&nbsp;&nbsp;&nbsp;producto fuera de stock o un error interno del servidor<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud POST a "/API/V1/ventas" con&nbsp;&nbsp;&nbsp;los detalles de la venta<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un código 400<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un mensaje de error descriptivo indicando la causa del problema.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 
 # 3.3. Impact Mapping
 
 # 3.4. Product Backlog
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br># Orden&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>User Story Id&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Título&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Story Points&nbsp;&nbsp;&nbsp;(1/2/3/5/8)&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>1&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US10&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección About Us&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;visitante de la página destino<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información<br>&nbsp;&nbsp;&nbsp;del grupo de desarrolladores<br>&nbsp;&nbsp;&nbsp;Para poder confirmar que los desarrolladores<br>&nbsp;&nbsp;&nbsp;tienen experiencia anterior en el<br>&nbsp;&nbsp;&nbsp;desarrollo de software.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US11&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección About the&nbsp;&nbsp;&nbsp;Product&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página de&nbsp;&nbsp;&nbsp;destino<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información<br>&nbsp;&nbsp;&nbsp;del producto<br>&nbsp;&nbsp;&nbsp;Para poder verificar las funcionalidades de<br>&nbsp;&nbsp;&nbsp;la aplicación antes de probarla.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US12&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección Contacto&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página de&nbsp;&nbsp;&nbsp;destino<br>&nbsp;&nbsp;&nbsp;Quiero poder enviar un mensaje<br>&nbsp;&nbsp;&nbsp;Para poder informar de errores o problemas<br>&nbsp;&nbsp;&nbsp;con la aplicación con el equipo<br>&nbsp;&nbsp;&nbsp;desarrollador.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US13&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección de Redes&nbsp;&nbsp;&nbsp;Sociales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página<br>&nbsp;&nbsp;&nbsp;Quiero poder acceder a las redes sociales<br>&nbsp;&nbsp;&nbsp;de la empresa<br>&nbsp;&nbsp;&nbsp;Para poder ver distintas novedades<br>&nbsp;&nbsp;&nbsp;relacionadas a políticas de la empresa<br>&nbsp;&nbsp;&nbsp;o cambios en la aplicación.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a la cuenta&nbsp;&nbsp;&nbsp;(Web application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero acceder a mi cuenta de usuario.<br>&nbsp;&nbsp;&nbsp;Para poder verificar mi identidad<br>&nbsp;&nbsp;&nbsp;Y ver los datos de la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a la cuenta&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero acceder a mi cuenta de usuario.<br>&nbsp;&nbsp;&nbsp;Para poder verificar mi identidad<br>&nbsp;&nbsp;&nbsp;Y ver los datos de la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>7&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de cuenta&nbsp;&nbsp;&nbsp;(Web Application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder registrarme en la aplicación.<br>&nbsp;&nbsp;&nbsp;Para poder comenzar con el monitoreo de<br>&nbsp;&nbsp;&nbsp;la persona a cuidar.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de cuenta&nbsp;&nbsp;&nbsp;(Mobile Application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder registrarme en la aplicación.<br>&nbsp;&nbsp;&nbsp;Para poder comenzar con el monitoreo de<br>&nbsp;&nbsp;&nbsp;la persona a cuidar.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>9&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Edición de datos&nbsp;&nbsp;&nbsp;de la cuenta&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder editar ciertos datos<br>&nbsp;&nbsp;&nbsp;de mi cuenta como contraseña.<br>&nbsp;&nbsp;&nbsp;Para poder corregir errores<br>&nbsp;&nbsp;&nbsp;Y renovar la contraseña.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>10&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Obtención de la&nbsp;&nbsp;&nbsp;información sobre la persona cuidada&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder recibir información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>11&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US07&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Visualización de&nbsp;&nbsp;&nbsp;la información sobre la persona cuidada (Web application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando<br>&nbsp;&nbsp;&nbsp;Y poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>12&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US08&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Visualización de&nbsp;&nbsp;&nbsp;la información sobre la persona cuidada (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando<br>&nbsp;&nbsp;&nbsp;Y poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>13&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US09&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Generar alarmas&nbsp;&nbsp;&nbsp;cuando se detecten emergencias en la persona cuidada&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero recibir alarmas en caso de que suceda<br>&nbsp;&nbsp;&nbsp;alguna emergencia.<br>&nbsp;&nbsp;&nbsp;Para poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>14&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US14&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configuración de&nbsp;&nbsp;&nbsp;Notificaciones de Medicamentos (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero poder configurar los recordatorios de&nbsp;&nbsp;&nbsp;medicamentos del adulto mayor, para asegurarme que se administren a tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>15&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US15&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configuración de&nbsp;&nbsp;&nbsp;notificaciones (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero poder configurar las notificaciones de&nbsp;&nbsp;&nbsp;emergencia para adaptarlas a mis preferencias y necesidades específicas.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>16&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US16&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a registros&nbsp;&nbsp;&nbsp;históricos (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero  poder acceder a registros&nbsp;&nbsp;&nbsp;históricos de la salud del adulto mayor para realizar un seguimiento a largo&nbsp;&nbsp;&nbsp;plazo y detectar tendencias.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>17&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US17&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de&nbsp;&nbsp;&nbsp;múltiples cuentas de cuidadores (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero  poder registrar y alternar entre&nbsp;&nbsp;&nbsp;múltiples cuentas de cuidadores para supervisar a diferentes adultos mayores&nbsp;&nbsp;&nbsp;a mi cargo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>18&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US18&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configurar alertas&nbsp;&nbsp;&nbsp;personalizadas (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil, quiero poder configurar las&nbsp;&nbsp;&nbsp;alertas  para recibir notificaciones específicas sobre la salud y&nbsp;&nbsp;&nbsp;seguridad del adulto mayor según mis necesidades y preferencias.<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>19&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US19&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Seguimiento de la&nbsp;&nbsp;&nbsp;ubicación del adulto mayor (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero poder realizar un seguimiento de la&nbsp;&nbsp;&nbsp;ubicación del adulto mayor en tiempo real para garantizar su seguridad y&nbsp;&nbsp;&nbsp;poder responder rápidamente en caso de emergencia.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>20&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US20&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Agregar lista de&nbsp;&nbsp;&nbsp;medicamentos con recordatorio (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación, quiero agregar y gestionar una lista de&nbsp;&nbsp;&nbsp;medicamentos del adulto mayor, para administrarlo correctamente a tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>21&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US21&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Historial de&nbsp;&nbsp;&nbsp;ubicaciones del adulto mayor (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero poder acceder al historial de&nbsp;&nbsp;&nbsp;ubicaciones del adulto mayor para poder realizar un seguimiento de sus&nbsp;&nbsp;&nbsp;movimientos y patrones de comportamiento a lo largo del tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>22&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US29&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Proceso de ventas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero implementar&nbsp;&nbsp;&nbsp;un endpoint en el backend para procesar las ventas&nbsp;&nbsp;&nbsp;realizadas por los usuarios, de modo que se actualicen los registros de&nbsp;&nbsp;&nbsp;inventario y se registren las transacciones correspondientes en la base de&nbsp;&nbsp;&nbsp;datos.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>23&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US24&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Iniciar sesión de&nbsp;&nbsp;&nbsp;usuario (Back-end)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero&nbsp;&nbsp;&nbsp;implementar un endpoint en el backend para que los usuarios inicien sesión&nbsp;&nbsp;&nbsp;enviando una solicitud POST a "/API/V1/usuarios/login", permitiendo&nbsp;&nbsp;&nbsp;un acceso seguro a la plataforma.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>24&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US23&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Agregar personas enfermas&nbsp;&nbsp;&nbsp;(back-end)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero&nbsp;&nbsp;&nbsp;poder agregar una persona al cuidado de un usuario mediante una solicitud&nbsp;&nbsp;&nbsp;POST “API/V1/user/patient”, proporcionando detalles como nombre, dirección,&nbsp;&nbsp;&nbsp;edad, sexo y enfermedad, para que el usuario pueda cuidar de ellos con mayor facilidad.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>25&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US25&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Recuperar contraseña (Backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero&nbsp;&nbsp;&nbsp;diseñar un endpoint en el backend para permitir que los usuarios recuperen su&nbsp;&nbsp;&nbsp;contraseña mediante una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/recuperar-contraseña", para proporcionar una&nbsp;&nbsp;&nbsp;solución efectiva en caso de olvido de la contraseña.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>26&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US26&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Actualizar Información&nbsp;&nbsp;&nbsp;(backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero crear&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;actualicen su información personal mediante una solicitud PUT a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/informacion", para mantener actualizados sus&nbsp;&nbsp;&nbsp;perfiles.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>27&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US27&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Eliminar Cuenta(backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero implementar&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;eliminen su cuenta mediante una solicitud DELETE a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/cuenta", asegurando la integridad de los datos y&nbsp;&nbsp;&nbsp;la privacidad del usuario.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>28&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US28&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Endpoint Soporte (backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero diseñar&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;envíen una solicitud de ayuda mediante una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/solicitar-ayuda", para ofrecer un soporte&nbsp;&nbsp;&nbsp;eficiente y satisfactorio.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>29&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US22&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registrar un nuevo&nbsp;&nbsp;&nbsp;usuario (Back-end)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero&nbsp;&nbsp;&nbsp;poder agregar un nuevo usuario al sistema mediante una solicitud POST&nbsp;&nbsp;&nbsp;“API/V1/user”, proporcionando detalles como nombre, correo electrónico y&nbsp;&nbsp;&nbsp;contraseña, para permitir el login de nuevos usuarios en la plataforma.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
 ## Capítulo IV: Solution Software Design
 
 # 4.1. Strategic-Level Domain-Driven Design.
