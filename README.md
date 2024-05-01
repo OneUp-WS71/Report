@@ -330,11 +330,11 @@ tratamos de resolver, así como tener más claro nuestro modelo de negocio.
 La aplicación tiene como segmentos objetivos a dos grupos en particular: Personas responsables del cuidado de adultos mayores y Miembros de familias con adultos mayores a su cargo.
 Inicialmente, la aplicación estará disponible únicamente en Perú.
 
-+ **Personas responsables del cuidado de adultos mayores:**
++ **Personas responsables del cuidado de adultos mayores (Supervisores):**
  
     Este segmento comprende usuarios encargados del cuidado y atención de adultos mayores. Según datos del Instituto Nacional de Estadística e Informática (INEI), en Perú existen aproximadamente entre 410 y 415 geriatras. Estos usuarios, en su mayoría, son técnicos enfermeros con formación básica en diversas áreas relacionadas con el cuidado del paciente, incluyendo higiene, terapia ocupacional, prevención de accidentes y atención de emergencias.
 
-+ **Personas que tienen un adulto mayor en su familia:**
++ **Personas que tienen un adulto mayor en su familia (Cuidadores):**
  
     Este grupo incluye a aquellos usuarios que conviven con adultos mayores en su entorno familiar y son responsables de su cuidado. Según el INEI, en Perú hay aproximadamente 4 millones 598,000 personas de 60 años en adelante. Los datos de la Encuesta Nacional de Hogares (ENAHO) indican que el 80% de los adultos mayores a nivel nacional sufren de problemas de salud crónicos, que incluyen artritis, hipertensión, asma, reumatismo, diabetes, tuberculosis, colesterol elevado, entre otros. Además, el 85.1% de las mujeres y el 74.2% de los hombres adultos mayores presentan al menos un problema de salud crónico.
 ## Capítulo II: Requirements Elicitation & Analysi
@@ -414,24 +414,6 @@ Segmento principal: Cuidadores de adultos mayores
 En esta sección se presenta la información recolectada en las entrevistas realizadas a los usuarios de los segmentos objetivo.
 
 ### Segmento: Cuidadores
- 
-**Nombre y Apellidos :** Raquel Lili Melany Romero Martinez <br>
-**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 24 años <br>
-**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
-
-<img src="Assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
-
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
-**Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 22:53 <br>
-**Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 4:04 minutos <br>
-
-Raquel es una estudiante de medicina que está alrededor de 5 o 6 horas al día fuera de su domicilio.<br>
-Actualmente está cuidando de su abuelo, que tiene 85 años y tiene problemas de movilidadad.<br>
-Mientras conversaba con ella, se puede notar un tanto de melancolía al pensar en la situación de<br>
-su padre, especialmente por su dificultad en moverse o levantarse de la cama. A pesar de estos<br>
-problemas de movilidad, él siempre encuentra como escaparse.<br>
-Raquel usa más frecuentemente su celular Android y su laptop, y su principal navegador de uso es Google Chrome.<br>
-
 **Nombre y Apellidos :** Norma Ismary Martinez Lozano <br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 51 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
@@ -450,7 +432,6 @@ Norma utiliza mayormente su celular, su laptop y una cámara que tiene en el cen
 madre, y hablar con ella.<br>
 Norma tiene un celular android y su explorador principal es Google Chrome.<br>
 
-
 **Nombre y Apellidos :** Juan Diego Ponce Arasaki <br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 21 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Ancon, Lima <br>
@@ -462,7 +443,42 @@ Norma tiene un celular android y su explorador principal es Google Chrome.<br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 2:40 minutos <br>
 
 Nuestro entrevistado fue Juan Ponce, estudiante de ingeniería de sistemas que está interesado en la propuesta ya que cuida a un adulto mayor. Nos explicó sobre su situación y la preocupacion que tiene al momento de salir ,dejando a su abuela sola .Por eso nos comento que si existiera una forma de mantener supervision constante sobre su abuela le serviria de mucha ayuda.Así mismo nos conto sobre una mala experiencia que tuvo cuando la dejo sola y  su abuela se cayo ,por suerte el habia avisado a un vecino si pudiera estar viendola cada cierto tiempo  siendo de mucha utilidad.Finalmente nos menciono el sistema operativo de su celular y el navegador de su preferencia siendo android y Google Chrome.
+
+**Nombre y Apellidos :** Jonatan Curi 
+
+**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 22 años 
+
+**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Carabayllo, Lima 
+
+![](Assets/Entrevista_Jonatan.png)
+
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 07:30 <br>
+**Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 6:13 minutos <br>
+
+Jonatan, estudiante de la UPC, enfrenta el desafío de equilibrar sus estudios con el cuidado especializado de un familiar de edad avanzada. Aunque se compromete con esta responsabilidad debido a su estrecha relación con su ser querido, reconoce las limitaciones de tiempo que le impone. 
+
+Jonatan sugiere mejoras para facilitar su situación, como la flexibilización de horarios académicos y el acceso a recursos de apoyo para estudiantes en circunstancias similares. Su experiencia resalta la importancia de considerar las necesidades de aquellos que enfrentan responsabilidades de cuidado familiar mientras persiguen sus objetivos educativos.
+
+### Segmento: Supervisores
  
+**Nombre y Apellidos :** Raquel Lili Melany Romero Martinez <br>
+**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 24 años <br>
+**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
+
+<img src="Assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 22:53 <br>
+**Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 4:04 minutos <br>
+
+Raquel es una estudiante de medicina que está alrededor de 5 o 6 horas al día fuera de su domicilio.<br>
+Actualmente está cuidando de su abuelo, que tiene 85 años y tiene problemas de movilidadad.<br>
+Mientras conversaba con ella, se puede notar un tanto de melancolía al pensar en la situación de<br>
+su padre, especialmente por su dificultad en moverse o levantarse de la cama. A pesar de estos<br>
+problemas de movilidad, él siempre encuentra como escaparse.<br>
+Raquel usa más frecuentemente su celular Android y su laptop, y su principal navegador de uso es Google Chrome.<br>
+
 
 **Nombre y Apellidos :** Jordi Jesus Carhuachin <br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 23 años <br>
@@ -480,21 +496,7 @@ En caso de que los abuelos quieran irse es una constante cuando se les saca de p
 En caso del producto es necesario para los pacientes de hipertensión, ya que es necesario revisar su presión o que tomen sus pastillas a tiempo, sino podrian caer en un taquicardia o un paro cardiaco. En estos casos es una revisión cada 8 horas o 3 veces al dia. <br>
 Ante la diferenciación la competencia dijo que serian los relojos pero algo que no tienen es la presión, eso seria relevante<br>
 
-**Nombre y Apellidos :** Jonatan Curi 
 
-**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 22 años 
-
-**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Carabayllo, Lima 
-
-![](Assets/Entrevista_Jonatan.png)
-
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
-**Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 07:30 <br>
-**Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 6:13 minutos <br>
-
-Jonatan, estudiante de la UPC, enfrenta el desafío de equilibrar sus estudios con el cuidado especializado de un familiar de edad avanzada. Aunque se compromete con esta responsabilidad debido a su estrecha relación con su ser querido, reconoce las limitaciones de tiempo que le impone. 
-
-Jonatan sugiere mejoras para facilitar su situación, como la flexibilización de horarios académicos y el acceso a recursos de apoyo para estudiantes en circunstancias similares. Su experiencia resalta la importancia de considerar las necesidades de aquellos que enfrentan responsabilidades de cuidado familiar mientras persiguen sus objetivos educativos.
 
 **Nombre y Apellidos :** Maryfe Pamela Cortez Menguay <br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 26 años <br>
@@ -518,13 +520,20 @@ De la misma manera, se observa que los cuidadores de adultos mayores utilizan en
 
 ![Marcas](assets/Marcas.png)
 
-La mayoría de los entrevistados muestra interés y aceptación hacia el proyecto propuesto de una aplicación móvil y pulsera inteligente para el monitoreo de adultos mayores.
-
-![Uso](assets/Uso.png)
-
 En cuanto a los navegadores web, los cuidadores de adultos mayores utilizan principalmente Google Chrome.
 
 ![Navegadores](assets/navegadorWeb.png)
+
+En base las entrevistas se determino el segmento demografico de la siguiente manera: 
+![Edad](/assets/Edad.png)
+
+![Genero](/assets/Genero.png)
+
+![Distrito](/assets/Distrito.png)
+
+De la misma manera, se determino las habilidades personales de los segmentos objetivos en base a la observación y comportamiento en las entrevistas realizadas.
+
+![Habilidades](/assets/Habilidades.png)
 
 Asimismo, se destaca la importancia del monitoreo de diferentes aspectos de la salud de los adultos mayores, como la presión arterial y la frecuencia cardíaca. Los entrevistados resaltan la relevancia de incluir estos parámetros en la aplicación móvil y la pulsera inteligente para proporcionar un monitoreo integral de la salud de los pacientes. 
 # 2.3. Needfinding
@@ -533,11 +542,11 @@ Asimismo, se destaca la importancia del monitoreo de diferentes aspectos de la s
 
 A continuación, se construirán los User Persona de cada segmento objetivo de nuestra plataforma. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas.
 
-**User Persona – Cuidador de adulto mayor en minorias.**
+**User Persona – Cuidador**
 
 ![](Assets/UserPersonaMinorias.png)
 
-**User Persona – Cuidador de adulto mayor en mayorias.**
+**User Persona – Supervisor**
 
 ![](Assets/UserPersonaMayorias.png)
 
@@ -553,21 +562,21 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
 
 ## 2.3.3. User Journey Mapping
 
-**User Journey Mapping – Cuidador de adulto mayor en minorias.**
+**User Journey Mapping – Cuidador**
 
 ![](Assets/JourneyMapMinorias.png)
 
-**User Journey Mapping – Cuidador de adulto mayor en mayorias.**
+**User Journey Mapping – Supervisor**
 
 ![](Assets/JourneyMapMayorias.png)
 
 ## 2.3.4. Empathy Mapping
 
-**Empathy Mapping – Cuidador de adulto mayor en minorias.**
+**Empathy Mapping – Cuidador**
 
 ![](Assets/EmpathyMapMinorias.png)
 
-**Empathy Mapping – Cuidador de adulto mayor en mayorias.**
+**Empathy Mapping – Supervisor**
 
 ![](Assets/EmpathyMapMayorias.png)
 
