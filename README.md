@@ -1,3 +1,154 @@
+<p align="center">
+  <img src="/Assets/Logo_Upc.png" alt="Logo" width="200"/>
+</p>
+
+<h3 align="center"> Universidad Peruana de Ciencias Aplicadas</h3> 
+<h4 align="center"> Ingeniería de Sistemas y Computación | Ingeniería de Software  </h4>
+<h4 align="center"> Desarrollo de Soluciones IOT </h4>
+<h4 align="center"> Informe de Trabajo Parcial  </h4>
+
+### Startup: OneUp
+#### Team Members 
++ Liberato Susanibar, Piero Anthony_U20181H057
++ Farro Caballero, Alfredo Nolberto_201911924
++ Orosco Orcotuma, Cristhian_U201921031 
++ Nuñez Martinez, Anthony Samir_U
++ Llatas Flores, Enrique Aldhair_U20201F172 
+#### Sección: WS71
+#### Profesor: Angel Augusto Velasquez Nuñez 
+#### Producto: ElderlyCare                         
+#### Ciclo: 2024-01
+<h4 align="center "> Abril, 2024</h4>  
+
+_____________________
+## Registro de versiones del informe 
+<table>
+<thead>
+  <tr>
+    <th>Versión </th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripción de modificación</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>V1.0</td>
+    <td>13/04/2024</td>
+    <td>OneUp</td>
+    <td>Se agregaron las siguientes secciones: 
+  Contenido, Student Outcome, Capítulo I, Capítulo II, Capítulo III, Capítulo IV  
+  </td>
+  </tr>
+  <tr>
+    <td>V 1.1</td>
+    <td>29/04/2024</td>
+    <td>OneUp</td>
+    <td>Se agrego el contenido que faltaba en la TB1 y se aplico del Capítulo I hasta el Capítulo IV las correcciones</td>
+  </tr>
+  <tr>
+    <td>V2.0</td>
+    <td>02/05/2024</td>
+    <td>OneUp</td>
+    <td>Se agregaron las siguientes secciones:
+    Capítulo V, Capítulo VI, Avance de Conclusiones, Bibliografía y Anexos</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+## Project Report Collaboration Insights
++ Link del repositorio Github:  [Github](https://github.com/OneUp-WS71) / https://github.com/OneUp-WS71 
+
+  **Desarrollo de las actividades del informe:**  
+  + TB1: Para esta entrega se desarrollaron las secciones del capitulo I al capitulo IV, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
+  ![commits](/assets/Commits_tb1.png)
+  + TP: Para la entrega del TP se desarrollo las secciones del capitulo V al capitulo VI, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
+
+## Contenido 
+- [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
+  - [1.1. Startup Profile](/README.md#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](/README.md#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](/README.md#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](/README.md#12-solution-profile)
+    - [1.2.1 Antecedentes y problemática](/README.md#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process](/README.md#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](/README.md#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](/README.md#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](/README.md#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](/README.md#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](/README.md#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](/README.md#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](/README.md#21-competidores)
+    - [2.1.1. Análisis competitivo](/README.md#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](/README.md#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](/README.md#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](/README.md#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](/README.md#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](/README.md#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](/README.md#23-needfinding)
+    - [2.3.1. User Personas](/README.md#231-user-personas)
+    - [2.3.2. User Task Matrix](/README.md#232-user-task-matrix)
+    - [2.3.3. Empathy Mapping](/README.md#233-empathy-mapping)
+    - [2.3.4. As-is Scenario Mapping](/README.md#234-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](/README.md#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification](/README.md#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](/README.md#31-to-be-scenario-mapping)
+  - [3.2. User Stories](/README.md#32-user-stories)
+  - [3.3. Impact Mapping](/README.md#33-impact-mapping)
+  - [3.4. Product Backlog](/README.md#34-product-backlog)
+- [Capítulo IV: Solution Software Design](/README.md#capítulo-iv-solution-software-design)
+  - [4.1. Strategic-Level Domain-Driven Design](/README.md#41-strategic-level-domain-driven-design)
+    - [4.1.1. EventStorming](/README.md#411-eventstorming)
+      - [4.1.1.1 Candidate Context Discovery](/README.md#4111-candidate-context-discovery)
+      - [4.1.1.2.  Domain Message Flows Modeling](/README.md#4112-domain-message-flows-modeling)
+      - [4.1.1.3. Bounded Context Canvases](/README.md#4113-bounded-context-canvases)
+    - [4.1.2. Context Mapping](/README.md#412-context-mapping)
+    - [4.1.3. Software Architecture](/README.md#413-software-architecture)
+    - [4.1.3.1. Software Architecture System Landscape Diagram](/README.md#4131-software-architecture-system-landscape-diagram)
+    - [4.1.3.2. Software Architecture Context Level Diagrams](/README.md#4132-software-architecture-context-level-diagrams)
+    - [4.1.3.3. Software Architecture Container Level Diagrams](/README.md#4133-software-architecture-container-level-diagrams)
+    - [4.1.3.4. Software Architecture Deployment Diagrams](/README.md#4134-software-architecture-deployment-diagrams)
+  - [4.2. Tactical-Level Domain-Driven Design](/README.md#42-tactical-level-domain-driven-design) 
+## Student Outcome 
+<table>
+<thead>
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizada</th>
+    <th>Conclusiones</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
+    <td>Orosco Orcotuma, Cristhian<br>TB1: <br>Se identificaron diferentes problemas en<br>base al desarrollo del trabajo tanto como la<br>identificación del producto, como la elaboración<br>del Lean ux y estructura de la aplicación, pero supimos implementar las soluciones con los compañeros a todas estas. Asimismo, Se modificó<br>los diferentes puntos del lean Ux, el canvas, los<br>assumptions y modificar nuestro objetivo <br> Liberato Susanibar, Piero Anthony <br> TB1: <br> Elabore el desarrrollo de la descripción de la startup, Antecedentes y problemática Lean UX Problem Statements, Análisis competitivo, Estrategias y tácticas frente a competidores y Software Architecture.  </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
+    <td>Orosco Orcotuma, Cristhian<br>TB1:<br>Para solucionar los problemas presentados<br>en el trabajo se usó las metodologías ágiles de<br>software para poder tener la mejor solución<br>posible. Asimismo, se tuvieron que aprender<br>nuevos conceptos acerca del Lean Ux, como<br>mejorar en base al trabajo anterior puntos para<br>definir mejor nuestra plataforma. <br> Liberato Susanibar, Piero Anthony <br> TB1: <br> Para este trabajo e realizado investigaciones apra conocer nuestro mercado, competidores, etc. Asi mismo entrevistar personas para conocer de primera mano sus necesidades y facilitarnos el proceso de desarrollo de nuestra organización.</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 ## Capítulo I: Introducción
 
@@ -14,23 +165,24 @@ aplicación permite un acceso rápido a ayuda, lo que puede marcar la diferencia
 + **Piero Anthony Liberato Susanibar:**
 Universitario que cursa el 8to ciclo de, teniendo 22 años. En mis ratos libres me pongo a desarrollar un startup, hacer ejercicio, escuchar música, estudiar sobre temas de desarrollo personal y rara vez jugar videojuegos. Para mí la honestidad es uno de los valores más importantes en toda persona, siendo uno de mis valores principales, trabajador, amable y colaborativo. Mis habilidades son sobre todo cognitivas para la programación en React, Next y Flutter, aparte tengo conocimientos de oratoria y crear y pitchear una startup.
 
+<img src="Assets\piero_Perfil.png" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
 + **Cristhian Orosco Orcotuma:** Estudio la carrera de Ingeniería de Software en la UPC. Me considero una persona detallista, amante de los animales, la música, sobre todo la tecnología y los videojuegos, en el futuro me gustaría crear un videojuego y tener mi propia empresa de videojuegos. Soy un chico al cual le gusta aprender todo tipo de cosas, porque considero que siempre uno debe estar preparado para todo. 
 
-    ![Cristhian](/assets/profileCristhian.png)
+
+    <img src="/assets/Cristhian_perfil_original.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 + **Anthony Samir Nuñez Martinez:** <br>
-Estudiante de Ingeniería de Software de 19 años en la Universidad Peruana de Ciencias y Tecnología, nacido el 15 de julio del 2004.<br>
-Me gusta la música punk y desarrollo videojuegos en mi tiempo libre. Me gusta resolver problemas y buscar soluciones creativas o únicas a las cosas, inclusive cuando no es la forma más eficiente de hacerla, y soy una persona muy obsecionada con la puntualidad.
+Estudiante de Ingeniería de Software de 19 años en la Universidad Peruana de Ciencias y Tecnología, nacido el 15 de julio del 2004. Me gusta la música punk y desarrollo videojuegos en mi tiempo libre. Me gusta resolver problemas y buscar soluciones creativas o únicas a las cosas, inclusive cuando no es la forma más eficiente de hacerla, y soy una persona muy obsecionada con la puntualidad.
 
-    <img src="assets\profileAnthony.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+    <img src="assets\profileAnthony.jpg" width="255" height="340" style="padding-top: 12px;padding-bottom: 12px;"><br> 
 
 + **Enrique Aldhair Llatas Flores:** <br>
-Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 7mo ciclo de la carrera de Ingeniería de Software  tengo habilidades en frontend y backend, también cuento con conocimiento en margenes ágiles y otros lenguajes como C++ y C#. Espero seguir aumentando mis conocimientos durante este ciclo.En mis tiempos libres me gusta investigar sobre margenes agiles ,jugar  y hacer ejercicio.Me gusta escuchar rock
+Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 7mo ciclo de la carrera de Ingeniería de Software  tengo habilidades en frontend y backend, también cuento con conocimiento en margenes ágiles y otros lenguajes como C++ y C#. Espero seguir aumentando mis conocimientos durante este ciclo.En mis tiempos libres me gusta investigar sobre margenes agiles ,jugar  y hacer ejercicio. Me gusta escuchar rock
 
   <img src="assets\enrique.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
-+ Completar
-+ Completar 
+
 # 1.2. Solution Profile
 
 ## 1.2.1 Antecedentes y problemática
@@ -88,32 +240,17 @@ Esto demuestra la importancia y la extensión de la problemática.
 ## 1.2.2 Lean UX Process.
 
 ### 1.2.2.1. Lean UX Problem Statements.
-En el servicio del cuidado del adulto mayor es una actividad que nos afecta indirectamente a todas las personas naturales, esto tanto que seamos los que cuidemos del ser querido o contratemos a alguien para que la cuide por nosotros. 
-¿Cómo aseguramos la seguridad del adulto mayor para las personas que las cuidan?
-(Alfredo)
+El estado actual del cuidado del adulto mayor se ha centrado principalmente en recordar, contratar cuidador y seguito a tiempo real, pero de forma individual.
+
+Lo que los servicios existentes no abordan es un seguimiento mas completo e individual o colectivo, del adulto mayor.
+
+Nuestro servicio e producto abordará esta carencia mediante una aplicación que posee todas estas funciones e conectarlo con dispositivos iot para el monitoreo.
+
+Nuestro objetivo inicial será personas que cuidan del adulto mayor, tanto familiares como cuidadores.
+sabremos que hemos tenido éxito cuando veamos un uso de nuestro producto por 3 o 4 meses.
+
 ### 1.2.2.2. Lean UX Assumptions.
-**Business Outcomes**
-1. Buscamos mejorar la calidad de vida y la seguridad de las personas mayores mediante una solución integral de cuidado y seguimiento, lo que puede resultar en una disminución de los incidentes médicos graves y una mayor tranquilidad para los cuidadores.
-
-2. Queremos facilitar la coordinación y comunicación entre miembros de la familia encargados del cuidado de adultos mayores, permitiéndoles compartir información relevante y tomar decisiones informadas de manera conjunta. 
-
-3. Buscamos aumentar la eficiencia del proceso de cuidado de adultos mayores al reducir el tiempo dedicado a tareas administrativas y aumentar el enfoque en la atención directa y el bienestar del adulto mayor.
-
-4. Queremos mejorar la seguridad de los adultos mayores al detectar y responder rápidamente a situaciones de emergencia o riesgo, como caídas, cambios bruscos en la salud o la salida del área designada.
-
-5. El valor principal que un cliente busca es la certeza de que el estado del adulto mayor monitoreado es preciso, confiable, seguro y en tiempo real.
-
-6. Las ganancias se generarán mediante la venta de las pulseras inteligentes vinculadas a la aplicación movil y  web, así como la suscripcion mensual para obtener la informacion de mas personas mayores.
-
-7. Obtendré a mis clientes a través de la promoción del producto en redes sociales como tiktok, facebook, instagram y youtube.
-
-8. Tomaremos ventaja sobre la competencia adaptando  la aplicación a las necesidades y habilidades tecnológicas de nuestro público objetivo, asegurando que el monitoreo en tiempo real sea comprensible y los avisos de problemas sean inmediatos.
-
- 9. El riesgo con el producto es que la pulsera se desprenda o se dañe, lo que podría impedir la detección oportuna de problemas y la notificación instantánea al cuidador.
-
-10.  Se resolverá mediante un mecanismo de seguridad robusto en la pulsera, junto con pruebas exhaustivas y mejoras iterativas hasta lograr un alto nivel de efectividad.
-
-**User Outcomes**
+**User Assumptions**
 1. ¿Quiénes son nuestros usuarios?
     + Cuidadores de adultos mayores que buscan una solución práctica y efectiva para monitorear la salud y seguridad de sus seres queridos.
 
@@ -158,28 +295,46 @@ En el servicio del cuidado del adulto mayor es una actividad que nos afecta indi
 
      +  Es importante que tanto la pulsera como la aplicación transmitan una sensación de seguridad y confianza, tanto en su diseño como en su funcionamiento.
 
+
+
+**Business Assumptions**
++ Creo que mis clientes tienen la necesidad de una herramienta para mejorar la calidad de vida y la seguridad de las personas mayores, lo que puede resultar en una disminución de los incidentes médicos graves y una mayor tranquilidad para los cuidadores.
++ Estas necesidades se pueden solucionar con un software de uso seguro que permita a los miembros de la familia compartir información relevante y tomar decisiones informadas sobre alguna situacion de riesgo como caidas, cambios bruscos de temperatura, entre otros.
++ Mis clientes iniciales son familiares de adultos mayores que desean estar informados sobre el bienestar de sus seres queridos y poder actuar rápidamente en caso de emergencia. demás, incluimos a cuidadores de adultos mayores que buscan una solución práctica y efectiva para monitorear la salud y seguridad de los adultos mayores. 
++ El valor #1 que un cliente quiere obtener de mi servicio es la certeza de que el estado del adulto mayor monitoreado es preciso, confiable, seguro y en tiempo real.
++ También pueden obtener estos beneficios adicionales: Acceso a información detallada sobre la salud y bienestar del adulto mayor, mayor tranquilidad y seguridad al recibir alertas de emergencia en tiempo real, y facilitación de la coordinación y colaboración entre cuidadores familiares.
++ Adquiriré la mayoría de mis clientes a través de: La promoción del producto en redes sociales como TikTok, Facebook, Instagram y YouTube, la colaboración con residencias de ancianos y hospitales para promover la adopción del producto, y estrategias de marketing digital dirigidas a personas responsables del cuidado de adultos mayores.
++ Ganaré dinero de la siguiente manera: Ventas directas de pulseras inteligentes y suscripciones mensuales para obtener información sobre múltiples adultos mayores, y publicidad de otros productos y servicios relacionados con el cuidado de personas mayores en la aplicación.
++ Mi principal competencia en el mercado será: Aplicaciones similares como Medisafe, Life360 y FallSafety Pro, que también se centran en el cuidado del adulto mayor.
++ Les ganaremos debido a que nuestra aplicacion esta adaptado a las necesidades y  habilidades tecnológicas de nuestro público objetivo, ofreciendo un monitoreo en tiempo real comprensible y notificaciones de problemas inmediatas, y mejorando continuamente la seguridad y efectividad del producto.
++ Mi mayor riesgo de producto es que la pulsera se desprenda o se dañe, lo que podría impedir la detección oportuna de problemas y la notificación instantánea al cuidador.
++ Sabremos que tenemos éxito cuando veamos los siguientes cambios en el comportamiento de los clientes: Aumento en el número de usuarios que utilizan activamente la aplicación para monitorear la salud de adultos mayores, reducción en el número de incidentes médicos graves reportados por los usuarios, y mayor satisfacción y fidelidad del cliente.
++ Qué otros supuestos tenemos que, si se demuestra que son falsos, harán que nuestro negocio/proyecto fracase: 
+ La aceptación del mercado para este tipo de solución tecnológica, la disposición de los usuarios para pagar por el servicio de monitoreo y cuidado de adultos mayores, y la capacidad de la pulsera inteligente para proporcionar datos precisos y confiables en tiempo real.
+
 ### 1.2.2.3. Lean UX Hypothesis Statements.
-(Enrique)
+
 +  Creemos que si nuestra solución integral de cuidado y seguimiento mejora la calidad de vida y seguridad de los adultos mayores.Entonces veremos una disminución en los incidentes médicos graves y una mayor tranquilidad para los cuidadores.
 +  Creemos que si nuestra plataforma permite a los miembros de la familia compartir información relevante y tomar decisiones informadas de manera conjunta sobre el cuidado de los adultos mayores,Entonces veremos una mejora en la coordinación y comunicación entre los cuidadores familiares, lo que resultará en un cuidado más efectivo.
 +  Creemos que si nuestra solución reduce el tiempo dedicado a tareas administrativas y aumenta el enfoque en la atención directa y el bienestar de los adultos mayores,Entonces observaremos una mejora en la eficiencia del proceso de cuidado, liberando tiempo y recursos para una atención más personalizada
 
 ### 1.2.2.4. Lean UX Canvas.
-(cristian y enrique)
+
 El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que
 tratamos de resolver, así como tener más claro nuestro modelo de negocio.
-[Canvas LINK ](https://docs.google.com/presentation/d/1I53KZ_e-K7dpT-oVvup2YSNQh47FEEui/edit#slide=id.p1 )
+
+![Canvas LINK ](/assets//LeanUxCanvas.png) 
 
 
 # 1.3. Segmentos objetivo.
 La aplicación tiene como segmentos objetivos a dos grupos en particular: Personas responsables del cuidado de adultos mayores y Miembros de familias con adultos mayores a su cargo.
 Inicialmente, la aplicación estará disponible únicamente en Perú.
 
-+ **Personas responsables del cuidado de adultos mayores:**
++ **Personas responsables del cuidado de adultos mayores (Supervisores):**
  
     Este segmento comprende usuarios encargados del cuidado y atención de adultos mayores. Según datos del Instituto Nacional de Estadística e Informática (INEI), en Perú existen aproximadamente entre 410 y 415 geriatras. Estos usuarios, en su mayoría, son técnicos enfermeros con formación básica en diversas áreas relacionadas con el cuidado del paciente, incluyendo higiene, terapia ocupacional, prevención de accidentes y atención de emergencias.
 
-+ **Personas que tienen un adulto mayor en su familia:**
++ **Personas que tienen un adulto mayor en su familia (Cuidadores):**
  
     Este grupo incluye a aquellos usuarios que conviven con adultos mayores en su entorno familiar y son responsables de su cuidado. Según el INEI, en Perú hay aproximadamente 4 millones 598,000 personas de 60 años en adelante. Los datos de la Encuesta Nacional de Hogares (ENAHO) indican que el 80% de los adultos mayores a nivel nacional sufren de problemas de salud crónicos, que incluyen artritis, hipertensión, asma, reumatismo, diabetes, tuberculosis, colesterol elevado, entre otros. Además, el 85.1% de las mujeres y el 74.2% de los hombres adultos mayores presentan al menos un problema de salud crónico.
 ## Capítulo II: Requirements Elicitation & Analysi
@@ -259,29 +414,15 @@ Segmento principal: Cuidadores de adultos mayores
 En esta sección se presenta la información recolectada en las entrevistas realizadas a los usuarios de los segmentos objetivo.
 
 ### Segmento: Cuidadores
- 
-**Nombre y Apellidos :** Raquel Lili Melany Romero Martinez <br>
-**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 24 años <br>
-**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
-
-<img src="Assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
-
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 22:53 <br>
-
-Raquel es una estudiante de medicina que está alrededor de 5 o 6 horas al día fuera de su domicilio.<br>
-Actualmente está cuidando de su abuelo, que tiene 85 años y tiene problemas de movilidadad.<br>
-Mientras conversaba con ella, se puede notar un tanto de melancolía al pensar en la situación de<br>
-su padre, especialmente por su dificultad en moverse o levantarse de la cama. A pesar de estos<br>
-problemas de movilidad, él siempre encuentra como escaparse.<br>
-Raquel usa más frecuentemente su celular Android y su laptop, y su principal navegador de uso es Google Chrome.<br>
-
 **Nombre y Apellidos :** Norma Ismary Martinez Lozano <br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 51 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
 
 <img src="Assets\Screeshot_Norma_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 30:57 <br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 30:57 <br>
+**Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 5:41 minutos <br>
 
 Norma es una profesora de primaria, que se mantiene trabajando 8 horas, que se acumulan con otras actividades por lo que<br>
 no puede mantenerse mucho tiempo en su domicilio. La persona a su cuidado es su madre, la cual tiene presión alta<br>
@@ -291,31 +432,17 @@ Norma utiliza mayormente su celular, su laptop y una cámara que tiene en el cen
 madre, y hablar con ella.<br>
 Norma tiene un celular android y su explorador principal es Google Chrome.<br>
 
-
 **Nombre y Apellidos :** Juan Diego Ponce Arasaki <br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 21 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Ancon, Lima <br>
 
 <img src="Assets\EntrevistadoPonce.png" width="596" height="334"> <br>
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 28:16 <br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 28:16 <br>
+**Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 2:40 minutos <br>
 
 Nuestro entrevistado fue Juan Ponce, estudiante de ingeniería de sistemas que está interesado en la propuesta ya que cuida a un adulto mayor. Nos explicó sobre su situación y la preocupacion que tiene al momento de salir ,dejando a su abuela sola .Por eso nos comento que si existiera una forma de mantener supervision constante sobre su abuela le serviria de mucha ayuda.Así mismo nos conto sobre una mala experiencia que tuvo cuando la dejo sola y  su abuela se cayo ,por suerte el habia avisado a un vecino si pudiera estar viendola cada cierto tiempo  siendo de mucha utilidad.Finalmente nos menciono el sistema operativo de su celular y el navegador de su preferencia siendo android y Google Chrome.
- 
-
-**Nombre y Apellidos :** Jordi Jesus Carhuachin <br>
-**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 23 años <br>
-**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Huaral, Lima <br>
-
-<img src="Assets\EntrevistadoJordi.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
-
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 00:00 <br>
-
-Jordi es un estudiante de enfermo (Universidad Jose Faustino Sanchez Carrión) en el ultimo ciclo de internado, con relacionado al adulto mayor, realizo practicas en un asilo San Judas Tadeo, en donde tenian los adultos mayores que ser cuidados por expertos, en el curso del cuidado del adulto mayor. Existian muchos tipos de personas mayores, donde guardan esa información es por historial clinicas , tiene el historial de la enfermedades, tratamientos y doctores, examenes auxiliares y entre otros.<br>
-Lo importante a realizar a un abuelo es que no les genere ulceras por presión, esto sucede porque para mucho tiempo postrados en cama o sentados, sus huesos comiencen a rozar con su piel. Por eso si se usaran una pulsera deben ser productos no lacerantes, algodón estaria bien<br>
-En caso de que los abuelos quieran irse es una constante cuando se les saca de paseo, ya que necesitan estimulación tanto fisica como mental. <br>
-En caso del producto es necesario para los pacientes de hipertensión, ya que es necesario revisar su presión o que tomen sus pastillas a tiempo, sino podrian caer en un taquicardia o un paro cardiaco. En estos casos es una revisión cada 8 horas o 3 veces al dia. <br>
-Ante la diferenciación la competencia dijo que serian los relojos pero algo que no tienen es la presión, eso seria relevante<br>
 
 **Nombre y Apellidos :** Jonatan Curi 
 
@@ -325,11 +452,51 @@ Ante la diferenciación la competencia dijo que serian los relojos pero algo que
 
 ![](Assets/Entrevista_Jonatan.png)
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Video de entrevistas](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 07:30 
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 07:30 <br>
+**Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 6:13 minutos <br>
 
 Jonatan, estudiante de la UPC, enfrenta el desafío de equilibrar sus estudios con el cuidado especializado de un familiar de edad avanzada. Aunque se compromete con esta responsabilidad debido a su estrecha relación con su ser querido, reconoce las limitaciones de tiempo que le impone. 
 
 Jonatan sugiere mejoras para facilitar su situación, como la flexibilización de horarios académicos y el acceso a recursos de apoyo para estudiantes en circunstancias similares. Su experiencia resalta la importancia de considerar las necesidades de aquellos que enfrentan responsabilidades de cuidado familiar mientras persiguen sus objetivos educativos.
+
+### Segmento: Supervisores
+ 
+**Nombre y Apellidos :** Raquel Lili Melany Romero Martinez <br>
+**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 24 años <br>
+**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
+
+<img src="Assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 22:53 <br>
+**Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 4:04 minutos <br>
+
+Raquel es una estudiante de medicina que está alrededor de 5 o 6 horas al día fuera de su domicilio.<br>
+Actualmente está cuidando de su abuelo, que tiene 85 años y tiene problemas de movilidadad.<br>
+Mientras conversaba con ella, se puede notar un tanto de melancolía al pensar en la situación de<br>
+su padre, especialmente por su dificultad en moverse o levantarse de la cama. A pesar de estos<br>
+problemas de movilidad, él siempre encuentra como escaparse.<br>
+Raquel usa más frecuentemente su celular Android y su laptop, y su principal navegador de uso es Google Chrome.<br>
+
+
+**Nombre y Apellidos :** Jordi Jesus Carhuachin <br>
+**Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 23 años <br>
+**Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Huaral, Lima <br>
+
+<img src="Assets\EntrevistadoJordi.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 00:00 <br>
+**Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 7:30 minutos <br>
+
+Jordi es un estudiante de enfermo (Universidad Jose Faustino Sanchez Carrión) en el ultimo ciclo de internado, con relacionado al adulto mayor, realizo practicas en un asilo San Judas Tadeo, en donde tenian los adultos mayores que ser cuidados por expertos, en el curso del cuidado del adulto mayor. Existian muchos tipos de personas mayores, donde guardan esa información es por historial clinicas , tiene el historial de la enfermedades, tratamientos y doctores, examenes auxiliares y entre otros.<br>
+Lo importante a realizar a un abuelo es que no les genere ulceras por presión, esto sucede porque para mucho tiempo postrados en cama o sentados, sus huesos comiencen a rozar con su piel. Por eso si se usaran una pulsera deben ser productos no lacerantes, algodón estaria bien<br>
+En caso de que los abuelos quieran irse es una constante cuando se les saca de paseo, ya que necesitan estimulación tanto fisica como mental. <br>
+En caso del producto es necesario para los pacientes de hipertensión, ya que es necesario revisar su presión o que tomen sus pastillas a tiempo, sino podrian caer en un taquicardia o un paro cardiaco. En estos casos es una revisión cada 8 horas o 3 veces al dia. <br>
+Ante la diferenciación la competencia dijo que serian los relojos pero algo que no tienen es la presión, eso seria relevante<br>
+
+
 
 **Nombre y Apellidos :** Maryfe Pamela Cortez Menguay <br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 26 años <br>
@@ -337,7 +504,9 @@ Jonatan sugiere mejoras para facilitar su situación, como la flexibilización d
 
 ![Maryfe](assets/EntrevistaCristhian.png)
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [Entrevista de Cristhian](https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FSubir%20videos%20de%20entrevistas%2FEntrevistas%5FIOT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) Al minuto 13:43 <br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 13:43 <br>
+**Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 10:30 minutos <br>
 
 Maryfe es una enfermera que cuida a una paciente mayor con diversas complicaciones de salud, incluyendo fibrosis pulmonar. Maryfe trabaja junto a otra persona para atender las necesidades de la paciente las 24 horas del día. La paciente es dependiente de sus cuidadores debido a su condición médica y no puede caminar ni alimentarse sola.
 Maryfe no observa ninguna discapacidad adicional en la paciente aparte de sus problemas de salud. Ella utiliza principalmente su teléfono celular para tecnología y encuentra interesante el proyecto, que propone una aplicación móvil y una pulsera inteligente para monitorear a adultos mayores. Sugiere que la aplicación también registre la frecuencia cardíaca, ya que es un indicador importante de la salud del paciente. 
@@ -351,13 +520,20 @@ De la misma manera, se observa que los cuidadores de adultos mayores utilizan en
 
 ![Marcas](assets/Marcas.png)
 
-La mayoría de los entrevistados muestra interés y aceptación hacia el proyecto propuesto de una aplicación móvil y pulsera inteligente para el monitoreo de adultos mayores.
-
-![Uso](assets/Uso.png)
-
 En cuanto a los navegadores web, los cuidadores de adultos mayores utilizan principalmente Google Chrome.
 
 ![Navegadores](assets/navegadorWeb.png)
+
+En base las entrevistas se determino el segmento demografico de la siguiente manera: 
+![Edad](/assets/Edad.png)
+
+![Genero](/assets/Genero.png)
+
+![Distrito](/assets/Distrito.png)
+
+De la misma manera, se determino las habilidades personales de los segmentos objetivos en base a la observación y comportamiento en las entrevistas realizadas.
+
+![Habilidades](/assets/Habilidades.png)
 
 Asimismo, se destaca la importancia del monitoreo de diferentes aspectos de la salud de los adultos mayores, como la presión arterial y la frecuencia cardíaca. Los entrevistados resaltan la relevancia de incluir estos parámetros en la aplicación móvil y la pulsera inteligente para proporcionar un monitoreo integral de la salud de los pacientes. 
 # 2.3. Needfinding
@@ -366,177 +542,570 @@ Asimismo, se destaca la importancia del monitoreo de diferentes aspectos de la s
 
 A continuación, se construirán los User Persona de cada segmento objetivo de nuestra plataforma. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas.
 
-**User Persona – Cuidador de adulto mayor en minorias.**
+**User Persona – Cuidador**
 
 ![](Assets/UserPersonaMinorias.png)
 
-**User Persona – Cuidador de adulto mayor en mayorias.**
+**User Persona – Supervisor**
 
 ![](Assets/UserPersonaMayorias.png)
 
 ## 2.3.2. User Task Matrix
 
-**User Persona – Cuidador de adulto mayor en minorias.**
+En esta sección, se describirán las actividades que realizarían los usuarios con respecto al cuidado de un adulto mayor. En el primer caso, se usa al user persona relacionado al cuidado de adultos en minorías. En el segundo aso, se usa al user persona relacionado al cuidado de adultos en mayorías.
 
-<table>
-<thead>
-  <tr>
-    <th rowspan="2">&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>User Task Matrix&nbsp;&nbsp;&nbsp;</th>
-    <th colspan="2">&nbsp;&nbsp;&nbsp;<br>Luisa Costa&nbsp;&nbsp;&nbsp;</th>
-  </tr>
-  <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br>Frecuencia&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Importancia&nbsp;&nbsp;&nbsp;</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Monitorear signos vitales&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Comunicarse con familiares y&nbsp;&nbsp;&nbsp;otros profesionales&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Mantener registros y&nbsp;&nbsp;&nbsp;documentación&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Administrar medicamentos&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Facilitar actividades&nbsp;&nbsp;&nbsp;recreativas&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-</tbody>
-</table>
+<br>
 
-**User Persona – Cuidador de adulto mayor en mayorias.**
+<table><thead><tr><th rowspan="2"><br><br>User Task Matrix   <br><br></th><th colspan="2">Luisa Costa   <br></th><th colspan="2">Ana Contreras<br></th></tr><tr><th>Frecuencia<br></th><th>Importancia<br></th><th>Frecuencia<br></th><th>Importancia<br></th></tr></thead><tbody><tr><td><br>Monitorear signos vitales<br></td><td><br>Often</td><td><br>High</td><td><br>Often</td><td><br>High</td></tr><tr><td><br>Comunicarse con familiares y otros profesionales</td><td><br>Often<br></td><td><br>Medium</td><td><br>Often<br></td><td><br>Medium</td></tr><tr><td><br>Mantener registros y documentación<br></td><td><br>Often</td><td><br>High</td><td><br>Often</td><td><br>High</td></tr><tr><td><br>Administrar medicamentos<br></td><td><br>Often<br></td><td><br>High<br></td><td><br>Often<br></td><td><br>High<br></td></tr><tr><td><br>Facilitar actividades recreativas<br></td><td><br>Rarely<br></td><td><br>Medium<br></td><td><br>Rarely</td><td><br>Medium<br></td></tr></tbody></table>
 
-<table>
-<thead>
-  <tr>
-    <th rowspan="2">&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>User Task Matrix&nbsp;&nbsp;&nbsp;</th>
-    <th colspan="2">   <br>Ana Contreras</th>
-  </tr>
-  <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br>Frecuencia&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Importancia&nbsp;&nbsp;&nbsp;</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Monitorear signos vitales&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Comunicarse con familiares y&nbsp;&nbsp;&nbsp;otros profesionales&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Mantener registros y&nbsp;&nbsp;&nbsp;documentación&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Administrar medicamentos&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Facilitar actividades&nbsp;&nbsp;&nbsp;recreativas&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-</tbody>
-</table>
+<br>
 
 ## 2.3.3. User Journey Mapping
 
-**User Journey Mapping – Cuidador de adulto mayor en minorias.**
+**User Journey Mapping – Cuidador**
 
 ![](Assets/JourneyMapMinorias.png)
 
-**User Journey Mapping – Cuidador de adulto mayor en mayorias.**
+**User Journey Mapping – Supervisor**
 
 ![](Assets/JourneyMapMayorias.png)
 
 ## 2.3.4. Empathy Mapping
 
-**Empathy Mapping – Cuidador de adulto mayor en minorias.**
+**Empathy Mapping – Cuidador**
 
 ![](Assets/EmpathyMapMinorias.png)
 
-**Empathy Mapping – Cuidador de adulto mayor en mayorias.**
+**Empathy Mapping – Supervisor**
 
 ![](Assets/EmpathyMapMayorias.png)
 
 ## 2.3.5. As-is Scenario Mapping
 
+User - Cuidador
+
 <img src="Assets\AsIs.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
+User - Supervisor
+
+<img src="Assets\AsIs2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+
 # 2.4. Ubiquitous Language
-(colocar 2 cada uno )
-+ **Pulsera Inteligente:**  
-Se refiere al dispositivo wearable que se utilizará para recopilar datos biométricos y de ubicación del adulto mayor en tiempo real.
 
-+ **Cuidador:**     
-  Persona responsable del cuidado y atención del adulto mayor, puede ser un familiar o un profesional de la salud.
++ **Elderly (Adulto mayor):**     
+  Una persona de la tercera edad (60 años a más).
 
-+ **Ubicación en Tiempo Real:**     
++ **Keeper (Cuidador):**     
+  Persona individual responsable del cuidado y atención de un adulto mayor, principalmente un familiar.
+
++ **Supervisor (Supervisor):**     
+  Persona individual responsable del cuidado y atención de varios adultos mayores, este supervisor representaría a un profesional de la salud.
+
++ **Real time ubication (Ubicación en Tiempo Real):**     
   Capacidad de rastrear la ubicación exacta del adulto mayor en todo momento, proporcionando tranquilidad al cuidador y permitiendo una respuesta rápida en caso de emergencia.
+
++ **Reminder (Recordatorio):**     
+  Recordatorio constante del consumo de consumo de medicina o de asistencia a una cita médica. Este recordatorio puede ser ya sea cada día, cada mes, o cada año.
+
+  + **Device purchase (Compra de dispositivo):**     
+  Se refiere al proceso de compra del dispositivo a través de medios oficiales, como podría ser nuestra aplicación web.
+
   # Capítulo III: Requirements Specification
 
 # 3.1. To-Be Scenario Mapping
 
+
+User - Cuidador
+
+<img src="Assets\ToBe.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+
+User - Supervisor
+
+<img src="Assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+
+
 # 3.2. User Stories
 
-| **User Story ID** | **Título**                                                                           | **Descripción**                                                                                                                                                                                                               | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **EPIC ID** |
-|-------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| US01              | Acceso a la cuenta<br>(Web application)                                              | Como usuario de la aplicación.<br>Quiero acceder a mi cuenta de usuario.<br>Para poder verificar mi identidad<br>Y ver los datos de la persona cuidada.                                                                       | **Escenario: Ingreso incorrecto de datos**<br>Dado que el usuario está en la pantalla de acceso.<br>Cuando ingresa la contraseña y/o usuario incorrecto.<br>Entonces la página mosuestra un mensaje de<br>"Datos incorrectos".<br><br>**Escenario: Ingreso correcto de datos**<br>Dado que el usuario está en la pantalla de acceso.<br>Cuando ingresa la contraseña y/o usuario correcto.<br>Entonces el usuario es enviado a la página<br>principal.<br>Y se envia un mensaje al correo electrónico<br>afiliado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |             |
-| US02              | Acceso a la cuenta<br>(Mobile application)                                           | Como usuario de la aplicación.<br>Quiero acceder a mi cuenta de usuario.<br>Para poder verificar mi identidad<br>Y ver los datos de la persona cuidada.                                                                       | **Escenario: Ingreso incorrecto de datos**<br>Dado que el usuario está en la pantalla de acceso.<br>Cuando ingresa la contraseña y/o usuario incorrecto.<br>Entonces la página mosuestra un mensaje de<br>"Datos incorrectos".<br><br>**Escenario: Ingreso correcto de datos**<br>Dado que el usuario está en la pantalla de acceso.<br>Cuando ingresa la contraseña y/o usuario correcto.<br>Entonces el usuario es enviado a la página<br>principal.<br>Y se envia un mensaje al correo electrónico<br>afiliado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |             |
-| US03              | Registro de cuenta.<br>(Web Application)                                             | Como usuario de la aplicación.<br>Quiero poder registrarme en la aplicación.<br>Para poder comenzar con el monitoreo de<br>la persona a cuidar.                                                                               | **Escenario: Creación de la cuenta**<br>Dado que el usuario está en la pantalla de registro.<br>Cuando el usuario ingresa datos como correo<br>electrónico, nombre de usuario y contraseña<br>Entonces una nueva cuenta se crea<br>Y el usuario es llevado a la página principal.<br><br>**Escenario: Activación de la pulsera.**<br>Dado que el usuario tiene una cuenta<br>Y hay una pulsera afiliada a la cuenta.<br>Cuando la pulsera está prendida.<br>Entonces la pulsera actualiza los datos en la<br>base de datos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |
-| US04              | Registro de cuenta.<br>(Mobile Application)                                          | Como usuario de la aplicación.<br>Quiero poder registrarme en la aplicación.<br>Para poder comenzar con el monitoreo de<br>la persona a cuidar.                                                                               | **Escenario: Creación de la cuenta**<br>Dado que el usuario está en la pantalla de registro.<br>Cuando el usuario ingresa datos como correo<br>electrónico, nombre de usuario y contraseña<br>Entonces una nueva cuenta se crea<br>Y el usuario es llevado a la página principal.<br><br>**Escenario: Activación de la pulsera.**<br>Dado que el usuario tiene una cuenta<br>Y hay una pulsera afiliada a la cuenta.<br>Cuando la pulsera está prendida.<br>Entonces la pulsera actualiza los datos en la<br>base de datos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |
-| US05              | Edición de datos de la cuenta.                                                       | Como usuario de la aplicación.<br>Quiero poder editar ciertos datos<br>de mi cuenta como contraseña.<br>Para poder corregir errores<br>Y renovar la contraseña.                                                               | **Escenario: Editar nombre de usuario.**<br>Dado que el usuario está en la pantalla de actualización<br>de datos.<br>Cuando el usuario ingresa el nombre actualizado.<br>Entonces el nombre del usuario es actualizado.<br><br>**Escenario: Editar contraseña.**<br>Dado que el usuario está en la pantalla de actualización<br>de datos.<br>Cuando el usuario ingresa la contraseña actualizada.<br>Y ingresa la contraseña anterior<br>Y verifica a través de un correo electrónico.<br>Entonces se actualiza la contraseña de la cuenta.<br><br>**Escenario: Editar el correo electrónico<br>afiliado.**<br>Dado que el usuario está en la pantalla de actualización<br>de datos.<br>Cuando el usuario reingrese el correo electrónico<br>anterior <br>Y ingrese la contraseña para verificar<br>Entonces se actualizará el correo electrónico afiliado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |
-| US06              | Obtención de la información<br>sobre la persona cuidada.                             | Como usuario de la aplicación.<br>Quiero poder recibir información de la<br>pulsera.<br>Para poder tener constancia de la situación<br>de la persona que estoy cuidando.                                                      | **Escenario: Conexión con la pulsera.**<br>Dado que la pulsera está prendida<br>Cuando recibe una confirmación de afiliación con<br>una cuenta de un usuario.<br>Entonces la pulsera se afilia con la cuenta de tal<br>usuario.<br><br>**Escenario: Guardado de los datos<br>en una base de datos local.**<br>Dado que la pulsera está afiliada a una cuenta<br>Y se encuentra prendida.<br>Cuando se detecta algún cambio en el pulso cardiaco, <br>presión arterial o distancia de cierto punto.<br>Entonces se actualizan los datos dentro de la base<br>de datos local.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |
-| US07              | Visualización de la información sobre<br>la persona cuidada.<br>(Web application)    | Como usuario de la aplicación.<br>Quiero poder visualizar la información de la<br>pulsera.<br>Para poder tener constancia de la situación<br>de la persona que estoy cuidando<br>Y poder tomar medidas al respecto.           | **Escenario: Acceso a la pantalla de datos**<br>Dado a que el usuario se encuentra en la pantalla<br>principal.<br>Cuando el usuario seleccione la opción de visualizar la<br>información.<br>Entonces el usuario es enviado a una pantalla en dónde<br>de visualiza en tiempo real la presión arterial,<br>el pulso cardiaco y la distancia a cierto punto de la<br>pulsera.<br><br>**Escenario: Línea de tiempo de presión arterial**<br>Dado a que el usuario se encuentra en la pantalla de<br>visualización de datos.<br>Cuando presiona en la sección de presión arterial.<br>Entonces es llevado a una pantalla dónde hay una línea<br>de tiempo que recopila la presión arterial de los dos<br>últimos días.<br><br>**Escenario: Línea de tiempo de pulso cardiaco**<br>Dado a que el usuario se encuentra en la pantalla de<br>visualización de datos.<br>Cuando presiona en la sección de pulso cardiaco.<br>Entonces es llevado a una pantalla dónde hay<br>una línea de tiempo que recopila el pulso<br>cardiaco los dos últimos días.                                                                                                                                                                                                                                                                                                                   |             |
-| US08              | Visualización de la información sobre<br>la persona cuidada.<br>(Mobile application) | Como usuario de la aplicación.<br>Quiero poder visualizar la información de la<br>pulsera.<br>Para poder tener constancia de la situación<br>de la persona que estoy cuidando<br>Y poder tomar medidas al respecto.           | **Escenario: Acceso a la pantalla de datos**<br>Dado a que el usuario se encuentra en la pantalla<br>principal.<br>Cuando el usuario seleccione la opción de visualizar la<br>información.<br>Entonces el usuario es enviado a una pantalla en dónde<br>de visualiza en tiempo real la presión arterial,<br>el pulso cardiaco y la distancia a cierto punto de la<br>pulsera.<br><br>**Escenario: Línea de tiempo de presión arterial**<br>Dado a que el usuario se encuentra en la pantalla de<br>visualización de datos.<br>Cuando presiona en la sección de presión arterial.<br>Entonces es llevado a una pantalla dónde hay una línea<br>de tiempo que recopila la presión arterial de los dos<br>últimos días.<br><br>**Escenario: Línea de tiempo de pulso cardiaco**<br>Dado a que el usuario se encuentra en la pantalla de<br>visualización de datos.<br>Cuando presiona en la sección de pulso cardiaco.<br>Entonces es llevado a una pantalla dónde hay<br>una línea de tiempo que recopila el pulso<br>cardiaco los dos últimos días.                                                                                                                                                                                                                                                                                                                   |             |
-| US09              | Generar alarmas cuando se detecten<br>emergencias en la persona cuidada.             | Como usuario de la aplicación.<br>Quiero recibir alarmas en caso que se suceda<br>alguna emergencia.<br>Para poder tomar medidas al respecto.                                                                                 | **Escenario: Lectura anormal de pulso cardiaco.**<br>Dado a que la pulsera se encuentra afiliada a una cuenta<br>Y está prendida.<br>Cuando detecta una pulso cardiaco alto o bajo<br>(mayor a 100bpm o menor a 60 bpm).<br>Entonces la pulsera envía una notificación con alarma<br>al usuario con detalles del incidente, incluyendo<br>posición, pulso cardiaco y hora del incidente.<br><br>**Escenario: Lectura de presión arterial alta.**<br>Dado a que la pulsera se encuentra afiliada a una cuenta<br>Y está prendida.<br>Cuando detecta una presión arterial alta o baja (mayor a<br>140/90 mmHG o menor a 90/60 mmHG)<br>Entonces la pulsera envía una notificación con alarma<br>al usuario con detalles del incidente, incluyendo<br>posición, presión arterial y hora del incidente.<br><br>**Escenario: Lectura de distancia límite.**<br>Dado a que la pulsera se encuentra afiliada a una cuenta<br>Y está prendida<br>Y tiene un punto de referencia al cual referir la<br>distancia.<br>Cuando detecta que el punto de referencia está a una<br>distancia mayor (alrededor de 15 metros, pero<br>depende del usuario)<br>Entonces la pulsera envía una notificación con alarma<br>al usuario con detalles del incidente, incluyendo posición<br>al momento de generarse la emergencia, presión arterial,<br>pulso cardiaco y hora del incidente. |             |
-| US10              | Sección About Us                                                                     | Como visitante de la página destino<br>Quiero poder visualizar la información<br>del grupo de desarrolladores<br>Para poder confirmar que los desarrolladores<br>tienen experiencia anterior en el<br>desarrollo de software. | **Escenario: Misión de la empresa**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección sobre la empresa<br>Entonces el visitante visualiza un párrafo sobre la<br>misión de la empresa.<br><br>**Escenario: Visión de la empresa**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección sobre la empresa<br>Entonces el visitante visualiza un párrafo sobre<br>la visión de la empresa.<br><br>**Escenario: Integrantes de la empresa**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección sobre la empresa<br>Entonces el visitante visualiza varios párrafos<br>sobre cada uno de los desarrolladores de la<br>aplicación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |             |
-| US11              | Sección About the Product                                                            | Como visitante de la página de destino<br>Quiero poder visualizar la información<br>del producto<br>Para poder verificar las funcionalidades de<br>la aplicación antes de probarla.                                           | **Escenario: Descripción general de la aplicación**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección sobre la empresa<br>Entonces el visitante visualiza un párrafo corto<br>sobre el valor principal de la aplicación.<br><br>**Escenario: Funcionalidades de la aplicación**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección sobre la empresa<br>Entonces el visitante visualiza varios párrafos sobre<br>funcionalidades de la aplicación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             |
-| US12              | Sección Contacto                                                                     | Como visitante de la página de destino<br>Quiero poder enviar un mensaje <br>Para poder informar de errores o problemas<br>con la aplicación con el equipo<br>desarrollador.                                                  | **Escenario: Insertar mensaje.**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja a la sección de contacto<br>E ingresa un texto<br>Y envía el mensaje<br>Entonces un mensaje es enviado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |             |
-| US13              | Sección de Redes Sociales                                                            | Como visitante de la página<br>Quiero poder acceder a las redes sociales<br>de la empresa<br>Para poder ver distintas novedades<br>relacionadas a políticas de la empresa<br>o cambios en la aplicación.                      | **Escenario: Facebook**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja al pie de la página<br>y seleccione la opción de Facebook<br>Entonces el visitante es dirigido a la página de Facebook<br>de la empresa.<br><br>**Escenario: Instagram**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja al pie de la página<br>y seleccione la opción de Instagram<br>Entonces el visitante es dirigido a la página de<br>Instagram de la empresa.<br><br>**Escenario: Twitter**<br>Dado a que el visitante se encuentra en la página<br>de destino<br>Cuando baja al pie de la página<br>y seleccione la opción de Twitter<br>Entonces el visitante es dirigido a la página de Twitter<br>de la empresa.                                                    |       |             |
-| US014 	| Configuración de Notificaciones de Medicamentos<br>(Mobile application) 	| Como usuario de la aplicación móvil, quiero poder configurar recordatorios para los medicamentos del adulto mayor, para asegurarme de que se administren a tiempo. 	| Escenario: Configurar recordatorio<br>Dado que el usuario está en la pantalla de gestión de medicamentos.<br>Cuando selecciona la opción para agregar un nuevo medicamento.<br>Entonces se le solicita ingresar detalles como el nombre del medicamento, la dosis, la frecuencia y la hora de administración.<br><br>Escenario: Activar notificaciones<br>Dado que el usuario ha agregado un nuevo medicamento.<br>Cuando activa la opción para recibir notificaciones para ese medicamento.<br>Entonces se programan automáticamente notificaciones diarias en la hora especificada para recordar la administración del medicamento. 	|
-| US015	| Configuración de notificaciones <br>(Mobile application)  	| Como usuario de la aplicación, quiero poder configurar las notificaciones de emergencia para adaptarlas a mis preferencias y necesidades específicas.  	| Escenario: Configuración de preferencias de notificación  <br>Dado que el usuario está en la pantalla de configuración de notificaciones.  <br>Cuando selecciona la opción para configurar las preferencias de notificación.  <br>Entonces se le presenta la posibilidad de activar o desactivar notificaciones para diferentes tipos de emergencias, como lecturas anormales de pulso cardiaco, presión arterial alta, o distancias límite.<br>  <br>Escenario: Guardado de preferencias de notificación  <br>Dado que el usuario ha configurado sus preferencias de notificación.  <br>Cuando guarda los cambios realizados.  <br>Entonces las preferencias de notificación se guardan en la cuenta del usuario y se aplican en futuras situaciones de emergencia. 	|
-| US016 	| Acceso a registros históricos<br>(Mobile application) 	| Como usuario de la aplicación, quiero  poder acceder a registros históricos de la salud y ubicación del adulto mayor para realizar un seguimiento a largo plazo y detectar tendencias. 	| Escenario: Acceso a registros históricos de salud<br>Dado que el usuario está en la pantalla de visualización de datos.<br>Cuando selecciona la opción para ver registros históricos de salud.<br>Entonces se le muestra una lista de fechas y puede seleccionar una para ver los datos de salud registrados en esa fecha.<br><br>Escenario: Acceso a registros históricos de ubicación<br>Dado que el usuario está en la pantalla de visualización de datos.<br>Cuando selecciona la opción para ver registros históricos de ubicación.<br>Entonces se le muestra una lista de fechas y puede seleccionar una para ver la ubicación registrada del adulto mayor en esa fecha. 	|
-| US017 	| Registro de múltiples cuentas de cuidadores (Mobile application) 	| Como usuario de la aplicación, quiero  poder registrar y alternar entre múltiples cuentas de cuidadores para supervisar a diferentes adultos mayores a mi cargo.  	| Escenario: Registro de una nueva cuenta de cuidador  <br>Dado que el usuario está en la pantalla de gestión de cuentas.  <br>Cuando selecciona la opción para agregar una nueva cuenta de cuidador.  <br>Entonces se le solicitan los datos necesarios para crear una nueva cuenta, como correo electrónico, nombre de usuario y contraseña.<br>  <br>Escenario: Alternar entre cuentas de cuidadores  <br>Dado que el usuario tiene múltiples cuentas de cuidador registradas.  <br>Cuando selecciona la opción para cambiar de cuenta.  <br>Entonces se le presenta una lista de las cuentas registradas y puede seleccionar la que desea utilizar en ese momento. 	|
-| US018 	| Configurar alertas personalizadas<br>(Mobile application) 	| Como usuario de la aplicación, quiero  poder configurar alertas personalizadas para recibir notificaciones específicas sobre la salud y seguridad del adulto mayor según mis necesidades y preferencias. 	| Escenario: Configurar alertas de medicamentos<br>Dado que el usuario está en la pantalla de configuración de alertas.<br>Cuando selecciona la opción para configurar alertas de medicamentos.<br>Entonces se le presenta la posibilidad de ingresar los horarios y nombres de los medicamentos, así como la dosis, para recibir recordatorios personalizados.<br><br>Escenario: Configurar alertas de actividades<br>Dado que el usuario está en la pantalla de configuración de alertas.<br>Cuando selecciona la opción para configurar alertas de actividades, como citas médicas o ejercicios.<br>Entonces se le presenta la posibilidad de ingresar los detalles de la actividad y recibir recordatorios en el momento deseado. 	|
-| US019 	| Seguimiento de la ubicación del adulto mayor<br>(Mobile application) 	| Como usuario de la aplicación, quiero  poder realizar un seguimiento de la ubicación del adulto mayor en tiempo real para garantizar su seguridad y poder responder rápidamente en caso de emergencia. 	| Escenario: Visualizar ubicación en el mapa<br>Dado que el usuario está en la pantalla principal de la aplicación.<br>Cuando selecciona la opción para ver la ubicación del adulto mayor.<br>Entonces se muestra un mapa con la ubicación actual del adulto mayor en tiempo real.<br><br>Escenario: Notificación de salida de zona segura<br>Dado que el usuario ha establecido una zona segura para el adulto mayor.<br>Cuando el adulto mayor sale de esta zona.<br>Entonces el usuario recibe una notificación en su dispositivo móvil para informarle sobre la salida de la zona segura. 	|
-| US020 	| Agregar lista de medicamentos con recordatorio<br>(Mobile application) 	| Como usuario de la aplicación, quiero  poder crear y gestionar una lista de medicamentos para el adulto mayor, así como recibir recordatorios para administrarlos correctamente y a tiempo. 	| Escenario: Agregar medicamento a la lista<br>Dado que el usuario está en la pantalla de gestión de medicamentos.<br>Cuando selecciona la opción para agregar un nuevo medicamento.<br>Entonces se le solicita que ingrese el nombre del medicamento, la dosis, la frecuencia y los horarios de administración.<br><br>Escenario: Configurar recordatorio para el medicamento<br>Dado que el usuario ha agregado un nuevo medicamento a la lista.<br>Cuando selecciona la opción para configurar un recordatorio para ese medicamento.<br>Entonces se le permite establecer el horario y la frecuencia de los recordatorios para garantizar que el medicamento se administre puntualmente. 	|
-| US021 	| Historial de ubicaciones del adulto mayor<br>(Mobile application) 	| Como usuario de la aplicación, quiero  poder acceder al historial de ubicaciones del adulto mayor para poder realizar un seguimiento de sus movimientos y patrones de comportamiento a lo largo del tiempo. 	| Escenario: Acceder al historial de ubicaciones<br>Dado que el usuario está en la pantalla de visualización de ubicaciones.<br>Cuando selecciona la opción para ver el historial de ubicaciones del adulto mayor.<br>Entonces se muestra una lista cronológica de todas las ubicaciones registradas del adulto mayor, con detalles como fecha, hora y descripción de la ubicación.<br><br>Escenario: Filtrar el historial de ubicaciones<br>Dado que el usuario está viendo el historial de ubicaciones del adulto mayor.<br>Cuando selecciona la opción para aplicar filtros, como fecha o ubicación específica.<br>Entonces se muestra una lista filtrada que cumple con los criterios seleccionados por el usuario. 	|
-| US022 	| Registrar un nuevo usuario(Back-end)| Como desarrollador, quiero poder agregar un nuevo usuario al sistema mediante una solicitud POST “API/V1/user”, proporcionando detalles como nombre, correo electrónico y contraseña, para permitir el login de nuevos usuarios en la plataforma. 	| Escenario:Ingreso de correo invalido <br>Dado que el usuario está registrándose<br>Cuando ingresa un correo invalido<br>Entonces la página muestra un mensaje de"correo invalido ".<br>Escenario: Ingreso correcto de correo.<br>Dado que el usuario está registrándose.<br>Cuando ingresa el correo correctamente.<br>Entonces el usuario es enviado a la página<br>principal.<br>Y se envía un mensaje al correo electrónico afiliado.|
-| US023 	| Agregar personas enfermas (back-end)|  Como desarrollador, quiero poder agregar una persona al cuidado de un usuario mediante una solicitud POST “API/V1/user/patient”, proporcionando detalles como nombre, dirección, edad, sexo y enfermedad, para que el usuario pueda cuidar de ellos con mayor facilidad.	|  <b>Escenario:</b> Ingreso de usuario<br>Dado que el usuario está registrándose<br>Cuando ingresa un correo invalido<br>Entonces la página muestra un mensaje de"correo invalido ".<br>Escenario: Ingreso correcto de correo.<br>Dado que el usuario está registrándose.<br>Cuando ingresa el correo correctamente.<br>Entonces el usuario es enviado a la página principal.<br>Y se envía un mensaje al correo electrónico afiliado.|
-| US024 	| Iniciar sesión (backend)|  Como desarrollador, quiero implementar un endpoint en el backend para que los usuarios inicien sesión enviando una solicitud POST a "/API/V1/usuarios/login", permitiendo un acceso seguro a la plataforma.	| Escenario: Inicio de sesión exitoso<br>Dado que el usuario ha ingresado sus credenciales correctamente<br>Cuando envía una solicitud POST a "/API/V1/usuarios/login" con su correo electrónico y contraseña válidos<br>Entonces el backend verifica las credenciales<br>Y devuelve un código de estado 200 junto con un token de sesión válido<br>Escenario: Inicio de sesión fallido<br>Dado que el usuario ha ingresado credenciales incorrectas<br>Cuando envía una solicitud POST a "/API/V1/usuarios/login" con información incorrecta<br>Entonces el backend rechaza la solicitud<br>Y devuelve un mensaje de error indicando que las credenciales son inválidas|
-| US025 	| Recuperar contraseña (Backend)| Como desarrollador, quiero diseñar un endpoint en el backend para permitir que los usuarios recuperen su contraseña mediante una solicitud POST a "/API/V1/usuarios/recuperar-contraseña", para proporcionar una solución efectiva en caso de olvido de la contraseña..|  Escenario: Recuperación de contraseña exitosa<br>Dado que el usuario ha olvidado su contraseña y desea restablecerla.Cuando envía una solicitud POST a "/API/V1/usuarios/recuperar-contraseña" proporcionando su correo electrónico registrado<br>Entonces el backend genera un enlace de restablecimiento de contraseña y lo envía al correo electrónico registrado del usuario<br>Escenario: Correo electrónico no registrado<br>Dado que el usuario proporciona un correo electrónico que no está registrado en la plataforma<br>Cuando envía una solicitud POST a "/API/V1/usuarios/recuperar-contraseña".Entonces el backend responde con un mensaje indicando que el correo electrónico no está asociado a ninguna cuenta|
-|US26|Actualizar Información (backend)|<p>**Como** desarrollador, **quiero** crear un endpoint en el backend **para** permitir que los usuarios actualicen su información personal mediante una solicitud PUT a "/API/V1/usuarios/informacion", para mantener actualizados sus perfiles.</p><p></p>|<p>**Escenario: Actualización exitosa de información**</p><p>Dado que el usuario desea actualizar su información personal.Cuando envía una solicitud PUT a"/API/V1/usuarios/informacion" con los campos a actualizar</p><p>Entonces el backend actualiza la información del usuario en la base de datos</p><p>Y devuelve un código de estado 200 junto con un mensaje de éxito</p><p>**Escenario: Campos inválidos**</p><p>**Dado que el usuario** proporciona campos inválidos o incompletos para la actualización .Cuando envía una solicitud PUT a"/API/V1/usuarios/informacion"</p><p>Entonces el backend responde con un mensaje de error indicando los campos que deben corregirse</p>|
-|US27|Eliminar Cuenta(backend)|<p>**Como** desarrollador, **quiero** implementar un endpoint en el backend **para** permitir que los usuarios eliminen su cuenta mediante una solicitud DELETE a "/API/V1/usuarios/cuenta", asegurando la integridad de los datos y la privacidad del usuario.</p><p></p>|<p>**Escenario: Eliminación exitosa de la cuenta**</p><p>Dado que el usuario desea eliminar permanentemente su cuenta</p><p>Cuando envía una solicitud DELETE a "/API/V1/usuarios/cuenta"</p><p>Entonces el backend elimina todos los datos asociados con la cuenta del usuario</p><p>Y devuelve un código de estado 200 junto con un mensaje de confirmación</p><p>**Escenario: Error en la eliminación de cuenta**</p><p>Dado que ocurre un error durante el proceso de eliminación de la cuenta</p><p>Cuando envía una solicitud DELETE a "/API/V1/usuarios/cuenta"</p><p>Entonces el backend responde con un mensaje de error indicando que la eliminación de la cuenta no fue exitosa</p>|
-|US28|Endpoint Soporte (backend)|<p>**Como** desarrollador, **quiero** diseñar un endpoint en el backend **para** permitir que los usuarios envíen una solicitud de ayuda mediante una solicitud POST a "/API/V1/usuarios/solicitar-ayuda", para ofrecer un soporte eficiente y satisfactorio.</p><p></p>|<p>**Escenario: Solicitud de ayuda enviada con éxito**</p><p>Dado que el usuario necesita ayuda o asistencia técnica</p><p>Cuando envía una solicitud POST a "/API/V1/usuarios/solicitar-ayuda" proporcionando detalles del problema</p><p>Entonces el backend registra la solicitud de ayuda y la asigna al departamento correspondiente</p><p>Y devuelve un código de estado 200 junto con un mensaje de confirmación</p><p>**Escenario: Campos vacíos en la solicitud de ayuda**</p><p>Dado que el usuario envía una solicitud de ayuda con campos vacíos</p><p>Cuando envía una solicitud POST a "/API/V1/usuarios/solicitar-ayuda" sin proporcionar detalles del problema</p><p>Entonces el backend responde con un mensaje de error indicando que los campos son obligatorios y deben completarse</p>|
-|US29|Proceso de ventas|**Como** desarrollador, **quiero** implementar un endpoint en el backend **para** procesar las ventas realizadas por los usuarios, de modo que se actualicen los registros de inventario y se registren las transacciones correspondientes en la base de datos.|<p>**Escenario: Procesamiento exitoso de una venta**</p><p>Dado que un usuario realiza una compra de un producto en la plataforma</p><p>Cuando se envía una solicitud POST a "/API/V1/ventas" con los detalles de la venta, incluyendo el ID del usuario, el ID del producto y la cantidad comprada</p><p>Entonces el backend actualiza el inventario </p><p>Y registra la transacción de venta en la base de datos, incluyendo detalles como el usuario que realizó la compra, el producto comprado, la cantidad adquirida y la dirección.</p><p></p><p>Escenario: Error en el procesamiento de la venta</p><p></p><p>Dado que ocurre un error durante el procesamiento de la venta, como un producto fuera de stock o un error interno del servidor</p><p>Cuando se envía una solicitud POST a "/API/V1/ventas" con los detalles de la venta</p><p>Entonces el backend responde con un código 400</p><p>Y devuelve un mensaje de error descriptivo indicando la causa del problema .</p>|
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Epic ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Título&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Desarrollo del Landing&nbsp;&nbsp;&nbsp;page&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Se centra en el&nbsp;&nbsp;&nbsp;desarrollo del sitio web estático para la empresa. Incluye la creación de las&nbsp;&nbsp;&nbsp;diferentes secciones y funcionalidades necesarias para proporcionar&nbsp;&nbsp;&nbsp;información relevante sobre la empresa y el producto.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Autenticación y&nbsp;&nbsp;&nbsp;Registro de Usuarios&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Abarca las&nbsp;&nbsp;&nbsp;funcionalidades relacionadas con la autenticación y el registro de usuarios&nbsp;&nbsp;&nbsp;en la aplicación, tanto en la versión web como móvil.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Monitorización y&nbsp;&nbsp;&nbsp;Seguimiento de la Persona Cuidada&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Se enfoca en las&nbsp;&nbsp;&nbsp;funcionalidades relacionadas con la monitorización y seguimiento en tiempo&nbsp;&nbsp;&nbsp;real de la persona a cuidar, así como la visualización de datos históricos y&nbsp;&nbsp;&nbsp;la configuración de alertas.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de&nbsp;&nbsp;&nbsp;Configuraciones y Notificaciones&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Las&nbsp;&nbsp;&nbsp;funcionalidades relacionadas con la configuración de notificaciones y alertas&nbsp;&nbsp;&nbsp;personalizadas, así como la gestión de configuraciones de cuenta y&nbsp;&nbsp;&nbsp;medicamentos.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Desarrollo del&nbsp;&nbsp;&nbsp;Back-end&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Se enfoca en el&nbsp;&nbsp;&nbsp;desarrollo del back-end de la aplicación&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Conexión con&nbsp;&nbsp;&nbsp;Dispositivos de Monitoreo&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>La integración con&nbsp;&nbsp;&nbsp;dispositivos de monitoreo de salud externos, así como la implementación de&nbsp;&nbsp;&nbsp;notificaciones push y análisis de datos.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>User Story ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Título&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Criterios de Aceptación&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>EPIC ID&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a la cuenta<br>&nbsp;&nbsp;&nbsp;(Web application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero acceder a mi cuenta de usuario.<br>&nbsp;&nbsp;&nbsp;Para poder verificar mi identidad<br>&nbsp;&nbsp;&nbsp;Y ver los datos de la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Ingreso incorrecto de datos  <br> Dado que el usuario está en la pantalla de acceso.<br>   Cuando ingresa la contraseña y/o usuario incorrecto.<br>   Entonces la página muestra un mensaje de<br>   "Datos incorrectos".<br>   <br>   Escenario: Ingreso correcto de datos<br>   Dado que el usuario está en la pantalla de acceso.<br>   Cuando ingresa la contraseña y/o usuario correcto.<br>   Entonces el usuario es enviado a la página<br>   principal.<br>   Y se envia un mensaje al correo electrónico<br>   afiliado.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a la cuenta<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero acceder a mi cuenta de usuario.<br>&nbsp;&nbsp;&nbsp;Para poder verificar mi identidad<br>&nbsp;&nbsp;&nbsp;Y ver los datos de la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Ingreso incorrecto de datos   <br>Dado que el usuario está en la pantalla de acceso.<br>   Cuando ingresa la contraseña y/o usuario incorrecto.<br>   Entonces la página mosuestra un mensaje de<br>   "Datos incorrectos".<br>   <br>   Escenario: Ingreso correcto de datos<br>   Dado que el usuario está en la pantalla de acceso.<br>   Cuando ingresa la contraseña y/o usuario correcto.<br>   Entonces el usuario es enviado a la página<br>   principal.<br>   Y se envia un mensaje al correo electrónico<br>   afiliado.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de cuenta.<br>&nbsp;&nbsp;&nbsp;(Web Application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder registrarme en la aplicación.<br>&nbsp;&nbsp;&nbsp;Para poder comenzar con el monitoreo de<br>&nbsp;&nbsp;&nbsp;la persona a cuidar.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Creación de la cuenta   <br>Dado que el usuario está en la pantalla de registro.<br>   Cuando el usuario ingresa datos como correo<br>   electrónico, nombre de usuario y contraseña<br>   Entonces una nueva cuenta se crea<br>   Y el usuario es llevado a la página principal.<br>   <br>   Escenario: Activación de la pulsera.<br>   Dado que el usuario tiene una cuenta<br>   Y hay una pulsera afiliada a la cuenta.<br>   Cuando la pulsera está prendida.<br>   Entonces la pulsera actualiza los datos en la<br>   base de datos.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de cuenta.<br>&nbsp;&nbsp;&nbsp;(Mobile Application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder registrarme en la aplicación.<br>&nbsp;&nbsp;&nbsp;Para poder comenzar con el monitoreo de<br>&nbsp;&nbsp;&nbsp;la persona a cuidar.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Creación de la cuenta   <br>Dado que el usuario está en la pantalla de registro.<br>   Cuando el usuario ingresa datos como correo<br>   electrónico, nombre de usuario y contraseña<br>   Entonces una nueva cuenta se crea<br>   Y el usuario es llevado a la página principal.<br>   <br>   Escenario: Activación de la pulsera.<br>   Dado que el usuario tiene una cuenta<br>   Y hay una pulsera afiliada a la cuenta.<br>   Cuando la pulsera está prendida.<br>   Entonces la pulsera actualiza los datos en la<br>   base de datos.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Edición de datos de la cuenta.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder editar ciertos datos<br>&nbsp;&nbsp;&nbsp;de mi cuenta como contraseña.<br>&nbsp;&nbsp;&nbsp;Para poder corregir errores<br>&nbsp;&nbsp;&nbsp;Y renovar la contraseña.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Editar nombre de usuario.&nbsp;&nbsp;&nbsp;Dado que el usuario está en la pantalla de actualización<br>&nbsp;&nbsp;&nbsp;de datos.<br>&nbsp;&nbsp;&nbsp;Cuando el usuario ingresa el nombre actualizado.<br>&nbsp;&nbsp;&nbsp;Entonces el nombre del usuario es actualizado.<br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Escenario: Editar contraseña.<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está en la pantalla de actualización<br>&nbsp;&nbsp;&nbsp;de datos.<br>&nbsp;&nbsp;&nbsp;Cuando el usuario ingresa la contraseña actualizada.<br>&nbsp;&nbsp;&nbsp;Y ingresa la contraseña anterior<br>&nbsp;&nbsp;&nbsp;Y verifica a través de un correo electrónico.<br>&nbsp;&nbsp;&nbsp;Entonces se actualiza la contraseña de la cuenta.<br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Escenario: Editar el correo electrónico<br>&nbsp;&nbsp;&nbsp;afiliado.<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está en la pantalla de actualización<br>&nbsp;&nbsp;&nbsp;de datos.<br>&nbsp;&nbsp;&nbsp;Cuando el usuario reingrese el correo electrónico<br>&nbsp;&nbsp;&nbsp;anterior<br>&nbsp;&nbsp;&nbsp;Y ingrese la contraseña para verificar<br>&nbsp;&nbsp;&nbsp;Entonces se actualizará el correo electrónico afiliado.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Obtención de la información<br>&nbsp;&nbsp;&nbsp;sobre la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder recibir información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Conexión con la pulsera.   <br>Dado que la pulsera está prendida<br>   Cuando recibe una confirmación de afiliación con<br>   una cuenta de un usuario.<br>   Entonces la pulsera se afilia con la cuenta de tal<br>   usuario.<br>   <br>   Escenario: Guardado de los datos<br>   en una base de datos local.<br>   Dado que la pulsera está afiliada a una cuenta<br>   Y se encuentra prendida.<br>   Cuando se detecta algún cambio en el pulso cardiaco,<br>   presión arterial o distancia de cierto punto.<br>   Entonces se actualizan los datos dentro de la base<br>   de datos local.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US07&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Visualización de la información sobre<br>&nbsp;&nbsp;&nbsp;la persona cuidada.<br>&nbsp;&nbsp;&nbsp;(Web application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando<br>&nbsp;&nbsp;&nbsp;Y poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Acceso a la pantalla de datos   <br>Dado a que el usuario se encuentra en la pantalla<br>   principal.<br>   Cuando el usuario seleccione la opción de visualizar la<br>   información.<br>   Entonces el usuario es enviado a una pantalla en dónde<br>   de visualiza en tiempo real la presión arterial,<br>   el pulso cardiaco y la distancia a cierto punto de la<br>   pulsera.<br>   <br>   Escenario: Línea de tiempo de presión arterial<br>   Dado a que el usuario se encuentra en la pantalla de<br>   visualización de datos.<br>   Cuando presiona en la sección de presión arterial.<br>   Entonces es llevado a una pantalla dónde hay una línea<br>   de tiempo que recopila la presión arterial de los dos<br>   últimos días.<br>   <br>   Escenario: Línea de tiempo de pulso cardiaco<br>   Dado a que el usuario se encuentra en la pantalla de<br>   visualización de datos.<br>   Cuando presiona en la sección de pulso cardiaco.<br>   Entonces es llevado a una pantalla dónde hay<br>   una línea de tiempo que recopila el pulso<br>   cardiaco los dos últimos días.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US08&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Visualización de la información sobre<br>&nbsp;&nbsp;&nbsp;la persona cuidada.<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando<br>&nbsp;&nbsp;&nbsp;Y poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Acceso a la pantalla de datos  <br> Dado a que el usuario se encuentra en la pantalla<br>   principal.<br>   Cuando el usuario seleccione la opción de visualizar la<br>   información.<br>   Entonces el usuario es enviado a una pantalla en dónde<br>   de visualiza en tiempo real la presión arterial,<br>   el pulso cardiaco y la distancia a cierto punto de la<br>   pulsera.<br>   <br>   Escenario: Línea de tiempo de presión arterial<br>   Dado a que el usuario se encuentra en la pantalla de<br>   visualización de datos.<br>   Cuando presiona en la sección de presión arterial.<br>   Entonces es llevado a una pantalla dónde hay una línea<br>   de tiempo que recopila la presión arterial de los dos<br>   últimos días.<br>   <br>   Escenario: Línea de tiempo de pulso cardiaco<br>   Dado a que el usuario se encuentra en la pantalla de<br>   visualización de datos.<br>   Cuando presiona en la sección de pulso cardiaco.<br>   Entonces es llevado a una pantalla dónde hay<br>   una línea de tiempo que recopila el pulso<br>   cardiaco los dos últimos días.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US09&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Generar alarmas cuando se detecten<br>&nbsp;&nbsp;&nbsp;emergencias en la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero recibir alarmas en caso que se suceda<br>&nbsp;&nbsp;&nbsp;alguna emergencia.<br>&nbsp;&nbsp;&nbsp;Para poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Lectura anormal de pulso cardiaco.  <br> Dado a que la pulsera se encuentra afiliada a una cuenta<br>   Y está prendida.<br>   Cuando detecta una pulso cardiaco alto o bajo<br>   (mayor a 100bpm o menor a 60 bpm).<br>   Entonces la pulsera envía una notificación con alarma<br>   al usuario con detalles del incidente, incluyendo<br>   posición, pulso cardiaco y hora del incidente.<br>   <br>   Escenario: Lectura de presión arterial alta.<br>   Dado a que la pulsera se encuentra afiliada a una cuenta<br>   Y está prendida.<br>   Cuando detecta una presión arterial alta o baja (mayor a<br>   140/90 mmHG o menor a 90/60 mmHG)<br>   Entonces la pulsera envía una notificación con alarma<br>   al usuario con detalles del incidente, incluyendo<br>   posición, presión arterial y hora del incidente.<br>   <br>   Escenario: Lectura de distancia límite.<br>   Dado a que la pulsera se encuentra afiliada a una cuenta<br>   Y está prendida<br>   Y tiene un punto de referencia al cual referir la<br>   distancia.<br>   Cuando detecta que el punto de referencia está a una<br>   distancia mayor (alrededor de 15 metros, pero<br>   depende del usuario)<br>   Entonces la pulsera envía una notificación con alarma<br>   al usuario con detalles del incidente, incluyendo posición<br>   al momento de generarse la emergencia, presión arterial,<br>   pulso cardiaco y hora del incidente.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US10&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección About Us&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página destino<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información<br>&nbsp;&nbsp;&nbsp;del grupo de desarrolladores<br>&nbsp;&nbsp;&nbsp;Para poder confirmar que los desarrolladores<br>&nbsp;&nbsp;&nbsp;tienen experiencia anterior en el<br>&nbsp;&nbsp;&nbsp;desarrollo de software.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Misión de la empresa  <br> Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección sobre la empresa<br>   Entonces el visitante visualiza un párrafo sobre la<br>   misión de la empresa.<br>   <br>   Escenario: Visión de la empresa<br>   Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección sobre la empresa<br>   Entonces el visitante visualiza un párrafo sobre<br>   la visión de la empresa.<br>   <br>   Escenario: Integrantes de la empresa<br>   Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección sobre la empresa<br>   Entonces el visitante visualiza varios párrafos<br>   sobre cada uno de los desarrolladores de la<br>   aplicación.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US11&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección About the Product&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página de destino<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información<br>&nbsp;&nbsp;&nbsp;del producto<br>&nbsp;&nbsp;&nbsp;Para poder verificar las funcionalidades de<br>&nbsp;&nbsp;&nbsp;la aplicación antes de probarla.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Descripción general de la aplicación   <br>Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección sobre la empresa<br>   Entonces el visitante visualiza un párrafo corto<br>   sobre el valor principal de la aplicación.<br>   <br>   Escenario: Funcionalidades de la aplicación<br>   Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección sobre la empresa<br>   Entonces el visitante visualiza varios párrafos sobre<br>   funcionalidades de la aplicación.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US12&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección Contacto&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página de destino<br>&nbsp;&nbsp;&nbsp;Quiero poder enviar un mensaje<br>&nbsp;&nbsp;&nbsp;Para poder informar de errores o problemas<br>&nbsp;&nbsp;&nbsp;con la aplicación con el equipo<br>&nbsp;&nbsp;&nbsp;desarrollador.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Insertar mensaje.   <br>Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja a la sección de contacto<br>   E ingresa un texto<br>   Y envía el mensaje<br>   Entonces un mensaje es enviado   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US13&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección de Redes Sociales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página<br>&nbsp;&nbsp;&nbsp;Quiero poder acceder a las redes sociales<br>&nbsp;&nbsp;&nbsp;de la empresa<br>&nbsp;&nbsp;&nbsp;Para poder ver distintas novedades<br>&nbsp;&nbsp;&nbsp;relacionadas a políticas de la empresa<br>&nbsp;&nbsp;&nbsp;o cambios en la aplicación.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Escenario: Facebook  <br> Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja al pie de la página<br>   y seleccione la opción de Facebook<br>   Entonces el visitante es dirigido a la página de Facebook<br>   de la empresa.<br>   <br>   Escenario: Instagram<br>   Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja al pie de la página<br>   y seleccione la opción de Instagram<br>   Entonces el visitante es dirigido a la página de<br>   Instagram de la empresa.<br>   <br>   Escenario: Twitter<br>   Dado a que el visitante se encuentra en la página<br>   de destino<br>   Cuando baja al pie de la página<br>   y seleccione la opción de Twitter<br>   Entonces el visitante es dirigido a la página de Twitter<br>   de la empresa.   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US014&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configuración de Notificaciones de Medicamentos<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil,&nbsp;&nbsp;&nbsp;quiero poder configurar los recordatorios de medicamentos del adulto mayor,&nbsp;&nbsp;&nbsp;para asegurarme que se administren a tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Configurar Recordatorio<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está gestionando la lista de medicamentos.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario quiere modificar un recordatorio de algún medicamento.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le solicita modificar el nombre del medicamento, la dosis, la frecuencia y&nbsp;&nbsp;&nbsp;la hora de administración.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Activar Notificaciones<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario agrega un nuevo medicamento.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario activa las notificaciones para ese medicamento.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se programan automáticamente notificaciones diarias para recordar la&nbsp;&nbsp;&nbsp;administración del medicamento.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US015&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configuración de notificaciones<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil,&nbsp;&nbsp;&nbsp;quiero poder configurar las notificaciones de emergencia para adaptarlas a&nbsp;&nbsp;&nbsp;mis preferencias y necesidades específicas.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Configuración de Preferencias de Notificación<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está en la sección de configuración.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;ajusta las preferencias de notificación.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se presenta la posibilidad de activar o desactivar notificaciones para&nbsp;&nbsp;&nbsp;diferentes tipos de emergencias.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Guardado de Preferencias de Notificación<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario configura sus preferencias de notificación.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;guarda los cambios realizados.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;las preferencias de notificación se guardan y se aplican en futuras&nbsp;&nbsp;&nbsp;situaciones de emergencia.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US016&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a registros históricos<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil,&nbsp;&nbsp;&nbsp;quiero  poder acceder a registros históricos de la salud del adulto&nbsp;&nbsp;&nbsp;mayor para realizar un seguimiento a largo plazo y detectar tendencias.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Acceder a Registros Históricos de Salud<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario desea revisar datos históricos.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;busca los registros de salud.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;puede seleccionar una fecha para ver los datos registrados en esa fecha.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Acceder a Registros Históricos de Ubicación<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario desea revisar datos históricos.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;busca los registros de salud en una fecha que no tiene registros.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;el usuario deberá visualizar una advertencia que no se encuentra registrada&nbsp;&nbsp;&nbsp;en la fecha específica.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US017&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de múltiples cuentas de cuidadores (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil ,&nbsp;&nbsp;&nbsp;quiero  poder registrar y alternar entre múltiples cuentas de cuidadores&nbsp;&nbsp;&nbsp;para supervisar a diferentes adultos mayores a mi cargo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Registro de una Nueva Cuenta de Cuidador<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está gestionando cuentas.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;agrega una nueva cuenta de cuidador.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le solicitan los datos necesarios para crear la cuenta.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Alternar entre Cuentas de Cuidadores<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario tiene múltiples cuentas de cuidador registradas.<br>&nbsp;&nbsp;&nbsp;<br>Cuando selecciona&nbsp;&nbsp;&nbsp;la opción para cambiar de cuenta.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se presenta una lista de las cuentas registradas y puede seleccionar la que&nbsp;&nbsp;&nbsp;desea utilizar.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US018&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configurar alertas personalizadas<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la&nbsp;&nbsp;&nbsp;aplicación móvil, quiero poder configurar las  alertas  para&nbsp;&nbsp;&nbsp;recibir notificaciones específicas sobre la salud y seguridad del adulto&nbsp;&nbsp;&nbsp;mayor según mis necesidades y preferencias.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Configurar Alertas de Medicamentos<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está en la sección de configuración.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario quiere modificar las alertas de medicamentos.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le presenta la posibilidad de cambiar el tono de la alerta en base a su&nbsp;&nbsp;&nbsp;preferencia.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Configurar Alertas de Actividades<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está en la sección de configuración.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;quiere modificar las alertas de actividades, como citas médicas o ejercicios.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le presenta la posibilidad de ingresar los detalles de la actividad y&nbsp;&nbsp;&nbsp;recibir recordatorios en el momento deseado.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US019&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Seguimiento de la ubicación del adulto mayor<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil,&nbsp;&nbsp;&nbsp;quiero poder realizar un seguimiento de la ubicación del adulto mayor en&nbsp;&nbsp;&nbsp;tiempo real para garantizar su seguridad y poder responder rápidamente en&nbsp;&nbsp;&nbsp;caso de emergencia.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Visualizar Ubicación en el Mapa<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario ha accedido a la aplicación.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;quiere visualizar la ubicación del adulto mayor.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se muestra un mapa con la ubicación actual del adulto mayor en tiempo real.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Notificación de Salida de Zona Segura<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario ha establecido una zona segura para el adulto mayor.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;adulto mayor sale de esta zona.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;el usuario recibe una notificación en su dispositivo móvil para informarle&nbsp;&nbsp;&nbsp;sobre la salida de la zona segura.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US020&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Agregar lista de medicamentos con recordatorio<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación, quiero&nbsp;&nbsp;&nbsp;agregar y gestionar una lista de medicamentos del adulto mayor, para administrarlo&nbsp;&nbsp;&nbsp;correctamente a tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Agregar Medicamento a la Lista<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario ingresa a la aplicación.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario quiere agregar un nuevo medicamento.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le solicita que ingrese el nombre del medicamento, la dosis, la frecuencia&nbsp;&nbsp;&nbsp;y los horarios de administración.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Agregar Cita médica a la Lista<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario ingresa a la aplicación.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario quiere agregar una cita médica.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se le solicita que ingrese el horario de la cita, y detalles de este.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US021&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Historial de ubicaciones del adulto mayor<br>&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil,&nbsp;&nbsp;&nbsp;quiero poder acceder al historial de ubicaciones del adulto mayor para poder&nbsp;&nbsp;&nbsp;realizar un seguimiento de sus movimientos y patrones de comportamiento a lo&nbsp;&nbsp;&nbsp;largo del tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Acceder al Historial de Ubicaciones<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario desea revisar datos históricos.<br>&nbsp;&nbsp;&nbsp;<br>Cuando&nbsp;&nbsp;&nbsp;busca los registros de ubicaciones.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;puede elegir una fecha para ver el historial de ubicaciones del adulto mayor.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Escenario:&nbsp;&nbsp;&nbsp;Filtrar el Historial de Ubicaciones<br>&nbsp;&nbsp;&nbsp;<br>Dado que&nbsp;&nbsp;&nbsp;el usuario está revisando el historial de ubicaciones del adulto mayor.<br>&nbsp;&nbsp;&nbsp;<br>Cuando el&nbsp;&nbsp;&nbsp;usuario quiere filtrar por fecha o ubicación específica.<br>&nbsp;&nbsp;&nbsp;<br>Entonces&nbsp;&nbsp;&nbsp;se muestra una lista filtrada que cumple con los criterios seleccionados por&nbsp;&nbsp;&nbsp;el usuario.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US022&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registrar un nuevo usuario(Back-end)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero poder agregar un nuevo usuario al sistema&nbsp;&nbsp;&nbsp;mediante una solicitud POST “API/V1/user”, proporcionando detalles como&nbsp;&nbsp;&nbsp;nombre, correo electrónico y contraseña, para permitir el login de nuevos&nbsp;&nbsp;&nbsp;usuarios en la plataforma.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario:Ingreso de correo invalido<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está registrándose<br>&nbsp;&nbsp;&nbsp;Cuando ingresa un correo invalido<br>&nbsp;&nbsp;&nbsp;Entonces la página muestra un mensaje de"correo invalido ".<br>&nbsp;&nbsp;&nbsp;Escenario: Ingreso correcto de correo.<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está registrándose.<br>&nbsp;&nbsp;&nbsp;Cuando ingresa el correo correctamente.<br>&nbsp;&nbsp;&nbsp;Entonces el usuario es enviado a la página<br>&nbsp;&nbsp;&nbsp;principal.<br>&nbsp;&nbsp;&nbsp;Y se envía un mensaje al correo electrónico afiliado.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US023&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Agregar personas enfermas (back-end)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero poder agregar una persona al cuidado de un&nbsp;&nbsp;&nbsp;usuario mediante una solicitud POST “API/V1/user/patient”, proporcionando&nbsp;&nbsp;&nbsp;detalles como nombre, dirección, edad, sexo y enfermedad, para que el usuario&nbsp;&nbsp;&nbsp;pueda cuidar de ellos con mayor facilidad.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Ingreso de usuario<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está registrándose<br>&nbsp;&nbsp;&nbsp;Cuando ingresa un correo invalido<br>&nbsp;&nbsp;&nbsp;Entonces la página muestra un mensaje de"correo invalido ".<br>&nbsp;&nbsp;&nbsp;Escenario: Ingreso correcto de correo.<br>&nbsp;&nbsp;&nbsp;Dado que el usuario está registrándose.<br>&nbsp;&nbsp;&nbsp;Cuando ingresa el correo correctamente.<br>&nbsp;&nbsp;&nbsp;Entonces el usuario es enviado a la página principal.<br>&nbsp;&nbsp;&nbsp;Y se envía un mensaje al correo electrónico afiliado.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Iniciar sesión (backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero implementar un endpoint en el backend para&nbsp;&nbsp;&nbsp;que los usuarios inicien sesión enviando una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/login", permitiendo un acceso seguro a la&nbsp;&nbsp;&nbsp;plataforma.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Inicio de sesión exitoso<br>&nbsp;&nbsp;&nbsp;Dado que el usuario ha ingresado sus credenciales correctamente<br>&nbsp;&nbsp;&nbsp;Cuando envía una solicitud POST a "/API/V1/usuarios/login" con su&nbsp;&nbsp;&nbsp;correo electrónico y contraseña válidos<br>&nbsp;&nbsp;&nbsp;Entonces el backend verifica las credenciales<br>&nbsp;&nbsp;&nbsp;Y devuelve un código de estado 200 junto con un token de sesión válido<br>&nbsp;&nbsp;&nbsp;Escenario: Inicio de sesión fallido<br>&nbsp;&nbsp;&nbsp;Dado que el usuario ha ingresado credenciales incorrectas<br>&nbsp;&nbsp;&nbsp;Cuando envía una solicitud POST a "/API/V1/usuarios/login" con&nbsp;&nbsp;&nbsp;información incorrecta<br>&nbsp;&nbsp;&nbsp;Entonces el backend rechaza la solicitud<br>&nbsp;&nbsp;&nbsp;Y devuelve un mensaje de error indicando que las credenciales son inválidas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US025&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Recuperar contraseña (Backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero diseñar un endpoint en el backend para&nbsp;&nbsp;&nbsp;permitir que los usuarios recuperen su contraseña mediante una solicitud POST&nbsp;&nbsp;&nbsp;a "/API/V1/usuarios/recuperar-contraseña", para proporcionar una&nbsp;&nbsp;&nbsp;solución efectiva en caso de olvido de la contraseña..&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Recuperación de contraseña exitosa<br>&nbsp;&nbsp;&nbsp;Dado que el usuario ha olvidado su contraseña y desea restablecerla.Cuando&nbsp;&nbsp;&nbsp;envía una solicitud POST a "/API/V1/usuarios/recuperar-contraseña"&nbsp;&nbsp;&nbsp;proporcionando su correo electrónico registrado<br>&nbsp;&nbsp;&nbsp;Entonces el backend genera un enlace de restablecimiento de contraseña y lo&nbsp;&nbsp;&nbsp;envía al correo electrónico registrado del usuario<br>&nbsp;&nbsp;&nbsp;Escenario: Correo electrónico no registrado<br>&nbsp;&nbsp;&nbsp;Dado que el usuario proporciona un correo electrónico que no está registrado&nbsp;&nbsp;&nbsp;en la plataforma<br>&nbsp;&nbsp;&nbsp;Cuando envía una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/recuperar-contraseña".Entonces el backend&nbsp;&nbsp;&nbsp;responde con un mensaje indicando que el correo electrónico no está asociado&nbsp;&nbsp;&nbsp;a ninguna cuenta&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP05&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US26&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Actualizar Información (backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero crear&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;actualicen su información personal mediante una solicitud PUT a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/informacion", para mantener actualizados sus&nbsp;&nbsp;&nbsp;perfiles.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Actualización exitosa de información<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario desea actualizar su información personal.Cuando&nbsp;&nbsp;&nbsp;envía una solicitud PUT a"/API/V1/usuarios/informacion" con los&nbsp;&nbsp;&nbsp;campos a actualizar<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend actualiza la información del usuario en la base de&nbsp;&nbsp;&nbsp;datos<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un código de estado 200 junto con un mensaje de éxito<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Campos inválidos<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario proporciona campos inválidos o incompletos para la actualización&nbsp;&nbsp;&nbsp;.Cuando envía una solicitud PUT a"/API/V1/usuarios/informacion"<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un mensaje de error indicando los&nbsp;&nbsp;&nbsp;campos que deben corregirse&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US27&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Eliminar Cuenta(backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero implementar&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;eliminen su cuenta mediante una solicitud DELETE a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/cuenta", asegurando la integridad de los datos y&nbsp;&nbsp;&nbsp;la privacidad del usuario.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Eliminación exitosa de la cuenta<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario desea eliminar permanentemente su cuenta<br>&nbsp;&nbsp;&nbsp;<br>Cuando envía una solicitud DELETE a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/cuenta"<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend elimina todos los datos asociados con la cuenta&nbsp;&nbsp;&nbsp;del usuario<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un código de estado 200 junto con un mensaje de&nbsp;&nbsp;&nbsp;confirmación<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la eliminación de cuenta<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante el proceso de eliminación de la&nbsp;&nbsp;&nbsp;cuenta<br>&nbsp;&nbsp;&nbsp;<br>Cuando envía una solicitud DELETE a "/API/V1/usuarios/cuenta"<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un mensaje de error indicando que la&nbsp;&nbsp;&nbsp;eliminación de la cuenta no fue exitosa&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US28&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Endpoint Soporte (backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero diseñar&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;envíen una solicitud de ayuda mediante una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/solicitar-ayuda", para ofrecer un soporte&nbsp;&nbsp;&nbsp;eficiente y satisfactorio.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Solicitud de ayuda enviada con éxito<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario necesita ayuda o asistencia técnica<br>&nbsp;&nbsp;&nbsp;<br>Cuando envía una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/solicitar-ayuda" proporcionando detalles del&nbsp;&nbsp;&nbsp;problema<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend registra la solicitud de ayuda y la asigna al&nbsp;&nbsp;&nbsp;departamento correspondiente<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un código de estado 200 junto con un mensaje de&nbsp;&nbsp;&nbsp;confirmación<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Campos vacíos en la solicitud de ayuda<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario envía una solicitud de ayuda con campos vacíos<br>&nbsp;&nbsp;&nbsp;<br>Cuando envía una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/solicitar-ayuda" sin proporcionar detalles del&nbsp;&nbsp;&nbsp;problema<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un mensaje de error indicando que los&nbsp;&nbsp;&nbsp;campos son obligatorios y deben completarse&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US29&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Proceso de ventas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero implementar&nbsp;&nbsp;&nbsp;un endpoint en el backend para procesar las ventas&nbsp;&nbsp;&nbsp;realizadas por los usuarios, de modo que se actualicen los registros de&nbsp;&nbsp;&nbsp;inventario y se registren las transacciones correspondientes en la base de&nbsp;&nbsp;&nbsp;datos.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Procesamiento exitoso de una venta<br>&nbsp;&nbsp;&nbsp;<br>Dado que un usuario realiza una compra de un producto en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud POST a "/API/V1/ventas" con&nbsp;&nbsp;&nbsp;los detalles de la venta, incluyendo el ID del usuario, el ID del producto y&nbsp;&nbsp;&nbsp;la cantidad comprada<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend actualiza el inventario<br>&nbsp;&nbsp;&nbsp;<br>Y registra la transacción de venta en la base de datos, incluyendo&nbsp;&nbsp;&nbsp;detalles como el usuario que realizó la compra, el producto comprado, la&nbsp;&nbsp;&nbsp;cantidad adquirida y la dirección.<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en el procesamiento de la venta<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante el procesamiento de la venta, como un&nbsp;&nbsp;&nbsp;producto fuera de stock o un error interno del servidor<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud POST a "/API/V1/ventas" con&nbsp;&nbsp;&nbsp;los detalles de la venta<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un código 400<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un mensaje de error descriptivo indicando la causa del problema.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 
 # 3.3. Impact Mapping
 
 # 3.4. Product Backlog
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br># Orden&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>User Story Id&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Título&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Story Points&nbsp;&nbsp;&nbsp;(1/2/3/5/8)&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>1&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US10&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección About Us&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;visitante de la página destino<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información<br>&nbsp;&nbsp;&nbsp;del grupo de desarrolladores<br>&nbsp;&nbsp;&nbsp;Para poder confirmar que los desarrolladores<br>&nbsp;&nbsp;&nbsp;tienen experiencia anterior en el<br>&nbsp;&nbsp;&nbsp;desarrollo de software.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US11&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección About the&nbsp;&nbsp;&nbsp;Product&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página de&nbsp;&nbsp;&nbsp;destino<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información<br>&nbsp;&nbsp;&nbsp;del producto<br>&nbsp;&nbsp;&nbsp;Para poder verificar las funcionalidades de<br>&nbsp;&nbsp;&nbsp;la aplicación antes de probarla.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US12&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección Contacto&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página de&nbsp;&nbsp;&nbsp;destino<br>&nbsp;&nbsp;&nbsp;Quiero poder enviar un mensaje<br>&nbsp;&nbsp;&nbsp;Para poder informar de errores o problemas<br>&nbsp;&nbsp;&nbsp;con la aplicación con el equipo<br>&nbsp;&nbsp;&nbsp;desarrollador.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US13&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección de Redes&nbsp;&nbsp;&nbsp;Sociales&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como visitante de la página<br>&nbsp;&nbsp;&nbsp;Quiero poder acceder a las redes sociales<br>&nbsp;&nbsp;&nbsp;de la empresa<br>&nbsp;&nbsp;&nbsp;Para poder ver distintas novedades<br>&nbsp;&nbsp;&nbsp;relacionadas a políticas de la empresa<br>&nbsp;&nbsp;&nbsp;o cambios en la aplicación.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a la cuenta&nbsp;&nbsp;&nbsp;(Web application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero acceder a mi cuenta de usuario.<br>&nbsp;&nbsp;&nbsp;Para poder verificar mi identidad<br>&nbsp;&nbsp;&nbsp;Y ver los datos de la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a la cuenta&nbsp;&nbsp;&nbsp;(Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero acceder a mi cuenta de usuario.<br>&nbsp;&nbsp;&nbsp;Para poder verificar mi identidad<br>&nbsp;&nbsp;&nbsp;Y ver los datos de la persona cuidada.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>7&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de cuenta&nbsp;&nbsp;&nbsp;(Web Application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder registrarme en la aplicación.<br>&nbsp;&nbsp;&nbsp;Para poder comenzar con el monitoreo de<br>&nbsp;&nbsp;&nbsp;la persona a cuidar.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de cuenta&nbsp;&nbsp;&nbsp;(Mobile Application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder registrarme en la aplicación.<br>&nbsp;&nbsp;&nbsp;Para poder comenzar con el monitoreo de<br>&nbsp;&nbsp;&nbsp;la persona a cuidar.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>9&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Edición de datos&nbsp;&nbsp;&nbsp;de la cuenta&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder editar ciertos datos<br>&nbsp;&nbsp;&nbsp;de mi cuenta como contraseña.<br>&nbsp;&nbsp;&nbsp;Para poder corregir errores<br>&nbsp;&nbsp;&nbsp;Y renovar la contraseña.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>10&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Obtención de la&nbsp;&nbsp;&nbsp;información sobre la persona cuidada&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder recibir información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>11&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US07&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Visualización de&nbsp;&nbsp;&nbsp;la información sobre la persona cuidada (Web application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando<br>&nbsp;&nbsp;&nbsp;Y poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>12&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US08&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Visualización de&nbsp;&nbsp;&nbsp;la información sobre la persona cuidada (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero poder visualizar la información de la<br>&nbsp;&nbsp;&nbsp;pulsera.<br>&nbsp;&nbsp;&nbsp;Para poder tener constancia de la situación<br>&nbsp;&nbsp;&nbsp;de la persona que estoy cuidando<br>&nbsp;&nbsp;&nbsp;Y poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>13&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US09&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Generar alarmas&nbsp;&nbsp;&nbsp;cuando se detecten emergencias en la persona cuidada&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación.<br>&nbsp;&nbsp;&nbsp;Quiero recibir alarmas en caso de que suceda<br>&nbsp;&nbsp;&nbsp;alguna emergencia.<br>&nbsp;&nbsp;&nbsp;Para poder tomar medidas al respecto.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>14&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US14&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configuración de&nbsp;&nbsp;&nbsp;Notificaciones de Medicamentos (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero poder configurar los recordatorios de&nbsp;&nbsp;&nbsp;medicamentos del adulto mayor, para asegurarme que se administren a tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>15&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US15&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configuración de&nbsp;&nbsp;&nbsp;notificaciones (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero poder configurar las notificaciones de&nbsp;&nbsp;&nbsp;emergencia para adaptarlas a mis preferencias y necesidades específicas.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>16&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US16&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Acceso a registros&nbsp;&nbsp;&nbsp;históricos (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero  poder acceder a registros&nbsp;&nbsp;&nbsp;históricos de la salud del adulto mayor para realizar un seguimiento a largo&nbsp;&nbsp;&nbsp;plazo y detectar tendencias.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>17&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US17&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de&nbsp;&nbsp;&nbsp;múltiples cuentas de cuidadores (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero  poder registrar y alternar entre&nbsp;&nbsp;&nbsp;múltiples cuentas de cuidadores para supervisar a diferentes adultos mayores&nbsp;&nbsp;&nbsp;a mi cargo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>18&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US18&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Configurar alertas&nbsp;&nbsp;&nbsp;personalizadas (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario de la aplicación móvil, quiero poder configurar las&nbsp;&nbsp;&nbsp;alertas  para recibir notificaciones específicas sobre la salud y&nbsp;&nbsp;&nbsp;seguridad del adulto mayor según mis necesidades y preferencias.<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>19&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US19&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Seguimiento de la&nbsp;&nbsp;&nbsp;ubicación del adulto mayor (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero poder realizar un seguimiento de la&nbsp;&nbsp;&nbsp;ubicación del adulto mayor en tiempo real para garantizar su seguridad y&nbsp;&nbsp;&nbsp;poder responder rápidamente en caso de emergencia.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>20&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US20&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Agregar lista de&nbsp;&nbsp;&nbsp;medicamentos con recordatorio (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación, quiero agregar y gestionar una lista de&nbsp;&nbsp;&nbsp;medicamentos del adulto mayor, para administrarlo correctamente a tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>21&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US21&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Historial de&nbsp;&nbsp;&nbsp;ubicaciones del adulto mayor (Mobile application)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como&nbsp;&nbsp;&nbsp;usuario de la aplicación móvil, quiero poder acceder al historial de&nbsp;&nbsp;&nbsp;ubicaciones del adulto mayor para poder realizar un seguimiento de sus&nbsp;&nbsp;&nbsp;movimientos y patrones de comportamiento a lo largo del tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>22&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US29&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Proceso de ventas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero implementar&nbsp;&nbsp;&nbsp;un endpoint en el backend para procesar las ventas&nbsp;&nbsp;&nbsp;realizadas por los usuarios, de modo que se actualicen los registros de&nbsp;&nbsp;&nbsp;inventario y se registren las transacciones correspondientes en la base de&nbsp;&nbsp;&nbsp;datos.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>23&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US24&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Iniciar sesión de&nbsp;&nbsp;&nbsp;usuario (Back-end)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero&nbsp;&nbsp;&nbsp;implementar un endpoint en el backend para que los usuarios inicien sesión&nbsp;&nbsp;&nbsp;enviando una solicitud POST a "/API/V1/usuarios/login", permitiendo&nbsp;&nbsp;&nbsp;un acceso seguro a la plataforma.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>24&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US23&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Agregar personas enfermas&nbsp;&nbsp;&nbsp;(back-end)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero&nbsp;&nbsp;&nbsp;poder agregar una persona al cuidado de un usuario mediante una solicitud&nbsp;&nbsp;&nbsp;POST “API/V1/user/patient”, proporcionando detalles como nombre, dirección,&nbsp;&nbsp;&nbsp;edad, sexo y enfermedad, para que el usuario pueda cuidar de ellos con mayor facilidad.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>25&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US25&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Recuperar contraseña (Backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero&nbsp;&nbsp;&nbsp;diseñar un endpoint en el backend para permitir que los usuarios recuperen su&nbsp;&nbsp;&nbsp;contraseña mediante una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/recuperar-contraseña", para proporcionar una&nbsp;&nbsp;&nbsp;solución efectiva en caso de olvido de la contraseña.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>26&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US26&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Actualizar Información&nbsp;&nbsp;&nbsp;(backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero crear&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;actualicen su información personal mediante una solicitud PUT a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/informacion", para mantener actualizados sus&nbsp;&nbsp;&nbsp;perfiles.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>27&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US27&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Eliminar Cuenta(backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero implementar&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;eliminen su cuenta mediante una solicitud DELETE a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/cuenta", asegurando la integridad de los datos y&nbsp;&nbsp;&nbsp;la privacidad del usuario.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>28&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US28&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Endpoint Soporte (backend)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero diseñar&nbsp;&nbsp;&nbsp;un endpoint en el backend para permitir que los usuarios&nbsp;&nbsp;&nbsp;envíen una solicitud de ayuda mediante una solicitud POST a&nbsp;&nbsp;&nbsp;"/API/V1/usuarios/solicitar-ayuda", para ofrecer un soporte&nbsp;&nbsp;&nbsp;eficiente y satisfactorio.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>29&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US22&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registrar un nuevo&nbsp;&nbsp;&nbsp;usuario (Back-end)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero&nbsp;&nbsp;&nbsp;poder agregar un nuevo usuario al sistema mediante una solicitud POST&nbsp;&nbsp;&nbsp;“API/V1/user”, proporcionando detalles como nombre, correo electrónico y&nbsp;&nbsp;&nbsp;contraseña, para permitir el login de nuevos usuarios en la plataforma.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
 ## Capítulo IV: Solution Software Design
 
 # 4.1. Strategic-Level Domain-Driven Design.
@@ -592,9 +1161,12 @@ Se refiere al dispositivo wearable que se utilizará para recopilar datos biomé
 
 ### 4.1.3.2. Software Architecture Context Level Diagrams.
 <img src="Assets\Context.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
-### 4.1.3.2. Software Architecture Container Level Diagrams.
+### 4.1.3.3. Software Architecture Container Level Diagrams.
 <img src="Assets\container.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
-### 4.1.3.3. Software Architecture Deployment Diagrams.
+
+### 4.1.3.4. Software Architecture Deployment Diagrams.
+En esta sección nos enfocamos en modelar la distribución física de los componentes de un sistema de
+software en un entorno de ejecución. 
 
 # 4.2. Tactical-Level Domain-Driven Design
 
@@ -602,17 +1174,7 @@ Se refiere al dispositivo wearable que se utilizará para recopilar datos biomé
 ## 4.2.1. Bounded Context: Device
 Este bounded context abarca todas las funcionalidades relacionadas con la pulsera de monitoreo. Incluye la gestión de sensores, recolección y envío de datos, así como la sincronización con la aplicación móvil y web.
 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -705,16 +1267,6 @@ Este bounded context abarca todas las funcionalidades relacionadas con la pulser
 </table>
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -748,17 +1300,7 @@ Este bounded context abarca todas las funcionalidades relacionadas con la pulser
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -812,16 +1354,7 @@ Este bounded context abarca todas las funcionalidades relacionadas con la pulser
 </table>
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -865,16 +1398,7 @@ Este bounded context abarca todas las funcionalidades relacionadas con la pulser
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -921,8 +1445,10 @@ Se identificó que la única clase que es parte del core del negocio es la clase
 
 **Enums**
 + SensorType: Enumera los tipos de sensores disponibles.
+
 **Factories**
 + DeviceFactory: Fabrica para crear instancias de dispositivos.
+
 **Interfaces**
 + DeviceRepository: Interfaz para la gestión de datos. 
 ### 4.2.1.3. Application Layer.
@@ -952,10 +1478,10 @@ A continuación, presentamos el component level diagram considerado para el Devi
 #### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams.
 A continuación, presentamos el diagrama de clases del dominio considerado para el Device.
 
-![Device Domain Layer Class Diagram](Assets\Device_ClassDiagram.png)
+![Device Domain Layer Class Diagram](/Assets/Device_ClassDiagram.png)
 #### 4.2.1.7.2. Bounded Context Database Design Diagram.
 
-![Device Database Design Diagram](Assets\Database_Device.png)
+![Device Database Design Diagram](/Assets/Database_Device.png)
 
 ## 4.2.2. Bounded Context: Reminder
 
@@ -1459,24 +1985,325 @@ A continuación, presentamos el diagrama de base de datos considerado para el De
 
 4\.2.4. Bounded Context: Elderly Profile
 
-<img src="Assets\boundedcontext1.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
-(Aspose.Words.2227f55b-24bb-45df-ae5a-5d64f316230e.001.png)
+<table>
+<thead>
+  <tr>
+    <th>   <br>Nombre   </th>
+    <th>   <br>Elderly Profile   </th>
+    <th></th>
+    <th></th>
+    <th>   <br>    </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>   <br>Descripción   </td>
+    <td>   <br>Representa a los adultos mayores   </td>
+    <td></td>
+    <td></td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>Atributos   </td>
+    <td></td>
+    <td>   <br>Relaciones   </td>
+    <td></td>
+    <td>   <br> <br>   <br>Métodos   </td>
+  </tr>
+  <tr>
+    <td>   <br>Nombre   </td>
+    <td>   <br>Tipo de Dato   </td>
+    <td>   <br>Tipo   </td>
+    <td>   <br>Clases/Enums   </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>   <br>ElderlyProfileId   </td>
+    <td>   <br>ElderlyProfileId   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>JobOfferId   </td>
+    <td>   <br>apply()   </td>
+  </tr>
+  <tr>
+    <td>   <br>UserrId   </td>
+    <td>   <br>UserrId   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>RecruiterId   </td>
+    <td>   <br>cancelApply()   </td>
+  </tr>
+  <tr>
+    <td>   <br>name   </td>
+    <td>   <br>string   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>Money   </td>
+    <td>   <br>disable()   </td>
+  </tr>
+  <tr>
+    <td>   <br>          direction   </td>
+    <td>   <br>String   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>Availability   </td>
+    <td>   <br>seedirection()   </td>
+  </tr>
+  <tr>
+    <td>   <br>initialDate   </td>
+    <td>   <br>Date   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>UserProfile   </td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>endDate   </td>
+    <td>   <br>Date   </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>age   </td>
+    <td>   <br>string   </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>disease   </td>
+    <td>   <br>int   </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>   <br>Nombre   </th>
+    <th>   <br>Elderly Profile   </th>
+    <th></th>
+    <th></th>
+    <th>   <br>    </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>   <br>Descripción   </td>
+    <td>   <br>Representa a los adultos mayores   </td>
+    <td></td>
+    <td></td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>Atributos   </td>
+    <td></td>
+    <td>   <br>Relaciones   </td>
+    <td></td>
+    <td>   <br> <br>   <br>Métodos   </td>
+  </tr>
+  <tr>
+    <td>   <br>Nombre   </td>
+    <td>   <br>Tipo de Dato   </td>
+    <td>   <br>Tipo   </td>
+    <td>   <br>Clases/Enums   </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>   <br>ElderlyProfileId   </td>
+    <td>   <br>ElderlyProfileId   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>JobOfferId   </td>
+    <td>   <br>apply()   </td>
+  </tr>
+  <tr>
+    <td>   <br>UserrId   </td>
+    <td>   <br>UserrId   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>RecruiterId   </td>
+    <td>   <br>cancelApply()   </td>
+  </tr>
+  <tr>
+    <td>   <br>name   </td>
+    <td>   <br>string   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>Money   </td>
+    <td>   <br>disable()   </td>
+  </tr>
+  <tr>
+    <td>   <br>          direction   </td>
+    <td>   <br>String   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>Availability   </td>
+    <td>   <br>seedirection()   </td>
+  </tr>
+  <tr>
+    <td>   <br>initialDate   </td>
+    <td>   <br>Date   </td>
+    <td>   <br>Composición   </td>
+    <td>   <br>UserProfile   </td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>endDate   </td>
+    <td>   <br>Date   </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>age   </td>
+    <td>   <br>string   </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+  </tr>
+  <tr>
+    <td>   <br>disease   </td>
+    <td>   <br>int   </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+    <td>   <br>    </td>
+  </tr>
+</tbody>
+</table>
 
 
-<img src="Assets\boundedcontext2.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Experience&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Representar la experiencia necesaria para postular a una oferta&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Valores&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Practice&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Nonel&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>LessThanThreeYears&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>MoreThanThreeYears&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Availability&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Representar la disponibilidad del usuario&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Valores&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Available&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Unavailable&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 
 
-<img src="Assets\boundedcontext3.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>UserInfo&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Representa la información del usuario cuidador&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Valores&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>name&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>age&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>relation&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
-<img src="Assets\boundedcontext4.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="2">&nbsp;&nbsp;&nbsp;<br>ElderlyAdulId&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Representa a la persona que necesita cuidados&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Atributos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Tipo&nbsp;&nbsp;&nbsp;de Dato<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>ElderlyAdultid&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>int&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 
-<img src="Assets\boundedcontext5.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
-
-<img src="Assets\boundedcontext6.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
-
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="2">&nbsp;&nbsp;&nbsp;<br>UserId&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Representa el identificador del cuidador&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Atributos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Tipo&nbsp;&nbsp;&nbsp;de Dato<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>UserId&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>long&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 
 4\.2.4.1. Domain Layer. 
@@ -1503,14 +2330,127 @@ Se identificó que una clase que es parte del core del negocio es la clase Elder
 
 - ElderlyAdultRepository: interfaz de la clase ElderlyAdultRepository, ayuda a mantener un bajo acoplamiento
 
-<img src="Assets\boundedcontext7.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
-
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>ElderlyAdultRepository&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>permite la conexión con la base de datos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Métodos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findAll()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findById()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findByUserId()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>create()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>update()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 - IElderlyAdultServices: interfaz de la clase IElderlyAdultService, ayuda a mantener un bajo acoplamiento.
 
-<img src="Assets\boundedcontext8.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>ElderlyAdultRepository&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>permite la conexión con la base de datos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Métodos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findAll()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findById()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>findByUserId()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>create()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>update()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>delete()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>IElderlyAdultController&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Define las funciones que reciben las solicitudes relacionadas al&nbsp;&nbsp;&nbsp;cuidado de ElderlyAdult.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Métodos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>getAll()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>geById()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>getByUserId()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>state()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>create()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>delete()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>apply()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>renew()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>enable()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>disable()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>update()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
-<img src="Assets\boundedcontext9.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 4\.2.4.2. Interface Layer. 
 
@@ -1518,12 +2458,58 @@ En esta sección se presentan las interfaces serán consumidas por la aplicació
 
 - **IElderlyAdultController:**
 
- <img src="Assets\boundedcontext10.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
-Define las funciones que reciben las solicitudes relacionadas al cuidado de ElderlyAdult.
-**
-
-**
-
+- Define las funciones que reciben las solicitudes relacionadas al cuidado de ElderlyAdult.
+  
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Nombre&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>IElderlyAdultController&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Define las funciones que reciben las solicitudes relacionadas al&nbsp;&nbsp;&nbsp;cuidado de ElderlyAdult.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Métodos&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>getAll()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>geById()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>getByUserId()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>state()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>create()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>delete()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>apply()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>renew()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>enable()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>disable()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>update()&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 4\.2.4.3. Application Layer.
 
