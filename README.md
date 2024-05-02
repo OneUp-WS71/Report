@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Assets/Logo_Upc.png" alt="Logo" width="200"/>
+  <img src="/assets/Logo_Upc.png" alt="Logo" width="200"/>
 </p>
 
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas</h3> 
