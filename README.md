@@ -2791,10 +2791,12 @@ Para desplegar la Landing Page, se utilizó GitHub Pages, una plataforma gratuit
 1. Crear un repositorio en GitHub con el código de la Landing Page.
 2. Acceder a la configuración del repositorio y habilitar GitHub Pages.
 ![landing](/assets/landing%20deploy%201.png)
+
 3. Seleccionar la rama y la carpeta de origen del sitio web.
 4. Guardar la configuración y obtener la URL del sitio web desplegado.
 5. Finalmente, acceder a la URL del sitio web para verificar que se haya desplegado correctamente.
 ![page](/assets/landing%20deploy%202.png)
+
 + Enlace de la Landing Page desplegada: https://oneup-ws71.github.io/landign-page/
 
 **FrontEnd:**
@@ -2808,10 +2810,10 @@ Inicia sesión en Netlify y ve al panel de control.
 Hacer clic en el botón "New site from Git" (Nuevo sitio desde Git).
 Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
 Seleccionar el repositorio que contiene la página web.
-![front](/assets/netlify.png)
+![front](/assets/netlify.png
 + Configurar las Opciones de Despliegue:
 Netlify detectará automáticamente la configuración de tu proyecto. Si necesitas ajustes adicionales, como la configuración del directorio de compilación, puedes establecerlos en la sección de configuración de tu sitio.
-![front2](/assets//netlify%202.png)
+![front2](/assets/netlify%202.png)
 + Despliegue Automático:
 Activa la opción de "Deploy site" (Desplegar sitio) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
 + Verificar el Despliegue:
