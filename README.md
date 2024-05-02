@@ -1597,6 +1597,28 @@ Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicaci
 - **Lenguaje:** Evitar jergas o términos técnicos que puedan resultar confusos para los usuarios no especializados en el cuidado de personas mayores.
 - **Consistencia:** Mantener un tono y estilo de escritura coherentes en toda la aplicación para una experiencia de usuario unificada.
 
+## Branding
+
+Para representar nuestro producto, se decantó por el siguiente logo, el cual representa a la pulsera inteligente cuidando de los adultos mayores que tiene encerrados. El corazón encima representaría tanto a la detección de pulso cardiaco como al cuidado que busca.
+
+<img src="Assets\Logos\Logo_indigo.PNG" style="width: 30%;"><br>
+
+A partir de este logo, se diseñaron distintas variaciones de colores que se aplicarían de acuerdo al color que se tenga en el fondo.
+
+<img src="Assets\Logos\Logo_indigo.PNG" style="width: 12%;">
+<img src="Assets\Logos\Logo_negro.PNG" style="width: 12%;">
+<img src="Assets\Logos\Logo_blanco.PNG" style="width: 12%;">
+
+<br>
+
+Por último, también se diseño un banner que contendría el logo y nombre del producto. Para este banner, se combinaron ambos aspectos para mantener continuidad entre ambos aspectos, otorgando un logo interesante de ver.
+
+<img src="Assets\Logos\Logo_Banner.PNG" style="width: 50%;"><br>
+
+<img src="Assets\Logos\Branding.PNG" style="width: 80%;"><br>
+
+
+
 ## 5.1.2. Web, Mobile and IoT Style Guidelines.
 
 # 5.2. Information Architecture.
