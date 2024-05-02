@@ -1721,6 +1721,8 @@ Inicio de Sesión
 ![Inicio de Sesión](/assets/Login.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
 ![Home](Assets/Home.png)
+Ubicacion del Adulto Mayor
+![Ubicacion](/assets/UbicacionLocation.png)
 Recordatorios de las citas medicas y medicamentos
 ![Recordatorios](/assets/reminders.png)
 Perfil del adulto mayor
@@ -1730,7 +1732,22 @@ Sincronización de la pulsera
 ## 5.4.2. Applications Wireflow Diagrams.
 
 ## 5.4.2. Applications Mock-ups.
-
+A continuación, se presentan los mock-ups de la aplicación ElderlyCare, diseñados para brindar una experiencia de usuario intuitiva y atractiva.
+**Mobile Application Mock-ups**  
+Registro de Usuario (Cuidador)
+![Registro de Usuario](/assets/MRegister.png)
+Inicio de Sesión 
+![Inicio de Sesión](/assets/MLogin.png)
+Seccion Home donde se visualiza los datos biométricos del adulto mayor
+![Home](Assets/MHome.png)
+Ubicaion del Adulto Mayor
+![Ubicacion](/assets/MLocation.png)
+Recordatorios de las citas medicas y medicamentos
+![Recordatorios](/assets/MReminder.png)
+Perfil del adulto mayor
+![Perfil](/assets/MProfile.png)
+Sincronización de la pulsera
+![Sincronización](/assets/MConnection.png)
 ## 5.4.3. Applications User Flow Diagrams.
 
 # 5.5. Applications Prototyping
