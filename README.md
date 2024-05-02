@@ -2551,24 +2551,26 @@ A continuación, presentamos el diagrama de base de datos considerado para el El
 # 6.1. Software Configuration Management.
 
 ## 6.1.1. Software Development Environment Configuration.
-**Project Management**
+### **Project Management**
 Se emplearon herramientas de software que permiten la comunicación en tiempo real y la edición rápida y compartida, lo que facilitó el trabajo eficiente. Algunas de las herramientas utilizadas fueron los servicios de Google (Drive, Documents, Meet) y Microsoft Outlook. Para el registro de versiones y la creación de repositorios se utilizó GitHub, una plataforma que permite registrar de manera ordenada cada uno de los commits realizados.
 
-**Product UX/UI Design**
+### **Product UX/UI Design**
 Se utilizó Miro y UXPressia para el desarrollo de los segmentos objetivos y sus mapeos, así como para los As-Is y To-Be Scenario Maps. Para los mockups, wireframes, wireflows y el prototipo de la aplicación web se empleó Figma.
 
-**Software Development**
-Para el desarrollo del software se utilizó Visual Studio Code, HTML, CSS, Bootstrap y Javascript. Visual Studio Code es un software que admite muchos lenguajes de programación, incluyendo HTML y CSS, y fue utilizado principalmente para el Landing Page. HTML se utilizó para el desarrollo de la estructura de las páginas web, CSS para el diseño y presentación, Bootstrap para crear interfaces más limpias y responsive, y Javascript para implementar la interactividad dinámica y animaciones en el Landing Page.
+### **Software Development**
+Para el desarrollo del software se utilizó Visual Studio Code, HTML, CSS, Bootstrap y Javascript. Visual Studio Code es un software que admite muchos lenguajes de programación, incluyendo HTML y CSS, y fue utilizado principalmente para el Landing Page. HTML se utilizó para el desarrollo de la estructura de las páginas web, CSS para el diseño y presentación, Bootstrap para crear interfaces más limpias y responsive, y Javascript para implementar la interactividad dinámica y animaciones en el Landing Page.<br>
 
-Git se utilizó como sistema de control de versiones para gestionar los repositorios.
+También se está desarrollando la aplicación móvil emppleando el framework Flutter, la cual es multiplataforma. Sin embargo, no se utiliza Flutter solo por su responsiveness, sino que se eligió por el uso de distintos componentes que permite darle una estética más personalizado. El lenguaje en uso para el desarrollo de la aplicación móvil es Datrt.<br>
 
-**Software Testing**
+Git se utilizó como sistema de control de versiones para gestionar los repositorios.<br>
+
+### **Software Testing**
 Para probar el Landing Page se utilizó la extensión LiveShare de Visual Studio Code, que permite crear un localhost para ver en tiempo real los cambios realizados. Para los test de aceptación se utilizó el lenguaje Gherkin y se subió al repositorio mencionado anteriormente.
 
-**Software Deployment**
+### **Software Deployment**
 Para desplegar la Landing Page, al ser una página de contenido estático que no necesita muchas actualizaciones, se utilizó GitHub Pages, que es gratuito y permite actualizar el contenido cuando sea necesario.
 
-**Software Documentation**
+### **Software Documentation**
 La documentación del software se realizó mediante comentarios en los archivos HTML, ya que al utilizar HTML para el desarrollo del Landing Page, un lenguaje de marcado, no era necesario crear diagramas de clases u otros tipos de documentación.
 
 ## 6.1.2. Source Code Management.
