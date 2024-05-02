@@ -1617,9 +1617,31 @@ Por último, también se diseño un banner que contendría el logo y nombre del 
 
 <img src="Assets\Logos\Branding.PNG" style="width: 80%;"><br>
 
-
-
 ## 5.1.2. Web, Mobile and IoT Style Guidelines.
+
+Debido a como se maneja la aplicación, se va a tener en cuenta adaptar funcionalidades a las dos plataformas principales. Estas plataformas serían Windows en Desktop y Android en Mobile.
+
+Para la lectura de la información, se tiene previsto que se manejará una cantidad de información que es preferible que se visualize en forma de lista. Por lo tanto, se aplicará un patrón de diseño en F. Aunque se tiene previsto también utilizar el patrón Z para visualización del landing page.
+
+<img src = "https://f2h4k4f7.rocketcdn.me/wp-content/uploads/2023/06/what-is-the-f-pattern.webp"  style="width: 40%;"><br>
+
+Los elementos a utilizar para las aplicación son los siguientes:
+
+<img src="Assets\inicio_sesion.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\header_oneup.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\medicine_appoint_switch.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\opciones.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\emergency_notif.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\corazon.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\alarma_card.PNG" style="width: 30%;">
+<br><br>
+
 
 # 5.2. Information Architecture.
 En este capítulo, exploraremos cómo la Information Architecture puede mejorar la experiencia de usuario y la eficacia de sistemas relacionados con el cuidado de personas mayores.
