@@ -1601,21 +1601,21 @@ Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicaci
 
 Para representar nuestro producto, se decantó por el siguiente logo, el cual representa a la pulsera inteligente cuidando de los adultos mayores que tiene encerrados. El corazón encima representaría tanto a la detección de pulso cardiaco como al cuidado que busca.
 
-<img src="Assets\Logos\Logo_indigo.PNG" style="width: 30%;"><br>
+<img src="assets\Logos\Logo_indigo.png" style="width: 30%;"><br>
 
 A partir de este logo, se diseñaron distintas variaciones de colores que se aplicarían de acuerdo al color que se tenga en el fondo.
 
-<img src="Assets\Logos\Logo_indigo.PNG" style="width: 12%;">
-<img src="Assets\Logos\Logo_negro.PNG" style="width: 12%;">
-<img src="Assets\Logos\Logo_blanco.PNG" style="width: 12%;">
+<img src="assets\Logos\Logo_indigo.png" style="width: 12%;">
+<img src="assets\Logos\Logo_negro.png" style="width: 12%;">
+<img src="assets\Logos\Logo_blanco.png" style="width: 12%;">
 
 <br>
 
 Por último, también se diseño un banner que contendría el logo y nombre del producto. Para este banner, se combinaron ambos aspectos para mantener continuidad entre ambos aspectos, otorgando un logo interesante de ver.
 
-<img src="Assets\Logos\Logo_Banner.PNG" style="width: 50%;"><br>
+<img src="assets\Logos\Logo_Banner.png" style="width: 50%;"><br>
 
-<img src="Assets\Logos\Branding.PNG" style="width: 80%;"><br>
+<img src="assets\Logos\Branding.png" style="width: 80%;"><br>
 
 ## 5.1.2. Web, Mobile and IoT Style Guidelines.
 
@@ -1627,19 +1627,19 @@ Para la lectura de la información, se tiene previsto que se manejará una canti
 
 Los elementos a utilizar para las aplicación son los siguientes:
 
-<img src="Assets\inicio_sesion.PNG" style="width: 30%;">
+<img src="assets\inicio_sesion.png" style="width: 30%;">
 <br><br>
-<img src="Assets\header_oneup.PNG" style="width: 30%;">
+<img src="assets\header_oneup.png" style="width: 30%;">
 <br><br>
-<img src="Assets\medicine_appoint_switch.PNG" style="width: 30%;">
+<img src="assets\medicine_appoint_switch.png" style="width: 30%;">
 <br><br>
-<img src="Assets\opciones.PNG" style="width: 30%;">
+<img src="assets\opciones.png" style="width: 30%;">
 <br><br>
-<img src="Assets\emergency_notif.PNG" style="width: 30%;">
+<img src="assets\emergency_notif.png" style="width: 30%;">
 <br><br>
-<img src="Assets\corazon.PNG" style="width: 30%;">
+<img src="assets\corazon.png" style="width: 30%;">
 <br><br>
-<img src="Assets\alarma_card.PNG" style="width: 30%;">
+<img src="assets\alarma_card.png" style="width: 30%;">
 <br><br>
 
 
