@@ -1597,51 +1597,7 @@ Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicaci
 - **Lenguaje:** Evitar jergas o términos técnicos que puedan resultar confusos para los usuarios no especializados en el cuidado de personas mayores.
 - **Consistencia:** Mantener un tono y estilo de escritura coherentes en toda la aplicación para una experiencia de usuario unificada.
 
-## Branding
-
-Para representar nuestro producto, se decantó por el siguiente logo, el cual representa a la pulsera inteligente cuidando de los adultos mayores que tiene encerrados. El corazón encima representaría tanto a la detección de pulso cardiaco como al cuidado que busca.
-
-<img src="Assets\Logos\Logo_indigo.PNG" style="width: 30%;"><br>
-
-A partir de este logo, se diseñaron distintas variaciones de colores que se aplicarían de acuerdo al color que se tenga en el fondo.
-
-<img src="Assets\Logos\Logo_indigo.PNG" style="width: 12%;">
-<img src="Assets\Logos\Logo_negro.PNG" style="width: 12%;">
-<img src="Assets\Logos\Logo_blanco.PNG" style="width: 12%;">
-
-<br>
-
-Por último, también se diseño un banner que contendría el logo y nombre del producto. Para este banner, se combinaron ambos aspectos para mantener continuidad entre ambos aspectos, otorgando un logo interesante de ver.
-
-<img src="Assets\Logos\Logo_Banner.PNG" style="width: 50%;"><br>
-
-<img src="Assets\Logos\Branding.PNG" style="width: 80%;"><br>
-
 ## 5.1.2. Web, Mobile and IoT Style Guidelines.
-
-Debido a como se maneja la aplicación, se va a tener en cuenta adaptar funcionalidades a las dos plataformas principales. Estas plataformas serían Windows en Desktop y Android en Mobile.
-
-Para la lectura de la información, se tiene previsto que se manejará una cantidad de información que es preferible que se visualize en forma de lista. Por lo tanto, se aplicará un patrón de diseño en F. Aunque se tiene previsto también utilizar el patrón Z para visualización del landing page.
-
-<img src = "https://f2h4k4f7.rocketcdn.me/wp-content/uploads/2023/06/what-is-the-f-pattern.webp"  style="width: 40%;"><br>
-
-Los elementos a utilizar para las aplicación son los siguientes:
-
-<img src="Assets\inicio_sesion.PNG" style="width: 30%;">
-<br><br>
-<img src="Assets\header_oneup.PNG" style="width: 30%;">
-<br><br>
-<img src="Assets\medicine_appoint_switch.PNG" style="width: 30%;">
-<br><br>
-<img src="Assets\opciones.PNG" style="width: 30%;">
-<br><br>
-<img src="Assets\emergency_notif.PNG" style="width: 30%;">
-<br><br>
-<img src="Assets\corazon.PNG" style="width: 30%;">
-<br><br>
-<img src="Assets\alarma_card.PNG" style="width: 30%;">
-<br><br>
-
 
 # 5.2. Information Architecture.
 En este capítulo, exploraremos cómo la Information Architecture puede mejorar la experiencia de usuario y la eficacia de sistemas relacionados con el cuidado de personas mayores.
@@ -1716,6 +1672,15 @@ En el menú inferior de la aplicación móvil, se pueden acceder a las siguiente
 7. `<meta content="adult" name="rating">`: Esta línea especifica la clasificación de contenido de la página, indicando que es apta para adultos. Esto puede ser útil para los motores de búsqueda y los filtros de contenido.
 
 ## 5.2.4. Searching Systems.
+Para mejorar la experiencia del usuario al buscar recordatorios de medicación o citas médicas, así como datos históricos de salud del adulto mayor en nuestra aplicación móvil, hemos implementado un sistema de búsqueda. Este sistema proporciona a los usuarios opciones principales para encontrar la información que necesitan de manera eficiente.
+**Búsqueda por nombre de recordatorio:** Los usuarios pueden buscar recordatorios de medicación o citas médicas específicos ingresando el nombre asociado al recordatorio. Esta función permite a los usuarios encontrar rápidamente los recordatorios relacionados con un medicamento o una cita médica en particular.
+![Busqueda nombre](/assets/searching%201.png)
+
+**Filtro de búsqueda por fecha de los datos historicos de salud del adulto mayor:** Utilizando los datos de salud recopilados por la pulsera del adulto mayor, hemos integrado un filtro de búsqueda por fecha. Los usuarios pueden especificar un rango de fechas para buscar registros históricos de presión arterial, temperatura corporal, nivel de actividad, entre otros datos biométricos. Este filtro de búsqueda permite a los usuarios obtener información detallada sobre la salud del adulto mayor en un período específico, lo que puede ser útil para el seguimiento y la gestión de su bienestar.
+![Busqueda fecha ](/assets//searching%202.png)
+
+
+Estas funciones de búsquedase han agregaron para mejorar la accesibilidad y la eficiencia en la recuperación de información relevante para el cuidado del adulto mayor. Al proporcionar tanto la opción de búsqueda por nombre como el filtro por fecha, garantizamos que los usuarios puedan acceder fácilmente a los datos específicos que necesitan, ya sea para administrar la medicación, programar citas médicas o monitorear la salud general del adulto mayor.
 
 ## 5.2.5. Navigation Systems.
 
@@ -1747,7 +1712,21 @@ Se mostrará la versión preliminar de nuestro sitio web, detallando su contenid
 # 5.4. Applications UX/UI Design.
 
 ## 5.4.1. Applications Wireframes.
+A continuación, se muestran los diseños elaborados de acuerdo a las funcionalidades de la aplicación.
 
+**Mobile Application Wireframes**  
+Registro de Usuario (Cuidador)
+![Registro de Usuario (Cuidador)](/assets/Register.png)
+Inicio de Sesión 
+![Inicio de Sesión](/assets/Login.png)
+Seccion Home donde se visualiza los datos biométricos del adulto mayor
+![Home](Assets/Home.png)
+Recordatorios de las citas medicas y medicamentos
+![Recordatorios](/assets/reminders.png)
+Perfil del adulto mayor
+![Perfil](/assets/Profile.png)
+Sincronización de la pulsera
+![Sincronización](/assets/connection.png)
 ## 5.4.2. Applications Wireflow Diagrams.
 
 ## 5.4.2. Applications Mock-ups.
