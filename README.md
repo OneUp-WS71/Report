@@ -1597,7 +1597,51 @@ Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicaci
 - **Lenguaje:** Evitar jergas o términos técnicos que puedan resultar confusos para los usuarios no especializados en el cuidado de personas mayores.
 - **Consistencia:** Mantener un tono y estilo de escritura coherentes en toda la aplicación para una experiencia de usuario unificada.
 
+## Branding
+
+Para representar nuestro producto, se decantó por el siguiente logo, el cual representa a la pulsera inteligente cuidando de los adultos mayores que tiene encerrados. El corazón encima representaría tanto a la detección de pulso cardiaco como al cuidado que busca.
+
+<img src="Assets\Logos\Logo_indigo.PNG" style="width: 30%;"><br>
+
+A partir de este logo, se diseñaron distintas variaciones de colores que se aplicarían de acuerdo al color que se tenga en el fondo.
+
+<img src="Assets\Logos\Logo_indigo.PNG" style="width: 12%;">
+<img src="Assets\Logos\Logo_negro.PNG" style="width: 12%;">
+<img src="Assets\Logos\Logo_blanco.PNG" style="width: 12%;">
+
+<br>
+
+Por último, también se diseño un banner que contendría el logo y nombre del producto. Para este banner, se combinaron ambos aspectos para mantener continuidad entre ambos aspectos, otorgando un logo interesante de ver.
+
+<img src="Assets\Logos\Logo_Banner.PNG" style="width: 50%;"><br>
+
+<img src="Assets\Logos\Branding.PNG" style="width: 80%;"><br>
+
 ## 5.1.2. Web, Mobile and IoT Style Guidelines.
+
+Debido a como se maneja la aplicación, se va a tener en cuenta adaptar funcionalidades a las dos plataformas principales. Estas plataformas serían Windows en Desktop y Android en Mobile.
+
+Para la lectura de la información, se tiene previsto que se manejará una cantidad de información que es preferible que se visualize en forma de lista. Por lo tanto, se aplicará un patrón de diseño en F. Aunque se tiene previsto también utilizar el patrón Z para visualización del landing page.
+
+<img src = "https://f2h4k4f7.rocketcdn.me/wp-content/uploads/2023/06/what-is-the-f-pattern.webp"  style="width: 40%;"><br>
+
+Los elementos a utilizar para las aplicación son los siguientes:
+
+<img src="Assets\inicio_sesion.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\header_oneup.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\medicine_appoint_switch.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\opciones.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\emergency_notif.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\corazon.PNG" style="width: 30%;">
+<br><br>
+<img src="Assets\alarma_card.PNG" style="width: 30%;">
+<br><br>
+
 
 # 5.2. Information Architecture.
 En este capítulo, exploraremos cómo la Information Architecture puede mejorar la experiencia de usuario y la eficacia de sistemas relacionados con el cuidado de personas mayores.
@@ -1748,6 +1792,82 @@ Perfil del adulto mayor
 ![Perfil](/assets/MProfile.png)
 Sincronización de la pulsera
 ![Sincronización](/assets/MConnection.png)
+
 ## 5.4.3. Applications User Flow Diagrams.
 
+Para esta sección se visualizarán los flujos y las posibles opciones dentro del flujo para cada User Goal.
+
+**User Goal 1 : Verificar ritmo cardiaco**
+
+- Happy Path: <br>Visualización regular. No se genera una alarma
+
+- Unhappy Path: <br>Se ha generado una alarma de ritmo cardiaco no regular.
+
+<img src="Assets\userflow_1.jpg" style="width: 80%;"><br>
+
+**User Goal 2 : Ver localización del adulto mayor**
+
+- Happy Path: <br>Se llega a ver la posición del adulto mayor en el mapa
+
+- Unhappy Path: <br>No se puede detectar la posición del adulto mayor, ya que este está afuera del área restringida.
+
+<img src="Assets\userflow_2.jpg" style="width: 80%;"><br>
+
+**User Goal 3 : Añadir un recordatorio de medicamento**
+
+- Happy Path: <br>Se puede añadir el recordatorio exitosamente al recordatorio.
+
+- Unhappy Path: <br>Se cancela el añadido del recordatorio.
+
+<img src="Assets\userflow_3.jpg" style="width: 80%;"><br>
+
+**User Goal 4 : Añadir un recordatorio de cita médica**
+
+- Happy Path: <br>Se puede añadir el recordatorio exitosamente al recordatorio.
+
+- Unhappy Path: <br>Se cancela el añadido del recordatorio.
+
+<img src="Assets\userflow_4.jpg" style="width: 80%;"><br>
+
+**User Goal 5 : Connección con el dispositivo**
+
+- Happy Path: <br>Se puede conectar exitosamente con el dispositivo
+
+- Unhappy Path: <br>El dispositivo no llega a conectarse.
+
+<img src="Assets\userflow_5.jpg" style="width: 80%;"><br>
+
+
 # 5.5. Applications Prototyping
+
+### Prototype Mobile Application <br>
+
+**User Goal 1 : Verificar ritmo cardiaco**
+
+<img src="Assets\prototype_flow1.png" style="width: 90%;"><br>
+
+[https://tinyurl.com/4w5vfwht](https://tinyurl.com/4w5vfwht)
+
+**User Goal 2 : Ver localización del adulto mayor**
+
+<img src="Assets\prototype_flow2.png" style="width: 90%;"><br>
+
+[https://tinyurl.com/5x259srr](https://tinyurl.com/5x259srr)
+
+**User Goal 3 : Añadir un recordatorio de medicamento**
+
+<img src="Assets\prototype_flow3.png" style="width: 90%;"><br>
+
+[https://tinyurl.com/5n977ufv](https://tinyurl.com/5n977ufv)
+
+**User Goal 4 : Añadir un recordatorio de cita médica**
+
+<img src="Assets\prototype_flow4.png" style="width: 90%;"><br>
+
+[https://tinyurl.com/9uywjux7](https://tinyurl.com/9uywjux7)
+
+**User Goal 5 : Connección con el dispositivo**
+
+<img src="Assets\prototype_flow5.png" style="width: 90%;"><br>
+
+[https://tinyurl.com/bdzfrurf](https://tinyurl.com/bdzfrurf)
