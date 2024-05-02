@@ -1811,7 +1811,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>No se puede detectar la posición del adulto mayor, ya que este está afuera del área restringida.
 
-<img src="Assets\userflow_2.jpg" style="width: 80%;"><br>
+<img src="assets\userflow_2.jpg" style="width: 80%;"><br>
 
 **User Goal 3 : Añadir un recordatorio de medicamento**
 
@@ -1819,7 +1819,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="Assets\userflow_3.jpg" style="width: 80%;"><br>
+<img src="assets\userflow_3.jpg" style="width: 80%;"><br>
 
 **User Goal 4 : Añadir un recordatorio de cita médica**
 
@@ -1827,7 +1827,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="Assets\userflow_4.jpg" style="width: 80%;"><br>
+<img src="assets\userflow_4.jpg" style="width: 80%;"><br>
 
 **User Goal 5 : Connección con el dispositivo**
 
@@ -1835,7 +1835,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>El dispositivo no llega a conectarse.
 
-<img src="Assets\userflow_5.jpg" style="width: 80%;"><br>
+<img src="assets\userflow_5.jpg" style="width: 80%;"><br>
 
 
 # 5.5. Applications Prototyping
@@ -1844,30 +1844,30 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 **User Goal 1 : Verificar ritmo cardiaco**
 
-<img src="Assets\prototype_flow1.png" style="width: 90%;"><br>
+<img src="assets\prototype_flow1.PNG" style="width: 90%;"><br>
 
 [https://tinyurl.com/4w5vfwht](https://tinyurl.com/4w5vfwht)
 
 **User Goal 2 : Ver localización del adulto mayor**
 
-<img src="Assets\prototype_flow2.png" style="width: 90%;"><br>
+<img src="assets\prototype_flow2.PNG" style="width: 90%;"><br>
 
 [https://tinyurl.com/5x259srr](https://tinyurl.com/5x259srr)
 
 **User Goal 3 : Añadir un recordatorio de medicamento**
 
-<img src="Assets\prototype_flow3.png" style="width: 90%;"><br>
+<img src="assets\prototype_flow3.PNG" style="width: 90%;"><br>
 
 [https://tinyurl.com/5n977ufv](https://tinyurl.com/5n977ufv)
 
 **User Goal 4 : Añadir un recordatorio de cita médica**
 
-<img src="Assets\prototype_flow4.png" style="width: 90%;"><br>
+<img src="assets\prototype_flow4.PNG" style="width: 90%;"><br>
 
 [https://tinyurl.com/9uywjux7](https://tinyurl.com/9uywjux7)
 
 **User Goal 5 : Connección con el dispositivo**
 
-<img src="Assets\prototype_flow5.png" style="width: 90%;"><br>
+<img src="assets\prototype_flow5.PNG" style="width: 90%;"><br>
 
 [https://tinyurl.com/bdzfrurf](https://tinyurl.com/bdzfrurf)
