@@ -2797,13 +2797,169 @@ Para desplegar la Landing Page, se utilizó GitHub Pages, una plataforma gratuit
 ![page](/assets/landing%20deploy%202.png)
 + Enlace de la Landing Page desplegada: https://oneup-ws71.github.io/landign-page/
 
+**FrontEnd:**
+Para el despliegue de la aplicacion se ha usado los servicios que ofrecen netlify una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git. El proceso de despliegue fue el siguiente:
++ Preparación del Repositorio:
+Asegúrarse que la página web esté almacenada en un repositorio Git, como GitHub, GitLab.
++ Crear una Cuenta en Netlify:
+Regístrarse en la plataforma.
++ Conectar el Repositorio:
+Inicia sesión en Netlify y ve al panel de control.
+Hacer clic en el botón "New site from Git" (Nuevo sitio desde Git).
+Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
+Seleccionar el repositorio que contiene la página web.
+![front](/assets/netlify.png)
++ Configurar las Opciones de Despliegue:
+Netlify detectará automáticamente la configuración de tu proyecto. Si necesitas ajustes adicionales, como la configuración del directorio de compilación, puedes establecerlos en la sección de configuración de tu sitio.
+![front2](/assets//netlify%202.png)
++ Despliegue Automático:
+Activa la opción de "Deploy site" (Desplegar sitio) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
++ Verificar el Despliegue:
+Una vez que se complete el despliegue, Netlify te proporcionará una URL única para acceder a tu página web.
+
+**BackEnd:**
+Para el despliegue del backend se ha utilizado los servicios de Railway, una plataforma de alojamiento de aplicaciones web que permite desplegar aplicaciones de Node.js, Python, Ruby, Java, PHP, Go y Docker. El proceso de despliegue fue el siguiente:
++ Preparación del Repositorio:
+Asegúrarse de que el backend esté almacenado en un repositorio Git, como GitHub, GitLab.
++ Crear una Cuenta en Railway:
+Registrarse en la plataforma.
++ Crear un Nuevo Proyecto:
+Inicia sesión en Railway y ve al panel de control.
+Crea un nuevo proyecto y selecciona "Backend" como tipo de proyecto.
+Conectar el Repositorio:
+Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
+Selecciona el repositorio que contiene tu backend.
+![back](/assets/railway.png)
++ Configurar el Entorno:
+Railway detectará automáticamente el tipo de backend que estás utilizando y configurará el entorno según sea necesario.
+Si tu backend necesita variables de entorno específicas, como claves API o configuraciones de base de datos, puedes establecerlas en la sección de configuración de tu proyecto.
+![back2](/assets/railway2.png)
++ Despliegue Automático:
+Activar la opción de "Auto Deploy" (Despliegue Automático) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
++ Verificar el Despliegue:
+Una vez que se complete el despliegue, Railway te proporcionará una URL única para acceder a tu backend.
 # 6.2. Landing Page, Services & Applications Implementation.
 
 ## 6.2.1. Sprint 1
 
 ### 6.2.1.1. Sprint Planning 1.
+Para este primer sprint opratmos por presentar el Landing Page, el cual es la primera impresión que tendrán los usuarios al visitar el sitio web. El Landing Page es una página web estática que contiene información relevante sobre el proyecto, como la descripción del servicio, las características principales, los beneficios, el equipo de desarrollo y los datos de contacto. El objetivo principal de este sprint es desarrollar y desplegar el Landing Page para que los usuarios puedan conocer más sobre el proyecto y contactar al equipo de desarrollo si es necesario. 
+
+<table>
+<thead>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1 </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th colspan="2">Sprint Planning Background</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>01-05-2024</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>22:00</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Lima,  Perú- Reunión realizada mediante Discord </td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Liberato Susanibar, Piero</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Farro Caballero, Alfredo /<br>Orosco Orcotuma, Cristhian /<br>Nuñez Martinez, Anthony /<br>Llatas Flores, Enrique </td>
+  </tr>
+  <tr>
+    <th colspan="2">Sprint Goal &amp; User Stories</th>
+  </tr>
+  <tr>
+    <td>Sprint n Goal</td>
+    <td>Desarrollo, despliegue del Landing Page y documentación del informe funcional </td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>11 story points </td>
+  </tr>
+</tbody>
+</table>
 
 ### 6.2.1.2. Sprint Backlog 1.
+Para este sprint, tuvimos como objetivo implementar el diseño de nuestra aplicación web, backend, asi como la creacion del langind page mediante el uso de HTML, CSS y JavaScript y como framework Bootstrap. A continuación, se presentan las historias de usuario y sus respectivos puntos de historia:
+<table>
+<thead>
+  <tr>
+    <th>Sprin #</th>
+    <th colspan="7">Sprint 1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task </td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+  </tr>
+  <tr>
+    <td>US10 </td>
+    <td>Sección About Us </td>
+    <td>TS01</td>
+    <td>Implementación de la sección about us </td>
+    <td>Desarrollo e implementación de la barra de navegación, sección about us y estilos CSS y JS</td>
+    <td>3</td>
+    <td><br>Liberato Susanibar, Piero</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US11  </td>
+    <td>Sección About the   Product   </td>
+    <td>TS02</td>
+    <td>Implementación de la sección about the product </td>
+    <td>Desarrollo e implementación de la  Sección About the   Product con estilos responsive </td>
+    <td>4</td>
+    <td><br>Liberato Susanibar, Piero</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US12</td>
+    <td>Sección Contacto </td>
+    <td>TS03</td>
+    <td>Implementación de la sección contacto </td>
+    <td>Desarrollo e implementación de la Sección Contacto con estilos responsive</td>
+    <td>2</td>
+    <td><br>Liberato Susanibar, Piero</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13 </td>
+    <td>Sección de Redes   Sociales </td>
+    <td>TS04</td>
+    <td>Implementación de la sección de redes sociales </td>
+    <td>Desarrollo e implementación de la Sección de Redes   Sociales con estilos responsive</td>
+    <td>3</td>
+    <td><br>Liberato Susanibar, Piero</td>
+    <td>Done</td>
+  </tr>
+</tbody>
+</table>
 
 ### 6.2.1.3. Development Evidence for Sprint Review.
 En esta seccion se presenta la evidencia del progreso del desarrollo de software .Se incluye detalles sobre lo que se implemento en el sprint actual,destacando algun avance significativo para la plataforma.
@@ -2812,10 +2968,14 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de software
 Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
 
 ### 6.2.1.5. Execution Evidence for Sprint Review.
+
 Esta seccion se centrara en la ejecucion de la aplicación durante el sprint.Se describira como los usuarios han interactuado con la plataforma ,incluyendo sus experiencias de usuario y cualquier retroalimentacion recibida.
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+
 Aqui se presentara la documentacion relacionada con los servicios de cuidados de personas mayores ofrecidos a traves de la plataforma .Esto incluye perfiles de supervisores,detalles sobre la informacion de los pacientes y pedidos realizados.
 ### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+
+### 6.2.1.8. Team Collaboration Insights during Spri
 En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas.Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales
 ### 6.2.1.8. Team Collaboration Insights during Sprint
 Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro del equipo de desarrollo durante el sprint .Esto incluira la colaboracion,resolucion de problemas y la gestion de tareas.
