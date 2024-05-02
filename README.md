@@ -1613,6 +1613,52 @@ A continuación, les presentaremos la imagen que representa visualmente el funci
 
 ## 5.2.2. Labeling Systems.
 
+Esta sección se enfoca en las etiquetas utilizadas para guiar a los posibles usuarios de las plataformas asociadas a nuestro producto, ElderlyCare.
+
+### Landing Page
+
+En el encabezado de la página, se pueden encontrar las siguientes opciones. Cada opción redirige a una sección específica del Landing Page.
+
+- **Home :** Redirecciona al banner del landing page. Esta sección permitirá al usuario con solo un par de palabras y una imagen atrayente poder captar su atención, y comunicar el tipo de producto que es ElderlyCare.
+
+- **About :** Redirecciona a la sección de About the Product. En esta sección se describe de una forma más detallada de que trata Elderlycare, el núcleo del negocio y en especial sus puntos diferenciadores de la competencia.
+
+- **Features :** Redirecciona a la sección de features, la cual señala los diferentes servicios asociados al producto, otras funcionalidades y diversas comodidades asociadas a este. Esta sección, además de señalar beneficios globales, también señala los beneficios respectivos para cada tipo de usuario, como el keeper y el supervisor.
+
+- **Download :** Redirecciona a la sección de descarga de la aplicación, en la cual el usuario podrá elegir que plataforma le conviene para obtener el producto promocionado.
+
+- **Team :** Redirige a la sección "About the Team", la cual describe a los integrantes del equipo de desarrollo del producto.
+
+- **Contact :** Redirige a la seccion de contacto, en la cual el usuario podrá enviar un correo electrónico directamente al equipo de desarrollo para esclarecer dudas.
+
+### Web application
+
+En el menú lateral de la aplicación web, se pueden acceder a las siguientes secciones de la aplicación:
+
+- **Dashboard :** Es la sección correspondiente a la página principal de la aplicación, la cual muestra datos correspondientes a las personas con las pulseras asociados a la aplicación, importante especialmente para los supervisors, y las transacciones relacionadas con la compra de productos de OneUp.
+
+- **Profile :** Es la sección relacionada a los datos del perfil del usuario, y su edición.
+
+- **Patients :** Esta sección está relacionada a los datos de los adultos mayores que utilizan el dispositivo, como sería verificar la actividad de la pulsera y los datos recopilados.
+
+- **Products :** Esta sección se relaciona con los productos que OneUp tiene a la venta relacionados con los servicios de ElderlyCare. El único producto que se tiene previsto es la pulsera inteligente.
+
+- **Orders :** Esta sección permite visualizar en tiempo real el estado de la transacción y envío de los productos. Esta sección es de principal importancia para los Supervisors.
+
+### Mobile application
+
+En el menú inferior de la aplicación móvil, se pueden acceder a las siguientes secciones de la aplicación:
+
+- **Home :** Zona principal la cual permite al usuario ver los datos recolectados por la pulsera. Estos datos se refieren a la rensión, temperatura y pulso cardiaco.
+
+- **Reminders :** Es la sección para visualizar y configurar los recordatorios correspondientes al medicamento o citas médicas.
+
+- **Location :** Sección reservada para visualizar en tiempo real la posición del adulto mayor en el mapa.
+
+- **Device :** En esta sección se puede gestionar la conección con la pulsera.
+
+- **Profile :** Es la sección relacionada a los datos del perfil del usuario, y su edición.
+
 ## 5.2.3. SEO Tags and Meta Tags
 
 <img src="Assets\SEO_Tags.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
