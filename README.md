@@ -1647,6 +1647,7 @@ Nuestro objetivo es proporcionar información precisa sin abrumar al usuario. Pa
 <img src="Assets\Wireframe4.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 5.3.2. Landing Page Mock-up.
+Se mostrará la versión preliminar de nuestro sitio web, detallando su contenido y aplicando los colores de nuestra guía de estilos. También se incluirán imágenes relevantes para complementar la información y ofrecer una comprensión más clara de los conceptos que estamos comunicando.
 
 <img src="Assets\Mockup1.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
 <img src="Assets\Mockup2.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
