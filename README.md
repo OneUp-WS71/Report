@@ -1631,9 +1631,27 @@ A continuación, les presentaremos la imagen que representa visualmente el funci
 
 # 5.3. Landing Page UI Design.
 
+
+Las Landing Pages se utilizan para convertir a los visitantes en clientes potenciales mediante mensajes atractivos y detalles sobre el producto, entre otras estrategias. Por eso, decidimos utilizar esta herramienta y desarrollar una versión preliminar tanto para dispositivos móviles como para computadoras.
+
 ## 5.3.1. Landing Page Wireframe.
+En esta sección, vamos a establecer los fundamentos para el diseño del sitio web de nuestro software, asegurando que el contenido se presente de manera clara tanto en la versión de escritorio como en la móvil.
+
+El diseño del Landing Page se adaptará a las diferentes pantallas de los dispositivos, asegurando que la información sea fácilmente visible para el usuario.
+
+Nuestro objetivo es proporcionar información precisa sin abrumar al usuario. Para lograrlo, implementaremos una barra de navegación fija que facilite la exploración de la Landing Page.
+
+<img src="Assets\Wireframe1.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Wireframe2.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Wireframe3.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Wireframe4.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 5.3.2. Landing Page Mock-up.
+
+<img src="Assets\Mockup1.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Mockup2.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Mockup3.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Mockup4.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 # 5.4. Applications UX/UI Design.
 
