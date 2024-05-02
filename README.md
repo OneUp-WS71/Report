@@ -621,7 +621,7 @@ User - Cuidador
 
 User - Supervisor
 
-<img src="Assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+<img src="assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 
 # 3.2. User Stories
