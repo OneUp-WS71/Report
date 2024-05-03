@@ -1795,6 +1795,46 @@ Pagina Principalz<br>
 <img src="assets\DashWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 ## 5.4.2. Applications Wireflow Diagrams.
 
+**User Goal 1 : Verificar ritmo cardiaco**
+
+- Happy Path: <br>Visualización regular. No se genera una alarma
+
+- Unhappy Path: <br>Se ha generado una alarma de ritmo cardiaco no regular.
+
+<img src="assets\UG_1_WF.jpg" style="width: 80%;"><br>
+
+**User Goal 2 : Ver localización del adulto mayor**
+
+- Happy Path: <br>Se llega a ver la posición del adulto mayor en el mapa
+
+- Unhappy Path: <br>No se puede detectar la posición del adulto mayor, ya que este está afuera del área restringida.
+
+<img src="assets\UG_2_WF.jpg" style="width: 80%;"><br>
+
+**User Goal 3 : Añadir un recordatorio de medicamento**
+
+- Happy Path: <br>Se puede añadir el recordatorio exitosamente al recordatorio.
+
+- Unhappy Path: <br>Se cancela el añadido del recordatorio.
+
+<img src="assets\UG_3_WF.jpg" style="width: 80%;"><br>
+
+**User Goal 4 : Añadir un recordatorio de cita médica**
+
+- Happy Path: <br>Se puede añadir el recordatorio exitosamente al recordatorio.
+
+- Unhappy Path: <br>Se cancela el añadido del recordatorio.
+
+<img src="assets\UG_4_WF.jpg" style="width: 80%;"><br>
+
+**User Goal 5 : Connección con el dispositivo**
+
+- Happy Path: <br>Se puede conectar exitosamente con el dispositivo
+
+- Unhappy Path: <br>El dispositivo no llega a conectarse.
+
+<img src="assets\UG_5_WF.jpg" style="width: 80%;"><br>
+
 ## 5.4.2. Applications Mock-ups.
 A continuación, se presentan los mock-ups de la aplicación ElderlyCare, diseñados para brindar una experiencia de usuario intuitiva y atractiva.
 **Mobile Application Mock-ups**  
