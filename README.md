@@ -1788,11 +1788,11 @@ Sincronización de la pulsera
 
 **Web Application Wireframes**
 Registro de usuario
-<img src="assets\LoginWebW.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\LoginWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Compra de producto
-<img src="assets\compraWebW.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\compraWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Pagina Principal
-<img src="assets\DashWebW.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DashWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 ## 5.4.2. Applications Wireflow Diagrams.
 
 ## 5.4.2. Applications Mock-ups.
