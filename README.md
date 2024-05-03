@@ -1813,6 +1813,14 @@ Perfil del adulto mayor
 Sincronización de la pulsera
 ![Sincronización](/assets/MConnection.png)
 
+**Web Application Mock-ups**
+Registro de usuario <br>
+<img src="assets\LoginWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+Compra de producto<br>
+<img src="assets\compraWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+Pagina Principalz<br>
+<img src="assets\DashWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
 ## 5.4.3. Applications User Flow Diagrams.
 
 Para esta sección se visualizarán los flujos y las posibles opciones dentro del flujo para cada User Goal.
