@@ -1792,7 +1792,7 @@ Registro de usuario
 Compra de producto
 <img src="assets\compraWebW.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Pagina Principal
-<img src="Assets\DashWebW.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DashWebW.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 ## 5.4.2. Applications Wireflow Diagrams.
 
 ## 5.4.2. Applications Mock-ups.
