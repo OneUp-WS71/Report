@@ -3017,10 +3017,27 @@ Enlace de la navegacion del landing page: https://upcedupe-my.sharepoint.com/:v:
 Enlace de la navegacion de la pagina web: https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FVideos%2FVideo%5FFrontEnd%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E515614d5%2Dbb95%2D4b78%2D81f4%2D5dfcb0a715bb 
 
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+Aqui se presentara la documentacion relacionada con los EndPoints de la aplicacion web, asi como la descripción de cada uno de ellos. Para este primer sprint se utilizo un Api fake para la aplicación. 
 
-Aqui se presentara la documentacion relacionada con los servicios de cuidados de personas mayores ofrecidos a traves de la plataforma .Esto incluye perfiles de supervisores,detalles sobre la informacion de los pacientes y pedidos realizados.
+<table>
+<thead>
+  <tr>
+    <th>EndPoint</th>
+    <th>Accion Implementada</th>
+    <th>Verbo </th>
+    <th>Descripción de </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>https://6633c685f7d50bbd9b4aa0e7.mockapi.io/api/v1/Products</td>
+    <td>Obtener las imágenes de los usuarios en base al  Api fake para la aplicación web. </td>
+    <td>Get </td>
+    <td>[<br>  {<br>    "name": "Lucia Kuhic",<br>    "imageproduct": "https://loremflickr.com/640/480",<br>    "price": "585.00",<br>    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",<br>    "id": "1"<br>  },<br>  {<br>    "name": "Amy Schuster",<br>    "imageproduct": "https://loremflickr.com/640/480",<br>    "price": "949.00",<br>    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",<br>    "id": "2"<br>  }<br>]</td>
+  </tr>
+</tbody>
+</table>
 
-<img src="assets\Introduction.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### 6.2.1.7. Software Deployment Evidence for Sprint Review.
 En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
