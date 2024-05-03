@@ -1786,12 +1786,12 @@ Perfil del adulto mayor
 Sincronización de la pulsera
 ![Sincronización](/assets/connection.png)
 
-**Web Application Wireframes**
-Registro de usuario
+**Web Application Wireframes**<br>
+Registro de usuario <br>
 <img src="assets\LoginWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
-Compra de producto
+Compra de producto<br>
 <img src="assets\compraWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
-Pagina Principal
+Pagina Principalz<br>
 <img src="assets\DashWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 ## 5.4.2. Applications Wireflow Diagrams.
 
