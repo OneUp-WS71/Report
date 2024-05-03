@@ -1785,6 +1785,16 @@ Perfil del adulto mayor
 ![Perfil](/assets/Profile.png)
 Sincronización de la pulsera
 ![Sincronización](/assets/connection.png)
+
+**Web Application Wireframes**
+Registro de usuario
+(/assets/LoginWebW.png)
+
+Compra de producto
+(/assets/compraWebW.png)
+
+Pagina Principal
+(/assets/DashWebW.png)
 ## 5.4.2. Applications Wireflow Diagrams.
 
 ## 5.4.2. Applications Mock-ups.
