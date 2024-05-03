@@ -1728,6 +1728,18 @@ Estas funciones de búsquedase han agregaron para mejorar la accesibilidad y la 
 
 ## 5.2.5. Navigation Systems.
 
+Para poder navegar dentro de la aplicación, se va a añadir las siguientes secciones:
+
+<br><br>
+<img src="assets\searching_system_1.png" style="width: 30%;">
+<br><br>
+<img src="assets\searching_system_2.png" style="width: 80%;">
+<br><br>
+<img src="assets\header_oneup.png" style="width: 80%;">
+<br><br>
+<img src="assets\opciones.png" style="width: 80%;">
+<br><br>
+
 # 5.3. Landing Page UI Design.
 
 
