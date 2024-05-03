@@ -187,6 +187,8 @@ Soy Alfredo Farro, actualmente me encuentro cursando el séptimo ciclo de la car
 
   <img src="assets\alfredo.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
+
+
 # 1.2. Solution Profile
 
 ## 1.2.1 Antecedentes y problemática
@@ -891,6 +893,8 @@ User - Supervisor
 
 
 # 3.3. Impact Mapping
+<img src="Assets\Impact1.jpg" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Impact2.jpg" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 # 3.4. Product Backlog
 <table>
@@ -1119,6 +1123,29 @@ User - Supervisor
 
 ### 4.1.1.1 Candidate Context Discovery.
 
+Step1: <br>
+<img src="Assets\Candidate-Context1.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step2: <br>
+<img src="Assets\Candidate-Context2.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step3: <br>
+<img src="Assets\Candidate-Context3.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step4: <br>
+<img src="Assets\Candidate-Context4.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step5: <br>
+<img src="Assets\Candidate-Context5.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step6: <br>
+<img src="Assets\Candidate-Context6.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step7: <br>
+<img src="Assets\Candidate-Context7.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step8: <br>
+<img src="Assets\Candidate-Context8.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step9: <br>
+<img src="Assets\Candidate-Context9.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step10: <br>
+<img src="Assets\Candidate-Context10.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+
 ### 4.1.1.2 Domain Message Flows Modeling.
 
 ### Leyenda 
@@ -1156,7 +1183,15 @@ User - Supervisor
 
 ### 4.1.1.3 Bounded Context Canvases.
 
+<img src="Assets\Context-Canvases.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Context-Canvases2.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Context-Canvases3.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Context-Canvases4.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Context-Canvases5.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Context-Canvases6.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+
 ## 4.1.2. Context Mapping
+<img src="Assets\Context-Mapping.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 4.1.3. Software Architecture.
 
@@ -1171,6 +1206,7 @@ User - Supervisor
 ### 4.1.3.4. Software Architecture Deployment Diagrams.
 En esta sección nos enfocamos en modelar la distribución física de los componentes de un sistema de
 software en un entorno de ejecución. 
+<br><img src="Assets\Deployment.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 # 4.2. Tactical-Level Domain-Driven Design
 
