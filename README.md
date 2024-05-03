@@ -1866,6 +1866,21 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 <img src="assets\userflow_5.jpg" style="width: 80%;"><br>
 
 
+**Web Diagram Flow**
+| User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\LoginWebM.png" style="width: 80%;">                                  |                                                                        |
+| User Flow |     <img src="assets\LoginLucid.png" style="width: 80%;">                                 |
+                                                                                      
+
+
+
+| User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\LoginWebW.png" style="width: 80%;">                                  |                                                                        |
+| User Flow |     <img src="assets\LoginLucid.png" style="width: 80%;">                                 |
+                                                                                      
+
 # 5.5. Applications Prototyping
 
 ### Prototype Mobile Application <br>
