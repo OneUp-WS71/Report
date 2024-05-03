@@ -2908,7 +2908,7 @@ Para este sprint, tuvimos como objetivo implementar el diseño de nuestra aplica
 <tbody>
   <tr>
     <td colspan="2">User Story</td>
-    <td colspan="6">Work-Item / Task</td>
+    <td colspan="6">Work-Item / Task </td>
   </tr>
   <tr>
     <td>Id</td>
@@ -2921,63 +2921,43 @@ Para este sprint, tuvimos como objetivo implementar el diseño de nuestra aplica
     <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
   </tr>
   <tr>
-    <td>US10</td>
-    <td>Sección About Us</td>
+    <td>US10 </td>
+    <td>Sección About Us </td>
     <td>TS01</td>
-    <td>Implementación de la sección about us</td>
+    <td>Implementación de la sección about us </td>
     <td>Desarrollo e implementación de la barra de navegación, sección about us y estilos CSS y JS</td>
     <td>3</td>
-    <td>Liberato Susanibar, Piero</td>
+    <td><br>Liberato Susanibar, Piero</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US11</td>
-    <td>Sección About the Product</td>
+    <td>US11  </td>
+    <td>Sección About the   Product   </td>
     <td>TS02</td>
-    <td>Implementación de la sección about the product</td>
-    <td>Desarrollo e implementación de la Sección About the Product con estilos responsive</td>
+    <td>Implementación de la sección about the product </td>
+    <td>Desarrollo e implementación de la  Sección About the   Product con estilos responsive </td>
     <td>4</td>
-    <td>Liberato Susanibar, Piero</td>
+    <td><br>Liberato Susanibar, Piero</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US12</td>
-    <td>Sección Contacto</td>
+    <td>Sección Contacto </td>
     <td>TS03</td>
-    <td>Implementación de la sección contacto</td>
+    <td>Implementación de la sección contacto </td>
     <td>Desarrollo e implementación de la Sección Contacto con estilos responsive</td>
     <td>2</td>
-    <td>Liberato Susanibar, Piero</td>
+    <td><br>Liberato Susanibar, Piero</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US13</td>
-    <td>Sección de Redes Sociales</td>
+    <td>US13 </td>
+    <td>Sección de Redes   Sociales </td>
     <td>TS04</td>
-    <td>Implementación de la sección de redes sociales</td>
-    <td>Desarrollo e implementación de la Sección de Redes Sociales con estilos responsive</td>
+    <td>Implementación de la sección de redes sociales </td>
+    <td>Desarrollo e implementación de la Sección de Redes   Sociales con estilos responsive</td>
     <td>3</td>
-    <td>Liberato Susanibar, Piero</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US01</td>
-    <td>Acceso a la cuenta (Web Application)</td>
-    <td>TS05</td>
-    <td>Implementación del login</td>
-    <td>Desarrollo e implementación del Login</td>
-    <td>4</td>
-    <td>Farro Caballero, Alfredo</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US03</td>
-    <td>Registro de cuenta (Web Application</td>
-    <td>TS06</td>
-    <td>Implementación del register</td>
-    <td>Desarrollo e implementación del Register</td>
-    <td>5</td>
-    <td>Farro Caballero, Alfredo</td>
+    <td><br>Liberato Susanibar, Piero</td>
     <td>Done</td>
   </tr>
 </tbody>
@@ -2996,9 +2976,13 @@ Aquí se proporcionara información sobre las pruebas realizadas durante el spri
 
 ### 6.2.1.5. Execution Evidence for Sprint Review.
 
-Esta seccion se centrara en la ejecucion de la aplicación durante el sprint.Se describira como los usuarios han interactuado con la plataforma ,incluyendo sus experiencias de usuario y cualquier retroalimentacion recibida.
-<img src="assets\Commits.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
-
+Esta seccion se centrara en la ejecucion de la aplicación durante el sprint. Se visualizara la navegacion del landing page como la de la pagina web, de esta manera se destacaran las caracteristicas y funcionalidades implementadas en la aplicacación.
++ Landing Page: 
+![page](/assets/landing%20deploy%202.png)
+Enlace de la navegacion del landing page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EZTD_-0Y6wpFu2RDXbsQZvgB9MRhNlWynKjaJBZzJ614rA?e=vLAKlw 
++ Web Application:
+![web](/assets//webApp.png)
+Enlace de la navegacion de la pagina web: https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FVideos%2FVideo%5FFrontEnd%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E515614d5%2Dbb95%2D4b78%2D81f4%2D5dfcb0a715bb 
 
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review.
 
