@@ -1869,17 +1869,46 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 **Web Diagram Flow**
 | User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\LoginWebM.png" style="width: 80%;">                                  |                                                                        |
+| Task Flow |     <img src="assets\LoginWebM.png" style="width: 80%;">                                  |                                                                        
 | User Flow |     <img src="assets\LoginLucid.png" style="width: 80%;">                                 |
                                                                                       
+
+| User Goal | Como usuario deseo poder comprar  OneUp ElderlyCare en la pagina web                      |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\compraWebM.png" style="width: 80%;">                                   |                                                                        
+| User Flow |     <img src="assets\ProductLucid.png" style="width: 80%;">                                 |
+
+
+| User Goal | Como usuario quiero editar información personal .                                         |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\DashWebM.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="assets\ProfileLucid.png" style="width: 80%;">                                 |
+
+
+
 
 
 
 | User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\LoginWebW.png" style="width: 80%;">                                  |                                                                        |
+| Task Flow |     <img src="assets\LoginWebW.png" style="width: 80%;">                                  |                                                             
 | User Flow |     <img src="assets\LoginLucid.png" style="width: 80%;">                                 |
                                                                                       
+| User Goal | Como usuario deseo poder comprar  OneUp ElderlyCare en la pagina web                      |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\compraWebW.png" style="width: 80%;">                                   |                                                                        
+| User Flow |     <img src="assets\ProductLucid.png" style="width: 80%;">                                 |
+
+
+| User Goal | Como usuario quiero editar información personal .                                         |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\DashWebW.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="assets\ProfileLucid.png" style="width: 80%;">                                 |
+
+
+
+
+
 
 # 5.5. Applications Prototyping
 
