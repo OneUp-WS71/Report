@@ -2586,3 +2586,426 @@ A continuación, presentamos el diagrama de base de datos considerado para el El
 
 <img src="Assets\boundedcontext13.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
+## 5.1. Style Guidelines.
+
+## 5.1.1. General Style Guidelines.
+## Introducción
+
+Las siguientes pautas de estilo han sido diseñadas para garantizar la coherencia y la claridad en la interfaz de usuario de la aplicación de cuidado de personas mayores. Estas pautas abarcan aspectos como tipografía, colores, escritura y espaciado, con el objetivo de proporcionar una experiencia de usuario intuitiva y fácil de usar para los cuidadores.
+
+## Tipografía
+
+- **Fuente:** Inter
+- **Tamaños:** Seleccionar entre los tamaños disponibles para asegurar una legibilidad adecuada en diferentes dispositivos y tamaños de pantalla.
+- **Estilos:** Utilizar estilos como negrita o cursiva para resaltar información importante.
+- **Espaciado entre letras y líneas:** Ajustar según sea necesario para mejorar la legibilidad, especialmente en textos largos.
+
+<img src="Assets\Tipografia_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+## Colores
+
+- **Significado del color:** El índigo representa la intuición, la sabiduría y la percepción psíquica, lo que refleja la naturaleza sensible y empática del cuidado de personas mayores.
+- **Paleta de colores:** Utilizar la paleta de colores Indigo 50/100/200/300/400/500/600/700/800/900 para elementos visuales como botones, barras de progreso y fondos.
+
+<img src="Assets\Color_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+## Espaciado
+
+- **Espaciado entre componentes:** Utilizar un espaciado con métricas de 4^n (por ejemplo, 8px, 12px, 16px, 24px, 32px) para garantizar una disposición equilibrada y armoniosa de los elementos en la interfaz de usuario.
+
+Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicación para garantizar una experiencia de usuario coherente y fácil de usar para los cuidadores.
+
+<img src="Assets\Espaciado_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+## Escritura
+
+- **Estilo de escritura:** Utilizar una escritura clara y concisa para comunicar de manera efectiva información relevante a los cuidadores.
+- **Lenguaje:** Evitar jergas o términos técnicos que puedan resultar confusos para los usuarios no especializados en el cuidado de personas mayores.
+- **Consistencia:** Mantener un tono y estilo de escritura coherentes en toda la aplicación para una experiencia de usuario unificada.
+
+## Branding
+
+Para representar nuestro producto, se decantó por el siguiente logo, el cual representa a la pulsera inteligente cuidando de los adultos mayores que tiene encerrados. El corazón encima representaría tanto a la detección de pulso cardiaco como al cuidado que busca.
+
+<img src="assets\Logos\Logo_indigo.png" style="width: 30%;"><br>
+
+A partir de este logo, se diseñaron distintas variaciones de colores que se aplicarían de acuerdo al color que se tenga en el fondo.
+
+<img src="assets\Logos\Logo_indigo.png" style="width: 12%;">
+<img src="assets\Logos\Logo_negro.png" style="width: 12%;">
+<img src="assets\Logos\Logo_blanco.png" style="width: 12%;">
+
+<br>
+
+Por último, también se diseño un banner que contendría el logo y nombre del producto. Para este banner, se combinaron ambos aspectos para mantener continuidad entre ambos aspectos, otorgando un logo interesante de ver.
+
+<img src="assets\Logos\Logo_Banner.png" style="width: 50%;"><br>
+
+<img src="assets\Logos\Branding.png" style="width: 80%;"><br>
+
+## 5.1.2. Web, Mobile and IoT Style Guidelines.
+
+Debido a como se maneja la aplicación, se va a tener en cuenta adaptar funcionalidades a las dos plataformas principales. Estas plataformas serían Windows en Desktop y Android en Mobile.
+
+Para la lectura de la información, se tiene previsto que se manejará una cantidad de información que es preferible que se visualize en forma de lista. Por lo tanto, se aplicará un patrón de diseño en F. Aunque se tiene previsto también utilizar el patrón Z para visualización del landing page.
+
+<img src = "https://f2h4k4f7.rocketcdn.me/wp-content/uploads/2023/06/what-is-the-f-pattern.webp"  style="width: 40%;"><br>
+
+Los elementos a utilizar para las aplicación son los siguientes:
+
+<img src="assets\inicio_sesion.png" style="width: 30%;">
+<br><br>
+<img src="assets\header_oneup.png" style="width: 30%;">
+<br><br>
+<img src="assets\medicine_appoint_switch.png" style="width: 30%;">
+<br><br>
+<img src="assets\opciones.png" style="width: 30%;">
+<br><br>
+<img src="assets\emergency_notif.png" style="width: 30%;">
+<br><br>
+<img src="assets\corazon.png" style="width: 30%;">
+<br><br>
+<img src="assets\alarma_card.png" style="width: 30%;">
+<br><br>
+
+
+# 5.2. Information Architecture.
+En este capítulo, exploraremos cómo la Information Architecture puede mejorar la experiencia de usuario y la eficacia de sistemas relacionados con el cuidado de personas mayores.
+
+En particular, nos enfocaremos en cinco excepciones clave dentro de la Information Architecture aplicadas al cuidado de personas mayores:
+
+## 5.2.1. Organization Systems.
+
+En Organization System nos enfocamos en mejorar la calidad de vida y seguridad de las personas mayores con soluciones innovadoras. Nuestro sistema integral ofrece funciones como recordatorios de medicamentos, seguimiento de salud, ubicación en tiempo real y acceso a números de emergencia. Buscamos brindar tranquilidad a familiares y cuidadores, garantizando una atención excepcional a las necesidades de los adultos mayores.
+A continuación, les presentaremos la imagen que representa visualmente el funcionamiento y beneficios de Organization System.
+
+<img src="Assets\Organization_Systems.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+## 5.2.2. Labeling Systems.
+
+Esta sección se enfoca en las etiquetas utilizadas para guiar a los posibles usuarios de las plataformas asociadas a nuestro producto, ElderlyCare.
+
+### Landing Page
+
+En el encabezado de la página, se pueden encontrar las siguientes opciones. Cada opción redirige a una sección específica del Landing Page.
+
+- **Home :** Redirecciona al banner del landing page. Esta sección permitirá al usuario con solo un par de palabras y una imagen atrayente poder captar su atención, y comunicar el tipo de producto que es ElderlyCare.
+
+- **About :** Redirecciona a la sección de About the Product. En esta sección se describe de una forma más detallada de que trata Elderlycare, el núcleo del negocio y en especial sus puntos diferenciadores de la competencia.
+
+- **Features :** Redirecciona a la sección de features, la cual señala los diferentes servicios asociados al producto, otras funcionalidades y diversas comodidades asociadas a este. Esta sección, además de señalar beneficios globales, también señala los beneficios respectivos para cada tipo de usuario, como el keeper y el supervisor.
+
+- **Download :** Redirecciona a la sección de descarga de la aplicación, en la cual el usuario podrá elegir que plataforma le conviene para obtener el producto promocionado.
+
+- **Team :** Redirige a la sección "About the Team", la cual describe a los integrantes del equipo de desarrollo del producto.
+
+- **Contact :** Redirige a la seccion de contacto, en la cual el usuario podrá enviar un correo electrónico directamente al equipo de desarrollo para esclarecer dudas.
+
+### Web application
+
+En el menú lateral de la aplicación web, se pueden acceder a las siguientes secciones de la aplicación:
+
+- **Dashboard :** Es la sección correspondiente a la página principal de la aplicación, la cual muestra datos correspondientes a las personas con las pulseras asociados a la aplicación, importante especialmente para los supervisors, y las transacciones relacionadas con la compra de productos de OneUp.
+
+- **Profile :** Es la sección relacionada a los datos del perfil del usuario, y su edición.
+
+- **Patients :** Esta sección está relacionada a los datos de los adultos mayores que utilizan el dispositivo, como sería verificar la actividad de la pulsera y los datos recopilados.
+
+- **Products :** Esta sección se relaciona con los productos que OneUp tiene a la venta relacionados con los servicios de ElderlyCare. El único producto que se tiene previsto es la pulsera inteligente.
+
+- **Orders :** Esta sección permite visualizar en tiempo real el estado de la transacción y envío de los productos. Esta sección es de principal importancia para los Supervisors.
+
+### Mobile application
+
+En el menú inferior de la aplicación móvil, se pueden acceder a las siguientes secciones de la aplicación:
+
+- **Home :** Zona principal la cual permite al usuario ver los datos recolectados por la pulsera. Estos datos se refieren a la rensión, temperatura y pulso cardiaco.
+
+- **Reminders :** Es la sección para visualizar y configurar los recordatorios correspondientes al medicamento o citas médicas.
+
+- **Location :** Sección reservada para visualizar en tiempo real la posición del adulto mayor en el mapa.
+
+- **Device :** En esta sección se puede gestionar la conección con la pulsera.
+
+- **Profile :** Es la sección relacionada a los datos del perfil del usuario, y su edición.
+
+## 5.2.3. SEO Tags and Meta Tags
+
+<img src="Assets\SEO_Tags.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+1. `<meta charset="utf-8">`: Esta línea especifica la codificación de caracteres utilizada en la página web, en este caso, UTF-8, que es ampliamente compatible y permite mostrar caracteres especiales y emojis correctamente.
+2. `<meta content="width=device-width, initial-scale=1.0" name="viewport">`: Esta línea establece las dimensiones de la ventana gráfica (viewport) para que se ajuste al ancho del dispositivo y tenga una escala inicial de 1.0, lo que garantiza una correcta visualización en dispositivos móviles y tablets.
+3. `<meta content="startup: elderly, designer: Piero Liberato, category: app" name="description">`: Aquí se proporciona una descripción de la página web, indicando que se trata de una startup enfocada en el cuidado de personas mayores, diseñada por Piero Liberato y categorizada como una aplicación.
+4. `<meta content="index, nofollow, translate, snippet" name="robots">`: Esta línea especifica cómo los robots de los motores de búsqueda deben interactuar con la página. En este caso, se indica que la página puede ser indexada, pero no seguida, y puede ser traducida y mostrada como un fragmento (snippet) en los resultados de búsqueda.
+5. `<meta content="ElderlyCare, TechCompany" name="copyright">`: Aquí se especifica la información de derechos de autor para la página, indicando que los derechos pertenecen a ElderlyCare y TechCompany.
+6. `<meta content="elderly, supervisor, healthy, treatment, reminder, security" name="keywords">`: Esta línea proporciona una lista de palabras clave que son relevantes para la página. Estas palabras clave ayudan a los motores de búsqueda a entender de qué trata la página y a mostrarla en los resultados relevantes.
+7. `<meta content="adult" name="rating">`: Esta línea especifica la clasificación de contenido de la página, indicando que es apta para adultos. Esto puede ser útil para los motores de búsqueda y los filtros de contenido.
+
+## 5.2.4. Searching Systems.
+Para mejorar la experiencia del usuario al buscar recordatorios de medicación o citas médicas, así como datos históricos de salud del adulto mayor en nuestra aplicación móvil, hemos implementado un sistema de búsqueda. Este sistema proporciona a los usuarios opciones principales para encontrar la información que necesitan de manera eficiente.
+**Búsqueda por nombre de recordatorio:** Los usuarios pueden buscar recordatorios de medicación o citas médicas específicos ingresando el nombre asociado al recordatorio. Esta función permite a los usuarios encontrar rápidamente los recordatorios relacionados con un medicamento o una cita médica en particular.
+![Busqueda nombre](/assets/searching%201.png)
+
+**Filtro de búsqueda por fecha de los datos historicos de salud del adulto mayor:** Utilizando los datos de salud recopilados por la pulsera del adulto mayor, hemos integrado un filtro de búsqueda por fecha. Los usuarios pueden especificar un rango de fechas para buscar registros históricos de presión arterial, temperatura corporal, nivel de actividad, entre otros datos biométricos. Este filtro de búsqueda permite a los usuarios obtener información detallada sobre la salud del adulto mayor en un período específico, lo que puede ser útil para el seguimiento y la gestión de su bienestar.
+![Busqueda fecha ](/assets//searching%202.png)
+
+
+Estas funciones de búsquedase han agregaron para mejorar la accesibilidad y la eficiencia en la recuperación de información relevante para el cuidado del adulto mayor. Al proporcionar tanto la opción de búsqueda por nombre como el filtro por fecha, garantizamos que los usuarios puedan acceder fácilmente a los datos específicos que necesitan, ya sea para administrar la medicación, programar citas médicas o monitorear la salud general del adulto mayor.
+
+## 5.2.5. Navigation Systems.
+
+Para poder navegar dentro de la aplicación, se va a añadir las siguientes secciones:
+
+<br><br>
+<img src="assets\searching_system_1.PNG" style="width: 30%;">
+<br><br>
+<img src="assets\searching_system_2.PNG" style="width: 80%;">
+<br><br>
+<img src="assets\header_oneup.png" style="width: 80%;">
+<br><br>
+<img src="assets\opciones.png" style="width: 80%;">
+<br><br>
+
+# 5.3. Landing Page UI Design.
+
+
+Las Landing Pages se utilizan para convertir a los visitantes en clientes potenciales mediante mensajes atractivos y detalles sobre el producto, entre otras estrategias. Por eso, decidimos utilizar esta herramienta y desarrollar una versión preliminar tanto para dispositivos móviles como para computadoras.
+
+## 5.3.1. Landing Page Wireframe.
+En esta sección, vamos a establecer los fundamentos para el diseño del sitio web de nuestro software, asegurando que el contenido se presente de manera clara tanto en la versión de escritorio como en la móvil.
+
+El diseño del Landing Page se adaptará a las diferentes pantallas de los dispositivos, asegurando que la información sea fácilmente visible para el usuario.
+
+Nuestro objetivo es proporcionar información precisa sin abrumar al usuario. Para lograrlo, implementaremos una barra de navegación fija que facilite la exploración de la Landing Page.
+
+<img src="Assets\Wireframe1.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Wireframe2.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Wireframe3.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Wireframe4.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+## 5.3.2. Landing Page Mock-up.
+Se mostrará la versión preliminar de nuestro sitio web, detallando su contenido y aplicando los colores de nuestra guía de estilos. También se incluirán imágenes relevantes para complementar la información y ofrecer una comprensión más clara de los conceptos que estamos comunicando.
+
+<img src="Assets\Mockup1.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Mockup2.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Mockup3.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Mockup4.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+# 5.4. Applications UX/UI Design.
+
+## 5.4.1. Applications Wireframes.
+A continuación, se muestran los diseños elaborados de acuerdo a las funcionalidades de la aplicación.
+
+**Mobile Application Wireframes**  
+Registro de Usuario (Cuidador)
+![Registro de Usuario (Cuidador)](/assets/Register.png)
+Inicio de Sesión 
+![Inicio de Sesión](/assets/Login.png)
+Seccion Home donde se visualiza los datos biométricos del adulto mayor
+![Home](Assets/Home.png)
+Ubicacion del Adulto Mayor
+![Ubicacion](/assets/UbicacionLocation.png)
+Recordatorios de las citas medicas y medicamentos
+![Recordatorios](/assets/reminders.png)
+Perfil del adulto mayor
+![Perfil](/assets/Profile.png)
+Sincronización de la pulsera
+![Sincronización](/assets/Connection.png)
+
+**Web Application Wireframes**<br>
+Registro de usuario <br>
+<img src="assets\LoginWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+Compra de producto<br>
+<img src="assets\compraWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+Pagina Principalz<br>
+<img src="assets\DashWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+## 5.4.2. Applications Wireflow Diagrams.
+
+**User Goal 1 : Verificar ritmo cardiaco**
+
+- Happy Path: <br>Visualización regular. No se genera una alarma
+
+- Unhappy Path: <br>Se ha generado una alarma de ritmo cardiaco no regular.
+
+<img src="assets\UG_1_WF.jpg" style="width: 80%;"><br>
+
+**User Goal 2 : Ver localización del adulto mayor**
+
+- Happy Path: <br>Se llega a ver la posición del adulto mayor en el mapa
+
+- Unhappy Path: <br>No se puede detectar la posición del adulto mayor, ya que este está afuera del área restringida.
+
+<img src="assets\UG_2_WF.jpg" style="width: 80%;"><br>
+
+**User Goal 3 : Añadir un recordatorio de medicamento**
+
+- Happy Path: <br>Se puede añadir el recordatorio exitosamente al recordatorio.
+
+- Unhappy Path: <br>Se cancela el añadido del recordatorio.
+
+<img src="assets\UG_3_WF.jpg" style="width: 80%;"><br>
+
+**User Goal 4 : Añadir un recordatorio de cita médica**
+
+- Happy Path: <br>Se puede añadir el recordatorio exitosamente al recordatorio.
+
+- Unhappy Path: <br>Se cancela el añadido del recordatorio.
+
+<img src="assets\UG_4_WF.jpg" style="width: 80%;"><br>
+
+**User Goal 5 : Connección con el dispositivo**
+
+- Happy Path: <br>Se puede conectar exitosamente con el dispositivo
+
+- Unhappy Path: <br>El dispositivo no llega a conectarse.
+
+<img src="assets\UG_5_WF.jpg" style="width: 80%;"><br>
+
+## 5.4.2. Applications Mock-ups.
+A continuación, se presentan los mock-ups de la aplicación ElderlyCare, diseñados para brindar una experiencia de usuario intuitiva y atractiva.
+**Mobile Application Mock-ups**  
+Registro de Usuario (Cuidador)
+![Registro de Usuario](/assets/MRegister.png)
+Inicio de Sesión 
+![Inicio de Sesión](/assets/MLogin.png)
+Seccion Home donde se visualiza los datos biométricos del adulto mayor
+![Home](Assets/MHome.png)
+Ubicaion del Adulto Mayor
+![Ubicacion](/assets/MLocation.png)
+Recordatorios de las citas medicas y medicamentos
+![Recordatorios](/assets/MReminder.png)
+Perfil del adulto mayor
+![Perfil](/assets/MProfile.png)
+Sincronización de la pulsera
+![Sincronización](/assets/MConnection.png)
+
+**Web Application Mock-ups**
+Registro de usuario <br>
+<img src="assets\LoginWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+Compra de producto<br>
+<img src="assets\compraWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+Pagina Principalz<br>
+<img src="assets\DashWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+## 5.4.3. Applications User Flow Diagrams.
+
+Para esta sección se visualizarán los flujos y las posibles opciones dentro del flujo para cada User Goal.
+
+**User Goal 1 : Verificar ritmo cardiaco**
+
+- Happy Path: <br>Visualización regular. No se genera una alarma
+
+- Unhappy Path: <br>Se ha generado una alarma de ritmo cardiaco no regular.
+
+<img src="assets\userflow_1.jpg" style="width: 80%;"><br>
+
+**User Goal 2 : Ver localización del adulto mayor**
+
+- Happy Path: <br>Se llega a ver la posición del adulto mayor en el mapa
+
+- Unhappy Path: <br>No se puede detectar la posición del adulto mayor, ya que este está afuera del área restringida.
+
+<img src="assets\userflow_2.jpg" style="width: 80%;"><br>
+
+**User Goal 3 : Añadir un recordatorio de medicamento**
+
+- Happy Path: <br>Se puede añadir el recordatorio exitosamente al recordatorio.
+
+- Unhappy Path: <br>Se cancela el añadido del recordatorio.
+
+<img src="assets\userflow_3.jpg" style="width: 80%;"><br>
+
+**User Goal 4 : Añadir un recordatorio de cita médica**
+
+- Happy Path: <br>Se puede añadir el recordatorio exitosamente al recordatorio.
+
+- Unhappy Path: <br>Se cancela el añadido del recordatorio.
+
+<img src="assets\userflow_4.jpg" style="width: 80%;"><br>
+
+**User Goal 5 : Connección con el dispositivo**
+
+- Happy Path: <br>Se puede conectar exitosamente con el dispositivo
+
+- Unhappy Path: <br>El dispositivo no llega a conectarse.
+
+<img src="assets\userflow_5.jpg" style="width: 80%;"><br>
+
+
+**Web Diagram Flow**
+| User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\LoginWebM.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="assets\LoginLucid.png" style="width: 80%;">                                 |
+                                                                                      
+
+| User Goal | Como usuario deseo poder comprar  OneUp ElderlyCare en la pagina web                      |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\compraWebM.png" style="width: 80%;">                                   |                                                                        
+| User Flow |     <img src="assets\ProductLucid.png" style="width: 80%;">                                 |
+
+
+| User Goal | Como usuario quiero editar información personal .                                         |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\DashWebM.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="assets\ProfileLucid.png" style="width: 80%;">                                 |
+
+
+
+
+
+
+| User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\LoginWebW.png" style="width: 80%;">                                  |                                                             
+| User Flow |     <img src="assets\LoginLucid.png" style="width: 80%;">                                 |
+                                                                                      
+| User Goal | Como usuario deseo poder comprar  OneUp ElderlyCare en la pagina web                      |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\compraWebW.png" style="width: 80%;">                                   |                                                                        
+| User Flow |     <img src="assets\ProductLucid.png" style="width: 80%;">                                 |
+
+
+| User Goal | Como usuario quiero editar información personal .                                         |
+|-----------|-------------------------------------------------------------------------------------------|
+| Task Flow |     <img src="assets\DashWebW.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="assets\ProfileLucid.png" style="width: 80%;">                                 |
+
+
+
+
+
+
+# 5.5. Applications Prototyping
+
+### Prototype Mobile Application <br>
+
+**User Goal 1 : Verificar ritmo cardiaco**
+
+<img src="assets\prototype_flow1.PNG" style="width: 90%;"><br>
+
+[https://tinyurl.com/4w5vfwht](https://tinyurl.com/4w5vfwht)
+
+**User Goal 2 : Ver localización del adulto mayor**
+
+<img src="assets\prototype_flow2.PNG" style="width: 90%;"><br>
+
+[https://tinyurl.com/5x259srr](https://tinyurl.com/5x259srr)
+
+**User Goal 3 : Añadir un recordatorio de medicamento**
+
+<img src="assets\prototype_flow3.PNG" style="width: 90%;"><br>
+
+[https://tinyurl.com/5n977ufv](https://tinyurl.com/5n977ufv)
+
+**User Goal 4 : Añadir un recordatorio de cita médica**
+
+<img src="assets\prototype_flow4.PNG" style="width: 90%;"><br>
+
+[https://tinyurl.com/9uywjux7](https://tinyurl.com/9uywjux7)
+
+**User Goal 5 : Connección con el dispositivo**
+
+<img src="assets\prototype_flow5.PNG" style="width: 90%;"><br>
+
+[https://tinyurl.com/bdzfrurf](https://tinyurl.com/bdzfrurf)
