@@ -2908,7 +2908,7 @@ Para este sprint, tuvimos como objetivo implementar el diseño de nuestra aplica
 <tbody>
   <tr>
     <td colspan="2">User Story</td>
-    <td colspan="6">Work-Item / Task </td>
+    <td colspan="6">Work-Item / Task</td>
   </tr>
   <tr>
     <td>Id</td>
@@ -2921,43 +2921,63 @@ Para este sprint, tuvimos como objetivo implementar el diseño de nuestra aplica
     <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
   </tr>
   <tr>
-    <td>US10 </td>
-    <td>Sección About Us </td>
+    <td>US10</td>
+    <td>Sección About Us</td>
     <td>TS01</td>
-    <td>Implementación de la sección about us </td>
+    <td>Implementación de la sección about us</td>
     <td>Desarrollo e implementación de la barra de navegación, sección about us y estilos CSS y JS</td>
     <td>3</td>
-    <td><br>Liberato Susanibar, Piero</td>
+    <td>Liberato Susanibar, Piero</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US11  </td>
-    <td>Sección About the   Product   </td>
+    <td>US11</td>
+    <td>Sección About the Product</td>
     <td>TS02</td>
-    <td>Implementación de la sección about the product </td>
-    <td>Desarrollo e implementación de la  Sección About the   Product con estilos responsive </td>
+    <td>Implementación de la sección about the product</td>
+    <td>Desarrollo e implementación de la Sección About the Product con estilos responsive</td>
     <td>4</td>
-    <td><br>Liberato Susanibar, Piero</td>
+    <td>Liberato Susanibar, Piero</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US12</td>
-    <td>Sección Contacto </td>
+    <td>Sección Contacto</td>
     <td>TS03</td>
-    <td>Implementación de la sección contacto </td>
+    <td>Implementación de la sección contacto</td>
     <td>Desarrollo e implementación de la Sección Contacto con estilos responsive</td>
     <td>2</td>
-    <td><br>Liberato Susanibar, Piero</td>
+    <td>Liberato Susanibar, Piero</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US13 </td>
-    <td>Sección de Redes   Sociales </td>
+    <td>US13</td>
+    <td>Sección de Redes Sociales</td>
     <td>TS04</td>
-    <td>Implementación de la sección de redes sociales </td>
-    <td>Desarrollo e implementación de la Sección de Redes   Sociales con estilos responsive</td>
+    <td>Implementación de la sección de redes sociales</td>
+    <td>Desarrollo e implementación de la Sección de Redes Sociales con estilos responsive</td>
     <td>3</td>
-    <td><br>Liberato Susanibar, Piero</td>
+    <td>Liberato Susanibar, Piero</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Acceso a la cuenta (Web Application)</td>
+    <td>TS05</td>
+    <td>Implementación del login</td>
+    <td>Desarrollo e implementación del Login</td>
+    <td>4</td>
+    <td>Farro Caballero, Alfredo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Registro de cuenta (Web Application</td>
+    <td>TS06</td>
+    <td>Implementación del register</td>
+    <td>Desarrollo e implementación del Register</td>
+    <td>5</td>
+    <td>Farro Caballero, Alfredo</td>
     <td>Done</td>
   </tr>
 </tbody>
