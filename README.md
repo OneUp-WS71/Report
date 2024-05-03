@@ -1772,17 +1772,27 @@ A continuación, se muestran los diseños elaborados de acuerdo a las funcionali
 
 **Mobile Application Wireframes**  
 Registro de Usuario (Cuidador)
+
 ![Registro de Usuario (Cuidador)](/assets/Register.png)
+
 Inicio de Sesión 
+
 ![Inicio de Sesión](/assets/Login.png)
+
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
+
 ![Home](/assets//Home.png)
 
 Ubicacion del Adulto Mayor
+
 ![Ubicacion](/assets/UbicacionLocation.png)
+
 Recordatorios de las citas medicas y medicamentos
+
 ![Recordatorios](/assets/reminders.png)
+
 Perfil del adulto mayor
+
 ![Perfil](/assets/Profile.png)
 Sincronización de la pulsera
 ![Sincronización](/assets/Connection.png)
@@ -1846,8 +1856,10 @@ Inicio de Sesión
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
 ![Home](/assets/MHome.png)
 
-Ubicaion del Adulto Mayor
+Ubicación del Adulto Mayor
+
 ![Ubicacion](/assets/MLocation.png)
+
 Recordatorios de las citas medicas y medicamentos
 ![Recordatorios](/assets/MReminder.png)
 Perfil del adulto mayor
