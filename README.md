@@ -2965,19 +2965,31 @@ Para este sprint, tuvimos como objetivo implementar el diseño de nuestra aplica
 
 ### 6.2.1.3. Development Evidence for Sprint Review.
 En esta seccion se presenta la evidencia del progreso del desarrollo de software .Se incluye detalles sobre lo que se implemento en el sprint actual,destacando algun avance significativo para la plataforma.
+<img src="assets\5.3.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+
 
 ### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
+<img src="assets\5.3.1.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
 
 ### 6.2.1.5. Execution Evidence for Sprint Review.
 
 Esta seccion se centrara en la ejecucion de la aplicación durante el sprint.Se describira como los usuarios han interactuado con la plataforma ,incluyendo sus experiencias de usuario y cualquier retroalimentacion recibida.
+<img src="assets\Commits.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review.
 
 Aqui se presentara la documentacion relacionada con los servicios de cuidados de personas mayores ofrecidos a traves de la plataforma .Esto incluye perfiles de supervisores,detalles sobre la informacion de los pacientes y pedidos realizados.
-### 6.2.1.7. Software Deployment Evidence for Sprint Review.
 
-### 6.2.1.8. Team Collaboration Insights during Spri
+<img src="assets\Introduction.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+### 6.2.1.7. Software Deployment Evidence for Sprint Review.
 En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas.Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales
+<img src="assets\Trello.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
 ### 6.2.1.8. Team Collaboration Insights during Sprint
 Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro del equipo de desarrollo durante el sprint .Esto incluira la colaboracion,resolucion de problemas y la gestion de tareas.
+<img src="assets\DiscordGroup.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
