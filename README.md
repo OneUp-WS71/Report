@@ -139,12 +139,12 @@ _____________________
 <tbody>
   <tr>
     <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
-    <td>Orosco Orcotuma, Cristhian<br>TB1: <br>Se identificaron diferentes problemas en<br>base al desarrollo del trabajo tanto como la<br>identificación del producto, como la elaboración<br>del Lean ux y estructura de la aplicación, pero supimos implementar las soluciones con los compañeros a todas estas. Asimismo, Se modificó<br>los diferentes puntos del lean Ux, el canvas, los<br>assumptions y modificar nuestro objetivo <br> Liberato Susanibar, Piero Anthony <br> TB1: <br> Elabore el desarrrollo de la descripción de la startup, Antecedentes y problemática Lean UX Problem Statements, Análisis competitivo, Estrategias y tácticas frente a competidores y Software Architecture.  </td>
+    <td>Orosco Orcotuma, Cristhian<br>TB1: <br>Se identificaron diferentes problemas en<br>base al desarrollo del trabajo tanto como la<br>identificación del producto, como la elaboración<br>del Lean ux y estructura de la aplicación, pero supimos implementar las soluciones con los compañeros a todas estas. Asimismo, Se modificó<br>los diferentes puntos del lean Ux, el canvas, los<br>assumptions y modificar nuestro objetivo <br> Liberato Susanibar, Piero Anthony <br> TB1: <br> Elabore el desarrrollo de la descripción de la startup, Antecedentes y problemática Lean UX Problem Statements, Análisis competitivo, Estrategias y tácticas frente a competidores y Software Architecture. <br><br> Nuñez Martinez, Anthony Samir <br> TB1: <br> Se redactaron alrededor de 10 User Stories,  se desarrollaron ambos As-is y To-Be Scenario Maps, se redactó el Ubiqutuous language, se hizo los Domain Message Flow Models y redactó el Bounded Context de los Reminders.</td>
     <td></td>
   </tr>
   <tr>
     <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
-    <td>Orosco Orcotuma, Cristhian<br>TB1:<br>Para solucionar los problemas presentados<br>en el trabajo se usó las metodologías ágiles de<br>software para poder tener la mejor solución<br>posible. Asimismo, se tuvieron que aprender<br>nuevos conceptos acerca del Lean Ux, como<br>mejorar en base al trabajo anterior puntos para<br>definir mejor nuestra plataforma. <br> Liberato Susanibar, Piero Anthony <br> TB1: <br> Para este trabajo e realizado investigaciones apra conocer nuestro mercado, competidores, etc. Asi mismo entrevistar personas para conocer de primera mano sus necesidades y facilitarnos el proceso de desarrollo de nuestra organización.</td>
+    <td>Orosco Orcotuma, Cristhian<br>TB1:<br>Para solucionar los problemas presentados<br>en el trabajo se usó las metodologías ágiles de<br>software para poder tener la mejor solución<br>posible. Asimismo, se tuvieron que aprender<br>nuevos conceptos acerca del Lean Ux, como<br>mejorar en base al trabajo anterior puntos para<br>definir mejor nuestra plataforma. <br> Liberato Susanibar, Piero Anthony <br> TB1: <br> Para este trabajo e realizado investigaciones apra conocer nuestro mercado, competidores, etc. Asi mismo entrevistar personas para conocer de primera mano sus necesidades y facilitarnos el proceso de desarrollo de nuestra organización.<br><br> Nuñez Martinez, Anthony Samir <br> TB1: <br> Se tuvo que desarrollar nuevas habilidades para complementar al equipo.</td>
     <td></td>
   </tr>
 </tbody>
@@ -181,6 +181,12 @@ Estudiante de Ingeniería de Software de 19 años en la Universidad Peruana de C
 Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 7mo ciclo de la carrera de Ingeniería de Software  tengo habilidades en frontend y backend, también cuento con conocimiento en margenes ágiles y otros lenguajes como C++ y C#. Espero seguir aumentando mis conocimientos durante este ciclo.En mis tiempos libres me gusta investigar sobre margenes agiles ,jugar  y hacer ejercicio. Me gusta escuchar rock
 
   <img src="assets\enrique.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  
++ **Alfredo Farro Caballero:**
+Soy Alfredo Farro, actualmente me encuentro cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me considero una persona con gran potencial para trabajar en grupo, ya que siempre buscó entregar todo a tiempo.
+
+  <img src="assets\alfredo.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
 
 
 # 1.2. Solution Profile
@@ -588,7 +594,7 @@ User - Cuidador
 
 User - Supervisor
 
-<img src="Assets\AsIs2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+<img src="assets\AsIs2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 # 2.4. Ubiquitous Language
 
@@ -621,7 +627,7 @@ User - Cuidador
 
 User - Supervisor
 
-<img src="Assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+<img src="assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 
 # 3.2. User Stories
@@ -887,6 +893,8 @@ User - Supervisor
 
 
 # 3.3. Impact Mapping
+<img src="Assets\Impact1.jpg" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Impact2.jpg" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 # 3.4. Product Backlog
 <table>
@@ -1115,6 +1123,29 @@ User - Supervisor
 
 ### 4.1.1.1 Candidate Context Discovery.
 
+Step1: <br>
+<img src="Assets\Candidate-Context1.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step2: <br>
+<img src="Assets\Candidate-Context2.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step3: <br>
+<img src="Assets\Candidate-Context3.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step4: <br>
+<img src="Assets\Candidate-Context4.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step5: <br>
+<img src="Assets\Candidate-Context5.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step6: <br>
+<img src="Assets\Candidate-Context6.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step7: <br>
+<img src="Assets\Candidate-Context7.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step8: <br>
+<img src="Assets\Candidate-Context8.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step9: <br>
+<img src="Assets\Candidate-Context9.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+Step10: <br>
+<img src="Assets\Candidate-Context10.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+
 ### 4.1.1.2 Domain Message Flows Modeling.
 
 ### Leyenda 
@@ -1152,7 +1183,15 @@ User - Supervisor
 
 ### 4.1.1.3 Bounded Context Canvases.
 
+<img src="Assets\Context-Canvases.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Context-Canvases2.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Context-Canvases3.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Context-Canvases4.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Context-Canvases5.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Context-Canvases6.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+
 ## 4.1.2. Context Mapping
+<img src="Assets\Context-Mapping.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 4.1.3. Software Architecture.
 
@@ -1167,6 +1206,7 @@ User - Supervisor
 ### 4.1.3.4. Software Architecture Deployment Diagrams.
 En esta sección nos enfocamos en modelar la distribución física de los componentes de un sistema de
 software en un entorno de ejecución. 
+<br><img src="Assets\Deployment.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 # 4.2. Tactical-Level Domain-Driven Design
 
