@@ -181,7 +181,11 @@ Estudiante de Ingeniería de Software de 19 años en la Universidad Peruana de C
 Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 7mo ciclo de la carrera de Ingeniería de Software  tengo habilidades en frontend y backend, también cuento con conocimiento en margenes ágiles y otros lenguajes como C++ y C#. Espero seguir aumentando mis conocimientos durante este ciclo.En mis tiempos libres me gusta investigar sobre margenes agiles ,jugar  y hacer ejercicio. Me gusta escuchar rock
 
   <img src="assets\enrique.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  
++ **Alfredo Farro Caballero:**
+Soy Alfredo Farro, actualmente me encuentro cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me considero una persona con gran potencial para trabajar en grupo, ya que siempre buscó entregar todo a tiempo.
 
+  <img src="assets\alfredo.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 # 1.2. Solution Profile
 
