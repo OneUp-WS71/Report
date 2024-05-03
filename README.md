@@ -2965,9 +2965,21 @@ Para este sprint, tuvimos como objetivo implementar el diseño de nuestra aplica
 
 ### 6.2.1.3. Development Evidence for Sprint Review.
 En esta seccion se presenta la evidencia del progreso del desarrollo de software .Se incluye detalles sobre lo que se implemento en el sprint actual,destacando algun avance significativo para la plataforma.
-<img src="assets\5.3.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+Application WEB
+| Repository                                              | Branch  | Commit ID                                | Commit Message | Commit Message Body                | Commite on (date) |
+|---------------------------------------------------------|---------|------------------------------------------|----------------|------------------------------------|-------------------|
+| https://github.com/OneUp-WS71/frontend-web-applications | develop | 4a318a2dc6d09e2dca76daaeac4f4024ce4f1717 | APP WEB V5     | Conexion del front con el fake api | 03/05/2024        |
+| https://github.com/OneUp-WS71/frontend-web-applications | develop | 3f415160f06630e823394894bc6779f13f8edea0 | APP WEB V4     | Estructura del front end           | 02/05/2024        |
+| https://github.com/OneUp-WS71/frontend-web-applications | develop | 8e5c3a38f19a7a1b99de732c2de5f3d719fca461 | APP WEB V3     | Diseño del front end               | 02/05/2024        |
+| https://github.com/OneUp-WS71/frontend-web-applications | develop | 38eff473edf15c4082ea6147a1d7df78a8ebabb7 | APP WEB V2     | Informacion del front end          | 01/05/2024        |
+| https://github.com/OneUp-WS71/frontend-web-applications | develop | ac06aaf5ebc3812f79fe557c56a07127f0f8942d | APP WEB V1     | Creacion del front end             | 01/05/2024        |
 
 
+WEB SITE
+| Repository                                 | Branch  | Commit ID                                | Commit Message         | Commit Message Body      | Commite on (date) |
+|--------------------------------------------|---------|------------------------------------------|------------------------|--------------------------|-------------------|
+| https://github.com/OneUp-WS71/landign-page | develop | 1d11330e380da7cfcb4bd64e4c248570d9d8b943 | Fix Correction Logo    | Correcion del logo       | 03/05/2024        |
+| https://github.com/OneUp-WS71/landign-page | develop | 0710e061321158ff299d81426908e1134c18d47c | Fix ADD FINISH WEBSITE | Estructura del front end | 02/05/2024        |
 
 ### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
