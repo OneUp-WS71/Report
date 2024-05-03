@@ -2991,9 +2991,12 @@ Aqui se presentara la documentacion relacionada con los servicios de cuidados de
 <img src="assets\Introduction.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### 6.2.1.7. Software Deployment Evidence for Sprint Review.
-En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas.Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales
-<img src="assets\Trello.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+Para llevar a cabo la automatizacion del despliegue del landing page, se utilizaron las herramientas de Github Pages, esta plataforma permite alojar sitios web estáticos directamente desde un repositorio de GitHub: https://oneup-ws71.github.io/landign-page/
 
+![Front](/assets/DespliegueLanding.png)
+De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
+![Lainding](/assets/DespliegueFront.png) 
 ### 6.2.1.8. Team Collaboration Insights during Sprint
 Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro del equipo de desarrollo durante el sprint .Esto incluira la colaboracion,resolucion de problemas y la gestion de tareas.
 <img src="assets\DiscordGroup.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
