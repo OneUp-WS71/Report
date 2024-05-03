@@ -1794,7 +1794,9 @@ Recordatorios de las citas medicas y medicamentos
 Perfil del adulto mayor
 
 ![Perfil](/assets/Profile.png)
+
 Sincronización de la pulsera
+
 ![Sincronización](/assets/Connection.png)
 
 **Web Application Wireframes**<br>
@@ -1850,10 +1852,15 @@ Pagina Principalz<br>
 A continuación, se presentan los mock-ups de la aplicación ElderlyCare, diseñados para brindar una experiencia de usuario intuitiva y atractiva.
 **Mobile Application Mock-ups**  
 Registro de Usuario (Cuidador)
+
 ![Registro de Usuario](/assets/MRegister.png)
+
 Inicio de Sesión 
+
 ![Inicio de Sesión](/assets/MLogin.png)
+
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
+
 ![Home](/assets/MHome.png)
 
 Ubicación del Adulto Mayor
@@ -1861,10 +1868,15 @@ Ubicación del Adulto Mayor
 ![Ubicacion](/assets/MLocation.png)
 
 Recordatorios de las citas medicas y medicamentos
+
 ![Recordatorios](/assets/MReminder.png)
+
 Perfil del adulto mayor
+
 ![Perfil](/assets/MProfile.png)
+
 Sincronización de la pulsera
+
 ![Sincronización](/assets/MConnection.png)
 
 **Web Application Mock-ups**
