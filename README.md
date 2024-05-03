@@ -1731,9 +1731,9 @@ Estas funciones de búsquedase han agregaron para mejorar la accesibilidad y la 
 Para poder navegar dentro de la aplicación, se va a añadir las siguientes secciones:
 
 <br><br>
-<img src="assets\searching_system_1.png" style="width: 30%;">
+<img src="assets\searching_system_1.PNG" style="width: 30%;">
 <br><br>
-<img src="assets\searching_system_2.png" style="width: 80%;">
+<img src="assets\searching_system_2.PNG" style="width: 80%;">
 <br><br>
 <img src="assets\header_oneup.png" style="width: 80%;">
 <br><br>
@@ -1784,7 +1784,7 @@ Recordatorios de las citas medicas y medicamentos
 Perfil del adulto mayor
 ![Perfil](/assets/Profile.png)
 Sincronización de la pulsera
-![Sincronización](/assets/connection.png)
+![Sincronización](/assets/Connection.png)
 
 **Web Application Wireframes**<br>
 Registro de usuario <br>
@@ -1831,7 +1831,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>Se ha generado una alarma de ritmo cardiaco no regular.
 
-<img src="Assets\userflow_1.jpg" style="width: 80%;"><br>
+<img src="assets\userflow_1.jpg" style="width: 80%;"><br>
 
 **User Goal 2 : Ver localización del adulto mayor**
 
