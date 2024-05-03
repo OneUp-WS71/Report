@@ -127,7 +127,45 @@ _____________________
     - [4.1.3.2. Software Architecture Context Level Diagrams](/README.md#4132-software-architecture-context-level-diagrams)
     - [4.1.3.3. Software Architecture Container Level Diagrams](/README.md#4133-software-architecture-container-level-diagrams)
     - [4.1.3.4. Software Architecture Deployment Diagrams](/README.md#4134-software-architecture-deployment-diagrams)
-  - [4.2. Tactical-Level Domain-Driven Design](/README.md#42-tactical-level-domain-driven-design) 
+  - [4.2. Tactical-Level Domain-Driven Design](/README.md#42-tactical-level-domain-driven-design)
+- [Capítulo V: Solution UI/UX Design](/README.md#capítulo-v-solution-ui-ux-design)
+  - [5.1. Style Guidelines](/README.md#51-style-guidelines)
+    - [5.1.1. General Style Guideline](/README.md#511-general-style-guideline)
+    - [5.1.2. Web, Mobile and IoT Style Guidelines](/README.md#512-web-mobile-and-iot-style-guidelines)
+  - [5.2. Information Architecture](/README.md#52-information-architecture)
+    - [5.2.1. Organization Systems](/README.md#521-organization-systems)
+    - [5.2.2. Labeling Systems](/README.md#522-labeling-systems)
+    - [5.2.3. SEO Tags and Meta Tags](/README.md#523-seo-tags-and-meta-tags)
+    - [5.2.4. Searching Systems](/README.md#524-searching-systems)
+    - [5.2.5. Navigation Systems](/README.md#525-navigation-systems)
+  - [5.3. Landing Page UI Design](/README.md#53-landing-page-ui-design)
+    - [5.3.1. Landing Page Wireframe](/README.md#531-landing-page-wireframe)
+    - [5.3.2. Landing Page Mock-up](/README.md#532-landing-page-mock-up)
+  - [5.4. Applications UX/UI Design](/README.md#54-applications-ux-ui-design)
+    - [5.4.1. Applications Wireframes](/README.md#541-applications-wireframes)
+    - [5.4.2. Applications Wireflow Diagrams](/README.md#542-applications-wireflow-diagrams)
+    - [5.4.3. Applications Mock-ups](/README.md#543-applications-mock-ups)
+    - [5.4.4. Applications User Flow Diagrams](/README.md#544-applications-user-flow-diagrams)
+  - [5.5. Applications Prototyping](/README.md#53-applications-prototyping)
+  - [6.1. Software Configuration Management](/README.md#61-software-configuration-management)
+    - [6.1.1. Software Development Environment Configuration](/README.md#611-software-development-environment-configuration)
+    - [6.1.2. Source Code Management](/README.md#612-source-code-management)
+    - [6.1.3. Source Code Style Guide & Conventions](/README.md#613-source-code-style-guide--conventions)
+    - [6.1.4. Software Deployment Configuration](/README.md#614-software-deployment-configuration)
+  - [6.2. Landing Page, Services & Applications Implementation](/README.md#62-landing-page-services--applications-implementation)
+    - [6.2.1. Sprint 1](/README.md#621-sprint-1)
+      - [6.2.1.1 Sprint Planning 1](/README.md#6211-sprint-planning-1)
+      - [6.2.1.2. Sprint Backlog 1](/README.md#6212-sprint-backlog-1)
+      - [6.2.1.3. Development Evidence for Sprint Review](/README.md#6213-development-evidence-for-sprint-review)
+      - [6.2.1.4. Testing Suite Evidence for Sprint Review](/README.md#6214-testing-suite-evidence-for-sprint-review)
+      - [6.2.1.5. Execution Evidence for Sprint Review](/README.md#6215-execution-evidence-for-sprint-review)
+      - [6.2.1.6. Services Documentation Evidence for Sprint Review](/README.md#6216-services-documentation-evidence-for-sprint-review)
+      - [6.2.1.7. Software Deployment Evidence for Sprint Review](/README.md#6217-software-deployment-evidence-for-sprint-review)
+      - [6.2.1.8. Team Collaboration Insights during Sprint](/README.md#6218-team-collaboration-insights-during-sprint)
+
+
+
+
 ## Student Outcome 
 <table>
 <thead>
@@ -2587,7 +2625,7 @@ A continuación, presentamos el diagrama de base de datos considerado para el El
 
 <img src="Assets\boundedcontext13.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
-
+# Capítulo V: Solution UI/UX Design
 ## 5.1. Style Guidelines.
 
 ## 5.1.1. General Style Guidelines.
@@ -2863,7 +2901,7 @@ Pagina Principalz<br>
 
 <img src="assets\UG_5_WF.jpg" style="width: 80%;"><br>
 
-## 5.4.2. Applications Mock-ups.
+## 5.4.3. Applications Mock-ups.
 A continuación, se presentan los mock-ups de la aplicación ElderlyCare, diseñados para brindar una experiencia de usuario intuitiva y atractiva.
 **Mobile Application Mock-ups**  
 Registro de Usuario (Cuidador)
@@ -2889,7 +2927,7 @@ Compra de producto<br>
 Pagina Principalz<br>
 <img src="assets\DashWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
-## 5.4.3. Applications User Flow Diagrams.
+## 5.4.4. Applications User Flow Diagrams.
 
 Para esta sección se visualizarán los flujos y las posibles opciones dentro del flujo para cada User Goal.
 
