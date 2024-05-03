@@ -3003,7 +3003,9 @@ WEB SITE
 
 ### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
-<img src="assets\5.3.1.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Testing-Landing.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-oneup-ws71-github-io-landign-page/15eeol9hre?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext
 
 
 ### 6.2.1.5. Execution Evidence for Sprint Review.
