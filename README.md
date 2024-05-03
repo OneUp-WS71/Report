@@ -1776,7 +1776,8 @@ Registro de Usuario (Cuidador)
 Inicio de Sesión 
 ![Inicio de Sesión](/assets/Login.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
-![Home](Assets/Home.png)
+![Home](/assets//Home.png)
+
 Ubicacion del Adulto Mayor
 ![Ubicacion](/assets/UbicacionLocation.png)
 Recordatorios de las citas medicas y medicamentos
@@ -1843,7 +1844,8 @@ Registro de Usuario (Cuidador)
 Inicio de Sesión 
 ![Inicio de Sesión](/assets/MLogin.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
-![Home](Assets/MHome.png)
+![Home](/assets/MHome.png)
+
 Ubicaion del Adulto Mayor
 ![Ubicacion](/assets/MLocation.png)
 Recordatorios de las citas medicas y medicamentos
