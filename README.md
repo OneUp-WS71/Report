@@ -3563,6 +3563,95 @@ Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro d
 ### 6.2.2.2.Sprint Backlog 2.
 
 ### 6.2.2.3.Development Evidence for Sprint Review.
+  <h4>Back end</h4>
+  
+ <table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message </th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>45eae737648786dcc1d07d131ad18faf8642cd9e</td>
+    <td>Add Product Service imp</td>
+    <td>06/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>c47bea0fe61be247e36d7201ffac4dff9fb579d3</td>
+    <td>Add Service Product</td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>e98d41e94002d74b9432d63e461219279c72833e</td>
+    <td>add Product Controller </td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/patient</td>
+    <td>b17b32dcd61cc90c634ce4f27f7e2fc48317d1769</td>
+    <td>Add Patient Controller</td>
+    <td>04/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>bd4206f710d1b12cda12bea19fdccb05043c9912</td>
+    <td>add Report Controller</td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>036aaea252e55b78cd1851273f6ae995f3aba43e</td>
+    <td>add Report Service </td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>6a8cd4ab474eca2555d7779b2ff2113573b471d8</td>
+    <td>add Report Service Impl</td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>ca256740c54aef93ceea7d8901d6b575240c9c2a</td>
+    <td>Add Device Controller </td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>8a739b723e5a0fb4a17256719863117b4e55a9c6</td>
+    <td>Add Model Device</td>
+    <td>28/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>1bef2656018de5ce0c19ea41381a48d8e3cb6e01</td>
+    <td>Terminando user</td>
+    <td>23/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>1bef2656018de5ce0c19ea41381a48d8e3cb6c2a</td>
+    <td>Agregando nuevos metodos a user</td>
+    <td>20/05/2024</td>
+  </tr>
+</tbody></table>
 ### 6.2.2.4.Testing Suite Evidence for Sprint Review.
 
 ### 6.2.2.5.Execution Evidence for Sprint Review.
