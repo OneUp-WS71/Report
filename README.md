@@ -3556,5 +3556,33 @@ De la misma manera para el desarrollo del frontend se utilizo Netlify, una plata
 Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro del equipo de desarrollo durante el sprint .Esto incluira la colaboracion,resolucion de problemas y la gestion de tareas.
 <img src="assets\DiscordGroup.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
+## 6.2.2. Sprint 2
+
+### 6.2.2.1.Sprint Planning 2.
+
+### 6.2.2.2.Sprint Backlog 2.
+
+### 6.2.2.3.Development Evidence for Sprint Review.
+### 6.2.2.4.Testing Suite Evidence for Sprint Review.
+
+### 6.2.2.5.Execution Evidence for Sprint Review.
+
+### 6.2.2.6.Services Documentation Evidence for Sprint Review.
+
+### 6.2.2.7.Software Deployment Evidence for Sprint Review.
+
+### 6.2.2.8.Team Collaboration Insights during Sprint.
+
+# 6.3. Validation Interviews.
+
+## 6.3.1. Diseño de Entrevistas.
+
+## 6.3.2. Registro de Entrevistas.
+
+## 6.3.3. Evaluaciones según heurísticas.
+
+# 6.4. Video About-the-Product.
+
+
 ### Conclusiones
 Las técnicas empleadas para la formulación de proyectos DDD, como el Eventstorming y sus procesos correlativos, nos brindaron una comprensión más profunda de los posibles comportamientos requeridos por los potenciales usuarios de nuestro producto. Es esencial que todos los integrantes del equipo estén al tanto de estos cambios y de cómo influyen en la concepción y desarrollo del software. En proyectos de gran envergadura como el nuestro, es fundamental reconocer las diversas habilidades de cada miembro del equipo y asignarles tareas que se ajusten a sus talentos individuales, garantizando así un proceso fluido y sin contratiempos para todo el equipo.
