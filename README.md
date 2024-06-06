@@ -3566,10 +3566,44 @@ Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro d
 ### 6.2.2.4.Testing Suite Evidence for Sprint Review.
 
 ### 6.2.2.5.Execution Evidence for Sprint Review.
+  <h4>Backend  Evidence</h4>
+  <img src="Assets\backendevidence.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### 6.2.2.6.Services Documentation Evidence for Sprint Review.
+  <h4>Devices Service</h4>
+  <img src="Assets\deviceservice.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Users Service</h4>
+  <img src="Assets\UsersService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+
+  <h4>Patient Service</h4>
+  <img src="Assets\PatientService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Products Service</h4>
+  <img src="Assets\ProductsService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Payment Service</h4>
+  <img src="Assets\PaymentService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Report Service</h4>
+  <img src="Assets\ReportService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+
 
 ### 6.2.2.7.Software Deployment Evidence for Sprint Review.
+En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+Para llevar a cabo la automatizacion del despliegue del backend, se utilizaron las herramientas de  railway,  esta plataforma permite alojar servicios estáticos directamente desde un repositorio de GitHub: https://github.com/OneUp-WS71/back-end-application
+
+
+
+
+De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
+![Lainding](/assets/DespliegueFront.png) 
+
+De la misma manera para el desarrollo del movil app se utilizo 
+
 
 ### 6.2.2.8.Team Collaboration Insights during Sprint.
 
