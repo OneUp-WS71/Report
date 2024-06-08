@@ -4117,7 +4117,7 @@ De la misma manera para el desarrollo del movil app se utilizo
 <b> Segmento: Cuidadores y Supervisores de Adultos Mayores.</b>
 
 1. ¿Cuál es tu nombre y edad?
-2. ¿Qué relación tienes con el cuidado del adulto mayor? (por ejemplo, cuidador, familiar, profesional de la salud)
+2. ¿Qué relación tienes con el cuidado del adulto mayor?
 3. ¿Cómo describirías tu experiencia general utilizando nuestra aplicación hasta ahora?
 4.  En una escala del 1 al 10, ¿qué tan fácil te resultó navegar por la aplicación?
 5. ¿La aplicación cumplió tus expectativas en términos de funcionalidad? ¿Por qué sí o por qué no?
@@ -4131,23 +4131,22 @@ De la misma manera para el desarrollo del movil app se utilizo
 ## 6.3.2. Registro de Entrevistas.
 <h4>Segmento: Supervisores</h4>
 
-<b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay
-<b>Edad :</b> 26 años
-<b>Distrito:</b> Callao, Lima
-IMAGEN DE LA ENTREVISTA 
-<b>Enlace:</b>
-<b>Inicio:</b>
-<b>Duracion:</b>
-
+<b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay <br>
+<b>Edad :</b> 26 años <br>
+<b>Distrito:</b> Callao, Lima <br>
+IMAGEN DE LA ENTREVISTA  <br>
+<b>Enlace:</b> <br>
+<b>Inicio:</b> <br>
+<b>Duracion:</b> <br>
 <h4>Segmento: Cuidadores</h4>
 
-<b>Nombre y Apellidos :</b>
-<b>Edad :</b>
-<b>Distrito:</b>
-IMAGEN DE LA ENTREVISTA 
-<b>Enlace:</b>
-<b>Inicio:</b>
-<b>Duracion:</b>
+<b>Nombre y Apellidos :</b> <br>
+<b>Edad :</b> <br>
+<b>Distrito:</b> <br>
+IMAGEN DE LA ENTREVISTA  <br>
+<b>Enlace:</b> <br>
+<b>Inicio:</b> <br>
+<b>Duracion:</b> <br>
 
 ## 6.3.3. Evaluaciones según heurísticas.
 
