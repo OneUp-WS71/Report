@@ -3933,7 +3933,7 @@ AQUI VA IMAGEN DEL TRELLO CON TODAS LAS USER STORIES PUESTAS (FALTA)
     <td>Añadido de Endpoint de<br>productos.</td>
     <td>Model, service, repository y<br>controller de Products.</td>
     <td>2</td>
-    <td>Alfredo Alfaro</td>
+    <td>Alfredo Farro</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -3941,7 +3941,7 @@ AQUI VA IMAGEN DEL TRELLO CON TODAS LAS USER STORIES PUESTAS (FALTA)
     <td>Funcionalidad de error de<br>procesamiento de venta.</td>
     <td>Error Management cuando se ingresen<br>datos incorrectos.</td>
     <td>1</td>
-    <td>Alfredo Alfaro</td>
+    <td>Alfredo Farro</td>
     <td>Done</td>
   </tr>
   <tr>
