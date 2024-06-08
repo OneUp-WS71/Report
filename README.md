@@ -4131,13 +4131,19 @@ De la misma manera para el desarrollo del movil app se utilizo
 ## 6.3.2. Registro de Entrevistas.
 <h4>Segmento: Supervisores</h4>
 
-<b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay <br>
-<b>Edad :</b> 26 años <br>
-<b>Distrito:</b> Callao, Lima <br>
-IMAGEN DE LA ENTREVISTA  <br>
+<b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay 
+<b>Edad :</b> 26 años 
+<b>Distrito:</b> Callao, Lima 
+![EntrevistaCris](/assets/EntrevistaCris2.png) <br>
 <b>Enlace:</b> <br>
 <b>Inicio:</b> <br>
-<b>Duracion:</b> <br>
+<b>Duracion:</b> 00:11:05 
+Maryfe enfermera de 26 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite registrar información básica, como el peso y la talla de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de medicamentos y citas médicas. Sin embargo, indicó que la aplicación comienza en inglés, lo cual puede ser una barrera significativa para algunos usuarios hispanohablantes, sugiriendo que todas las secciones deberían estar en español.
+
+En cuanto a la funcionalidad, Maryfe mencionó que la aplicación cumplió sus expectativas, especialmente en relación con los recordatorios de citas y medicamentos, que están alineados con las fechas anteriores. Sin embargo, sugirió que la aplicación sería más útil si pudiera integrarse con dispositivos de monitoreo para registrar signos vitales en tiempo real. El diseño de la aplicación le pareció bien organizado, con indicaciones claras en cada sección, y no experimentó problemas de rendimiento, describiendo la aplicación como rápida y eficiente.
+
+Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplicación debería incluir la posibilidad de monitorear más signos vitales y que todas las secciones estén completamente traducidas al español. Además, sugirió la inclusión de rutinas de ejercicio adecuadas para adultos mayores, como caminatas cortas y ejercicios ligeros, y la necesidad de adaptar estas recomendaciones a las condiciones específicas de salud de los pacientes para evitar riesgos. En resumen, Mary valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad.
+
 <h4>Segmento: Cuidadores</h4>
 
 <b>Nombre y Apellidos :</b> <br>
