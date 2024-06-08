@@ -3559,9 +3559,9 @@ Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro d
 ## 6.2.2. Sprint 2
 
 ### 6.2.2.1.Sprint Planning 2.
-En el segundo sprint se llevó a cabo el desarrollo e implementación de la de la aplicación, incluyendo la aplicación móvil nativa para iOS y Android, la aplicación web, la API RESTful, la base de datos y la aplicación embedded para dispositivos IoT.
+En el segundo sprint, el equipo se reunió para coordinar las actividades necesarias para el desarrollo e implementación de  de la aplicaciones. Se establecieron objetivos claros y alcanzables para cada componente, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded.
 
-Adicionalmente, se realizó el despliegue de la API  y la implementación de la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación. 
+De la misma manera el equipo se comprometió a trabajar de manera colaborativa, definir tareas individuales y grupales, establecer plazos de entrega.
 
 <table><thead>
   <tr>
@@ -3610,7 +3610,291 @@ Adicionalmente, se realizó el despliegue de la API  y la implementación de la 
 </tbody></table>
 
 ### 6.2.2.2.Sprint Backlog 2.
+Para este sprint tuvimos como objetivo el desarrollo e implementación de la de la aplicación, incluyendo la aplicación móvil para iOS y Android, la aplicación web, la API RESTful, la base de datos y la aplicación embedded para dispositivos IoT.
 
+Adicionalmente, se realizó el despliegue de la API  y la implementación de la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación. 
+
+<table><thead>
+  <tr>
+    <th>Sprin #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task </td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>Doing /<br>Review /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">  <br>US02   </td>
+    <td rowspan="3">Acceso a la cuenta   (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de inicio de sesión </td>
+    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los usuarios ingresar a la aplicación utilizando su correo electrónico y contraseña.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de inicio de sesión</td>
+    <td>Implementar la lógica necesaria para validar las credenciales de los usuarios al momento de ingresar a la aplicación.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar la autenticación en el Backend</td>
+    <td> Integrar un sistema de autenticación robusto en el Backend para verificar la identidad de los usuarios y gestionar las sesiones de acceso. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US04   </td>
+    <td rowspan="3">Registro de cuenta   (Mobile Application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de registro </td>
+    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los nuevos usuarios crear una cuenta en la aplicación. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de registro</td>
+    <td> Implementar la lógica necesaria para registrar nuevos usuarios en la aplicación. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar el registro de usuarios con el Backend</td>
+    <td>Integrar el proceso de registro de usuarios en el Backend para almacenar la información personal de manera segura y gestionar las cuentas creadas.</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US08   </td>
+    <td rowspan="3">   Visualización de   la información sobre la persona cuidada (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de información de la persona cuidada (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar los datos relevantes sobre la persona cuidada. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de visualización de información</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar la información de la persona cuidada en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar  y integrar con la base de datos</td>
+    <td> Establecer la conexión entre la aplicación móvil y la base de datos para acceder a la información de la persona cuidada</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US14   </td>
+    <td rowspan="3">  Visualización de la lista de recordatorios y citas médicas (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de recordatorios y citas médicas (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva y funcional que permita visualizar la lista de recordatorios y citas médicas de manera organizada y clara.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de visualización de recordatorios y citas</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar la lista de recordatorios y citas médicas en la aplicación móvil.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar los recordatorios y citas  con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para acceder a la información de los recordatorios y citas médicas. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Anthony Nuñez</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US15  </td>
+    <td rowspan="3">   Modificación de los recordatorios (Mobile application)    </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de edición de recordatorios (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) intuitiva y fácil de usar que permita modificar los detalles de los recordatorios existentes. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de edición de recordatorios</td>
+    <td>Implementar la lógica necesaria para modificar los datos de los recordatorios en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar la  modificación de recordatorios con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para actualizar la información de los recordatorios. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US16   <br></td>
+    <td rowspan="3">Acceso a registros   históricos (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de registros históricos (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva y organizada que permita visualizar el historial de eventos relevantes relacionados con la persona cuidada.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de acceso a registros históricos</td>
+    <td> Implementar la lógica necesaria para obtener y mostrar el historial de eventos en la aplicación móvil.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar los registros históricos con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para acceder al historial de eventos.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US18   </td>
+    <td rowspan="3">   Configurar alertas   personalizadas (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de configuración de alertas (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) intuitiva y fácil de usar que permita configurar alertas personalizadas para recibir notificaciones sobre eventos relevantes.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de configuración de alertas</td>
+    <td>Implementar la lógica necesaria para configurar y gestionar las alertas personalizadas en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar  el servicio de notificaciones con el  Backend</td>
+    <td>Integrar un servicio de notificaciones confiable en el Backend para enviar alertas personalizadas a los usuarios.</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US19   </td>
+    <td rowspan="3">  Seguimiento de la   ubicación del adulto mayor (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de seguimiento de ubicación (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar la ubicación actual del adulto mayor en tiempo real.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de seguimiento de ubicación en tiempo real</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar la ubicación del adulto mayor en la aplicación móvil.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar el servicio de ubicación con el Backend</td>
+    <td>Integrar un servicio de ubicación confiable en el Backend para obtener y almacenar la información de ubicación del adulto mayor.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">  US20   </td>
+    <td rowspan="3">Agregar lista de   medicamentos con recordatorio (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de lista de medicamentos (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) organizada y fácil de usar que permita gestionar una lista de medicamentos con recordatorios. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato,Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de gestión de lista de medicamentos</td>
+    <td> Implementar la lógica necesaria para crear, editar y eliminar medicamentos en la lista.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato,Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar la lista de  medicamentos con la base de datos SQLite</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos SQLite para almacenar la información de los medicamentos.</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato,Alfredo Farro</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US21   </td>
+    <td rowspan="3">Historial de   ubicaciones del adulto mayor (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de historial de ubicaciones (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar el historial de ubicaciones del adulto mayor.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de acceso al historial de ubicaciones</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar el historial de ubicaciones del adulto mayor en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar el  historial de ubicaciones con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para acceder al historial de ubicaciones del adulto mayor.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+</tbody></table>
 ### 6.2.2.3.Development Evidence for Sprint Review.
   <h4>Back end</h4>
   
