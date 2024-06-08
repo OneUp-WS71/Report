@@ -3895,7 +3895,10 @@ Adicionalmente, se realizó el despliegue de la API  y la implementación de la 
     <td>Review </td>
   </tr>
 </tbody></table>
+
 ### 6.2.2.3.Development Evidence for Sprint Review.
+En esta seccion se presenta la evidencia del progreso del desarrollo de las aplicaciones. Se incluye detalles sobre lo que se implemento en el sprint actual, se mostrata un cuadro con los commits realizados en el repositorio de la aplicacion movil, web y API RESTful.
+
   <h4>Back end</h4>
   
  <table><thead>
@@ -3985,6 +3988,85 @@ Adicionalmente, se realizó el despliegue de la API  y la implementación de la 
     <td>20/05/2024</td>
   </tr>
 </tbody></table>
+
+  <h4>Mobile</h4>
+
+  <table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commite on (date)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>7a8997bf3f40344f68d9b2b012e12d72b7066094 </td>
+    <td>feat: add login screen </td>
+    <td>Se agregó la vista de login  </td>
+    <td>28/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>9d3602e7182026d96b2978533bc2c44aa8237f4f</td>
+    <td>feat: Add register screen</td>
+    <td>Se agregó la vista de register para nuevos usuarios </td>
+    <td>31/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application </td>
+    <td>feature/TEAC-03</td>
+    <td>1d08962e7d1712fec84c7e0d24e937b355e70861</td>
+    <td>feat: profile screen </td>
+    <td>Se agregó la vista profile de los adultos mayores </td>
+    <td>31/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application </td>
+    <td>feature/TEAC-03</td>
+    <td>08af574f2b2d34d5ecc9f2b013bfd73cd0adcdb4</td>
+    <td>feat: mobile router page </td>
+    <td>Se agregó las rutas de navegación para las vistas profile, login y register</td>
+    <td>31/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-04</td>
+    <td>ed40940e327902015e3fab4b906f1298cc1d4809</td>
+    <td>feat: add folders of reminders </td>
+    <td>Se agregó las carpetas y widgets para la vista reminders  </td>
+    <td>30/05/24</td>
+  </tr>
+  <tr>
+    <td> OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-04</td>
+    <td>0b1f8d92f4883331a34d85740d180fd408b20ef6</td>
+    <td>feat: add reminder</td>
+    <td>Se agregó la vista reminders </td>
+    <td>01/06/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application </td>
+    <td>feature/TEAC-05</td>
+    <td>c39b5e74ac026f444e8962f11d0f09d56fde3b78</td>
+    <td>feat: add page view in homepage </td>
+    <td>Se agregó la vista homepage </td>
+    <td>06/06/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-05</td>
+    <td>e68b489f069118b3dc7aa4029e992c544424bc6c</td>
+    <td>feat: add api config </td>
+    <td>Se agrego las clases para la configuración del API </td>
+    <td>06/06/24</td>
+  </tr>
+</tbody></table>
+
 
 ### 6.2.2.4.Testing Suite Evidence for Sprint Review.
 
