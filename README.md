@@ -3905,7 +3905,85 @@ AQUI VA IMAGEN DEL TRELLO CON TODAS LAS USER STORIES PUESTAS (FALTA)
 </tbody></table>
 
 <b>BackEnd </b>
- FALTA 
+
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation<br>(Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US09</td>
+    <td rowspan="2">Proceso de ventas</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>productos.</td>
+    <td>Model, service, repository y<br>controller de Products.</td>
+    <td>2</td>
+    <td>Alfredo Alfaro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Funcionalidad de error de<br>procesamiento de venta.</td>
+    <td>Error Management cuando se ingresen<br>datos incorrectos.</td>
+    <td>1</td>
+    <td>Alfredo Alfaro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US24</td>
+    <td rowspan="2">Iniciar sesión<br>(Back End)</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>usuario.</td>
+    <td>Model, service, repository y<br>controller de User</td>
+    <td>2</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Servicio de autentificación<br>del usuario.</td>
+    <td>Endpoint para verificar el registro de<br>un usuario con contraseña y<br>usuario.</td>
+    <td>1</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US23</td>
+    <td>Agregar personas<br>enfermas<br>(Back End)</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>pacientes.</td>
+    <td>Model, service, repository y<br>controller de Patients</td>
+    <td>2</td>
+    <td>Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US22</td>
+    <td>Registrar un nuevo<br>usuario<br>(Back End)</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>usuario.</td>
+    <td>Model, service, repository y<br>controller de User</td>
+    <td>2</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+</tbody></table>
+
 <b>FrontEnd </b>
 FALTA 
 
