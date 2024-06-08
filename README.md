@@ -3610,9 +3610,17 @@ De la misma manera el equipo se comprometió a trabajar de manera colaborativa, 
 </tbody></table>
 
 ### 6.2.2.2.Sprint Backlog 2.
-Para este sprint tuvimos como objetivo el desarrollo e implementación de la de la aplicación, incluyendo la aplicación móvil para iOS y Android, la aplicación web, la API RESTful, la base de datos y la aplicación embedded para dispositivos IoT.
+Para este sprint tuvimos como objetivo el desarrollo e implementación de la de la aplicación, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded para dispositivos IoT.
 
-Adicionalmente, se realizó el despliegue de la API  y la implementación de la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación. 
+Adicionalmente, se realizó la comunicacion entre los diferentes componentes de la aplicación, la implementación de las funcionalidades principales, la integración de la base de datos y la configuración de la API RESTful. Asimismo el despliegue de la API, la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación. 
+
+<b>Trello</b>
+AQUI VA IMAGEN DEL TRELLO CON TODAS LAS USER STORIES PUESTAS (FALTA)
+
+<b>Enlace:</b> https://trello.com/b/dqGrz1ZG/oneup 
+
+
+<b>Mobile </b>
 
 <table><thead>
   <tr>
@@ -3896,6 +3904,11 @@ Adicionalmente, se realizó el despliegue de la API  y la implementación de la 
   </tr>
 </tbody></table>
 
+<b>BackEnd </b>
+ FALTA 
+<b>FrontEnd </b>
+FALTA 
+
 ### 6.2.2.3.Development Evidence for Sprint Review.
 En esta seccion se presenta la evidencia del progreso del desarrollo de las aplicaciones. Se incluye detalles sobre lo que se implemento en el sprint actual, se mostrata un cuadro con los commits realizados en el repositorio de la aplicacion movil, web y API RESTful.
 
@@ -4074,14 +4087,31 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
   <h4>Backend  Evidence</h4>
   <img src="Assets\backendevidence.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
+   <b>Enlace:</b>
+
+  <h4>Mobile Evidence</h4>
+
+  <b>Enlace:</b>
+
+  <h4>Frontend  Evidence</h4>
+
+  <b>Enlace:</b>
+
+  <h4>Embedded application Evidence</h4> 
+  
+  <b>Enlace:</b>
+
+  ![Embedded](/assets/embeddedAplication.png)
+
+  <b>Enlance:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/EbueAyh2zMpGvYHwXlTRnMoBRmEnmV6UpMor8xI6dixvMQ?e=ve5UG6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+
 ### 6.2.2.6.Services Documentation Evidence for Sprint Review.
   <h4>Devices Service</h4>
   <img src="Assets\deviceservice.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
   <h4>Users Service</h4>
   <img src="Assets\UsersService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
-
-
 
   <h4>Patient Service</h4>
   <img src="Assets\PatientService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
@@ -4099,10 +4129,13 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
 
 ### 6.2.2.7.Software Deployment Evidence for Sprint Review.
 En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+
+<b>Despliegue del Backend:</b>
 Para llevar a cabo la automatizacion del despliegue del backend, se utilizaron las herramientas de  railway,  esta plataforma permite alojar servicios estáticos directamente desde un repositorio de GitHub: https://github.com/OneUp-WS71/back-end-application
 
   <img src="Assets\railway_deployment_1.PNG"><br>
 
+<b>Despliegue del Frontend:</b>
 De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
 ![Lainding](/assets/DespliegueFront.png) 
 
@@ -4110,6 +4143,11 @@ De la misma manera para el desarrollo del movil app se utilizo
 
 
 ### 6.2.2.8.Team Collaboration Insights during Sprint.
+En esta seccion se presentara la colaboracion del equipo durante el sprint. Se destacaran los aspectos clave de la colaboracion y la comunicacion del equipo, asi como los desafios y las lecciones aprendidas.
+
+<b>FrontEnd:</b>
+<b>BackEnd:</b>
+<b>Mobile:</b>
 
 # 6.3. Validation Interviews.
 
