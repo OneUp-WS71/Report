@@ -4114,8 +4114,40 @@ De la misma manera para el desarrollo del movil app se utilizo
 # 6.3. Validation Interviews.
 
 ## 6.3.1. Diseño de Entrevistas.
+<b> Segmento: Cuidadores y Supervisores de Adultos Mayores.</b>
+
+1. ¿Cuál es tu nombre y edad?
+2. ¿Qué relación tienes con el cuidado del adulto mayor? (por ejemplo, cuidador, familiar, profesional de la salud)
+3. ¿Cómo describirías tu experiencia general utilizando nuestra aplicación hasta ahora?
+4.  En una escala del 1 al 10, ¿qué tan fácil te resultó navegar por la aplicación?
+5. ¿La aplicación cumplió tus expectativas en términos de funcionalidad? ¿Por qué sí o por qué no?
+6. ¿Qué opinas del diseño y la organización de la aplicación?
+7. ¿Tuviste algún problema de rendimiento (por ejemplo, tiempos de carga lentos, fallos) mientras usabas la aplicación?
+8. ¿Es el contenido y la información proporcionada dentro de la aplicación clara y útil?
+9. ¿Sientes que la aplicación aporta valor en el cuidado del adulto mayor? ¿Por qué sí o por qué no?
+10. ¿Cuáles son las principales mejoras que recomendarías para la applicación?
+
 
 ## 6.3.2. Registro de Entrevistas.
+<h4>Segmento: Supervisores</h4>
+
+<b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay
+<b>Edad :</b> 26 años
+<b>Distrito:</b> Callao, Lima
+IMAGEN DE LA ENTREVISTA 
+<b>Enlace:</b>
+<b>Inicio:</b>
+<b>Duracion:</b>
+
+<h4>Segmento: Cuidadores</h4>
+
+<b>Nombre y Apellidos :</b>
+<b>Edad :</b>
+<b>Distrito:</b>
+IMAGEN DE LA ENTREVISTA 
+<b>Enlace:</b>
+<b>Inicio:</b>
+<b>Duracion:</b>
 
 ## 6.3.3. Evaluaciones según heurísticas.
 
@@ -4123,4 +4155,17 @@ De la misma manera para el desarrollo del movil app se utilizo
 
 
 ### Conclusiones
-Las técnicas empleadas para la formulación de proyectos DDD, como el Eventstorming y sus procesos correlativos, nos brindaron una comprensión más profunda de los posibles comportamientos requeridos por los potenciales usuarios de nuestro producto. Es esencial que todos los integrantes del equipo estén al tanto de estos cambios y de cómo influyen en la concepción y desarrollo del software. En proyectos de gran envergadura como el nuestro, es fundamental reconocer las diversas habilidades de cada miembro del equipo y asignarles tareas que se ajusten a sus talentos individuales, garantizando así un proceso fluido y sin contratiempos para todo el equipo.
+El desarrollo del proyecto ha permitido alcanzar los objetivos principales, incluyendo la creación de una aplicación móvil funcional, una aplicación web robusta, una base de datos segura, una API RESTful eficiente y una aplicación embedded para la recolección de datos.
+La adopción de técnicas DDD, como el Eventstorming y sus procesos correlativos, resultó fundamental para comprender a profundidad los comportamientos esperados de los usuarios potenciales. Esta comprensión profunda nos permitió enfocar el desarrollo en las necesidades reales de los usuarios, lo que se traduce en el cumplimiento de los Problem Statements, Hypotheses Statements y criterios de éxito definidos en el proceso de Lean UX.
+Las validaciones realizadas han demostrado la efectividad de las soluciones implementadas, destacando la facilidad de uso, la escalabilidad y la seguridad del sistema. Estos resultados positivos son producto de la colaboración efectiva del equipo y la asignación de tareas acorde a las habilidades individuales de cada miembro.
+En proyectos de gran envergadura como el nuestro, es fundamental reconocer las diversas habilidades y talentos del equipo para garantizar un proceso fluido y sin contratiempos. La comunicación constante y la alineación de objetivos son claves para el éxito del proyecto.
+### Recomendaciones 
+Para continuar con el éxito del proyecto, se recomienda:
+
+- Realizar un seguimiento constante del uso de los productos digitales para realizar ajustes que optimicen la experiencia del usuario. Implementar pruebas de seguridad regulares para proteger los datos de los usuarios. Mantener los productos digitales actualizados con las últimas tecnologías.
+
+- Implementar un sistema de retroalimentación de los usuarios para recopilar comentarios y sugerencias de mejora.
+
+- Buscar nuevas oportunidades de negocio para ampliar el alcance de la solución, como la integración con otros servicios de salud o la expansión a nuevos mercados.
+
+- Continuar invirtiendo en la investigación y desarrollo de nuevas funcionalidades y tecnologías que mejoren aún más la solución y la experiencia del usuario.
