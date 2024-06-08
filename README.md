@@ -3559,6 +3559,55 @@ Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro d
 ## 6.2.2. Sprint 2
 
 ### 6.2.2.1.Sprint Planning 2.
+En el segundo sprint se llevó a cabo el desarrollo e implementación de la de la aplicación, incluyendo la aplicación móvil nativa para iOS y Android, la aplicación web, la API RESTful, la base de datos y la aplicación embedded para dispositivos IoT.
+
+Adicionalmente, se realizó el despliegue de la API  y la implementación de la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación. 
+
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <th colspan="2">Sprint Planning Background</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>07-06-2024</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>22:00</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Lima,  Perú- Reunión realizada mediante Discord </td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Liberato Susanibar, Piero</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Farro Caballero, Alfredo /<br>Orosco Orcotuma, Cristhian /<br>Nuñez Martinez, Anthony /<br>Llatas Flores, Enrique </td>
+  </tr>
+  <tr>
+    <th colspan="2">Sprint Goal & User Stories</th>
+  </tr>
+  <tr>
+    <td>Sprint n Goal</td>
+    <td>Desarrollo de la aplicación móvil, web, API, database, embedded application; despliegue del API,  aplicación web  y documentación del informe</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>128</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>128 story points </td>
+  </tr>
+</tbody></table>
 
 ### 6.2.2.2.Sprint Backlog 2.
 
@@ -3652,6 +3701,7 @@ Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro d
     <td>20/05/2024</td>
   </tr>
 </tbody></table>
+
 ### 6.2.2.4.Testing Suite Evidence for Sprint Review.
 
 ### 6.2.2.5.Execution Evidence for Sprint Review.
