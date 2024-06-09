@@ -83,7 +83,7 @@ _____________________
   + TP: Para la entrega del TP se desarrollo las secciones del capitulo V al capitulo VI, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
   ![CAP6](/assets/ContribucionCap6.png)
   + TB2: Para la entrega del TB2 se desarrollo las secciones del capitulo 6.2 al capitulo 6.4, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
- ![TB2](/Assets/githubReportb2.png)
+ ![TB2](/assets/githubReportb2.png)
 
 ## Contenido 
 - [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
@@ -206,7 +206,7 @@ aplicación permite un acceso rápido a ayuda, lo que puede marcar la diferencia
 + **Piero Anthony Liberato Susanibar:**
 Universitario que cursa el 8to ciclo de, teniendo 22 años. En mis ratos libres me pongo a desarrollar un startup, hacer ejercicio, escuchar música, estudiar sobre temas de desarrollo personal y rara vez jugar videojuegos. Para mí la honestidad es uno de los valores más importantes en toda persona, siendo uno de mis valores principales, trabajador, amable y colaborativo. Mis habilidades son sobre todo cognitivas para la programación en React, Next y Flutter, aparte tengo conocimientos de oratoria y crear y pitchear una startup.
 
-<img src="Assets\piero_Perfil.png" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\piero_Perfil.png" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 + **Cristhian Orosco Orcotuma:** Estudio la carrera de Ingeniería de Software en la UPC. Me considero una persona detallista, amante de los animales, la música, sobre todo la tecnología y los videojuegos, en el futuro me gustaría crear un videojuego y tener mi propia empresa de videojuegos. Soy un chico al cual le gusta aprender todo tipo de cosas, porque considero que siempre uno debe estar preparado para todo. 
 
@@ -465,7 +465,7 @@ En esta sección se presenta la información recolectada en las entrevistas real
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 51 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
 
-<img src="Assets\Screeshot_Norma_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Screeshot_Norma_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 30:57 <br>
@@ -483,7 +483,7 @@ Norma tiene un celular android y su explorador principal es Google Chrome.<br>
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 21 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Ancon, Lima <br>
 
-<img src="Assets\EntrevistadoPonce.png" width="596" height="334"> <br>
+<img src="assets\EntrevistadoPonce.png" width="596" height="334"> <br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 28:16 <br>
@@ -497,7 +497,7 @@ Nuestro entrevistado fue Juan Ponce, estudiante de ingeniería de sistemas que e
 
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Carabayllo, Lima 
 
-![](Assets/Entrevista_Jonatan.png)
+![](assets/Entrevista_Jonatan.png)
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 07:30 <br>
@@ -513,7 +513,7 @@ Jonatan sugiere mejoras para facilitar su situación, como la flexibilización d
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 24 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
 
-<img src="Assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Screeshot_Raquel_Interview.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 22:53 <br>
@@ -531,7 +531,7 @@ Raquel usa más frecuentemente su celular Android y su laptop, y su principal na
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 23 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Huaral, Lima <br>
 
-<img src="Assets\EntrevistadoJordi.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\EntrevistadoJordi.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 00:00 <br>
@@ -591,11 +591,11 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 **User Persona – Cuidador**
 
-![](Assets/UserPersonaMinorias.png)
+![](assets/UserPersonaMinorias.png)
 
 **User Persona – Supervisor**
 
-![](Assets/UserPersonaMayorias.png)
+![](assets/UserPersonaMayorias.png)
 
 ## 2.3.2. User Task Matrix
 
@@ -611,27 +611,27 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
 
 **User Journey Mapping – Cuidador**
 
-![](Assets/JourneyMapMinorias.png)
+![](assets/JourneyMapMinorias.png)
 
 **User Journey Mapping – Supervisor**
 
-![](Assets/JourneyMapMayorias.png)
+![](assets/JourneyMapMayorias.png)
 
 ## 2.3.4. Empathy Mapping
 
 **Empathy Mapping – Cuidador**
 
-![](Assets/EmpathyMapMinorias.png)
+![](assets/EmpathyMapMinorias.png)
 
 **Empathy Mapping – Supervisor**
 
-![](Assets/EmpathyMapMayorias.png)
+![](assets/EmpathyMapMayorias.png)
 
 ## 2.3.5. As-is Scenario Mapping
 
 User - Cuidador
 
-<img src="Assets\AsIs.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+<img src="assets\AsIs.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 User - Supervisor
 
@@ -664,7 +664,7 @@ User - Supervisor
 
 User - Cuidador
 
-<img src="Assets\ToBe.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+<img src="assets\ToBe.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 User - Supervisor
 
@@ -934,8 +934,8 @@ User - Supervisor
 
 
 # 3.3. Impact Mapping
-<img src="Assets\Impact1.jpg" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Impact2.jpg" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Impact1.jpg" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Impact2.jpg" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 # 3.4. Product Backlog
 <table>
@@ -1160,94 +1160,94 @@ User - Supervisor
 # 4.1. Strategic-Level Domain-Driven Design.
 
 ## 4.1.1. EventStorming.
-<img src="Assets\EventStorming.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\EventStorming.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### 4.1.1.1 Candidate Context Discovery.
 
 Step1: <br>
-<img src="Assets\Candidate-Context1.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Candidate-Context1.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 Step2: <br>
-<img src="Assets\Candidate-Context2.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Candidate-Context2.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 Step3: <br>
-<img src="Assets\Candidate-Context3.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Candidate-Context3.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 Step4: <br>
-<img src="Assets\Candidate-Context4.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Candidate-Context4.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 Step5: <br>
-<img src="Assets\Candidate-Context5.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Candidate-Context5.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 Step6: <br>
-<img src="Assets\Candidate-Context6.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Candidate-Context6.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 Step7: <br>
-<img src="Assets\Candidate-Context7.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Candidate-Context7.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 Step8: <br>
-<img src="Assets\Candidate-Context8.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Candidate-Context8.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 Step9: <br>
-<img src="Assets\Candidate-Context9.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Candidate-Context9.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 Step10: <br>
-<img src="Assets\Candidate-Context10.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Candidate-Context10.PNG" style="width: 80%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 
 ### 4.1.1.2 Domain Message Flows Modeling.
 
 ### Leyenda 
-<img src="Assets\DMFM_Leyenda.jpg" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_Leyenda.jpg" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### Scenario: Inicio de sesión (Móvil).
-<img src="Assets\DMFM_ScenarioInicioSesionMobile.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_ScenarioInicioSesionMobile.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### Scenario: Inicio de sesión (Web).
-<img src="Assets\DMFM_ScenarioInicioSesionWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_ScenarioInicioSesionWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### Scenario: Registro de usuario (Móvil).
-<img src="Assets\DMFM_ScenarioRegistroMobile.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_ScenarioRegistroMobile.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### Scenario: Registro de usuario (Web).
-<img src="Assets\DMFM_ScenarioRegistroWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_ScenarioRegistroWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### Scenario: Visualización de datos de la pulsera en la aplicación (Móvil).
-<img src="Assets\DMFM_ScenarioVisualizacionDatosMobile.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_ScenarioVisualizacionDatosMobile.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### Scenario: Visualización de datos de la pulsera en la aplicación (Web).
-<img src="Assets\DMFM_ScenarioVisualizacionDatosWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_ScenarioVisualizacionDatosWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### Scenario: Visualización de datos del historial médico del adulto mayor (Web).
-<img src="Assets\DMFM_ScenarioVisualizacionHistorialWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_ScenarioVisualizacionHistorialWeb.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### Scenario: Recordatorio de Cita médica activada.
-<img src="Assets\DMFM_ScenarioRecordatorioCitaMed.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_ScenarioRecordatorioCitaMed.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### Scenario: Recordatorio sobre consumo de medicina activada.
-<img src="Assets\DMFM_ScenarioRecordatorioMedicina.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_ScenarioRecordatorioMedicina.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### Scenario: Alarma de Emergencia activada.
-<img src="Assets\DMFM_ScenarioAlarmaEmergencia.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\DMFM_ScenarioAlarmaEmergencia.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### 4.1.1.3 Bounded Context Canvases.
 
-<img src="Assets\Context-Canvases.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Context-Canvases2.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Context-Canvases3.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Context-Canvases4.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Context-Canvases5.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Context-Canvases6.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Context-Canvases.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Context-Canvases2.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Context-Canvases3.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Context-Canvases4.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Context-Canvases5.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Context-Canvases6.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 4.1.2. Context Mapping
-<img src="Assets\Context-Mapping.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Context-Mapping.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 4.1.3. Software Architecture.
 
 ### 4.1.3.1. Software Architecture System Landscape Diagram.
-<img src="Assets\landscape.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\landscape.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### 4.1.3.2. Software Architecture Context Level Diagrams.
-<img src="Assets\Context.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Context.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 ### 4.1.3.3. Software Architecture Container Level Diagrams.
-<img src="Assets\container.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\container.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ### 4.1.3.4. Software Architecture Deployment Diagrams.
 En esta sección nos enfocamos en modelar la distribución física de los componentes de un sistema de
 software en un entorno de ejecución. 
-<br><img src="Assets\Deployment.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
+<br><img src="assets\Deployment.PNG" style="width: 50%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 # 4.2. Tactical-Level Domain-Driven Design
 
@@ -1559,10 +1559,10 @@ A continuación, presentamos el component level diagram considerado para el Devi
 #### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams.
 A continuación, presentamos el diagrama de clases del dominio considerado para el Device.
 
-![Device Domain Layer Class Diagram](/Assets/Device_ClassDiagram.png)
+![Device Domain Layer Class Diagram](/assets/Device_ClassDiagram.png)
 #### 4.2.1.7.2. Bounded Context Database Design Diagram.
 
-![Device Database Design Diagram](/Assets/Database_Device.png)
+![Device Database Design Diagram](/assets/Database_Device.png)
 
 ## 4.2.2. Bounded Context: Reminder
 
@@ -1648,17 +1648,17 @@ A continuación se les presentan las clases encargadas de conectar el Frontend c
 
 ### 4.2.2.6. Bounded Context Software Architecture Component Level Diagrams.
 
-<img src="Assets\Reminders_ContextDiagram.png" style="width: 50%; padding-top: 12px;padding-bottom: 12px;">
+<img src="assets\Reminders_ContextDiagram.png" style="width: 50%; padding-top: 12px;padding-bottom: 12px;">
 
 ### 4.2.2.7. Bounded Context Software Architecture Code Level Diagrams.
 
 #### 4.2.2.7.1. Bounded Context Domain Layer Class Diagrams.
 
-<img src="Assets\Reminder_ClassDiagram.png" style="width: 50%; padding-top: 12px;padding-bottom: 12px;">
+<img src="assets\Reminder_ClassDiagram.png" style="width: 50%; padding-top: 12px;padding-bottom: 12px;">
 
 #### 4.2.2.7.2. Bounded Context Database Design Diagram.
 
-<img src="Assets\Reminder_DatabaseDiagram.png" style="width: 50%; padding-top: 12px;padding-bottom: 12px;">
+<img src="assets\Reminder_DatabaseDiagram.png" style="width: 50%; padding-top: 12px;padding-bottom: 12px;">
 
 ## 4.2.3. Bounded Context: Device Purchase
 
@@ -2043,7 +2043,7 @@ En esta sección presentamos las clases que se encargan de conectar con servicio
 
 A continuación, presentamos el component level diagram considerado para el DevicePurchaseContext.
 
-![](Assets/c4_alfredo.png)
+![](assets/c4_alfredo.png)
 
 ### 4.2.3.7. Bounded Context Software Architecture Code Level Diagrams.
 
@@ -2051,7 +2051,7 @@ A continuación, presentamos el component level diagram considerado para el Devi
 
 A continuación, presentamos el diagrama de clases del dominio considerado para el DevicePurchaseContext.
 
-![](Assets/clases_alfredo.png)
+![](assets/clases_alfredo.png)
 
 #### 4.2.3.7.2. Bounded Context Database Design Diagram.
 
@@ -2059,7 +2059,7 @@ A continuación, presentamos el diagrama de clases del dominio considerado para 
 
 A continuación, presentamos el diagrama de base de datos considerado para el DevicePurchaseContext.
 
-![](Assets/clases_alfredo_2.png)
+![](assets/clases_alfredo_2.png)
 
 
 
@@ -2610,7 +2610,7 @@ En esta sección presentamos las clases que se encargan de conectar con servicio
 
 A continuación, presentamos el component level diagram considerado para el ElderlyAdultOfferContext.
 
-<img src="Assets\boundedcontext11.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\boundedcontext11.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 4\.2.4.7. Bounded Context Software Architecture Code Level Diagrams. 
@@ -2619,13 +2619,13 @@ A continuación, presentamos el component level diagram considerado para el Elde
 
 ` `A continuación, presentamos el diagrama de clases del dominio considerado para el ElderlyAdultContext.
 
-<img src="Assets\boundedcontext12.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\boundedcontext12.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 4\.3.4.7.2. Bounded Context Database Design Diagram. 
 
 A continuación, presentamos el diagrama de base de datos considerado para el ElderlyAdultRegisterContext.
 
-<img src="Assets\boundedcontext13.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\boundedcontext13.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 # Capítulo V: Solution UI/UX Design
 ## 5.1. Style Guidelines.
@@ -2642,14 +2642,14 @@ Las siguientes pautas de estilo han sido diseñadas para garantizar la coherenci
 - **Estilos:** Utilizar estilos como negrita o cursiva para resaltar información importante.
 - **Espaciado entre letras y líneas:** Ajustar según sea necesario para mejorar la legibilidad, especialmente en textos largos.
 
-<img src="Assets\Tipografia_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Tipografia_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## Colores
 
 - **Significado del color:** El índigo representa la intuición, la sabiduría y la percepción psíquica, lo que refleja la naturaleza sensible y empática del cuidado de personas mayores.
 - **Paleta de colores:** Utilizar la paleta de colores Indigo 50/100/200/300/400/500/600/700/800/900 para elementos visuales como botones, barras de progreso y fondos.
 
-<img src="Assets\Color_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Color_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## Espaciado
 
@@ -2657,7 +2657,7 @@ Las siguientes pautas de estilo han sido diseñadas para garantizar la coherenci
 
 Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicación para garantizar una experiencia de usuario coherente y fácil de usar para los cuidadores.
 
-<img src="Assets\Espaciado_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Espaciado_General.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## Escritura
 
@@ -2721,7 +2721,7 @@ En particular, nos enfocaremos en cinco excepciones clave dentro de la Informati
 En Organization System nos enfocamos en mejorar la calidad de vida y seguridad de las personas mayores con soluciones innovadoras. Nuestro sistema integral ofrece funciones como recordatorios de medicamentos, seguimiento de salud, ubicación en tiempo real y acceso a números de emergencia. Buscamos brindar tranquilidad a familiares y cuidadores, garantizando una atención excepcional a las necesidades de los adultos mayores.
 A continuación, les presentaremos la imagen que representa visualmente el funcionamiento y beneficios de Organization System.
 
-<img src="Assets\Organization_Systems.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Organization_Systems.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 5.2.2. Labeling Systems.
 
@@ -2773,7 +2773,7 @@ En el menú inferior de la aplicación móvil, se pueden acceder a las siguiente
 
 ## 5.2.3. SEO Tags and Meta Tags
 
-<img src="Assets\SEO_Tags.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\SEO_Tags.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 1. `<meta charset="utf-8">`: Esta línea especifica la codificación de caracteres utilizada en la página web, en este caso, UTF-8, que es ampliamente compatible y permite mostrar caracteres especiales y emojis correctamente.
 2. `<meta content="width=device-width, initial-scale=1.0" name="viewport">`: Esta línea establece las dimensiones de la ventana gráfica (viewport) para que se ajuste al ancho del dispositivo y tenga una escala inicial de 1.0, lo que garantiza una correcta visualización en dispositivos móviles y tablets.
@@ -2820,18 +2820,18 @@ El diseño del Landing Page se adaptará a las diferentes pantallas de los dispo
 
 Nuestro objetivo es proporcionar información precisa sin abrumar al usuario. Para lograrlo, implementaremos una barra de navegación fija que facilite la exploración de la Landing Page.
 
-<img src="Assets\Wireframe1.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Wireframe2.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Wireframe3.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Wireframe4.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Wireframe1.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Wireframe2.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Wireframe3.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Wireframe4.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 5.3.2. Landing Page Mock-up.
 Se mostrará la versión preliminar de nuestro sitio web, detallando su contenido y aplicando los colores de nuestra guía de estilos. También se incluirán imágenes relevantes para complementar la información y ofrecer una comprensión más clara de los conceptos que estamos comunicando.
 
-<img src="Assets\Mockup1.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Mockup2.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Mockup3.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
-<img src="Assets\Mockup4.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Mockup1.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Mockup2.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Mockup3.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Mockup4.PNG" width="550" height="450" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 # 5.4. Applications UX/UI Design.
 
@@ -2844,7 +2844,7 @@ Registro de Usuario (Cuidador)
 Inicio de Sesión 
 ![Inicio de Sesión](/assets/Login.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
-![Home](Assets/Home.png)
+![Home](assets/Home.png)
 Ubicacion del Adulto Mayor
 ![Ubicacion](/assets/UbicacionLocation.png)
 Recordatorios de las citas medicas y medicamentos
@@ -2911,7 +2911,7 @@ Registro de Usuario (Cuidador)
 Inicio de Sesión 
 ![Inicio de Sesión](/assets/MLogin.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
-![Home](Assets/MHome.png)
+![Home](assets/MHome.png)
 Ubicaion del Adulto Mayor
 ![Ubicacion](/assets/MLocation.png)
 Recordatorios de las citas medicas y medicamentos
@@ -3986,8 +3986,7 @@ AQUI VA IMAGEN DEL TRELLO CON TODAS LAS USER STORIES PUESTAS (FALTA)
   </tr>
 </tbody></table>
 
-<b>FrontEnd </b>
-FALTA 
+
 
 ### 6.2.2.3.Development Evidence for Sprint Review.
 En esta seccion se presenta la evidencia del progreso del desarrollo de las aplicaciones. Se incluye detalles sobre lo que se implemento en el sprint actual, se mostrata un cuadro con los commits realizados en el repositorio de la aplicacion movil, web y API RESTful.
@@ -4165,13 +4164,13 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
 
 ### 6.2.2.5.Execution Evidence for Sprint Review.
   <h4>Backend  Evidence</h4>
-  <img src="Assets\backendevidence.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="assets\backendevidence.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
    <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f172_upc_edu_pe/EYyKxgjPy1hAiDEeHG_AP68BsIEf60qUGv0zORsWJmOJeA?e=wxcYSu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
   <h4>Mobile Evidence</h4>
 
-  <img src="/Assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
+  <img src="/assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
 
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 
@@ -4194,22 +4193,22 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
 
 
   <h4>Devices Service</h4>
-  <img src="Assets\deviceservice.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="assets\deviceservice.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
   <h4>Users Service</h4>
-  <img src="Assets\UsersService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="assets\UsersService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
   <h4>Patient Service</h4>
-  <img src="Assets\PatientService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="assets\PatientService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
   <h4>Products Service</h4>
-  <img src="Assets\ProductsService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="assets\ProductsService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
   <h4>Payment Service</h4>
-  <img src="Assets\PaymentService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="assets\PaymentService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
   <h4>Report Service</h4>
-  <img src="Assets\ReportService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="assets\ReportService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 
@@ -4219,7 +4218,7 @@ En esta seccion se describira el proceso de implementacion del software en un en
 <b>Despliegue del Backend:</b>
 Para llevar a cabo la automatizacion del despliegue del backend, se utilizaron las herramientas de  railway,  esta plataforma permite alojar servicios estáticos directamente desde un repositorio de GitHub: https://github.com/OneUp-WS71/back-end-application
 
-  <img src="Assets\railway_deployment_1.PNG"><br>
+  <img src="assets\railway_deployment_1.PNG"><br>
 
 <b>Despliegue del Frontend:</b>
 De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
@@ -4259,7 +4258,7 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 <b>Edad :</b> 26 años <br>
 <b>Distrito:</b> Callao, Lima <br>
 ![EntrevistaCris](/assets/EntrevistaCris2.png) <br>
-<b>Enlace:</b> <br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b> <br>
 <b>Duracion:</b> 00:11:05 <br>
 Maryfe enfermera de 26 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite registrar información básica, como el peso y la talla de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de medicamentos y citas médicas. Sin embargo, indicó que la aplicación comienza en inglés, lo cual puede ser una barrera significativa para algunos usuarios hispanohablantes, sugiriendo que todas las secciones deberían estar en español.
@@ -4271,9 +4270,9 @@ Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplica
 <b>Nombre y Apellidos :</b> Juan Diego Ponce Arasaki <br>
 <b>Edad :</b> 21 años <br>
 <b>Distrito:</b> Callao, Lima <br>
- <img src="Assets\EntrevistaJd.png" width="500" height="338" ><br>
-<b>Enlace:</b> <br>
-<b>Inicio:</b> <br>
+ <img src="assets\EntrevistaJd.png" width="500" height="338" ><br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
+<b>Inicio:</b>22:53 -> 28:26 <br>
 <b>Duracion:</b>  <br>
 Juan cuidador de 21 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite obtener información básica, como la temperaturaa de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de los pacientes a cargo . 
 
@@ -4285,7 +4284,7 @@ En resumen, Juan valoró positivamente la aplicación, reconociendo su potencial
 <b>Edad :</b> 22 años <br>
 <b>Distrito:</b> Carabayllo, Lima <br>
 ![EntrevistaJonathan](/assets/entrevistaJonathan.png)  <br>
-<b>Enlace:</b> <br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b> Minuto 00:00:00 <br>
 <b>Duracion:</b> 00:04:29
 
@@ -4333,9 +4332,9 @@ Abraham agradece la entrevista y concluye que la aplicación tiene potencial y e
 <b>Nombre y Apellidos :</b> Raquel Lili Melany Romero Martinez <br>
 <b>Edad :</b> 24 años <br>
 <b>Distrito:</b> Villa María, Nuevo Chimbote <br>
-<img src="Assets\Screeshot_Raquel_Interview_Validation.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
-<b>Enlace:</b> <br>
-<b>Inicio:</b> <br>
+<img src="assets\Screeshot_Raquel_Interview_Validation.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
+<b>Inicio:</b> 28:26 <br>
 <b>Duracion:</b> 6:17 <br>
 Raquel, de 24 años, vive con su abuelo, el cual padece de alzheimer y padece de dificultad al caminar o moverse.
 Al momento de interactuar con la aplicación, Raquel menciono que la aplicación le pareció muy sencilla de usar y muy útil. Sin embargo, también queda recalcar que nuestra entrevistada es una nativa digital, por lo cual manejarse en la aplicación podría haberle resultado más sencillo. En la entrevista también se puede notar que Raquel tiene mejor opinión en la aplicación móvil que la de escritorio, y que cree que sería un buen añadido el poder medir otros parámetros o poder guardar datos importantes, tal como glucosa o datos históricos del paciente, dentro de la aplicación. Esto se tiene ya previsto en la aplicación web y móvil.
@@ -4360,28 +4359,28 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 1. Inicio de sesión en la aplicación. <br>
 
-<img src="/Assets/logintb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="/assets/logintb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 2. Registro un usuario Cuidador.<br>
-<img src="/Assets/registertb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="/assets/registertb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 3. Aprobación de Terminos y condiciones.<br>
-<img src="/Assets/terminostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="/assets/terminostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 4. Registro de los datos de un adulto mayor. <br>
-<img src="/Assets/registroDatostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="/assets/registroDatostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 5. Visualización de las medidas de un adulto mayor. <br>
-<img src="/Assets/measuretb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="/assets/measuretb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 6. Visualización de los signos vitales de un adulto mayor.<br>
-<img src="/Assets/vitalsignstb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="/assets/vitalsignstb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 7. Agregar Recordatorio de Medicamentos y citas medicas. <br>
-<img src="/Assets/recordatoriostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="/assets/recordatoriostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 8. Editar perfil del adulto mayor <br>
-<img src="/Assets/perfiltb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="/assets/perfiltb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
