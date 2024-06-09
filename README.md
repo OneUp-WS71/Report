@@ -4286,7 +4286,7 @@ En resumen, Juan valoró positivamente la aplicación, reconociendo su potencial
 <b>Distrito:</b> Carabayllo, Lima <br>
 ![EntrevistaJonathan](/assets/entrevistaJonathan.png)  <br>
 <b>Enlace:</b> <br>
-<b>Inicio:</b> <br>
+<b>Inicio:</b> Minuto 00:00:00 <br>
 <b>Duracion:</b> 00:04:29
 
 Jonathan, un estudiante universitario encargado de cuidar a sus abuelos, nos cuenta su experiencia con el uso de la app, la cual comenta que es muy intuitiva y facil de usar. Nos comenta, que se debe mejorar ciertos aspectos de esta, ya sea como arreglar cierto errores visuales, mejorar colores, entre cosas diferentes. Cree que si logramos implementar estas mejoras, la aplicación será una de las mejores del mercado. 
