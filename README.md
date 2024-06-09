@@ -4176,8 +4176,10 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 
   <h4>Frontend  Evidence</h4>
-
-  <b>Enlace:</b>
+  
+  ![Frontend](/assets/FrontEvidence.png)
+  
+  <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EZULU8XZauZJrcY_k6ZTSxIBGbvka7i60XUc-y_YpioM5A?e=wdID4o 
 
   <h4>Embedded application Evidence</h4> 
   
@@ -4265,6 +4267,16 @@ Maryfe enfermera de 26 años, compartió su experiencia utilizando la aplicació
 En cuanto a la funcionalidad, Maryfe mencionó que la aplicación cumplió sus expectativas, especialmente en relación con los recordatorios de citas y medicamentos, que están alineados con las fechas anteriores. Sin embargo, sugirió que la aplicación sería más útil si pudiera integrarse con dispositivos de monitoreo para registrar signos vitales en tiempo real. El diseño de la aplicación le pareció bien organizado, con indicaciones claras en cada sección, y no experimentó problemas de rendimiento, describiendo la aplicación como rápida y eficiente.
 
 Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplicación debería incluir la posibilidad de monitorear más signos vitales y que todas las secciones estén completamente traducidas al español. Además, sugirió la inclusión de rutinas de ejercicio adecuadas para adultos mayores, como caminatas cortas y ejercicios ligeros, y la necesidad de adaptar estas recomendaciones a las condiciones específicas de salud de los pacientes para evitar riesgos. En resumen, Mary valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad. <br>
+
+<b>Nombre y Apellidos :</b> Jonathan Curi <br>
+<b>Edad :</b> 22 años <br>
+<b>Distrito:</b> Carabayllo, Lima <br>
+![EntrevistaJonathan](/assets/entrevistaJonathan.png)  <br>
+<b>Enlace:</b> <br>
+<b>Inicio:</b> <br>
+<b>Duracion:</b> 00:04:29
+
+Jonathan, un estudiante universitario encargado de cuidar a sus abuelos, nos cuenta su experiencia con el uso de la app, la cual comenta que es muy intuitiva y facil de usar. Nos comenta, que se debe mejorar ciertos aspectos de esta, ya sea como arreglar cierto errores visuales, mejorar colores, entre cosas diferentes. Cree que si logramos implementar estas mejoras, la aplicación será una de las mejores del mercado. 
 
 <h4>Segmento: Cuidadores</h4>
 
