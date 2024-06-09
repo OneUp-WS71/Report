@@ -18,7 +18,7 @@
 #### Profesor: Angel Augusto Velasquez Nuñez 
 #### Producto: ElderlyCare                         
 #### Ciclo: 2024-01
-<h4 align="center "> Abril, 2024</h4>  
+<h4 align="center "> Junio, 2024</h4>  
 
 _____________________
 ## Registro de versiones del informe 
@@ -54,10 +54,10 @@ _____________________
     Capítulo V, Capítulo VI, Avance de Conclusiones, Bibliografía y Anexos</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>V2.1</td>
+    <td>08/06/2024</td>
+    <td>OneUp</td>
+    <td>Se agregaron las siguientes secciones: Capitulo 6.2,Capitulo 6.3, Capitulo 6.4, Conclusiones, Recomendaciones</td>
   </tr>
   <tr>
     <td></td>
@@ -82,6 +82,8 @@ _____________________
   ![commits](/assets/Commits_tb1.png)
   + TP: Para la entrega del TP se desarrollo las secciones del capitulo V al capitulo VI, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
   ![CAP6](/assets/ContribucionCap6.png)
+  + TB2: Para la entrega del TB2 se desarrollo las secciones del capitulo 6.2 al capitulo 6.4, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
+ ![TB2](/Assets/githubReportb2.png)
 
 ## Contenido 
 - [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
@@ -4169,7 +4171,9 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
 
   <h4>Mobile Evidence</h4>
 
-  <b>Enlace:</b>
+  <img src="/Assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
+
+  <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 
   <h4>Frontend  Evidence</h4>
 
@@ -4185,6 +4189,8 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
 
 
 ### 6.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
   <h4>Devices Service</h4>
   <img src="Assets\deviceservice.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
@@ -4247,18 +4253,18 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 ## 6.3.2. Registro de Entrevistas.
 <h4>Segmento: Supervisores</h4>
 
-<b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay 
-<b>Edad :</b> 26 años 
-<b>Distrito:</b> Callao, Lima 
+<b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay <br>
+<b>Edad :</b> 26 años <br>
+<b>Distrito:</b> Callao, Lima <br>
 ![EntrevistaCris](/assets/EntrevistaCris2.png) <br>
 <b>Enlace:</b> <br>
 <b>Inicio:</b> <br>
-<b>Duracion:</b> 00:11:05 
+<b>Duracion:</b> 00:11:05 <br>
 Maryfe enfermera de 26 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite registrar información básica, como el peso y la talla de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de medicamentos y citas médicas. Sin embargo, indicó que la aplicación comienza en inglés, lo cual puede ser una barrera significativa para algunos usuarios hispanohablantes, sugiriendo que todas las secciones deberían estar en español.
 
 En cuanto a la funcionalidad, Maryfe mencionó que la aplicación cumplió sus expectativas, especialmente en relación con los recordatorios de citas y medicamentos, que están alineados con las fechas anteriores. Sin embargo, sugirió que la aplicación sería más útil si pudiera integrarse con dispositivos de monitoreo para registrar signos vitales en tiempo real. El diseño de la aplicación le pareció bien organizado, con indicaciones claras en cada sección, y no experimentó problemas de rendimiento, describiendo la aplicación como rápida y eficiente.
 
-Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplicación debería incluir la posibilidad de monitorear más signos vitales y que todas las secciones estén completamente traducidas al español. Además, sugirió la inclusión de rutinas de ejercicio adecuadas para adultos mayores, como caminatas cortas y ejercicios ligeros, y la necesidad de adaptar estas recomendaciones a las condiciones específicas de salud de los pacientes para evitar riesgos. En resumen, Mary valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad.
+Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplicación debería incluir la posibilidad de monitorear más signos vitales y que todas las secciones estén completamente traducidas al español. Además, sugirió la inclusión de rutinas de ejercicio adecuadas para adultos mayores, como caminatas cortas y ejercicios ligeros, y la necesidad de adaptar estas recomendaciones a las condiciones específicas de salud de los pacientes para evitar riesgos. En resumen, Mary valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad. <br>
 
 <h4>Segmento: Cuidadores</h4>
 
@@ -4271,6 +4277,49 @@ IMAGEN DE LA ENTREVISTA  <br>
 <b>Duracion:</b> <br>
 
 ## 6.3.3. Evaluaciones según heurísticas.
+<h4 align="center"> UX Heuristics & Principles Evaluation  </h4> <br> 
+<h5 align="center">Usability – Inclusive Design – Information Architecture  </h5>
+
+<b> CARRERA: </b> Ingeniería de Software  <br>
+<b>CURSO </b> Desarrollo de Soluciones IoT <br>
+<b>SECCIÓN : </b> SI572 <br>
+<b>PROFESORES: </b> Angel Augusto Velasquez Nuñez <br>
+<b>AUDITOR : </b> OneUp Team  <br>
+<b>CLIENTE(S): </b>  Maryfe Pamela Cortez Menguay, ..... <br>
+
+<b> SITE o APP A EVALUAR:  </b> 
+ElderlyCare App <br>
+
+<b>TAREAS A EVALUAR: </b> <br>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Inicio de sesión en la aplicación. <br>
+
+<img src="/Assets/logintb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+2. Registro un usuario Cuidador.
+<img src="/Assets/registertb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+3. Aprobación de Terminos y condiciones.
+<img src="/Assets/terminostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+4. Registro de los datos de un adulto mayor. 
+<img src="/Assets/registroDatostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+5. Visualización de las medidas de un adulto mayor.
+<img src="/Assets/measuretb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+6. Visualización de los signos vitales de un adulto mayor.
+<img src="/Assets/vitalsignstb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+7. Agregar Recordatorio de Medicamentos y citas medicas.
+<img src="/Assets/recordatoriostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+8. Editar perfil del adulto mayor 
+<img src="/Assets/perfiltb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
 
 # 6.4. Video About-the-Product.
 
