@@ -4307,28 +4307,28 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 1. Inicio de sesión en la aplicación. <br>
 
-<img src="/Assets/logintb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="/Assets/logintb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
-2. Registro un usuario Cuidador.
-<img src="/Assets/registertb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+2. Registro un usuario Cuidador.<br>
+<img src="/Assets/registertb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
-3. Aprobación de Terminos y condiciones.
-<img src="/Assets/terminostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+3. Aprobación de Terminos y condiciones.<br>
+<img src="/Assets/terminostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
-4. Registro de los datos de un adulto mayor. 
-<img src="/Assets/registroDatostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+4. Registro de los datos de un adulto mayor. <br>
+<img src="/Assets/registroDatostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
-5. Visualización de las medidas de un adulto mayor.
-<img src="/Assets/measuretb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+5. Visualización de las medidas de un adulto mayor. <br>
+<img src="/Assets/measuretb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
-6. Visualización de los signos vitales de un adulto mayor.
-<img src="/Assets/vitalsignstb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+6. Visualización de los signos vitales de un adulto mayor.<br>
+<img src="/Assets/vitalsignstb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
-7. Agregar Recordatorio de Medicamentos y citas medicas.
-<img src="/Assets/recordatoriostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+7. Agregar Recordatorio de Medicamentos y citas medicas. <br>
+<img src="/Assets/recordatoriostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
-8. Editar perfil del adulto mayor 
-<img src="/Assets/perfiltb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+8. Editar perfil del adulto mayor <br>
+<img src="/Assets/perfiltb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
