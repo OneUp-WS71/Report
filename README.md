@@ -4172,7 +4172,9 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
   <b>Enlace:</b>
 
   <h4>Frontend  Evidence</h4>
+  
   ![Frontend](/assets/FrontEvidence.png)
+  
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EZULU8XZauZJrcY_k6ZTSxIBGbvka7i60XUc-y_YpioM5A?e=wdID4o 
 
   <h4>Embedded application Evidence</h4> 
