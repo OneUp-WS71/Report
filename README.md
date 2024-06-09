@@ -4296,9 +4296,9 @@ Jonathan, un estudiante universitario encargado de cuidar a sus abuelos, nos cue
 <b>Nombre y Apellidos :</b> Raquel Lili Melany Romero Martinez <br>
 <b>Edad :</b> 24 años <br>
 <b>Distrito:</b> Villa María, Nuevo Chimbote <br>
-<img src="Assets\Screeshot_Raquel_Interview_Validation.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
-<b>Enlace:</b> <br>
-<b>Inicio:</b> <br>
+<img src="Assets\Screeshot_Raquel_Interview_Validation.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<b>Enlace:</b> [https://tinyurl.com/5dmf4euf](https://tinyurl.com/5dmf4euf) <br>
+<b>Inicio:</b> 28:26 <br>
 <b>Duracion:</b> 6:17 <br>
 Raquel, de 24 años, vive con su abuelo, el cual padece de alzheimer y padece de dificultad al caminar o moverse.
 Al momento de interactuar con la aplicación, Raquel menciono que la aplicación le pareció muy sencilla de usar y muy útil. Sin embargo, también queda recalcar que nuestra entrevistada es una nativa digital, por lo cual manejarse en la aplicación podría haberle resultado más sencillo. En la entrevista también se puede notar que Raquel tiene mejor opinión en la aplicación móvil que la de escritorio, y que cree que sería un buen añadido el poder medir otros parámetros o poder guardar datos importantes, tal como glucosa o datos históricos del paciente, dentro de la aplicación. Esto se tiene ya previsto en la aplicación web y móvil.
