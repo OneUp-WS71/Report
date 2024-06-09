@@ -4280,13 +4280,15 @@ Jonathan, un estudiante universitario encargado de cuidar a sus abuelos, nos cue
 
 <h4>Segmento: Cuidadores</h4>
 
-<b>Nombre y Apellidos :</b> <br>
-<b>Edad :</b> <br>
-<b>Distrito:</b> <br>
-IMAGEN DE LA ENTREVISTA  <br>
+<b>Nombre y Apellidos :</b> Raquel Lili Melany Romero Martinez <br>
+<b>Edad :</b> 24 años <br>
+<b>Distrito:</b> Villa María, Nuevo Chimbote <br>
+<img src="Assets\Screeshot_Raquel_Interview_Validation.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 <b>Enlace:</b> <br>
 <b>Inicio:</b> <br>
-<b>Duracion:</b> <br>
+<b>Duracion:</b> 6:17 <br>
+Raquel, de 24 años, vive con su abuelo, el cual padece de alzheimer y padece de dificultad al caminar o moverse.
+Al momento de interactuar con la aplicación, Raquel menciono que la aplicación le pareció muy sencilla de usar y muy útil. Sin embargo, también queda recalcar que nuestra entrevistada es una nativa digital, por lo cual manejarse en la aplicación podría haberle resultado más sencillo. En la entrevista también se puede notar que Raquel tiene mejor opinión en la aplicación móvil que la de escritorio, y que cree que sería un buen añadido el poder medir otros parámetros o poder guardar datos importantes, tal como glucosa o datos históricos del paciente, dentro de la aplicación. Esto se tiene ya previsto en la aplicación web y móvil.
 
 ## 6.3.3. Evaluaciones según heurísticas.
 <h4 align="center"> UX Heuristics & Principles Evaluation  </h4> <br> 
