@@ -4260,10 +4260,10 @@ En cuanto a la funcionalidad, Maryfe mencionó que la aplicación cumplió sus e
 
 Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplicación debería incluir la posibilidad de monitorear más signos vitales y que todas las secciones estén completamente traducidas al español. Además, sugirió la inclusión de rutinas de ejercicio adecuadas para adultos mayores, como caminatas cortas y ejercicios ligeros, y la necesidad de adaptar estas recomendaciones a las condiciones específicas de salud de los pacientes para evitar riesgos. En resumen, Mary valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad.
 
-<b>Nombre y Apellidos :</b> Jonathan Curi 
+<b>Nombre y Apellidos :</b> Jonathan Curi
 <b>Edad :</b> 22 años
 <b>Distrito:</b> Carabayllo, Lima
-![EntrevistaJonathan](/assets/entrevista Jonathan.png)  <br>
+![EntrevistaJonathan](/assets/entrevistaJonathan.png)  <br>
 <b>Enlace:</b> <br>
 <b>Inicio:</b> <br>
 <b>Duracion:</b> 00:04:29
