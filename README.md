@@ -3986,8 +3986,7 @@ AQUI VA IMAGEN DEL TRELLO CON TODAS LAS USER STORIES PUESTAS (FALTA)
   </tr>
 </tbody></table>
 
-<b>FrontEnd </b>
-FALTA 
+
 
 ### 6.2.2.3.Development Evidence for Sprint Review.
 En esta seccion se presenta la evidencia del progreso del desarrollo de las aplicaciones. Se incluye detalles sobre lo que se implemento en el sprint actual, se mostrata un cuadro con los commits realizados en el repositorio de la aplicacion movil, web y API RESTful.
