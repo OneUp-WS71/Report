@@ -4278,15 +4278,43 @@ Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplica
 
 Jonathan, un estudiante universitario encargado de cuidar a sus abuelos, nos cuenta su experiencia con el uso de la app, la cual comenta que es muy intuitiva y facil de usar. Nos comenta, que se debe mejorar ciertos aspectos de esta, ya sea como arreglar cierto errores visuales, mejorar colores, entre cosas diferentes. Cree que si logramos implementar estas mejoras, la aplicación será una de las mejores del mercado. 
 
+
+
 <h4>Segmento: Cuidadores</h4>
 
-<b>Nombre y Apellidos :</b> <br>
-<b>Edad :</b> <br>
-<b>Distrito:</b> <br>
-IMAGEN DE LA ENTREVISTA  <br>
+<b>Nombre y Apellidos :</b> Abraham <br>
+<b>Edad :</b> 20 años <br>
+<b>Distrito:</b> San Juan Lurigancho, Lima <br>
+![EntrevistaCris](/assets/entrevista_Piero.PNG) <br>
 <b>Enlace:</b> <br>
-<b>Inicio:</b> <br>
-<b>Duracion:</b> <br>
+<b>Inicio:</b> 15:35 <br>
+<b>Duracion:</b> 00:7:16 <br>
+
+Abraham Medina visualiza una aplicación diseñada para el cuidado del adulto mayor, enfocada en el seguimiento de su estado de salud y la prestación de auxilio en caso de emergencia.
+Opinión del Entrevistador:
+
+Encuentra la aplicación interesante y bien diseñada.
+Cree que tiene el potencial de ser un buen proyecto funcional y útil en el día a día.
+Experiencia del Usuario:
+
+Encuentra la aplicación intuitiva y directa, tanto en el login como en el registro.
+Considera que la página de inicio muestra claramente la información necesaria.
+Destaca la lista de medicación como un apartado bien diseñado y simple, lo cual facilita su uso por parte de los usuarios.
+Califica el diseño y la navegación de la aplicación con un 9, aunque cree que hay espacio para mejorar.
+Aspectos Técnicos:
+
+No ha encontrado problemas de rendimiento; la aplicación es rápida y está bien optimizada.
+Sugiere probar la aplicación en diferentes dispositivos para verificar su rendimiento.
+Valor y Utilidad:
+
+Considera la información clara y útil, y cree que la aplicación aporta valor al cuidado del adulto mayor al mantener un seguimiento constante de su salud.
+Recomendaciones:
+
+Añadir un modo oscuro a la aplicación para mejorar la experiencia del usuario.
+Conclusión:
+Abraham agradece la entrevista y concluye que la aplicación tiene potencial y es útil, con algunas áreas de mejora identificadas para aumentar su funcionalidad y usabilidad.
+ <br>
+
 
 ## 6.3.3. Evaluaciones según heurísticas.
 <h4 align="center"> UX Heuristics & Principles Evaluation  </h4> <br> 
@@ -4332,6 +4360,25 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel 	| Descripción                                                                                                                                                                                    	|
+|-------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 1     	| Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  	|
+| 2     	| Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase 	|
+| 3     	| Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                	|
+| 4     	| Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              	|
+
+**TABLA DE SEVERIDAD:**
+
+| # 	| Problema                                	| Escala de severidad 	| Heurística/Principio violado(o)                                 	|
+|---	|-----------------------------------------	|---------------------	|-----------------------------------------------------------------	|
+| 1 	| Mobile Application no es responsive     	| 2                   	| Inclusive Design: falta de experiencia en diversos dispositivos 	|
+| 2 	| Web Application no es responsive        	| 2                   	| Inclusive Design: falta de experiencia en diversos dispositivos 	|
+| 3 	| Falta de visualizar estado del producto 	| 3                   	| Information Architecture: Is it usable?                         	|
+| 4 	| Edicion de informacion del adulto mayor 	| 2                   	| Usability: Libertad y control del usuario                       	|
 
 # 6.4. Video About-the-Product.
 
