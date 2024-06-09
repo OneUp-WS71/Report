@@ -4271,7 +4271,7 @@ Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplica
 <b>Nombre y Apellidos :</b> Juan Diego Ponce Arasaki <br>
 <b>Edad :</b> 21 años <br>
 <b>Distrito:</b> Callao, Lima <br>
-
+ <img src="Assets\EntrevistaJd.png" width="500" height="338" ><br>
 <b>Enlace:</b> <br>
 <b>Inicio:</b> <br>
 <b>Duracion:</b>  <br>
