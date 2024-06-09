@@ -4258,7 +4258,7 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 <b>Edad :</b> 26 años <br>
 <b>Distrito:</b> Callao, Lima <br>
 ![EntrevistaCris](/assets/EntrevistaCris2.png) <br>
-<b>Enlace:</b> <br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b> <br>
 <b>Duracion:</b> 00:11:05 <br>
 Maryfe enfermera de 26 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite registrar información básica, como el peso y la talla de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de medicamentos y citas médicas. Sin embargo, indicó que la aplicación comienza en inglés, lo cual puede ser una barrera significativa para algunos usuarios hispanohablantes, sugiriendo que todas las secciones deberían estar en español.
@@ -4271,7 +4271,7 @@ Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplica
 <b>Edad :</b> 21 años <br>
 <b>Distrito:</b> Callao, Lima <br>
  <img src="assets\EntrevistaJd.png" width="500" height="338" ><br>
-<b>Enlace:</b> <br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b>22:53 -> 28:26 <br>
 <b>Duracion:</b>  <br>
 Juan cuidador de 21 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite obtener información básica, como la temperaturaa de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de los pacientes a cargo . 
@@ -4296,7 +4296,7 @@ Jonathan, un estudiante universitario encargado de cuidar a sus abuelos, nos cue
 <b>Edad :</b> 24 años <br>
 <b>Distrito:</b> Villa María, Nuevo Chimbote <br>
 <img src="assets\Screeshot_Raquel_Interview_Validation.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
-<b>Enlace:</b> [https://tinyurl.com/5dmf4euf](https://tinyurl.com/5dmf4euf) <br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b> 28:26 <br>
 <b>Duracion:</b> 6:17 <br>
 Raquel, de 24 años, vive con su abuelo, el cual padece de alzheimer y padece de dificultad al caminar o moverse.
