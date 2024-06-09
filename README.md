@@ -4285,7 +4285,7 @@ En resumen, Juan valoró positivamente la aplicación, reconociendo su potencial
 <b>Edad :</b> 22 años <br>
 <b>Distrito:</b> Carabayllo, Lima <br>
 ![EntrevistaJonathan](/assets/entrevistaJonathan.png)  <br>
-<b>Enlace:</b> <br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b> Minuto 00:00:00 <br>
 <b>Duracion:</b> 00:04:29
 
