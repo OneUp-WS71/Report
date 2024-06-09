@@ -4273,7 +4273,7 @@ Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplica
 <b>Distrito:</b> Callao, Lima <br>
  <img src="Assets\EntrevistaJd.png" width="500" height="338" ><br>
 <b>Enlace:</b> <br>
-<b>Inicio:</b> <br>
+<b>Inicio:</b>22:53 -> 28:26 <br>
 <b>Duracion:</b>  <br>
 Juan cuidador de 21 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite obtener información básica, como la temperaturaa de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de los pacientes a cargo . 
 
