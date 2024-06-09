@@ -4268,6 +4268,19 @@ En cuanto a la funcionalidad, Maryfe mencionó que la aplicación cumplió sus e
 
 Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplicación debería incluir la posibilidad de monitorear más signos vitales y que todas las secciones estén completamente traducidas al español. Además, sugirió la inclusión de rutinas de ejercicio adecuadas para adultos mayores, como caminatas cortas y ejercicios ligeros, y la necesidad de adaptar estas recomendaciones a las condiciones específicas de salud de los pacientes para evitar riesgos. En resumen, Mary valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad. <br>
 
+<b>Nombre y Apellidos :</b> Juan Diego Ponce Arasaki <br>
+<b>Edad :</b> 21 años <br>
+<b>Distrito:</b> Callao, Lima <br>
+
+<b>Enlace:</b> <br>
+<b>Inicio:</b> <br>
+<b>Duracion:</b>  <br>
+Juan cuidador de 21 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite obtener información básica, como la temperaturaa de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de los pacientes a cargo . 
+
+En cuanto a la funcionalidad, Juan mencionó que la aplicación cumplió sus expectativas, especialmente en relación con los recordatorios de citas y medicamentos, que están alineados con las fechas anteriores. Sin embargo, sugirió que a la aplicación web le faltan secciones por completar lo cual espera con ansias . El diseño de la aplicación le pareció bien organizado, con indicaciones claras en cada sección, y no experimentó problemas de rendimiento, describiendo la aplicación como rápida y eficiente.
+En resumen, Juan valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad. <br>
+
+
 <b>Nombre y Apellidos :</b> Jonathan Curi <br>
 <b>Edad :</b> 22 años <br>
 <b>Distrito:</b> Carabayllo, Lima <br>
