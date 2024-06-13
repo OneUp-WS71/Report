@@ -510,7 +510,7 @@ Jonatan sugiere mejoras para facilitar su situación, como la flexibilización d
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 24 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Villa María, Nuevo Chimbote <br>
 
-<img src="Assets\Screeshot_Raquel_Interview.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 22:53 <br>
@@ -2770,7 +2770,7 @@ En el menú inferior de la aplicación móvil, se pueden acceder a las siguiente
 
 ## 5.2.3. SEO Tags and Meta Tags
 
-<img src="assets\SEO_Tags.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\SEO_Tags.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 1. `<meta charset="utf-8">`: Esta línea especifica la codificación de caracteres utilizada en la página web, en este caso, UTF-8, que es ampliamente compatible y permite mostrar caracteres especiales y emojis correctamente.
 2. `<meta content="width=device-width, initial-scale=1.0" name="viewport">`: Esta línea establece las dimensiones de la ventana gráfica (viewport) para que se ajuste al ancho del dispositivo y tenga una escala inicial de 1.0, lo que garantiza una correcta visualización en dispositivos móviles y tablets.
@@ -4267,7 +4267,7 @@ Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplica
 <b>Nombre y Apellidos :</b> Juan Diego Ponce Arasaki <br>
 <b>Edad :</b> 21 años <br>
 <b>Distrito:</b> Callao, Lima <br>
- <img src="assets\EntrevistaJd.png" width="500" height="338" ><br>
+ <img src="Assets\EntrevistaJd.png" width="500" height="338" ><br>
 <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b>22:53 -> 28:26 <br>
 <b>Duracion:</b>  <br>
