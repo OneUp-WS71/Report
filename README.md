@@ -494,7 +494,7 @@ Nuestro entrevistado fue Juan Ponce, estudiante de ingeniería de sistemas que e
 
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Carabayllo, Lima 
 
-![](assets/Entrevista_Jonatan.png)
+![](Assets/Entrevista_Jonatan.png)
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 07:30 <br>
