@@ -18,7 +18,7 @@
 #### Profesor: Angel Augusto Velasquez Nuñez 
 #### Producto: ElderlyCare                         
 #### Ciclo: 2024-01
-<h4 align="center "> Abril, 2024</h4>  
+<h4 align="center "> Junio, 2024</h4>  
 
 _____________________
 ## Registro de versiones del informe 
@@ -54,10 +54,10 @@ _____________________
     Capítulo V, Capítulo VI, Avance de Conclusiones, Bibliografía y Anexos</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>V2.1</td>
+    <td>08/06/2024</td>
+    <td>OneUp</td>
+    <td>Se agregaron las siguientes secciones: Capitulo 6.2,Capitulo 6.3, Capitulo 6.4, Conclusiones, Recomendaciones</td>
   </tr>
   <tr>
     <td></td>
@@ -82,6 +82,8 @@ _____________________
   ![commits](/assets/Commits_tb1.png)
   + TP: Para la entrega del TP se desarrollo las secciones del capitulo V al capitulo VI, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
   ![CAP6](/assets/ContribucionCap6.png)
+  + TB2: Para la entrega del TB2 se desarrollo las secciones del capitulo 6.2 al capitulo 6.4, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
+ ![TB2](/Assets/githubReportb2.png)
 
 ## Contenido 
 - [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
@@ -167,27 +169,24 @@ _____________________
 
 
 ## Student Outcome 
-<table>
-<thead>
+<table><thead>
   <tr>
     <th>Criterio específico</th>
     <th>Acciones realizada</th>
     <th>Conclusiones</th>
-  </tr>
-</thead>
+  </tr></thead>
 <tbody>
   <tr>
     <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
-    <td>-Orosco Orcotuma, Cristhian<br>TB1: <br>Se identificaron diferentes problemas en<br>base al desarrollo del trabajo tanto como la<br>identificación del producto, como la elaboración<br>del Lean ux y estructura de la aplicación, pero supimos implementar las soluciones con los compañeros a todas estas. Asimismo, Se modificó<br>los diferentes puntos del lean Ux, el canvas, los<br>assumptions y modificar nuestro objetivo<br>TP: Se identificaron diferentes problemas en base al desarrollo del trabajo de la misma manera se desarrollaron las correcciones en base al feedback de la entrega anterior, para la elaboración de esta entrega se realizó el diseño ux/ui para el wireframe y mock up de la aplicación.  <br>-Liberato Susanibar, Piero Anthony<br>TB1:<br>Elabore el desarrollo de la descripción de la startup, Antecedentes y problemática Lean UX Problem Statements, Análisis competitivo, Estrategias y tácticas frente a competidores y Software Architecture.<br>TP:<br>Elabore el Style Guide de ElderlyCare, como el Wireframe y Mockup del landing Mobile Y desarrollo de la Landing Page<br><br>-Nuñez Martinez, Anthony Samir<br>TB1:<br>Se redactaron alrededor de 10 User Stories, se desarrollaron ambos As-is y To-Be Scenario Maps, se redactó el Ubiquitous language, se hizo los Domain Message Flow Models y redactó el Bounded Context de los Reminders.<br>TP:<br>Se elaboraron correcciones diversas para la TP, se crearon varios logotipos para la marca de ElderlyCare y diseñó, con ayuda de otros integrantes, el diseño de los mockups y prototipos del Mobile Applications.<br>-Enrique Aldhair Llatas FloresTB1:Se identificó las necesidades del usuario para la página web,se hizo el bounded context,wireframes,estructura de la aplicación<br>TP:Desarrollo del  Wireframe ,mockup,diagram flow,Testing Suite evidence for sprint así como el deployment<br>-Farro Caballero, Alfredo<br>TB1: Se identificó los requerimientos de los usuarios para la elaboración del primer entregable.<br>TP: Se desarrolló en base a los requerimientos del usuario la Web App y Sprint 1</td>
+    <td>-Orosco Orcotuma, Cristhian<br>TB1: <br>Se identificaron diferentes problemas en<br>base al desarrollo del trabajo tanto como la<br>identificación del producto, como la elaboración<br>del Lean ux y estructura de la aplicación, pero supimos implementar las soluciones con los compañeros a todas estas. Asimismo, Se modificó<br>los diferentes puntos del lean Ux, el canvas, los<br>assumptions y modificar nuestro objetivo<br>TP: Se identificaron diferentes problemas en base al desarrollo del trabajo de la misma manera se desarrollaron las correcciones en base al feedback de la entrega anterior, para la elaboración de esta entrega se realizó el diseño ux/ui para el wireframe y mock up de la aplicación.  <br>TB2:  Se identificaron diferentes problemas en base al desarrollo del trabajo de la misma manera se desarrollaron las correcciones en base al feedback de la entrega anterior, para la elaboración de esta entrega se realizó el desarrollo de la aplicación móvil , la integración con la base de datos y el backend desplegado de la misma manera se verificó que las funcionalidades estén correcta y se entregó la primera versión del embedded application. <br><br>-Liberato Susanibar, Piero Anthony<br>TB1:<br>Elabore el desarrollo de la descripción de la startup, Antecedentes y problemática Lean UX Problem Statements, Análisis competitivo, Estrategias y tácticas frente a competidores y Software Architecture.<br>TP:<br>Elabore el Style Guide de ElderlyCare, como el Wireframe y Mockup del landing Mobile Y desarrollo de la Landing Page<br>TB2:<br>Participe en eld desarrollo tanto del backend, frontend y mobil, como el desarrollo de la documentacio.<br>Nuñez Martinez, Anthony Samir<br>TB1:<br>Se redactaron alrededor de 10 User Stories, se desarrollaron ambos As-is y To-Be Scenario Maps, se redactó el Ubiquitous language, se hizo los Domain Message Flow Models y redactó el Bounded Context de los Reminders.<br>TP:<br>Se elaboraron correcciones diversas para la TP, se crearon varios logotipos para la marca de ElderlyCare y diseñó, con ayuda de otros integrantes, el diseño de los mockups y prototipos del Mobile Applications.<br>TB2:<br>Se implementaron ciertos Bouonded contexts en el desarrollo de Backend, Web y Mobile application, además de trabajar en equipo para el deployment del Backend.<br>Enrique Aldhair Llatas FloresTB1:Se identificó las necesidades del usuario para la página web,se hizo el bounded context,wireframes,estructura de la aplicación<br>tp:Desarrollo del  Wireframe ,mockup,diagram flow,Testing Suite evidence for sprint así como el deployment<br>tb2 Se implementaron nuevas seccion en las distintas aplicaciones ,web, backend y movil.así  como el deployment de estas<br>Farro Caballero, Alfredo<br>TB1: Se identificó los requerimientos de los usuarios para la elaboración del primer entregable.<br>TP: Se desarrolló en base a los requerimientos del usuario la Web App y Sprint 1<br>TB2: Se desarrolló siguiendo las necesidades del usuario: Front-end Application, Back-end Application, Mobile Application y la elaboración del reporte.</td>
     <td>Se evidencia la capacidad de identificar y abordar diversos problemas durante el desarrollo del trabajo. Los equipos demostraron eficacia al implementar soluciones colaborativas, adaptándose a las necesidades identificadas tanto en la etapa inicial como en las posteriores iteraciones. Además, se destaca la eficiencia al realizar ajustes basados en el feedback recibido, lo que refleja un enfoque objetivo para alcanzar los objetivos del proyecto. La colaboración entre los miembros del equipo en la elaboración de diferentes aspectos, como el diseño UX/UI, la redacción de User Stories, la creación de logotipos y el desarrollo de wireframes y mockups, demuestra una integración efectiva de habilidades y conocimientos para alcanzar resultados satisfactorios. </td>
   </tr>
   <tr>
     <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
-    <td>-Orosco Orcotuma, Cristhian<br>TB1:<br>Para solucionar los problemas presentados<br>en el trabajo se usó las metodologías ágiles de<br>software para poder tener la mejor solución<br>posible. Asimismo, se tuvieron que aprender<br>nuevos conceptos acerca del Lean Ux, como<br>mejorar en base al trabajo anterior puntos para<br>definir mejor nuestra plataforma.<br>TP:<br>Para solucionar los problemas presentados en el trabajo se usó las metodologías de diseño,  para el desarrollo de la aplicación,  Ui/Ux  para el mock up y los wireframes. <br>-Liberato Susanibar, Piero Anthony<br>TB1:<br>Para este trabajo he realizado investigaciones para conocer nuestro mercado, competidores, etc. Asimismo entrevistar personas para conocer de primera mano sus necesidades y facilitarnos el proceso de desarrollo de nuestra organización.<br>TP: <br>Para solucionar los problemas presentados en el trabajo se usó las metodologías de diseño,  para el desarrollo de la aplicación,  Ui/Ux  para el mock up y los wireframes. <br>-Nuñez Martinez, Anthony Samir<br>TB1:<br>Se tuvo que desarrollar nuevas habilidades para complementar al equipo. Entre estas, se tuvo que entrevistar a personas que corresponden a nuestro público objetivo.<br>TP:<br>Para el desarrollo de la nueva entrega, se tuvo que aprender a utilizar nuevas herramientas para el desarrollo del producto, como Uxpressia.<br>-Llatas Flores Enrique Aldhair<br>TB1:Se desarrolló el trabajo usando los márgenes ágiles de software como lo es SCRUM,investigamos más acerca del negocio y las personas involucradas para así poder crear una mejor solución.<br>TP : Elaboramos un website intuitivo  para los usuarios ,creamos los UX/UI que contienen los mockup y wireframes<br>-Farro Caballero, Alfredo<br>TB1: Se identificó el sector al cual pertenece el usuario. Además de las herramientas para lograr satisfacer sus necesidades.<br>TP: Se desarrolló en base a los requerimientos del usuario la Web App y Sprint 1, utilizando herramientas como vue, PrimeVue, axios, entre otras. </td>
+    <td>Orosco Orcotuma, Cristhian<br>TB1:<br>Para solucionar los problemas presentados<br>en el trabajo se usó las metodologías ágiles de<br>software para poder tener la mejor solución<br>posible. Asimismo, se tuvieron que aprender<br>nuevos conceptos acerca del Lean Ux, como<br>mejorar en base al trabajo anterior puntos para<br>definir mejor nuestra plataforma.<br>TP:<br>Para solucionar los problemas presentados en el trabajo se usó las metodologías de diseño,  para el desarrollo de la aplicación,  Ui/Ux  para el mock up y los wireframes. <br>TB2: Para solucionar los problemas presentados<br>En el trabajo se usó la metodología DDD, para el desarrollo de la aplicación móvil, y su integración con el backend de la misma manera para el desarrollo del embedded application.<br>-Liberato Susanibar, Piero Anthony<br>TB1:<br>Para este trabajo he realizado investigaciones para conocer nuestro mercado, competidores, etc. Asimismo entrevistar personas para conocer de primera mano sus necesidades y facilitarnos el proceso de desarrollo de nuestra organización.<br>TP: <br>Para solucionar los problemas presentados en el trabajo se usó las metodologías de diseño,  para el desarrollo de la aplicación,  Ui/Ux  para el mock up y los wireframes. <br>TB2:<br>Para solucionar los problemas presentados en este trabajo se usó la metodología DDD, y lectura de documentación para cumplir con todos los parámetros necesarios para esta entrega<br>Nuñez Martinez, Anthony Samir<br>TB1:<br>Se tuvo que desarrollar nuevas habilidades para complementar al equipo. Entre estas, se tuvo que entrevistar a personas que corresponden a nuestro público objetivo.<br>TP:<br>Para el desarrollo de la nueva entrega, se tuvo que aprender a utilizar nuevas herramientas para el desarrollo del producto, como Uxpressia.<br>TB2:<br>Para el desarrollo de la nueva entrega, se redactó lo que se haría en el segundo Sprint con respecto al Backend<br>Llatas Flores Enrique Aldhair<br>TB1:Se desarrolló el trabajo usando los márgenes ágiles de software como lo es SCRUM,investigamos más acerca del negocio y las personas involucradas para así poder crear una mejor solución.<br>TP : Elaboramos un website intuitivo  para los usuarios ,creamos los UX/UI que contienen los mockup y wireframes<br>TB2:  Para esta entrega se definió las mejoras que se harían en el sprint2 con respecto al backend<br>Farro Caballero, Alfredo<br>TB1: Se identificó el sector al cual pertenece el usuario. Además de las herramientas para lograr satisfacer sus necesidades.<br>TP: Se desarrolló en base a los requerimientos del usuario la Web App y Sprint 1, utilizando herramientas como vue, PrimeVue, axios, entre otras. <br>TB2: Se desarrolló siguiendo las necesidades del usuario: Front-end Application, Back-end Application, Mobile Application y la elaboración del reporte, utilizando herramientas como vue, PrimeVue, axios, entre otras.</td>
     <td>Se evidencia el esfuerzo por comprender profundamente el entorno en el que se desenvuelve el proyecto. Los equipos demostraron una dedicación notable al investigar y familiarizarse con el mercado, los competidores y las necesidades de los usuarios. Esta investigación directa, que incluyó entrevistas con personas del público objetivo, permitió una comprensión más completa de los desafíos y oportunidades dentro del sector específico.</td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
 
 ## Capítulo I: Introducción
 
@@ -2041,7 +2040,7 @@ En esta sección presentamos las clases que se encargan de conectar con servicio
 
 A continuación, presentamos el component level diagram considerado para el DevicePurchaseContext.
 
-![](Assets/c4_alfredo.png)
+![](assets/c4_alfredo.png)
 
 ### 4.2.3.7. Bounded Context Software Architecture Code Level Diagrams.
 
@@ -2049,7 +2048,7 @@ A continuación, presentamos el component level diagram considerado para el Devi
 
 A continuación, presentamos el diagrama de clases del dominio considerado para el DevicePurchaseContext.
 
-![](Assets/clases_alfredo.png)
+![](assets/clases_alfredo.png)
 
 #### 4.2.3.7.2. Bounded Context Database Design Diagram.
 
@@ -2057,7 +2056,7 @@ A continuación, presentamos el diagrama de clases del dominio considerado para 
 
 A continuación, presentamos el diagrama de base de datos considerado para el DevicePurchaseContext.
 
-![](Assets/clases_alfredo_2.png)
+![](assets/clases_alfredo_2.png)
 
 
 
@@ -2608,7 +2607,7 @@ En esta sección presentamos las clases que se encargan de conectar con servicio
 
 A continuación, presentamos el component level diagram considerado para el ElderlyAdultOfferContext.
 
-<img src="Assets\boundedcontext11.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="assets\boundedcontext11.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 4\.2.4.7. Bounded Context Software Architecture Code Level Diagrams. 
@@ -2842,7 +2841,7 @@ Registro de Usuario (Cuidador)
 Inicio de Sesión 
 ![Inicio de Sesión](/assets/Login.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
-![Home](Assets/Home.png)
+![Home](assets/Home.png)
 Ubicacion del Adulto Mayor
 ![Ubicacion](/assets/UbicacionLocation.png)
 Recordatorios de las citas medicas y medicamentos
@@ -2909,7 +2908,7 @@ Registro de Usuario (Cuidador)
 Inicio de Sesión 
 ![Inicio de Sesión](/assets/MLogin.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
-![Home](Assets/MHome.png)
+![Home](assets/MHome.png)
 Ubicaion del Adulto Mayor
 ![Ubicacion](/assets/MLocation.png)
 Recordatorios de las citas medicas y medicamentos
@@ -3556,5 +3555,867 @@ De la misma manera para el desarrollo del frontend se utilizo Netlify, una plata
 Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro del equipo de desarrollo durante el sprint .Esto incluira la colaboracion,resolucion de problemas y la gestion de tareas.
 <img src="assets\DiscordGroup.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
+## 6.2.2. Sprint 2
+
+### 6.2.2.1.Sprint Planning 2.
+En el segundo sprint, el equipo se reunió para coordinar las actividades necesarias para el desarrollo e implementación de  de la aplicaciones. Se establecieron objetivos claros y alcanzables para cada componente, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded.
+
+De la misma manera el equipo se comprometió a trabajar de manera colaborativa, definir tareas individuales y grupales, establecer plazos de entrega.
+
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <th colspan="2">Sprint Planning Background</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>07-06-2024</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>22:00</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Lima,  Perú- Reunión realizada mediante Discord </td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Liberato Susanibar, Piero</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Farro Caballero, Alfredo /<br>Orosco Orcotuma, Cristhian /<br>Nuñez Martinez, Anthony /<br>Llatas Flores, Enrique </td>
+  </tr>
+  <tr>
+    <th colspan="2">Sprint Goal & User Stories</th>
+  </tr>
+  <tr>
+    <td>Sprint n Goal</td>
+    <td>Desarrollo de la aplicación móvil, web, API, database, embedded application; despliegue del API,  aplicación web  y documentación del informe</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>128</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>128 story points </td>
+  </tr>
+</tbody></table>
+
+### 6.2.2.2.Sprint Backlog 2.
+Para este sprint tuvimos como objetivo el desarrollo e implementación de la de la aplicación, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded para dispositivos IoT.
+
+Adicionalmente, se realizó la comunicacion entre los diferentes componentes de la aplicación, la implementación de las funcionalidades principales, la integración de la base de datos y la configuración de la API RESTful. Asimismo el despliegue de la API, la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación. 
+
+<b>Trello</b>
+
+<b>Enlace:</b> https://trello.com/b/dqGrz1ZG/oneup 
+
+<img src="Assets/Trello_evidence.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><be>
+
+<b>Mobile </b>
+
+<table><thead>
+  <tr>
+    <th>Sprin #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task </td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>Doing /<br>Review /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">  <br>US02   </td>
+    <td rowspan="3">Acceso a la cuenta   (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de inicio de sesión </td>
+    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los usuarios ingresar a la aplicación utilizando su correo electrónico y contraseña.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de inicio de sesión</td>
+    <td>Implementar la lógica necesaria para validar las credenciales de los usuarios al momento de ingresar a la aplicación.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar la autenticación en el Backend</td>
+    <td> Integrar un sistema de autenticación robusto en el Backend para verificar la identidad de los usuarios y gestionar las sesiones de acceso. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US04   </td>
+    <td rowspan="3">Registro de cuenta   (Mobile Application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de registro </td>
+    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los nuevos usuarios crear una cuenta en la aplicación. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de registro</td>
+    <td> Implementar la lógica necesaria para registrar nuevos usuarios en la aplicación. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar el registro de usuarios con el Backend</td>
+    <td>Integrar el proceso de registro de usuarios en el Backend para almacenar la información personal de manera segura y gestionar las cuentas creadas.</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US08   </td>
+    <td rowspan="3">   Visualización de   la información sobre la persona cuidada (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de información de la persona cuidada (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar los datos relevantes sobre la persona cuidada. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de visualización de información</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar la información de la persona cuidada en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar  y integrar con la base de datos</td>
+    <td> Establecer la conexión entre la aplicación móvil y la base de datos para acceder a la información de la persona cuidada</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US14   </td>
+    <td rowspan="3">  Visualización de la lista de recordatorios y citas médicas (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de recordatorios y citas médicas (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva y funcional que permita visualizar la lista de recordatorios y citas médicas de manera organizada y clara.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de visualización de recordatorios y citas</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar la lista de recordatorios y citas médicas en la aplicación móvil.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar los recordatorios y citas  con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para acceder a la información de los recordatorios y citas médicas. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Anthony Nuñez</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US15  </td>
+    <td rowspan="3">   Modificación de los recordatorios (Mobile application)    </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de edición de recordatorios (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) intuitiva y fácil de usar que permita modificar los detalles de los recordatorios existentes. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de edición de recordatorios</td>
+    <td>Implementar la lógica necesaria para modificar los datos de los recordatorios en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar la  modificación de recordatorios con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para actualizar la información de los recordatorios. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US16   <br></td>
+    <td rowspan="3">Acceso a registros   históricos (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de registros históricos (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva y organizada que permita visualizar el historial de eventos relevantes relacionados con la persona cuidada.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de acceso a registros históricos</td>
+    <td> Implementar la lógica necesaria para obtener y mostrar el historial de eventos en la aplicación móvil.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar los registros históricos con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para acceder al historial de eventos.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US18   </td>
+    <td rowspan="3">   Configurar alertas   personalizadas (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de configuración de alertas (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) intuitiva y fácil de usar que permita configurar alertas personalizadas para recibir notificaciones sobre eventos relevantes.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de configuración de alertas</td>
+    <td>Implementar la lógica necesaria para configurar y gestionar las alertas personalizadas en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar  el servicio de notificaciones con el  Backend</td>
+    <td>Integrar un servicio de notificaciones confiable en el Backend para enviar alertas personalizadas a los usuarios.</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US19   </td>
+    <td rowspan="3">  Seguimiento de la   ubicación del adulto mayor (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de seguimiento de ubicación (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar la ubicación actual del adulto mayor en tiempo real.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de seguimiento de ubicación en tiempo real</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar la ubicación del adulto mayor en la aplicación móvil.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar el servicio de ubicación con el Backend</td>
+    <td>Integrar un servicio de ubicación confiable en el Backend para obtener y almacenar la información de ubicación del adulto mayor.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">  US20   </td>
+    <td rowspan="3">Agregar lista de   medicamentos con recordatorio (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de lista de medicamentos (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) organizada y fácil de usar que permita gestionar una lista de medicamentos con recordatorios. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato,Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de gestión de lista de medicamentos</td>
+    <td> Implementar la lógica necesaria para crear, editar y eliminar medicamentos en la lista.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato,Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar la lista de  medicamentos con la base de datos SQLite</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos SQLite para almacenar la información de los medicamentos.</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato,Alfredo Farro</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US21   </td>
+    <td rowspan="3">Historial de   ubicaciones del adulto mayor (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de historial de ubicaciones (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar el historial de ubicaciones del adulto mayor.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de acceso al historial de ubicaciones</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar el historial de ubicaciones del adulto mayor en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar el  historial de ubicaciones con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para acceder al historial de ubicaciones del adulto mayor.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+</tbody></table>
+
+<b>BackEnd </b>
+
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation<br>(Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US09</td>
+    <td rowspan="2">Proceso de ventas</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>productos.</td>
+    <td>Model, service, repository y<br>controller de Products.</td>
+    <td>2</td>
+    <td>Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Funcionalidad de error de<br>procesamiento de venta.</td>
+    <td>Error Management cuando se ingresen<br>datos incorrectos.</td>
+    <td>1</td>
+    <td>Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US24</td>
+    <td rowspan="2">Iniciar sesión<br>(Back End)</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>usuario.</td>
+    <td>Model, service, repository y<br>controller de User</td>
+    <td>2</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Servicio de autentificación<br>del usuario.</td>
+    <td>Endpoint para verificar el registro de<br>un usuario con contraseña y<br>usuario.</td>
+    <td>1</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US23</td>
+    <td>Agregar personas<br>enfermas<br>(Back End)</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>pacientes.</td>
+    <td>Model, service, repository y<br>controller de Patients</td>
+    <td>2</td>
+    <td>Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US22</td>
+    <td>Registrar un nuevo<br>usuario<br>(Back End)</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>usuario.</td>
+    <td>Model, service, repository y<br>controller de User</td>
+    <td>2</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+</tbody></table>
+
+
+
+### 6.2.2.3.Development Evidence for Sprint Review.
+En esta seccion se presenta la evidencia del progreso del desarrollo de las aplicaciones. Se incluye detalles sobre lo que se implemento en el sprint actual, se mostrata un cuadro con los commits realizados en el repositorio de la aplicacion movil, web y API RESTful.
+
+  <h4>Back end</h4>
+  
+ <table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message </th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>45eae737648786dcc1d07d131ad18faf8642cd9e</td>
+    <td>Add Product Service imp</td>
+    <td>06/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>c47bea0fe61be247e36d7201ffac4dff9fb579d3</td>
+    <td>Add Service Product</td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>e98d41e94002d74b9432d63e461219279c72833e</td>
+    <td>add Product Controller </td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/patient</td>
+    <td>b17b32dcd61cc90c634ce4f27f7e2fc48317d1769</td>
+    <td>Add Patient Controller</td>
+    <td>04/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>bd4206f710d1b12cda12bea19fdccb05043c9912</td>
+    <td>add Report Controller</td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>036aaea252e55b78cd1851273f6ae995f3aba43e</td>
+    <td>add Report Service </td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>6a8cd4ab474eca2555d7779b2ff2113573b471d8</td>
+    <td>add Report Service Impl</td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>ca256740c54aef93ceea7d8901d6b575240c9c2a</td>
+    <td>Add Device Controller </td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>8a739b723e5a0fb4a17256719863117b4e55a9c6</td>
+    <td>Add Model Device</td>
+    <td>28/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>1bef2656018de5ce0c19ea41381a48d8e3cb6e01</td>
+    <td>Terminando user</td>
+    <td>23/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>1bef2656018de5ce0c19ea41381a48d8e3cb6c2a</td>
+    <td>Agregando nuevos metodos a user</td>
+    <td>20/05/2024</td>
+  </tr>
+</tbody></table>
+
+  <h4>Mobile</h4>
+
+  <table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commite on (date)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>7a8997bf3f40344f68d9b2b012e12d72b7066094 </td>
+    <td>feat: add login screen </td>
+    <td>Se agregó la vista de login  </td>
+    <td>28/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>9d3602e7182026d96b2978533bc2c44aa8237f4f</td>
+    <td>feat: Add register screen</td>
+    <td>Se agregó la vista de register para nuevos usuarios </td>
+    <td>31/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application </td>
+    <td>feature/TEAC-03</td>
+    <td>1d08962e7d1712fec84c7e0d24e937b355e70861</td>
+    <td>feat: profile screen </td>
+    <td>Se agregó la vista profile de los adultos mayores </td>
+    <td>31/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application </td>
+    <td>feature/TEAC-03</td>
+    <td>08af574f2b2d34d5ecc9f2b013bfd73cd0adcdb4</td>
+    <td>feat: mobile router page </td>
+    <td>Se agregó las rutas de navegación para las vistas profile, login y register</td>
+    <td>31/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-04</td>
+    <td>ed40940e327902015e3fab4b906f1298cc1d4809</td>
+    <td>feat: add folders of reminders </td>
+    <td>Se agregó las carpetas y widgets para la vista reminders  </td>
+    <td>30/05/24</td>
+  </tr>
+  <tr>
+    <td> OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-04</td>
+    <td>0b1f8d92f4883331a34d85740d180fd408b20ef6</td>
+    <td>feat: add reminder</td>
+    <td>Se agregó la vista reminders </td>
+    <td>01/06/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application </td>
+    <td>feature/TEAC-05</td>
+    <td>c39b5e74ac026f444e8962f11d0f09d56fde3b78</td>
+    <td>feat: add page view in homepage </td>
+    <td>Se agregó la vista homepage </td>
+    <td>06/06/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-05</td>
+    <td>e68b489f069118b3dc7aa4029e992c544424bc6c</td>
+    <td>feat: add api config </td>
+    <td>Se agrego las clases para la configuración del API </td>
+    <td>06/06/24</td>
+  </tr>
+</tbody></table>
+
+
+### 6.2.2.4.Testing Suite Evidence for Sprint Review.
+
+### 6.2.2.5.Execution Evidence for Sprint Review.
+  <h4>Backend  Evidence</h4>
+  <img src="Assets\backendevidence.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f172_upc_edu_pe/EYyKxgjPy1hAiDEeHG_AP68BsIEf60qUGv0zORsWJmOJeA?e=wxcYSu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+  <h4>Mobile Evidence</h4>
+
+  <img src="/Assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
+
+  <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+
+  <h4>Frontend  Evidence</h4>
+  
+  ![Frontend](/assets/FrontEvidence.png)
+  
+  <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EZULU8XZauZJrcY_k6ZTSxIBGbvka7i60XUc-y_YpioM5A?e=wdID4o 
+
+  <h4>Embedded application Evidence</h4> 
+  
+  <b>Enlace:</b>
+
+  ![Embedded](/assets/embeddedAplication.png)
+
+  <b>Enlance:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/EbueAyh2zMpGvYHwXlTRnMoBRmEnmV6UpMor8xI6dixvMQ?e=ve5UG6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+
+### 6.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
+  <h4>Devices Service</h4>
+  <img src="Assets\deviceservice.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Users Service</h4>
+  <img src="Assets\UsersService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Patient Service</h4>
+  <img src="Assets\PatientService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Products Service</h4>
+  <img src="Assets\ProductsService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Payment Service</h4>
+  <img src="Assets\PaymentService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Report Service</h4>
+  <img src="Assets\ReportService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+
+### 6.2.2.7.Software Deployment Evidence for Sprint Review.
+En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+
+<b>Despliegue del Backend:</b>
+Para llevar a cabo la automatizacion del despliegue del backend, se utilizaron las herramientas de  railway,  esta plataforma permite alojar servicios estáticos directamente desde un repositorio de GitHub: https://github.com/OneUp-WS71/back-end-application
+
+  <img src="assets\railway_deployment_1.PNG"><br>
+
+<b>Despliegue del Frontend:</b>
+De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
+![Lainding](/assets/DespliegueFront.png) 
+
+De la misma manera para el desarrollo del movil app se utilizo 
+
+
+### 6.2.2.8.Team Collaboration Insights during Sprint.
+En esta seccion se presentara la colaboracion del equipo durante el sprint. Se destacaran los aspectos clave de la colaboracion y la comunicacion del equipo, asi como los desafios y las lecciones aprendidas.
+
+<b>FrontEnd:</b>
+<b>BackEnd:</b>
+<b>Mobile:</b>
+
+# 6.3. Validation Interviews.
+
+## 6.3.1. Diseño de Entrevistas.
+<b> Segmento: Cuidadores y Supervisores de Adultos Mayores.</b>
+
+1. ¿Cuál es tu nombre y edad?
+2. ¿Qué relación tienes con el cuidado del adulto mayor?
+3. ¿Cómo describirías tu experiencia general utilizando nuestra aplicación hasta ahora?
+4.  En una escala del 1 al 10, ¿qué tan fácil te resultó navegar por la aplicación?
+5. ¿La aplicación cumplió tus expectativas en términos de funcionalidad? ¿Por qué sí o por qué no?
+6. ¿Qué opinas del diseño y la organización de la aplicación?
+7. ¿Tuviste algún problema de rendimiento (por ejemplo, tiempos de carga lentos, fallos) mientras usabas la aplicación?
+8. ¿Es el contenido y la información proporcionada dentro de la aplicación clara y útil?
+9. ¿Sientes que la aplicación aporta valor en el cuidado del adulto mayor? ¿Por qué sí o por qué no?
+10. ¿Cuáles son las principales mejoras que recomendarías para la applicación?
+
+
+## 6.3.2. Registro de Entrevistas.
+<h4>Segmento: Supervisores</h4>
+
+<b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay <br>
+<b>Edad :</b> 26 años <br>
+<b>Distrito:</b> Callao, Lima <br>
+![EntrevistaCris](/assets/EntrevistaCris2.png) <br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
+<b>Inicio:</b> <br>
+<b>Duracion:</b> 00:11:05 <br>
+Maryfe enfermera de 26 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite registrar información básica, como el peso y la talla de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de medicamentos y citas médicas. Sin embargo, indicó que la aplicación comienza en inglés, lo cual puede ser una barrera significativa para algunos usuarios hispanohablantes, sugiriendo que todas las secciones deberían estar en español.
+
+En cuanto a la funcionalidad, Maryfe mencionó que la aplicación cumplió sus expectativas, especialmente en relación con los recordatorios de citas y medicamentos, que están alineados con las fechas anteriores. Sin embargo, sugirió que la aplicación sería más útil si pudiera integrarse con dispositivos de monitoreo para registrar signos vitales en tiempo real. El diseño de la aplicación le pareció bien organizado, con indicaciones claras en cada sección, y no experimentó problemas de rendimiento, describiendo la aplicación como rápida y eficiente.
+
+Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplicación debería incluir la posibilidad de monitorear más signos vitales y que todas las secciones estén completamente traducidas al español. Además, sugirió la inclusión de rutinas de ejercicio adecuadas para adultos mayores, como caminatas cortas y ejercicios ligeros, y la necesidad de adaptar estas recomendaciones a las condiciones específicas de salud de los pacientes para evitar riesgos. En resumen, Mary valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad. <br>
+
+<b>Nombre y Apellidos :</b> Juan Diego Ponce Arasaki <br>
+<b>Edad :</b> 21 años <br>
+<b>Distrito:</b> Callao, Lima <br>
+ <img src="Assets\EntrevistaJd.png" width="500" height="338" ><br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
+<b>Inicio:</b>22:53 -> 28:26 <br>
+<b>Duracion:</b>  <br>
+Juan cuidador de 21 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite obtener información básica, como la temperaturaa de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de los pacientes a cargo . 
+
+En cuanto a la funcionalidad, Juan mencionó que la aplicación cumplió sus expectativas, especialmente en relación con los recordatorios de citas y medicamentos, que están alineados con las fechas anteriores. Sin embargo, sugirió que a la aplicación web le faltan secciones por completar lo cual espera con ansias . El diseño de la aplicación le pareció bien organizado, con indicaciones claras en cada sección, y no experimentó problemas de rendimiento, describiendo la aplicación como rápida y eficiente.
+En resumen, Juan valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad. <br>
+
+
+<b>Nombre y Apellidos :</b> Jonathan Curi <br>
+<b>Edad :</b> 22 años <br>
+<b>Distrito:</b> Carabayllo, Lima <br>
+![EntrevistaJonathan](/assets/entrevistaJonathan.png)  <br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
+<b>Inicio:</b> Minuto 00:00:00 <br>
+<b>Duracion:</b> 00:04:29
+
+Jonathan, un estudiante universitario encargado de cuidar a sus abuelos, nos cuenta su experiencia con el uso de la app, la cual comenta que es muy intuitiva y facil de usar. Nos comenta, que se debe mejorar ciertos aspectos de esta, ya sea como arreglar cierto errores visuales, mejorar colores, entre cosas diferentes. Cree que si logramos implementar estas mejoras, la aplicación será una de las mejores del mercado. 
+
+
+
+<h4>Segmento: Cuidadores</h4>
+
+
+<b>Nombre y Apellidos :</b> Abraham <br>
+<b>Edad :</b> 20 años <br>
+<b>Distrito:</b> San Juan Lurigancho, Lima <br>
+![EntrevistaCris](/Assets/entrevista_Piero.PNG) <br>
+<b>Enlace:</b> <br>
+<b>Inicio:</b> 15:35 <br>
+<b>Duracion:</b> 00:7:16 <br>
+
+Abraham Medina visualiza una aplicación diseñada para el cuidado del adulto mayor, enfocada en el seguimiento de su estado de salud y la prestación de auxilio en caso de emergencia.
+Opinión del Entrevistador:
+
+Encuentra la aplicación interesante y bien diseñada.
+Cree que tiene el potencial de ser un buen proyecto funcional y útil en el día a día.
+Experiencia del Usuario:
+
+Encuentra la aplicación intuitiva y directa, tanto en el login como en el registro.
+Considera que la página de inicio muestra claramente la información necesaria.
+Destaca la lista de medicación como un apartado bien diseñado y simple, lo cual facilita su uso por parte de los usuarios.
+Califica el diseño y la navegación de la aplicación con un 9, aunque cree que hay espacio para mejorar.
+Aspectos Técnicos:
+
+No ha encontrado problemas de rendimiento; la aplicación es rápida y está bien optimizada.
+Sugiere probar la aplicación en diferentes dispositivos para verificar su rendimiento.
+Valor y Utilidad:
+
+Considera la información clara y útil, y cree que la aplicación aporta valor al cuidado del adulto mayor al mantener un seguimiento constante de su salud.
+Recomendaciones:
+
+Añadir un modo oscuro a la aplicación para mejorar la experiencia del usuario.
+Conclusión:
+Abraham agradece la entrevista y concluye que la aplicación tiene potencial y es útil, con algunas áreas de mejora identificadas para aumentar su funcionalidad y usabilidad.
+ <br>
+
+
+<b>Nombre y Apellidos :</b> Raquel Lili Melany Romero Martinez <br>
+<b>Edad :</b> 24 años <br>
+<b>Distrito:</b> Villa María, Nuevo Chimbote <br>
+<img src="assets\Screeshot_Raquel_Interview_Validation.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
+<b>Inicio:</b> 28:26 <br>
+<b>Duracion:</b> 6:17 <br>
+Raquel, de 24 años, vive con su abuelo, el cual padece de alzheimer y padece de dificultad al caminar o moverse.
+Al momento de interactuar con la aplicación, Raquel menciono que la aplicación le pareció muy sencilla de usar y muy útil. Sin embargo, también queda recalcar que nuestra entrevistada es una nativa digital, por lo cual manejarse en la aplicación podría haberle resultado más sencillo. En la entrevista también se puede notar que Raquel tiene mejor opinión en la aplicación móvil que la de escritorio, y que cree que sería un buen añadido el poder medir otros parámetros o poder guardar datos importantes, tal como glucosa o datos históricos del paciente, dentro de la aplicación. Esto se tiene ya previsto en la aplicación web y móvil.
+
+
+## 6.3.3. Evaluaciones según heurísticas.
+<h4 align="center"> UX Heuristics & Principles Evaluation  </h4> <br> 
+<h5 align="center">Usability – Inclusive Design – Information Architecture  </h5>
+
+<b> CARRERA: </b> Ingeniería de Software  <br>
+<b>CURSO </b> Desarrollo de Soluciones IoT <br>
+<b>SECCIÓN : </b> SI572 <br>
+<b>PROFESORES: </b> Angel Augusto Velasquez Nuñez <br>
+<b>AUDITOR : </b> OneUp Team  <br>
+<b>CLIENTE(S): </b>  Maryfe Pamela Cortez Menguay, ..... <br>
+
+<b> SITE o APP A EVALUAR:  </b> 
+ElderlyCare App <br>
+
+<b>TAREAS A EVALUAR: </b> <br>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Inicio de sesión en la aplicación. <br>
+
+<img src="/Assets/logintb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+2. Registro un usuario Cuidador.<br>
+<img src="/Assets/registertb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+3. Aprobación de Terminos y condiciones.<br>
+<img src="/Assets/terminostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+4. Registro de los datos de un adulto mayor. <br>
+<img src="/Assets/registroDatostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+5. Visualización de las medidas de un adulto mayor. <br>
+<img src="/Assets/measuretb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+6. Visualización de los signos vitales de un adulto mayor.<br>
+<img src="/Assets/vitalsignstb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+7. Agregar Recordatorio de Medicamentos y citas medicas. <br>
+<img src="/Assets/recordatoriostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+8. Editar perfil del adulto mayor <br>
+<img src="/Assets/perfiltb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel 	| Descripción                                                                                                                                                                                    	|
+|-------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 1     	| Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  	|
+| 2     	| Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase 	|
+| 3     	| Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                	|
+| 4     	| Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              	|
+
+**TABLA DE SEVERIDAD:**
+
+| # 	| Problema                                	| Escala de severidad 	| Heurística/Principio violado(o)                                 	|
+|---	|-----------------------------------------	|---------------------	|-----------------------------------------------------------------	|
+| 1 	| Mobile Application no es responsive     	| 2                   	| Inclusive Design: falta de experiencia en diversos dispositivos 	|
+| 2 	| Web Application no es responsive        	| 2                   	| Inclusive Design: falta de experiencia en diversos dispositivos 	|
+| 3 	| Falta de visualizar estado del producto 	| 3                   	| Information Architecture: Is it usable?                         	|
+| 4 	| Edicion de informacion del adulto mayor 	| 2                   	| Usability: Libertad y control del usuario                       	|
+
+# 6.4. Video About-the-Product.
+
+
 ### Conclusiones
-Las técnicas empleadas para la formulación de proyectos DDD, como el Eventstorming y sus procesos correlativos, nos brindaron una comprensión más profunda de los posibles comportamientos requeridos por los potenciales usuarios de nuestro producto. Es esencial que todos los integrantes del equipo estén al tanto de estos cambios y de cómo influyen en la concepción y desarrollo del software. En proyectos de gran envergadura como el nuestro, es fundamental reconocer las diversas habilidades de cada miembro del equipo y asignarles tareas que se ajusten a sus talentos individuales, garantizando así un proceso fluido y sin contratiempos para todo el equipo.
+El desarrollo del proyecto ha permitido alcanzar los objetivos principales, incluyendo la creación de una aplicación móvil funcional, una aplicación web robusta, una base de datos segura, una API RESTful eficiente y una aplicación embedded para la recolección de datos.
+La adopción de técnicas DDD, como el Eventstorming y sus procesos correlativos, resultó fundamental para comprender a profundidad los comportamientos esperados de los usuarios potenciales. Esta comprensión profunda nos permitió enfocar el desarrollo en las necesidades reales de los usuarios, lo que se traduce en el cumplimiento de los Problem Statements, Hypotheses Statements y criterios de éxito definidos en el proceso de Lean UX.
+Las validaciones realizadas han demostrado la efectividad de las soluciones implementadas, destacando la facilidad de uso, la escalabilidad y la seguridad del sistema. Estos resultados positivos son producto de la colaboración efectiva del equipo y la asignación de tareas acorde a las habilidades individuales de cada miembro.
+En proyectos de gran envergadura como el nuestro, es fundamental reconocer las diversas habilidades y talentos del equipo para garantizar un proceso fluido y sin contratiempos. La comunicación constante y la alineación de objetivos son claves para el éxito del proyecto.
+### Recomendaciones 
+Para continuar con el éxito del proyecto, se recomienda:
+
+- Realizar un seguimiento constante del uso de los productos digitales para realizar ajustes que optimicen la experiencia del usuario. Implementar pruebas de seguridad regulares para proteger los datos de los usuarios. Mantener los productos digitales actualizados con las últimas tecnologías.
+
+- Implementar un sistema de retroalimentación de los usuarios para recopilar comentarios y sugerencias de mejora.
+
+- Buscar nuevas oportunidades de negocio para ampliar el alcance de la solución, como la integración con otros servicios de salud o la expansión a nuevos mercados.
+
+- Continuar invirtiendo en la investigación y desarrollo de nuevas funcionalidades y tecnologías que mejoren aún más la solución y la experiencia del usuario.
