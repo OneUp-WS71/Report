@@ -608,21 +608,21 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
 
 **User Journey Mapping – Cuidador**
 
-![](assets/JourneyMapMinorias.png)
+![](Assets/JourneyMapMinorias.png)
 
 **User Journey Mapping – Supervisor**
 
-![](assets/JourneyMapMayorias.png)
+![](Assets/JourneyMapMayorias.png)
 
 ## 2.3.4. Empathy Mapping
 
 **Empathy Mapping – Cuidador**
 
-![](assets/EmpathyMapMinorias.png)
+![](Assets/EmpathyMapMinorias.png)
 
 **Empathy Mapping – Supervisor**
 
-![](assets/EmpathyMapMayorias.png)
+![](Assets/EmpathyMapMayorias.png)
 
 ## 2.3.5. As-is Scenario Mapping
 
