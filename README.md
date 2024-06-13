@@ -3614,10 +3614,10 @@ Para este sprint tuvimos como objetivo el desarrollo e implementación de la de 
 Adicionalmente, se realizó la comunicacion entre los diferentes componentes de la aplicación, la implementación de las funcionalidades principales, la integración de la base de datos y la configuración de la API RESTful. Asimismo el despliegue de la API, la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación. 
 
 <b>Trello</b>
-AQUI VA IMAGEN DEL TRELLO CON TODAS LAS USER STORIES PUESTAS (FALTA)
 
 <b>Enlace:</b> https://trello.com/b/dqGrz1ZG/oneup 
 
+<img src="Assets/Trello_evidence.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><be>
 
 <b>Mobile </b>
 
