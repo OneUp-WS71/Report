@@ -4403,6 +4403,12 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 # 6.4. Video About-the-Product.
 
+En esta sección presentaremos un video, el cual va dirigido a los visitantes del landing page que requieran un resumen sencillo y rápido de la funcionalidad principal del producto. <br>
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EdCuA539YSFCmMdADP-VpxMBeVt1CXjrZAGkm3gESj-H-g?e=V1INYc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EdCuA539YSFCmMdADP-VpxMBeVt1CXjrZAGkm3gESj-H-g?e=V1INYc) <br>
+
+**Timing :** 1 minuto, 2 segundos <br>
+
 
 ### Conclusiones
 El desarrollo del proyecto ha permitido alcanzar los objetivos principales, incluyendo la creación de una aplicación móvil funcional, una aplicación web robusta, una base de datos segura, una API RESTful eficiente y una aplicación embedded para la recolección de datos.
