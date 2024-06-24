@@ -4405,6 +4405,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 En esta sección presentaremos un video, el cual va dirigido a los visitantes del landing page que requieran un resumen sencillo y rápido de la funcionalidad principal del producto. <br>
 
+<img src="/Assets/AboutTheProduct.PNG" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EdCuA539YSFCmMdADP-VpxMBeVt1CXjrZAGkm3gESj-H-g?e=V1INYc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EdCuA539YSFCmMdADP-VpxMBeVt1CXjrZAGkm3gESj-H-g?e=V1INYc) <br>
 
 **Timing :** 1 minuto, 2 segundos <br>
