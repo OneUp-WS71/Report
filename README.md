@@ -4427,3 +4427,18 @@ Para continuar con el éxito del proyecto, se recomienda:
 - Buscar nuevas oportunidades de negocio para ampliar el alcance de la solución, como la integración con otros servicios de salud o la expansión a nuevos mercados.
 
 - Continuar invirtiendo en la investigación y desarrollo de nuevas funcionalidades y tecnologías que mejoren aún más la solución y la experiencia del usuario.
+
+### Bibliografía
+
+- Google. (n.d.). Maps documentation. Recuperado de [https://developers.google.com/maps/documentation?hl=es-419](https://developers.google.com/maps/documentation?hl=es-419)
+- PostgreSQL Global Development Group. (n.d.). PostgreSQL documentation. Recuperado de [https://www.postgresql.org/docs/current/](https://www.postgresql.org/docs/current/)
+- PrimeVue. (n.d.). Introduction. Recuperado de [https://primevue.org/introduction/](https://primevue.org/introduction/)
+- Spring. (n.d.). Spring Boot documentation. Recuperado de [https://docs.spring.io/spring-boot/documentation.html](https://docs.spring.io/spring-boot/documentation.html)
+- Vuetify. (n.d.). Components. Recuperado de [https://vuetifyjs.com/en/components/all/#containment](https://vuetifyjs.com/en/components/all/#containment)
+
+### Anexos
+
+- Cuidum. (n.d.). Preguntas frecuentes. Recuerado de [https://www.cuidum.com/preguntas-frecuentes/](https://www.cuidum.com/preguntas-frecuentes/)
+- Safe365. (n.d.). Recuperado de [https://safe365global.com/](https://safe365global.com/)
+- MyTherapy. (n.d.). Recuperado de [https://www.mytherapyapp.com/es](https://www.mytherapyapp.com/es)
+
