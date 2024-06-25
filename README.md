@@ -3023,31 +3023,31 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 <img src="assets\prototype_flow1.PNG" style="width: 90%;"><br>
 
-[https://tinyurl.com/4w5vfwht](https://tinyurl.com/4w5vfwht)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/ETkyVRuohT1IpFk5W6PZx3YBgk793paCEtnStCCSekvUaQ?e=uKYS6o](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/ETkyVRuohT1IpFk5W6PZx3YBgk793paCEtnStCCSekvUaQ?e=uKYS6o)
 
 **User Goal 2 : Ver localización del adulto mayor**
 
 <img src="assets\prototype_flow2.PNG" style="width: 90%;"><br>
 
-[https://tinyurl.com/5x259srr](https://tinyurl.com/5x259srr)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EUeJ9gi1cHVHgkbSw5gEe9kBxKaArn8apXZKvG37cxUBcw?e=auXL6y](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EUeJ9gi1cHVHgkbSw5gEe9kBxKaArn8apXZKvG37cxUBcw?e=auXL6y)
 
 **User Goal 3 : Añadir un recordatorio de medicamento**
 
 <img src="assets\prototype_flow3.PNG" style="width: 90%;"><br>
 
-[https://tinyurl.com/5n977ufv](https://tinyurl.com/5n977ufv)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQM-KSVWnEdHuaeaNQT-XKoBRsNG4n-fxPvw2OVKbMMS8w?e=2ByzC0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQM-KSVWnEdHuaeaNQT-XKoBRsNG4n-fxPvw2OVKbMMS8w?e=2ByzC0)
 
 **User Goal 4 : Añadir un recordatorio de cita médica**
 
 <img src="assets\prototype_flow4.PNG" style="width: 90%;"><br>
 
-[https://tinyurl.com/9uywjux7](https://tinyurl.com/9uywjux7)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EV1m-G3IZfxCvmMT5HLvFZsBgUjxSp_u0N7Z0_etKEMteA?e=QASfip](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EV1m-G3IZfxCvmMT5HLvFZsBgUjxSp_u0N7Z0_etKEMteA?e=QASfip)
 
 **User Goal 5 : Connección con el dispositivo**
 
 <img src="assets\prototype_flow5.PNG" style="width: 90%;"><br>
 
-[https://tinyurl.com/bdzfrurf](https://tinyurl.com/bdzfrurf)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EakehguTJbRLrYVZETYtGlcBHHXkqauMt6oCdW18sKK0bw?e=TCLNuf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EakehguTJbRLrYVZETYtGlcBHHXkqauMt6oCdW18sKK0bw?e=TCLNuf)
 
 ## Capítulo VI: Product Implementation, Validation & Deployment.
 
@@ -3313,7 +3313,7 @@ Inicia sesión en Netlify y ve al panel de control.
 Hacer clic en el botón "New site from Git" (Nuevo sitio desde Git).
 Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
 Seleccionar el repositorio que contiene la página web.
-![front](/assets/netlify.png
+![front](/assets/netlify.png)
 + Configurar las Opciones de Despliegue:
 Netlify detectará automáticamente la configuración de tu proyecto. Si necesitas ajustes adicionales, como la configuración del directorio de compilación, puedes establecerlos en la sección de configuración de tu sitio.
 ![front2](/assets/netlify%202.png)
