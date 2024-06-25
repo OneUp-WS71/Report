@@ -464,7 +464,7 @@ En esta sección se presenta la información recolectada en las entrevistas real
 
 <img src="Assets\Screeshot_Norma_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 30:57 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 5:41 minutos <br>
 
@@ -482,7 +482,7 @@ Norma tiene un celular android y su explorador principal es Google Chrome.<br>
 
 <img src="Assets\EntrevistadoPonce.png" width="596" height="334"> <br>
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 28:16 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 2:40 minutos <br>
 
@@ -496,7 +496,7 @@ Nuestro entrevistado fue Juan Ponce, estudiante de ingeniería de sistemas que e
 
 ![](Assets/Entrevista_Jonatan.png)
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 07:30 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 6:13 minutos <br>
 
@@ -512,7 +512,7 @@ Jonatan sugiere mejoras para facilitar su situación, como la flexibilización d
 
 <img src="Assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 22:53 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 4:04 minutos <br>
 
@@ -530,7 +530,7 @@ Raquel usa más frecuentemente su celular Android y su laptop, y su principal na
 
 <img src="Assets\EntrevistadoJordi.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 00:00 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 7:30 minutos <br>
 
@@ -548,7 +548,7 @@ Ante la diferenciación la competencia dijo que serian los relojos pero algo que
 
 ![Maryfe](assets/EntrevistaCristhian.png)
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 13:43 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 10:30 minutos <br>
 
