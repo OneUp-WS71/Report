@@ -121,47 +121,58 @@ _____________________
   </td>
   </tr>  
   <tr>
-    <td>V 2.0</td>
+    <td>V 1.3</td>
     <td>29/04/2024</td>
     <td>OneUp</td>
     <td>Se agrego el contenido que faltaba en la TB1 y se aplico del Capítulo I hasta el Capítulo IV las correcciones</td>
   </tr>
   <tr>
-    <td>V3.0</td>
-    <td>02/05/2024</td>
-    <td>OneUp</td>
-    <td>Se agregaron las siguientes secciones:
+    <td>V 2.0</td>
+    <td>01/05/2024</td>
+    <td>Piero </td>
+    <td>Se agregaron las siguientes secciones al Contenido :
     Capítulo V, Capítulo VI, Avance de Conclusiones, Bibliografía y Anexos</td>
+  </tr>
+    <tr>
+    <td>V 2.1.0</td>
+    <td>01/05/2024</td>
+    <td>Piero</td>
+    <td>General Style Guideline,Searching Systems,Applications Wireflow Diagrams,Source Code Management</td>
+  </tr>
+    <tr>
+    <td>V 2.1.1</td>
+    <td>02/05/2024</td>
+    <td>Anthony</td>
+    <td> Web,Mobile and Iot Style Guidelines,Navigation Systems,Applications Mock-Ups,Software Development Environment Configuration</td>
+  </tr>
+    <tr>
+    <td>V 2.1.2</td>
+    <td>03/05/2024</td>
+    <td>Enrique</td>
+    <td>Se agregaron las siguientes secciones:
+       Organization Systems,Landing Page Wireframe,Applications User Flow Diagrams,Source Code Style Guide & Conventions </td>
+  </tr>
+     <tr>
+    <td>V 2.1.3</td>
+    <td>04/05/2024</td>
+    <td>Alfredo</td>
+    <td>Se agregaron las siguientes secciones:
+      Labeling Systems,Landing page Mock-UP,Applications Prototyping,Sofware Deployment Configuration
+    </td>
+  </tr>
+       <tr>
+    <td>V 2.1.4</td>
+    <td>05/05/2024</td>
+    <td>Cristhian</td>
+    <td>Se agregaron las siguientes secciones:
+      SEO Tags and Meta Tags,Applications Wireframes,Sofware Development Environment Configuration
+     </td>
   </tr>
   <tr>
     <td>V2.1</td>
     <td>08/06/2024</td>
     <td>OneUp</td>
     <td>Se agregaron las siguientes secciones: Capitulo 6.2,Capitulo 6.3, Capitulo 6.4, Conclusiones, Recomendaciones</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </tbody>
 </table>
