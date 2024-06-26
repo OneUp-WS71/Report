@@ -34,45 +34,92 @@ _____________________
 <tbody>
   <tr>
     <td>V1.0</td>
-    <td>13/04/2024</td>
+    <td>01/04/2024</td>
     <td>Piero</td>
     <td>Se agregaron las siguientes secciones: 
-   Student Outcome,Descripcion de la StartUp,Perfiles de Integrantes del equipo,Analisis Competitivo,Registro de Entrevistas,User Task Matrix,User Stories,Impact Mapping,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
-  </td>
-  </tr>
-  <tr>
-    <td>V1.1</td>
-    <td>15/04/2024</td>
-    <td>Anthony</td>
-    <td>Se agregaron las siguientes secciones: 
-   Student Outcome,Antecedentes y Problematica,Segmentos Objetivos,Estrategias y tacticas Frente a Competidores,Registro de Entrevistas,Empathy Mapping,User Stories,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+   Contenido,Student Outcome,Descripcion de la StartUp
   </td>
   </tr>
     <tr>
-    <td>V1.2</td>
-    <td>15/04/2024</td>
+    <td>V1.1.0</td>
+    <td>03/04/2024</td>
+    <td>Piero</td>
+    <td>Se agregaron las siguientes secciones: 
+   Perfiles de Integrantes del equipo,Analisis Competitivo,Registro de Entrevistas,User Task Matrix
+  </td>
+  </tr>
+  <tr>
+    <td>V1.1.1</td>
+    <td>05/04/2024</td>
+    <td>Anthony</td>
+    <td>Se agregaron las siguientes secciones: 
+   Student Outcome,Antecedentes y Problematica,Segmentos Objetivos,Estrategias y tacticas Frente a Competidores,Registro de Entrevistas,Empathy Mapping
+  </td>
+  </tr>
+    <tr>
+    <td>V1.1.2</td>
+    <td>07/04/2024</td>
     <td>Enrique</td>
     <td>Se agregaron las siguientes secciones: 
-  Student Outcome, Lean UX Problem Statements,Diseño de Entrevistas,Registro de Entrevistas,As-Is Scenario Mapping,User Stories,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  Student Outcome, Lean UX Problem Statements,Diseño de Entrevistas,Registro de Entrevistas,As-Is Scenario Mapping
   </td>
   </tr>
       <tr>
-    <td>V1.3</td>
+    <td>V1.1.3</td>
+    <td>09/04/2024</td>
+    <td>Cristhian</td>
+    <td>Se agregaron las siguientes secciones: 
+  Student Outcome, Lean UX Assumptions ,Lean UX Canvas ,Analisis de Entrevistas,Ubiquitous Language
+  </td>
+  </tr>
+      <tr>
+    <td>V1.1.4</td>
+    <td>11/04/2024</td>
+    <td>Alfredo</td>
+    <td>Se agregaron las siguientes secciones: 
+  Student Outcome,Lean UX Hypothesis Statements,User Personas,To-Be Scenario Mapping
+  </td>
+  </tr>
+   <tr>
+    <td>V1.2.0</td>
+    <td>13/04/2024</td>
+    <td>Piero</td>
+    <td>Se agregaron las siguientes secciones: 
+   User Stories,Impact Mapping,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+  <tr>
+    <td>V1.2.1</td>
     <td>15/04/2024</td>
+    <td>Anthony</td>
+    <td>Se agregaron las siguientes secciones: 
+    User Stories,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+    <tr>
+    <td>V1.2.2</td>
+    <td>17/04/2024</td>
+    <td>Enrique</td>
+    <td>Se agregaron las siguientes secciones: 
+  User Stories,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+  <tr>
+    <td>V1.2.3</td>
+    <td>19/04/2024</td>
     <td>Cristhian</td>
     <td>Se agregaron las siguientes secciones: 
   Student Outcome, Lean UX Assumptions ,Lean UX Canvas ,Analisis de Entrevistas,Ubiquitous Language,User Stories,Product Backlog,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
   </td>
   </tr>
-      <tr>
-    <td>V1.4</td>
-    <td>15/04/2024</td>
+  <tr>
+    <td>V1.2.4</td>
+    <td>21/04/2024</td>
     <td>Alfredo</td>
     <td>Se agregaron las siguientes secciones: 
-  Student Outcome,Lean UX Hypothesis Statements,User Personas,To-Be Scenario Mapping,User Stories,,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  User Stories,,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
   </td>
-  </tr>
-  
+  </tr>  
   <tr>
     <td>V 2.0</td>
     <td>29/04/2024</td>
