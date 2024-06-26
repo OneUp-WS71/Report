@@ -35,19 +35,52 @@ _____________________
   <tr>
     <td>V1.0</td>
     <td>13/04/2024</td>
-    <td>OneUp</td>
+    <td>Piero</td>
     <td>Se agregaron las siguientes secciones: 
-  Contenido, Student Outcome, Capítulo I, Capítulo II, Capítulo III, Capítulo IV  
+   Student Outcome,Descripcion de la StartUp,Perfiles de Integrantes del equipo,Analisis Competitivo,Registro de Entrevistas,User Task Matrix,User Stories,Impact Mapping,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
   </td>
   </tr>
   <tr>
-    <td>V 1.1</td>
+    <td>V1.1</td>
+    <td>15/04/2024</td>
+    <td>Anthony</td>
+    <td>Se agregaron las siguientes secciones: 
+   Student Outcome,Antecedentes y Problematica,Segmentos Objetivos,Estrategias y tacticas Frente a Competidores,Registro de Entrevistas,Empathy Mapping,User Stories,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+    <tr>
+    <td>V1.2</td>
+    <td>15/04/2024</td>
+    <td>Enrique</td>
+    <td>Se agregaron las siguientes secciones: 
+  Student Outcome, Lean UX Problem Statements,Diseño de Entrevistas,Registro de Entrevistas,As-Is Scenario Mapping,User Stories,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+      <tr>
+    <td>V1.3</td>
+    <td>15/04/2024</td>
+    <td>Cristhian</td>
+    <td>Se agregaron las siguientes secciones: 
+  Student Outcome, Lean UX Assumptions ,Lean UX Canvas ,Analisis de Entrevistas,Ubiquitous Language,User Stories,Product Backlog,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+      <tr>
+    <td>V1.4</td>
+    <td>15/04/2024</td>
+    <td>Alfredo</td>
+    <td>Se agregaron las siguientes secciones: 
+  Student Outcome,Lean UX Hypothesis Statements,User Personas,To-Be Scenario Mapping,User Stories,,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+  
+  <tr>
+    <td>V 2.0</td>
     <td>29/04/2024</td>
     <td>OneUp</td>
     <td>Se agrego el contenido que faltaba en la TB1 y se aplico del Capítulo I hasta el Capítulo IV las correcciones</td>
   </tr>
   <tr>
-    <td>V2.0</td>
+    <td>V3.0</td>
     <td>02/05/2024</td>
     <td>OneUp</td>
     <td>Se agregaron las siguientes secciones:
