@@ -4576,6 +4576,54 @@ De la misma manera el equipo se comprometió a trabajar de manera colaborativa, 
   </tr>
 </tbody></table>
 
+<h4>Mobile</h4>
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>9e9ae9604ce1a64646194211af8e4c0d156a9428</td>
+    <td>fix: profile_screen</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>452de27c1382ba016909ce30e2d475d21d3f04e5</td>
+    <td>fix: register patient</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>18da0ce887eefb5f0b619f95482e2047c19e1eda</td>
+    <td>fix: error endpoint</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-05</td>
+    <td>9144d389f5043c17a1799ed5adb1ecdbe171a25f</td>
+    <td>feat: add connection with api in locations</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-05</td>
+    <td>1e04d0d9134fa9bc82496f2256b927c525226bbe</td>
+    <td>feat: add connections database with homescreeen</td>
+    <td>27/06/2024</td>
+  </tr>
+</tbody></table>
+
 ### 6.2.3.4.Testing Suite Evidence for Sprint Review.
 ### 6.2.3.5.Execution Evidence for Sprint Review.
 
