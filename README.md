@@ -4531,6 +4531,15 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 ### 6.2.3.7.Software Deployment Evidence for Sprint Review.
 ### 6.2.3.8.Team Collaboration Insights during Sprint.
 
+En esta seccion se presentara la colaboracion del equipo durante el sprint. Se destacaran los aspectos clave de la colaboracion y la comunicacion del equipo, asi como los desafios y las lecciones aprendidas.
+
+<b>FrontEnd:</b>
+
+![](/Assets/FrontCollab1.png) 
+
+<b>BackEnd:</b>
+<b>Mobile:</b>
+
 # 6.3. Validation Interviews.
 
 ## 6.3.1. Diseño de Entrevistas.
