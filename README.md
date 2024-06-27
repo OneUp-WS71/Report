@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/Logo_Upc.png" alt="Logo" width="200"/>
+  <img src="/Assets/Logo_Upc.png" alt="Logo" width="200"/>
 </p>
 
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas</h3> 
@@ -206,9 +206,9 @@ _____________________
 
   **Desarrollo de las actividades del informe:**  
   + TB1: Para esta entrega se desarrollaron las secciones del capitulo I al capitulo IV, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
-  ![commits](/assets/Commits_tb1.png)
+  ![commits](/Assets/Commits_tb1.png)
   + TP: Para la entrega del TP se desarrollo las secciones del capitulo V al capitulo VI, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
-  ![CAP6](/assets/ContribucionCap6.png)
+  ![CAP6](/Assets/ContribucionCap6.png)
   + TB2: Para la entrega del TB2 se desarrollo las secciones del capitulo 6.2 al capitulo 6.4, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
  ![TB2](/Assets/githubReportb2.png)
 
@@ -335,22 +335,22 @@ Universitario que cursa el 8to ciclo de, teniendo 22 años. En mis ratos libres 
 + **Cristhian Orosco Orcotuma:** Estudio la carrera de Ingeniería de Software en la UPC. Me considero una persona detallista, amante de los animales, la música, sobre todo la tecnología y los videojuegos, en el futuro me gustaría crear un videojuego y tener mi propia empresa de videojuegos. Soy un chico al cual le gusta aprender todo tipo de cosas, porque considero que siempre uno debe estar preparado para todo. 
 
 
-    <img src="/assets/Cristhian_perfil_original.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+    <img src="/Assets/Cristhian_perfil_original.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 + **Anthony Samir Nuñez Martinez:** <br>
 Estudiante de Ingeniería de Software de 19 años en la Universidad Peruana de Ciencias y Tecnología, nacido el 15 de julio del 2004. Me gusta la música punk y desarrollo videojuegos en mi tiempo libre. Me gusta resolver problemas y buscar soluciones creativas o únicas a las cosas, inclusive cuando no es la forma más eficiente de hacerla, y soy una persona muy obsecionada con la puntualidad.
 
-    <img src="assets\profileAnthony.jpg" width="255" height="340" style="padding-top: 12px;padding-bottom: 12px;"><br> 
+    <img src="Assets\profileAnthony.jpg" width="255" height="340" style="padding-top: 12px;padding-bottom: 12px;"><br> 
 
 + **Enrique Aldhair Llatas Flores:** <br>
 Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 7mo ciclo de la carrera de Ingeniería de Software  tengo habilidades en frontend y backend, también cuento con conocimiento en margenes ágiles y otros lenguajes como C++ y C#. Espero seguir aumentando mis conocimientos durante este ciclo.En mis tiempos libres me gusta investigar sobre margenes agiles ,jugar  y hacer ejercicio. Me gusta escuchar rock
 
-  <img src="assets\enrique.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="Assets\enrique.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
   
 + **Alfredo Farro Caballero:**
 Soy Alfredo Farro, actualmente me encuentro cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me considero una persona con gran potencial para trabajar en grupo, ya que siempre buscó entregar todo a tiempo.
 
-  <img src="assets\alfredo.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="Assets\alfredo.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 
@@ -494,7 +494,7 @@ sabremos que hemos tenido éxito cuando veamos un uso de nuestro producto por 3 
 El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que
 tratamos de resolver, así como tener más claro nuestro modelo de negocio.
 
-![Canvas LINK ](/assets//LeanUxCanvas.png) 
+![Canvas LINK ](/Assets//LeanUxCanvas.png) 
 
 
 # 1.3. Segmentos objetivo.
@@ -673,7 +673,7 @@ Ante la diferenciación la competencia dijo que serian los relojos pero algo que
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 26 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Callao, Lima <br>
 
-![Maryfe](assets/EntrevistaCristhian.png)
+![Maryfe](Assets/EntrevistaCristhian.png)
 
 **Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 13:43 <br>
@@ -685,26 +685,26 @@ Maryfe no observa ninguna discapacidad adicional en la paciente aparte de sus pr
 ## 2.2.3. Análisis de entrevistas.
 De acuerdo a las entrevistas realizadas, los cuidadores de adultos mayores hacen uso de la tecnologia, se observa que los dispositivos que utilizan principalmente son las computadoras, laptops asi como los celulares. 
 
-![Dispositivos](assets/Dispositivos.png)
+![Dispositivos](Assets/Dispositivos.png)
 
 De la misma manera, se observa que los cuidadores de adultos mayores utilizan en su mayoria marcas de celulares con el sistema operativo Android.
 
-![Marcas](assets/Marcas.png)
+![Marcas](Assets/Marcas.png)
 
 En cuanto a los navegadores web, los cuidadores de adultos mayores utilizan principalmente Google Chrome.
 
-![Navegadores](assets/navegadorWeb.png)
+![Navegadores](Assets/navegadorWeb.png)
 
 En base las entrevistas se determino el segmento demografico de la siguiente manera: 
-![Edad](/assets/Edad.png)
+![Edad](/Assets/Edad.png)
 
-![Genero](/assets/Genero.png)
+![Genero](/Assets/Genero.png)
 
-![Distrito](/assets/Distrito.png)
+![Distrito](/Assets/Distrito.png)
 
 De la misma manera, se determino las habilidades personales de los segmentos objetivos en base a la observación y comportamiento en las entrevistas realizadas.
 
-![Habilidades](/assets/Habilidades.png)
+![Habilidades](/Assets/Habilidades.png)
 
 Asimismo, se destaca la importancia del monitoreo de diferentes aspectos de la salud de los adultos mayores, como la presión arterial y la frecuencia cardíaca. Los entrevistados resaltan la relevancia de incluir estos parámetros en la aplicación móvil y la pulsera inteligente para proporcionar un monitoreo integral de la salud de los pacientes. 
 # 2.3. Needfinding
@@ -759,7 +759,7 @@ User - Cuidador
 
 User - Supervisor
 
-<img src="assets\AsIs2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+<img src="Assets\AsIs2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 # 2.4. Ubiquitous Language
 
@@ -792,7 +792,7 @@ User - Cuidador
 
 User - Supervisor
 
-<img src="assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+<img src="Assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 
 # 3.2. User Stories
@@ -2247,7 +2247,7 @@ En esta sección presentamos las clases que se encargan de conectar con servicio
 
 A continuación, presentamos el component level diagram considerado para el DevicePurchaseContext.
 
-![](assets/c4_alfredo.png)
+![](Assets/c4_alfredo.png)
 
 ### 4.2.3.7. Bounded Context Software Architecture Code Level Diagrams.
 
@@ -2255,7 +2255,7 @@ A continuación, presentamos el component level diagram considerado para el Devi
 
 A continuación, presentamos el diagrama de clases del dominio considerado para el DevicePurchaseContext.
 
-![](assets/clases_alfredo.png)
+![](Assets/clases_alfredo.png)
 
 #### 4.2.3.7.2. Bounded Context Database Design Diagram.
 
@@ -2263,7 +2263,7 @@ A continuación, presentamos el diagrama de clases del dominio considerado para 
 
 A continuación, presentamos el diagrama de base de datos considerado para el DevicePurchaseContext.
 
-![](assets/clases_alfredo_2.png)
+![](Assets/clases_alfredo_2.png)
 
 
 
@@ -2814,7 +2814,7 @@ En esta sección presentamos las clases que se encargan de conectar con servicio
 
 A continuación, presentamos el component level diagram considerado para el ElderlyAdultOfferContext.
 
-<img src="assets\boundedcontext11.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\boundedcontext11.png" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 4\.2.4.7. Bounded Context Software Architecture Code Level Diagrams. 
@@ -2873,21 +2873,21 @@ Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicaci
 
 Para representar nuestro producto, se decantó por el siguiente logo, el cual representa a la pulsera inteligente cuidando de los adultos mayores que tiene encerrados. El corazón encima representaría tanto a la detección de pulso cardiaco como al cuidado que busca.
 
-<img src="assets\Logos\Logo_indigo.png" style="width: 30%;"><br>
+<img src="Assets\Logos\Logo_indigo.png" style="width: 30%;"><br>
 
 A partir de este logo, se diseñaron distintas variaciones de colores que se aplicarían de acuerdo al color que se tenga en el fondo.
 
-<img src="assets\Logos\Logo_indigo.png" style="width: 12%;">
-<img src="assets\Logos\Logo_negro.png" style="width: 12%;">
-<img src="assets\Logos\Logo_blanco.png" style="width: 12%;">
+<img src="Assets\Logos\Logo_indigo.png" style="width: 12%;">
+<img src="Assets\Logos\Logo_negro.png" style="width: 12%;">
+<img src="Assets\Logos\Logo_blanco.png" style="width: 12%;">
 
 <br>
 
 Por último, también se diseño un banner que contendría el logo y nombre del producto. Para este banner, se combinaron ambos aspectos para mantener continuidad entre ambos aspectos, otorgando un logo interesante de ver.
 
-<img src="assets\Logos\Logo_Banner.png" style="width: 50%;"><br>
+<img src="Assets\Logos\Logo_Banner.png" style="width: 50%;"><br>
 
-<img src="assets\Logos\Branding.png" style="width: 80%;"><br>
+<img src="Assets\Logos\Branding.png" style="width: 80%;"><br>
 
 ## 5.1.2. Web, Mobile and IoT Style Guidelines.
 
@@ -2899,19 +2899,19 @@ Para la lectura de la información, se tiene previsto que se manejará una canti
 
 Los elementos a utilizar para las aplicación son los siguientes:
 
-<img src="assets\inicio_sesion.png" style="width: 30%;">
+<img src="Assets\inicio_sesion.png" style="width: 30%;">
 <br><br>
-<img src="assets\header_oneup.png" style="width: 30%;">
+<img src="Assets\header_oneup.png" style="width: 30%;">
 <br><br>
-<img src="assets\medicine_appoint_switch.png" style="width: 30%;">
+<img src="Assets\medicine_appoint_switch.png" style="width: 30%;">
 <br><br>
-<img src="assets\opciones.png" style="width: 30%;">
+<img src="Assets\opciones.png" style="width: 30%;">
 <br><br>
-<img src="assets\emergency_notif.png" style="width: 30%;">
+<img src="Assets\emergency_notif.png" style="width: 30%;">
 <br><br>
-<img src="assets\corazon.png" style="width: 30%;">
+<img src="Assets\corazon.png" style="width: 30%;">
 <br><br>
-<img src="assets\alarma_card.png" style="width: 30%;">
+<img src="Assets\alarma_card.png" style="width: 30%;">
 <br><br>
 
 
@@ -2990,10 +2990,10 @@ En el menú inferior de la aplicación móvil, se pueden acceder a las siguiente
 ## 5.2.4. Searching Systems.
 Para mejorar la experiencia del usuario al buscar recordatorios de medicación o citas médicas, así como datos históricos de salud del adulto mayor en nuestra aplicación móvil, hemos implementado un sistema de búsqueda. Este sistema proporciona a los usuarios opciones principales para encontrar la información que necesitan de manera eficiente.
 **Búsqueda por nombre de recordatorio:** Los usuarios pueden buscar recordatorios de medicación o citas médicas específicos ingresando el nombre asociado al recordatorio. Esta función permite a los usuarios encontrar rápidamente los recordatorios relacionados con un medicamento o una cita médica en particular.
-![Busqueda nombre](/assets/searching%201.png)
+![Busqueda nombre](/Assets/searching%201.png)
 
 **Filtro de búsqueda por fecha de los datos historicos de salud del adulto mayor:** Utilizando los datos de salud recopilados por la pulsera del adulto mayor, hemos integrado un filtro de búsqueda por fecha. Los usuarios pueden especificar un rango de fechas para buscar registros históricos de presión arterial, temperatura corporal, nivel de actividad, entre otros datos biométricos. Este filtro de búsqueda permite a los usuarios obtener información detallada sobre la salud del adulto mayor en un período específico, lo que puede ser útil para el seguimiento y la gestión de su bienestar.
-![Busqueda fecha ](/assets//searching%202.png)
+![Busqueda fecha ](/Assets//searching%202.png)
 
 
 Estas funciones de búsquedase han agregaron para mejorar la accesibilidad y la eficiencia en la recuperación de información relevante para el cuidado del adulto mayor. Al proporcionar tanto la opción de búsqueda por nombre como el filtro por fecha, garantizamos que los usuarios puedan acceder fácilmente a los datos específicos que necesitan, ya sea para administrar la medicación, programar citas médicas o monitorear la salud general del adulto mayor.
@@ -3003,13 +3003,13 @@ Estas funciones de búsquedase han agregaron para mejorar la accesibilidad y la 
 Para poder navegar dentro de la aplicación, se va a añadir las siguientes secciones:
 
 <br><br>
-<img src="assets\searching_system_1.PNG" style="width: 30%;">
+<img src="Assets\searching_system_1.PNG" style="width: 30%;">
 <br><br>
-<img src="assets\searching_system_2.PNG" style="width: 80%;">
+<img src="Assets\searching_system_2.PNG" style="width: 80%;">
 <br><br>
-<img src="assets\header_oneup.png" style="width: 80%;">
+<img src="Assets\header_oneup.png" style="width: 80%;">
 <br><br>
-<img src="assets\opciones.png" style="width: 80%;">
+<img src="Assets\opciones.png" style="width: 80%;">
 <br><br>
 
 # 5.3. Landing Page UI Design.
@@ -3044,27 +3044,27 @@ A continuación, se muestran los diseños elaborados de acuerdo a las funcionali
 
 **Mobile Application Wireframes**  
 Registro de Usuario (Cuidador)
-![Registro de Usuario (Cuidador)](/assets/Register.png)
+![Registro de Usuario (Cuidador)](/Assets/Register.png)
 Inicio de Sesión 
-![Inicio de Sesión](/assets/Login.png)
+![Inicio de Sesión](/Assets/Login.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
-![Home](assets/Home.png)
+![Home](Assets/Home.png)
 Ubicacion del Adulto Mayor
-![Ubicacion](/assets/UbicacionLocation.png)
+![Ubicacion](/Assets/UbicacionLocation.png)
 Recordatorios de las citas medicas y medicamentos
-![Recordatorios](/assets/reminders.png)
+![Recordatorios](/Assets/reminders.png)
 Perfil del adulto mayor
-![Perfil](/assets/Profile.png)
+![Perfil](/Assets/Profile.png)
 Sincronización de la pulsera
-![Sincronización](/assets/Connection.png)
+![Sincronización](/Assets/Connection.png)
 
 **Web Application Wireframes**<br>
 Registro de usuario <br>
-<img src="assets\LoginWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\LoginWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Compra de producto<br>
-<img src="assets\compraWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\compraWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Pagina Principalz<br>
-<img src="assets\DashWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\DashWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 ## 5.4.2. Applications Wireflow Diagrams.
 
 **User Goal 1 : Verificar ritmo cardiaco**
@@ -3073,7 +3073,7 @@ Pagina Principalz<br>
 
 - Unhappy Path: <br>Se ha generado una alarma de ritmo cardiaco no regular.
 
-<img src="assets\UG_1_WF.jpg" style="width: 80%;"><br>
+<img src="Assets\UG_1_WF.jpg" style="width: 80%;"><br>
 
 **User Goal 2 : Ver localización del adulto mayor**
 
@@ -3081,7 +3081,7 @@ Pagina Principalz<br>
 
 - Unhappy Path: <br>No se puede detectar la posición del adulto mayor, ya que este está afuera del área restringida.
 
-<img src="assets\UG_2_WF.jpg" style="width: 80%;"><br>
+<img src="Assets\UG_2_WF.jpg" style="width: 80%;"><br>
 
 **User Goal 3 : Añadir un recordatorio de medicamento**
 
@@ -3089,7 +3089,7 @@ Pagina Principalz<br>
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="assets\UG_3_WF.jpg" style="width: 80%;"><br>
+<img src="Assets\UG_3_WF.jpg" style="width: 80%;"><br>
 
 **User Goal 4 : Añadir un recordatorio de cita médica**
 
@@ -3097,7 +3097,7 @@ Pagina Principalz<br>
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="assets\UG_4_WF.jpg" style="width: 80%;"><br>
+<img src="Assets\UG_4_WF.jpg" style="width: 80%;"><br>
 
 **User Goal 5 : Connección con el dispositivo**
 
@@ -3105,33 +3105,33 @@ Pagina Principalz<br>
 
 - Unhappy Path: <br>El dispositivo no llega a conectarse.
 
-<img src="assets\UG_5_WF.jpg" style="width: 80%;"><br>
+<img src="Assets\UG_5_WF.jpg" style="width: 80%;"><br>
 
 ## 5.4.3. Applications Mock-ups.
 A continuación, se presentan los mock-ups de la aplicación ElderlyCare, diseñados para brindar una experiencia de usuario intuitiva y atractiva.
 **Mobile Application Mock-ups**  
 Registro de Usuario (Cuidador)
-![Registro de Usuario](/assets/MRegister.png)
+![Registro de Usuario](/Assets/MRegister.png)
 Inicio de Sesión 
-![Inicio de Sesión](/assets/MLogin.png)
+![Inicio de Sesión](/Assets/MLogin.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
-![Home](assets/MHome.png)
+![Home](Assets/MHome.png)
 Ubicaion del Adulto Mayor
-![Ubicacion](/assets/MLocation.png)
+![Ubicacion](/Assets/MLocation.png)
 Recordatorios de las citas medicas y medicamentos
-![Recordatorios](/assets/MReminder.png)
+![Recordatorios](/Assets/MReminder.png)
 Perfil del adulto mayor
-![Perfil](/assets/MProfile.png)
+![Perfil](/Assets/MProfile.png)
 Sincronización de la pulsera
-![Sincronización](/assets/MConnection.png)
+![Sincronización](/Assets/MConnection.png)
 
 **Web Application Mock-ups**
 Registro de usuario <br>
-<img src="assets\LoginWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\LoginWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Compra de producto<br>
-<img src="assets\compraWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\compraWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Pagina Principalz<br>
-<img src="assets\DashWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\DashWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 5.4.4. Applications User Flow Diagrams.
 
@@ -3143,7 +3143,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>Se ha generado una alarma de ritmo cardiaco no regular.
 
-<img src="assets\userflow_1.jpg" style="width: 80%;"><br>
+<img src="Assets\userflow_1.jpg" style="width: 80%;"><br>
 
 **User Goal 2 : Ver localización del adulto mayor**
 
@@ -3151,7 +3151,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>No se puede detectar la posición del adulto mayor, ya que este está afuera del área restringida.
 
-<img src="assets\userflow_2.jpg" style="width: 80%;"><br>
+<img src="Assets\userflow_2.jpg" style="width: 80%;"><br>
 
 **User Goal 3 : Añadir un recordatorio de medicamento**
 
@@ -3159,7 +3159,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="assets\userflow_3.jpg" style="width: 80%;"><br>
+<img src="Assets\userflow_3.jpg" style="width: 80%;"><br>
 
 **User Goal 4 : Añadir un recordatorio de cita médica**
 
@@ -3167,7 +3167,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="assets\userflow_4.jpg" style="width: 80%;"><br>
+<img src="Assets\userflow_4.jpg" style="width: 80%;"><br>
 
 **User Goal 5 : Connección con el dispositivo**
 
@@ -3175,26 +3175,26 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>El dispositivo no llega a conectarse.
 
-<img src="assets\userflow_5.jpg" style="width: 80%;"><br>
+<img src="Assets\userflow_5.jpg" style="width: 80%;"><br>
 
 
 **Web Diagram Flow**
 | User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\LoginWebM.png" style="width: 80%;">                                  |                                                                        
-| User Flow |     <img src="assets\LoginLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\LoginWebM.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="Assets\LoginLucid.png" style="width: 80%;">                                 |
                                                                                       
 
 | User Goal | Como usuario deseo poder comprar  OneUp ElderlyCare en la pagina web                      |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\compraWebM.png" style="width: 80%;">                                   |                                                                        
-| User Flow |     <img src="assets\ProductLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\compraWebM.png" style="width: 80%;">                                   |                                                                        
+| User Flow |     <img src="Assets\ProductLucid.png" style="width: 80%;">                                 |
 
 
 | User Goal | Como usuario quiero editar información personal .                                         |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\DashWebM.png" style="width: 80%;">                                  |                                                                        
-| User Flow |     <img src="assets\ProfileLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\DashWebM.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="Assets\ProfileLucid.png" style="width: 80%;">                                 |
 
 
 
@@ -3203,19 +3203,19 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 | User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\LoginWebW.png" style="width: 80%;">                                  |                                                             
-| User Flow |     <img src="assets\LoginLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\LoginWebW.png" style="width: 80%;">                                  |                                                             
+| User Flow |     <img src="Assets\LoginLucid.png" style="width: 80%;">                                 |
                                                                                       
 | User Goal | Como usuario deseo poder comprar  OneUp ElderlyCare en la pagina web                      |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\compraWebW.png" style="width: 80%;">                                   |                                                                        
-| User Flow |     <img src="assets\ProductLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\compraWebW.png" style="width: 80%;">                                   |                                                                        
+| User Flow |     <img src="Assets\ProductLucid.png" style="width: 80%;">                                 |
 
 
 | User Goal | Como usuario quiero editar información personal .                                         |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\DashWebW.png" style="width: 80%;">                                  |                                                                        
-| User Flow |     <img src="assets\ProfileLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\DashWebW.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="Assets\ProfileLucid.png" style="width: 80%;">                                 |
 
 
 
@@ -3228,31 +3228,31 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 **User Goal 1 : Verificar ritmo cardiaco**
 
-<img src="assets\prototype_flow1.PNG" style="width: 90%;"><br>
+<img src="Assets\prototype_flow1.PNG" style="width: 90%;"><br>
 
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/ETkyVRuohT1IpFk5W6PZx3YBgk793paCEtnStCCSekvUaQ?e=uKYS6o](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/ETkyVRuohT1IpFk5W6PZx3YBgk793paCEtnStCCSekvUaQ?e=uKYS6o)
 
 **User Goal 2 : Ver localización del adulto mayor**
 
-<img src="assets\prototype_flow2.PNG" style="width: 90%;"><br>
+<img src="Assets\prototype_flow2.PNG" style="width: 90%;"><br>
 
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EUeJ9gi1cHVHgkbSw5gEe9kBxKaArn8apXZKvG37cxUBcw?e=auXL6y](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EUeJ9gi1cHVHgkbSw5gEe9kBxKaArn8apXZKvG37cxUBcw?e=auXL6y)
 
 **User Goal 3 : Añadir un recordatorio de medicamento**
 
-<img src="assets\prototype_flow3.PNG" style="width: 90%;"><br>
+<img src="Assets\prototype_flow3.PNG" style="width: 90%;"><br>
 
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQM-KSVWnEdHuaeaNQT-XKoBRsNG4n-fxPvw2OVKbMMS8w?e=2ByzC0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQM-KSVWnEdHuaeaNQT-XKoBRsNG4n-fxPvw2OVKbMMS8w?e=2ByzC0)
 
 **User Goal 4 : Añadir un recordatorio de cita médica**
 
-<img src="assets\prototype_flow4.PNG" style="width: 90%;"><br>
+<img src="Assets\prototype_flow4.PNG" style="width: 90%;"><br>
 
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EV1m-G3IZfxCvmMT5HLvFZsBgUjxSp_u0N7Z0_etKEMteA?e=QASfip](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EV1m-G3IZfxCvmMT5HLvFZsBgUjxSp_u0N7Z0_etKEMteA?e=QASfip)
 
 **User Goal 5 : Connección con el dispositivo**
 
-<img src="assets\prototype_flow5.PNG" style="width: 90%;"><br>
+<img src="Assets\prototype_flow5.PNG" style="width: 90%;"><br>
 
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EakehguTJbRLrYVZETYtGlcBHHXkqauMt6oCdW18sKK0bw?e=TCLNuf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EakehguTJbRLrYVZETYtGlcBHHXkqauMt6oCdW18sKK0bw?e=TCLNuf)
 
@@ -3263,19 +3263,19 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 ## 6.1.1. Software Development Environment Configuration.
 ### **Project Management**
 Se emplearon herramientas de software que permiten la comunicación en tiempo real y la edición rápida y compartida, lo que facilitó el trabajo eficiente. Algunas de las herramientas utilizadas fueron los servicios de Google (Drive, Documents, Meet) y Microsoft Outlook. Para el registro de versiones y la creación de repositorios se utilizó GitHub, una plataforma que permite registrar de manera ordenada cada uno de los commits realizados y Git  una herramienta que permite el control de versiones.
-![github](/assets/github.jpg) 
+![github](/Assets/github.jpg) 
 ### **Product UX/UI Design**
 Se utilizó Miro y UXPressia para el desarrollo de los segmentos objetivos y sus mapeos, así como para los As-Is y To-Be Scenario Maps. Para los mockups, wireframes, wireflows y el prototipo de la aplicación web se empleó Figma.
 
 ### **Software Development**
 Para el desarrollo del software se utilizó Visual Studio Code, HTML, CSS, Bootstrap y Javascript. Visual Studio Code es un software que admite muchos lenguajes de programación, incluyendo HTML y CSS, y fue utilizado principalmente para el Landing Page. HTML se utilizó para el desarrollo de la estructura de las páginas web, CSS para el diseño y presentación, Bootstrap para crear interfaces más limpias y responsive, y Javascript para implementar la interactividad dinámica y animaciones en el Landing Page.<br>
-![visual](/assets/visual%20studio.png) 
+![visual](/Assets/visual%20studio.png) 
 También se está desarrollando la aplicación móvil emppleando el framework Flutter, la cual es multiplataforma. Sin embargo, no se utiliza Flutter solo por su responsiveness, sino que se eligió por el uso de distintos componentes que permite darle una estética más personalizado. El lenguaje en uso para el desarrollo de la aplicación móvil es Dart.
-![visual](/assets/android%20studio.png)
+![visual](/Assets/android%20studio.png)
 Asimismo, se utilizo Vue para el desarrollo de la aplicación web, un framework progresivo de JavaScript que permite crear interfaces de usuario interactivas y dinámicas.
-![vue](/assets//vue.jpg)
+![vue](/Assets//vue.jpg)
 Para el desarrollo del backend se utilizó Node.js, un entorno de ejecución de JavaScript que permite ejecutar código JavaScript en el servidor.
-![node](/assets/node.png)
+![node](/Assets/node.png)
 ### **Software Testing**
 Para probar el Landing Page se utilizó la extensión LiveShare de Visual Studio Code, que permite crear un localhost para ver en tiempo real los cambios realizados. Para los test de aceptación se utilizó el lenguaje Gherkin y se subió al repositorio mencionado anteriormente.
 
@@ -3500,12 +3500,12 @@ En este punto, se dara a conocer el proceso de despliegue de las aplicaciones, a
 Para desplegar la Landing Page, se utilizó GitHub Pages, una plataforma gratuita que permite alojar sitios web estáticos directamente desde un repositorio de GitHub. El proceso de despliegue fue el siguiente:
 1. Crear un repositorio en GitHub con el código de la Landing Page.
 2. Acceder a la configuración del repositorio y habilitar GitHub Pages.
-![landing](/assets/landing%20deploy%201.png)
+![landing](/Assets/landing%20deploy%201.png)
 
 3. Seleccionar la rama y la carpeta de origen del sitio web.
 4. Guardar la configuración y obtener la URL del sitio web desplegado.
 5. Finalmente, acceder a la URL del sitio web para verificar que se haya desplegado correctamente.
-![page](/assets/landing%20deploy%202.png)
+![page](/Assets/landing%20deploy%202.png)
 
 + Enlace de la Landing Page desplegada: https://oneup-ws71.github.io/landign-page/
 
@@ -3520,10 +3520,10 @@ Inicia sesión en Netlify y ve al panel de control.
 Hacer clic en el botón "New site from Git" (Nuevo sitio desde Git).
 Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
 Seleccionar el repositorio que contiene la página web.
-![front](/assets/netlify.png)
+![front](/Assets/netlify.png)
 + Configurar las Opciones de Despliegue:
 Netlify detectará automáticamente la configuración de tu proyecto. Si necesitas ajustes adicionales, como la configuración del directorio de compilación, puedes establecerlos en la sección de configuración de tu sitio.
-![front2](/assets/netlify%202.png)
+![front2](/Assets/netlify%202.png)
 + Despliegue Automático:
 Activa la opción de "Deploy site" (Desplegar sitio) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
 + Verificar el Despliegue:
@@ -3541,11 +3541,11 @@ Crea un nuevo proyecto y selecciona "Backend" como tipo de proyecto.
 Conectar el Repositorio:
 Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
 Selecciona el repositorio que contiene tu backend.
-![back](/assets/railway.png)
+![back](/Assets/railway.png)
 + Configurar el Entorno:
 Railway detectará automáticamente el tipo de backend que estás utilizando y configurará el entorno según sea necesario.
 Si tu backend necesita variables de entorno específicas, como claves API o configuraciones de base de datos, puedes establecerlas en la sección de configuración de tu proyecto.
-![back2](/assets/railway2.png)
+![back2](/Assets/railway2.png)
 + Despliegue Automático:
 Activar la opción de "Auto Deploy" (Despliegue Automático) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
 + Verificar el Despliegue:
@@ -3722,10 +3722,10 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
 
 Esta seccion se centrara en la ejecucion de la aplicación durante el sprint. Se visualizara la navegacion del landing page como la de la pagina web, de esta manera se destacaran las caracteristicas y funcionalidades implementadas en la aplicacación.
 + Landing Page: 
-![page](/assets/landing%20deploy%202.png)
+![page](/Assets/landing%20deploy%202.png)
 Enlace de la navegacion del landing page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EZTD_-0Y6wpFu2RDXbsQZvgB9MRhNlWynKjaJBZzJ614rA?e=vLAKlw 
 + Web Application:
-![web](/assets//webApp.png)
+![web](/Assets//webApp.png)
 Enlace de la navegacion de la pagina web: https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FVideos%2FVideo%5FFrontEnd%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E515614d5%2Dbb95%2D4b78%2D81f4%2D5dfcb0a715bb 
 
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -3755,12 +3755,12 @@ Aqui se presentara la documentacion relacionada con los EndPoints de la aplicaci
 En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
 Para llevar a cabo la automatizacion del despliegue del landing page, se utilizaron las herramientas de Github Pages, esta plataforma permite alojar sitios web estáticos directamente desde un repositorio de GitHub: https://oneup-ws71.github.io/landign-page/
 
-![Front](/assets/DespliegueLanding.png)
+![Front](/Assets/DespliegueLanding.png)
 De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
-![Lainding](/assets/DespliegueFront.png) 
+![Lainding](/Assets/DespliegueFront.png) 
 ### 6.2.1.8. Team Collaboration Insights during Sprint
 Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro del equipo de desarrollo durante el sprint .Esto incluira la colaboracion,resolucion de problemas y la gestion de tareas.
-<img src="assets\DiscordGroup.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\DiscordGroup.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 6.2.2. Sprint 2
 
@@ -4584,7 +4584,7 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
 
   <h4>Frontend  Evidence</h4>
   
-  ![Frontend](/assets/FrontEvidence.png)
+  ![Frontend](/Assets/FrontEvidence.png)
   
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EZULU8XZauZJrcY_k6ZTSxIBGbvka7i60XUc-y_YpioM5A?e=wdID4o 
 
@@ -4592,7 +4592,7 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
   
   <b>Enlace:</b>
 
-  ![Embedded](/assets/embeddedAplication.png)
+  ![Embedded](/Assets/embeddedAplication.png)
 
   <b>Enlance:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/EbueAyh2zMpGvYHwXlTRnMoBRmEnmV6UpMor8xI6dixvMQ?e=ve5UG6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
@@ -4626,11 +4626,11 @@ En esta seccion se describira el proceso de implementacion del software en un en
 <b>Despliegue del Backend:</b>
 Para llevar a cabo la automatizacion del despliegue del backend, se utilizaron las herramientas de  railway,  esta plataforma permite alojar servicios estáticos directamente desde un repositorio de GitHub: https://github.com/OneUp-WS71/back-end-application
 
-  <img src="assets\railway_deployment_1.PNG"><br>
+  <img src="Assets\railway_deployment_1.PNG"><br>
 
 <b>Despliegue del Frontend:</b>
 De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
-![Lainding](/assets/DespliegueFront.png) 
+![Lainding](/Assets/DespliegueFront.png) 
 
 De la misma manera para el desarrollo del movil app se utilizo 
 
@@ -5109,7 +5109,7 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
 
   <h4>Frontend  Evidence</h4>
   
-  ![Frontend](/assets/FrontEvidence.png)
+  ![Frontend](/Assets/FrontEvidence.png)
   
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EZULU8XZauZJrcY_k6ZTSxIBGbvka7i60XUc-y_YpioM5A?e=wdID4o 
 
@@ -5117,7 +5117,7 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
   
   <b>Enlace:</b>
 
-  ![Embedded](/assets/embeddedAplication.png)
+  ![Embedded](/Assets/embeddedAplication.png)
 
   <b>Enlance:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/EbueAyh2zMpGvYHwXlTRnMoBRmEnmV6UpMor8xI6dixvMQ?e=ve5UG6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
@@ -5154,11 +5154,11 @@ En esta seccion se describira el proceso de implementacion del software en un en
 <b>Despliegue del Backend:</b>
 Para llevar a cabo la automatizacion del despliegue del backend, se utilizaron las herramientas de  railway,  esta plataforma permite alojar servicios estáticos directamente desde un repositorio de GitHub: https://github.com/OneUp-WS71/back-end-application
 
-  <img src="assets\railway_deployment_1.PNG"><br>
+  <img src="Assets\railway_deployment_1.PNG"><br>
 
 <b>Despliegue del Frontend:</b>
 De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
-![Lainding](/assets/DespliegueFront.png) 
+![Lainding](/Assets/DespliegueFront.png) 
 
 De la misma manera para el desarrollo del movil app se utilizo 
 
@@ -5205,7 +5205,7 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 <b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay <br>
 <b>Edad :</b> 26 años <br>
 <b>Distrito:</b> Callao, Lima <br>
-![EntrevistaCris](/assets/EntrevistaCris2.png) <br>
+![EntrevistaCris](/Assets/EntrevistaCris2.png) <br>
 <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b> <br>
 <b>Duracion:</b> 00:11:05 <br>
@@ -5231,7 +5231,7 @@ En resumen, Juan valoró positivamente la aplicación, reconociendo su potencial
 <b>Nombre y Apellidos :</b> Jonathan Curi <br>
 <b>Edad :</b> 22 años <br>
 <b>Distrito:</b> Carabayllo, Lima <br>
-![EntrevistaJonathan](/assets/entrevistaJonathan.png)  <br>
+![EntrevistaJonathan](/Assets/entrevistaJonathan.png)  <br>
 <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b> Minuto 00:00:00 <br>
 <b>Duracion:</b> 00:04:29
@@ -5280,7 +5280,7 @@ Abraham agradece la entrevista y concluye que la aplicación tiene potencial y e
 <b>Nombre y Apellidos :</b> Raquel Lili Melany Romero Martinez <br>
 <b>Edad :</b> 24 años <br>
 <b>Distrito:</b> Villa María, Nuevo Chimbote <br>
-<img src="assets\Screeshot_Raquel_Interview_Validation.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Screeshot_Raquel_Interview_Validation.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b> 28:26 <br>
 <b>Duracion:</b> 6:17 <br>
