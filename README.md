@@ -641,7 +641,7 @@ Jordi es un estudiante de enfermo (Universidad Jose Faustino Sanchez Carrión) e
 Lo importante a realizar a un abuelo es que no les genere ulceras por presión, esto sucede porque para mucho tiempo postrados en cama o sentados, sus huesos comiencen a rozar con su piel. Por eso si se usaran una pulsera deben ser productos no lacerantes, algodón estaria bien<br>
 En caso de que los abuelos quieran irse es una constante cuando se les saca de paseo, ya que necesitan estimulación tanto fisica como mental. <br>
 En caso del producto es necesario para los pacientes de hipertensión, ya que es necesario revisar su presión o que tomen sus pastillas a tiempo, sino podrian caer en un taquicardia o un paro cardiaco. En estos casos es una revisión cada 8 horas o 3 veces al dia. <br>
-Ante la diferenciación la competencia dijo que serian los relojos pero algo que no tienen es la presión, eso seria relevante<br>
+Ante la diferenciación la competencia dijo que serian los relojos pero algo que no tienen es la presión, eso seria relevante<br> Y nos comento que usa un computadora Windows y Celular Android
 
 
 
