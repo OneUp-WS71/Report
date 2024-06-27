@@ -5043,6 +5043,10 @@ BackEnd Application
 
 
 ### 6.2.3.6.Services Documentation Evidence for Sprint Review.
+<b>Backend Edge </b>
+
+![](/Assets/GateWay.png) 
+
 ### 6.2.3.7.Software Deployment Evidence for Sprint Review.
 
 En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
