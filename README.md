@@ -6,7 +6,7 @@
 <h4 align="center"> Ingeniería de Sistemas y Computación | Ingeniería de Software  </h4>
 <h4 align="center"> Desarrollo de Soluciones IOT </h4>
 <h4 align="center"> Informe de Trabajo Parcial  </h4>
-f
+
 ### Startup: OneUp
 #### Team Members 
 + Liberato Susanibar, Piero Anthony_U20181H057
