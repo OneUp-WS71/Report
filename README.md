@@ -4804,6 +4804,68 @@ De la misma manera el equipo se comprometió a trabajar de manera colaborativa, 
   </tr>
 </tbody></table>
 
+
+
+
+
+
+
+BackEnd Application
+
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/main</td>
+    <td>f5fdd6c1d58c31e5eb3cf554cc84c3ea45cdd760</td>
+    <td>feat: Validate Username</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/main</td>
+    <td>717c4c6d4773d389ab73ef2997da00d9b0526c6a</td>
+    <td>Fixing Update User</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/device-context</td>
+    <td>f32999a6fdd612c714aa87f5d65bd4992f29136a</td>
+    <td>adding get patient by device</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+     <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/product-context</td>
+    <td>080ff17185c0fc0137849e0aa9fc259975f5bcff</td>
+    <td>Update of post product</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+  <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/product-context</td>
+    <td>15653cad6e7a5e480254481e331df1f9f02911e7</td>
+    <td>Update product model</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+ <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/report-context</td>
+    <td>93aa380ced7f1410b4666d95264be89ba307ac2d</td>
+    <td>ixing Endpointsf</td>
+    <td>26/06/2024</td>
+  </tr>
+</tbody></table>
+
 ### 6.2.3.4.Testing Suite Evidence for Sprint Review.
 ### 6.2.3.5.Execution Evidence for Sprint Review.
 
