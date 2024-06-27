@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="/assets/Logo_Upc.png" alt="Logo" width="200"/>
+  <img src="/Assets/Logo_Upc.png" alt="Logo" width="200"/>
 </p>
 
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas</h3> 
 <h4 align="center"> Ingeniería de Sistemas y Computación | Ingeniería de Software  </h4>
 <h4 align="center"> Desarrollo de Soluciones IOT </h4>
 <h4 align="center"> Informe de Trabajo Parcial  </h4>
-
+f
 ### Startup: OneUp
 #### Team Members 
 + Liberato Susanibar, Piero Anthony_U20181H057
@@ -18,7 +18,7 @@
 #### Profesor: Angel Augusto Velasquez Nuñez 
 #### Producto: ElderlyCare                         
 #### Ciclo: 2024-01
-<h4 align="center "> Abril, 2024</h4>  
+<h4 align="center "> Junio, 2024</h4>  
 
 _____________________
 ## Registro de versiones del informe 
@@ -34,42 +34,169 @@ _____________________
 <tbody>
   <tr>
     <td>V1.0</td>
-    <td>13/04/2024</td>
-    <td>OneUp</td>
+    <td>01/04/2024</td>
+    <td>Piero</td>
     <td>Se agregaron las siguientes secciones: 
-  Contenido, Student Outcome, Capítulo I, Capítulo II, Capítulo III, Capítulo IV  
+   Contenido,Student Outcome,Descripcion de la StartUp
+  </td>
+  </tr>
+    <tr>
+    <td>V1.1.0</td>
+    <td>03/04/2024</td>
+    <td>Piero</td>
+    <td>Se agregaron las siguientes secciones: 
+   Perfiles de Integrantes del equipo,Analisis Competitivo,Registro de Entrevistas,User Task Matrix
   </td>
   </tr>
   <tr>
-    <td>V 1.1</td>
+    <td>V1.1.1</td>
+    <td>05/04/2024</td>
+    <td>Anthony</td>
+    <td>Se agregaron las siguientes secciones: 
+   Student Outcome,Antecedentes y Problematica,Segmentos Objetivos,Estrategias y tacticas Frente a Competidores,Registro de Entrevistas,Empathy Mapping
+  </td>
+  </tr>
+    <tr>
+    <td>V1.1.2</td>
+    <td>07/04/2024</td>
+    <td>Enrique</td>
+    <td>Se agregaron las siguientes secciones: 
+  Student Outcome, Lean UX Problem Statements,Diseño de Entrevistas,Registro de Entrevistas,As-Is Scenario Mapping
+  </td>
+  </tr>
+  <tr>
+    <td>V1.1.3</td>
+    <td>09/04/2024</td>
+    <td>Cristhian</td>
+    <td>Se agregaron las siguientes secciones: 
+  Student Outcome, Lean UX Assumptions ,Lean UX Canvas ,Analisis de Entrevistas,Ubiquitous Language
+  </td>
+  </tr>
+      <tr>
+    <td>V1.1.4</td>
+    <td>11/04/2024</td>
+    <td>Alfredo</td>
+    <td>Se agregaron las siguientes secciones: 
+  Student Outcome,Lean UX Hypothesis Statements,User Personas,To-Be Scenario Mapping
+  </td>
+  </tr>
+   <tr>
+    <td>V1.2.0</td>
+    <td>13/04/2024</td>
+    <td>Piero</td>
+    <td>Se agregaron las siguientes secciones: 
+   User Stories,Impact Mapping,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+  <tr>
+    <td>V1.2.1</td>
+    <td>15/04/2024</td>
+    <td>Anthony</td>
+    <td>Se agregaron las siguientes secciones: 
+    User Stories,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+    <tr>
+    <td>V1.2.2</td>
+    <td>17/04/2024</td>
+    <td>Enrique</td>
+    <td>Se agregaron las siguientes secciones: 
+  User Stories,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+  <tr>
+    <td>V1.2.3</td>
+    <td>19/04/2024</td>
+    <td>Cristhian</td>
+    <td>Se agregaron las siguientes secciones: 
+  Student Outcome, Lean UX Assumptions ,Lean UX Canvas ,Analisis de Entrevistas,Ubiquitous Language,User Stories,Product Backlog,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>
+  <tr>
+    <td>V1.2.4</td>
+    <td>21/04/2024</td>
+    <td>Alfredo</td>
+    <td>Se agregaron las siguientes secciones: 
+  User Stories,,Strategic Level Domain-Driven Design,Tactical-Level Domain-Driven Design
+  </td>
+  </tr>  
+  <tr>
+    <td>V 1.3</td>
     <td>29/04/2024</td>
     <td>OneUp</td>
     <td>Se agrego el contenido que faltaba en la TB1 y se aplico del Capítulo I hasta el Capítulo IV las correcciones</td>
   </tr>
   <tr>
-    <td>V2.0</td>
-    <td>02/05/2024</td>
-    <td>OneUp</td>
-    <td>Se agregaron las siguientes secciones:
+    <td>V 2.0</td>
+    <td>01/05/2024</td>
+    <td>Piero </td>
+    <td>Se agregaron las siguientes secciones al Contenido :
     Capítulo V, Capítulo VI, Avance de Conclusiones, Bibliografía y Anexos</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <tr>
+    <td>V 2.1.0</td>
+    <td>01/05/2024</td>
+    <td>Piero</td>
+    <td>General Style Guideline,Searching Systems,Applications Wireflow Diagrams,Source Code Management</td>
+  </tr>
+    <tr>
+    <td>V 2.1.1</td>
+    <td>02/05/2024</td>
+    <td>Anthony</td>
+    <td> Web,Mobile and Iot Style Guidelines,Navigation Systems,Applications Mock-Ups,Software Development Environment Configuration</td>
+  </tr>
+    <tr>
+    <td>V 2.1.2</td>
+    <td>03/05/2024</td>
+    <td>Enrique</td>
+    <td>Se agregaron las siguientes secciones:
+       Organization Systems,Landing Page Wireframe,Applications User Flow Diagrams,Source Code Style Guide & Conventions </td>
+  </tr>
+     <tr>
+    <td>V 2.1.3</td>
+    <td>04/05/2024</td>
+    <td>Alfredo</td>
+    <td>Se agregaron las siguientes secciones:
+      Labeling Systems,Landing page Mock-UP,Applications Prototyping,Sofware Deployment Configuration
+    </td>
+  </tr>
+       <tr>
+    <td>V 2.1.4</td>
+    <td>05/05/2024</td>
+    <td>Cristhian</td>
+    <td>Se agregaron las siguientes secciones:
+      SEO Tags and Meta Tags,Applications Wireframes,Sofware Development Environment Configuration
+     </td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>V3.1.1</td>
+    <td>08/06/2024</td>
+    <td>Piero</td>
+    <td>Testing Suite Evidence for Sprint Review,Sprint Planning,Sprint Backlog</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>V3.1.1</td>
+    <td>10/06/2024</td>
+    <td>Enrique</td>
+    <td>Execution Evidence For Sprint Review,Sprint Planning,Sprint Backlog </td>
+  </tr>
+  <tr>
+    <td>V3.1.2</td>
+    <td>13/06/2024</td>
+    <td>Cristhian</td>
+    <td>Services Documentation Evidence For Sprint Review,Sprint Planning,Sprint Backlog</td>
+  </tr>
+  <tr>
+    <td>V3.1.3</td>
+    <td>16/06/2024</td>
+    <td>Alfredo</td>
+    <td>Software Deployment Evidence For Sprint ReviewSprint Planning,Sprint Backlog,</td>
+  </tr>
+  <tr>
+    <td>V3.1.4</td>
+    <td>19/06/2024</td>
+    <td>Anthony</td>
+    <td>Team Collaboration Insights during sprint,Sprint Planning,Sprint Backlog</td>
   </tr>
 </tbody>
 </table>
@@ -79,9 +206,11 @@ _____________________
 
   **Desarrollo de las actividades del informe:**  
   + TB1: Para esta entrega se desarrollaron las secciones del capitulo I al capitulo IV, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
-  ![commits](/assets/Commits_tb1.png)
+  ![commits](/Assets/Commits_tb1.png)
   + TP: Para la entrega del TP se desarrollo las secciones del capitulo V al capitulo VI, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
-  ![CAP6](/assets/ContribucionCap6.png)
+  ![CAP6](/Assets/ContribucionCap6.png)
+  + TB2: Para la entrega del TB2 se desarrollo las secciones del capitulo 6.2 al capitulo 6.4, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
+ ![TB2](/Assets/githubReportb2.png)
 
 ## Contenido 
 - [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
@@ -167,27 +296,24 @@ _____________________
 
 
 ## Student Outcome 
-<table>
-<thead>
+<table><thead>
   <tr>
     <th>Criterio específico</th>
     <th>Acciones realizada</th>
     <th>Conclusiones</th>
-  </tr>
-</thead>
+  </tr></thead>
 <tbody>
   <tr>
     <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
-    <td>-Orosco Orcotuma, Cristhian<br>TB1: <br>Se identificaron diferentes problemas en<br>base al desarrollo del trabajo tanto como la<br>identificación del producto, como la elaboración<br>del Lean ux y estructura de la aplicación, pero supimos implementar las soluciones con los compañeros a todas estas. Asimismo, Se modificó<br>los diferentes puntos del lean Ux, el canvas, los<br>assumptions y modificar nuestro objetivo<br>TP: Se identificaron diferentes problemas en base al desarrollo del trabajo de la misma manera se desarrollaron las correcciones en base al feedback de la entrega anterior, para la elaboración de esta entrega se realizó el diseño ux/ui para el wireframe y mock up de la aplicación.  <br>-Liberato Susanibar, Piero Anthony<br>TB1:<br>Elabore el desarrollo de la descripción de la startup, Antecedentes y problemática Lean UX Problem Statements, Análisis competitivo, Estrategias y tácticas frente a competidores y Software Architecture.<br>TP:<br>Elabore el Style Guide de ElderlyCare, como el Wireframe y Mockup del landing Mobile Y desarrollo de la Landing Page<br><br>-Nuñez Martinez, Anthony Samir<br>TB1:<br>Se redactaron alrededor de 10 User Stories, se desarrollaron ambos As-is y To-Be Scenario Maps, se redactó el Ubiquitous language, se hizo los Domain Message Flow Models y redactó el Bounded Context de los Reminders.<br>TP:<br>Se elaboraron correcciones diversas para la TP, se crearon varios logotipos para la marca de ElderlyCare y diseñó, con ayuda de otros integrantes, el diseño de los mockups y prototipos del Mobile Applications.<br>-Enrique Aldhair Llatas FloresTB1:Se identificó las necesidades del usuario para la página web,se hizo el bounded context,wireframes,estructura de la aplicación<br>TP:Desarrollo del  Wireframe ,mockup,diagram flow,Testing Suite evidence for sprint así como el deployment<br>-Farro Caballero, Alfredo<br>TB1: Se identificó los requerimientos de los usuarios para la elaboración del primer entregable.<br>TP: Se desarrolló en base a los requerimientos del usuario la Web App y Sprint 1</td>
+    <td>-Orosco Orcotuma, Cristhian<br>TB1: <br>Se identificaron diferentes problemas en<br>base al desarrollo del trabajo tanto como la<br>identificación del producto, como la elaboración<br>del Lean ux y estructura de la aplicación, pero supimos implementar las soluciones con los compañeros a todas estas. Asimismo, Se modificó<br>los diferentes puntos del lean Ux, el canvas, los<br>assumptions y modificar nuestro objetivo<br>TP: Se identificaron diferentes problemas en base al desarrollo del trabajo de la misma manera se desarrollaron las correcciones en base al feedback de la entrega anterior, para la elaboración de esta entrega se realizó el diseño ux/ui para el wireframe y mock up de la aplicación.  <br>TB2:  Se identificaron diferentes problemas en base al desarrollo del trabajo de la misma manera se desarrollaron las correcciones en base al feedback de la entrega anterior, para la elaboración de esta entrega se realizó el desarrollo de la aplicación móvil , la integración con la base de datos y el backend desplegado de la misma manera se verificó que las funcionalidades estén correcta y se entregó la primera versión del embedded application. <br><br>TF:  Se identificaron diferentes problemas en base al desarrollo del trabajo de la misma manera se desarrollaron las correcciones en base al feedback de la entrega anterior, para la elaboración de esta entrega se realizó el desarrollo de la aplicación móvil , la integración con la base de datos y el backend desplegado de la misma manera se verificó que las funcionalidades estén correcta y se entregó la ultima version del IOT application. <br><br>-Liberato Susanibar, Piero Anthony<br>TB1:<br>Elabore el desarrollo de la descripción de la startup, Antecedentes y problemática Lean UX Problem Statements, Análisis competitivo, Estrategias y tácticas frente a competidores y Software Architecture.<br>TP:<br>Elabore el Style Guide de ElderlyCare, como el Wireframe y Mockup del landing Mobile Y desarrollo de la Landing Page<br>TB2:<br>Participe en eld desarrollo tanto del backend, frontend y mobil, como el desarrollo de la documentacio.<br>Nuñez Martinez, Anthony Samir<br>TB1:<br>Se redactaron alrededor de 10 User Stories, se desarrollaron ambos As-is y To-Be Scenario Maps, se redactó el Ubiquitous language, se hizo los Domain Message Flow Models y redactó el Bounded Context de los Reminders.<br>TP:<br>Se elaboraron correcciones diversas para la TP, se crearon varios logotipos para la marca de ElderlyCare y diseñó, con ayuda de otros integrantes, el diseño de los mockups y prototipos del Mobile Applications.<br>TB2:<br>Se implementaron ciertos Bouonded contexts en el desarrollo de Backend, Web y Mobile application, además de trabajar en equipo para el deployment del Backend.<br>Enrique Aldhair Llatas FloresTB1:Se identificó las necesidades del usuario para la página web,se hizo el bounded context,wireframes,estructura de la aplicación<br>tp:Desarrollo del  Wireframe ,mockup,diagram flow,Testing Suite evidence for sprint así como el deployment<br>tb2 Se implementaron nuevas seccion en las distintas aplicaciones ,web, backend y movil.así  como el deployment de estas<br>Farro Caballero, Alfredo<br>TB1: Se identificó los requerimientos de los usuarios para la elaboración del primer entregable.<br>TP: Se desarrolló en base a los requerimientos del usuario la Web App y Sprint 1<br>TB2: Se desarrolló siguiendo las necesidades del usuario: Front-end Application, Back-end Application, Mobile Application y la elaboración del reporte.</td>
     <td>Se evidencia la capacidad de identificar y abordar diversos problemas durante el desarrollo del trabajo. Los equipos demostraron eficacia al implementar soluciones colaborativas, adaptándose a las necesidades identificadas tanto en la etapa inicial como en las posteriores iteraciones. Además, se destaca la eficiencia al realizar ajustes basados en el feedback recibido, lo que refleja un enfoque objetivo para alcanzar los objetivos del proyecto. La colaboración entre los miembros del equipo en la elaboración de diferentes aspectos, como el diseño UX/UI, la redacción de User Stories, la creación de logotipos y el desarrollo de wireframes y mockups, demuestra una integración efectiva de habilidades y conocimientos para alcanzar resultados satisfactorios. </td>
   </tr>
   <tr>
     <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
-    <td>-Orosco Orcotuma, Cristhian<br>TB1:<br>Para solucionar los problemas presentados<br>en el trabajo se usó las metodologías ágiles de<br>software para poder tener la mejor solución<br>posible. Asimismo, se tuvieron que aprender<br>nuevos conceptos acerca del Lean Ux, como<br>mejorar en base al trabajo anterior puntos para<br>definir mejor nuestra plataforma.<br>TP:<br>Para solucionar los problemas presentados en el trabajo se usó las metodologías de diseño,  para el desarrollo de la aplicación,  Ui/Ux  para el mock up y los wireframes. <br>-Liberato Susanibar, Piero Anthony<br>TB1:<br>Para este trabajo he realizado investigaciones para conocer nuestro mercado, competidores, etc. Asimismo entrevistar personas para conocer de primera mano sus necesidades y facilitarnos el proceso de desarrollo de nuestra organización.<br>TP: <br>Para solucionar los problemas presentados en el trabajo se usó las metodologías de diseño,  para el desarrollo de la aplicación,  Ui/Ux  para el mock up y los wireframes. <br>-Nuñez Martinez, Anthony Samir<br>TB1:<br>Se tuvo que desarrollar nuevas habilidades para complementar al equipo. Entre estas, se tuvo que entrevistar a personas que corresponden a nuestro público objetivo.<br>TP:<br>Para el desarrollo de la nueva entrega, se tuvo que aprender a utilizar nuevas herramientas para el desarrollo del producto, como Uxpressia.<br>-Llatas Flores Enrique Aldhair<br>TB1:Se desarrolló el trabajo usando los márgenes ágiles de software como lo es SCRUM,investigamos más acerca del negocio y las personas involucradas para así poder crear una mejor solución.<br>TP : Elaboramos un website intuitivo  para los usuarios ,creamos los UX/UI que contienen los mockup y wireframes<br>-Farro Caballero, Alfredo<br>TB1: Se identificó el sector al cual pertenece el usuario. Además de las herramientas para lograr satisfacer sus necesidades.<br>TP: Se desarrolló en base a los requerimientos del usuario la Web App y Sprint 1, utilizando herramientas como vue, PrimeVue, axios, entre otras. </td>
+    <td>Orosco Orcotuma, Cristhian<br>TB1:<br>Para solucionar los problemas presentados<br>en el trabajo se usó las metodologías ágiles de<br>software para poder tener la mejor solución<br>posible. Asimismo, se tuvieron que aprender<br>nuevos conceptos acerca del Lean Ux, como<br>mejorar en base al trabajo anterior puntos para<br>definir mejor nuestra plataforma.<br>TP:<br>Para solucionar los problemas presentados en el trabajo se usó las metodologías de diseño,  para el desarrollo de la aplicación,  Ui/Ux  para el mock up y los wireframes. <br>TB2: Para solucionar los problemas presentados<br>En el trabajo se usó la metodología DDD, para el desarrollo de la aplicación móvil, y su integración con el backend de la misma manera para el desarrollo del embedded application. <br>TF: Para solucionar los problemas presentados<br>En el trabajo se usó la metodología DDD, para el desarrollo de la aplicación móvil, y su integracion con el backend de la misma manera para la integracion con el IOT app.<br><br>-Liberato Susanibar, Piero Anthony<br>TB1:<br>Para este trabajo he realizado investigaciones para conocer nuestro mercado, competidores, etc. Asimismo entrevistar personas para conocer de primera mano sus necesidades y facilitarnos el proceso de desarrollo de nuestra organización.<br>TP: <br>Para solucionar los problemas presentados en el trabajo se usó las metodologías de diseño,  para el desarrollo de la aplicación,  Ui/Ux  para el mock up y los wireframes. <br>TB2:<br>Para solucionar los problemas presentados en este trabajo se usó la metodología DDD, y lectura de documentación para cumplir con todos los parámetros necesarios para esta entrega<br>Nuñez Martinez, Anthony Samir<br>TB1:<br>Se tuvo que desarrollar nuevas habilidades para complementar al equipo. Entre estas, se tuvo que entrevistar a personas que corresponden a nuestro público objetivo.<br>TP:<br>Para el desarrollo de la nueva entrega, se tuvo que aprender a utilizar nuevas herramientas para el desarrollo del producto, como Uxpressia.<br>TB2:<br>Para el desarrollo de la nueva entrega, se redactó lo que se haría en el segundo Sprint con respecto al Backend<br>Llatas Flores Enrique Aldhair<br>TB1:Se desarrolló el trabajo usando los márgenes ágiles de software como lo es SCRUM,investigamos más acerca del negocio y las personas involucradas para así poder crear una mejor solución.<br>TP : Elaboramos un website intuitivo  para los usuarios ,creamos los UX/UI que contienen los mockup y wireframes<br>TB2:  Para esta entrega se definió las mejoras que se harían en el sprint2 con respecto al backend<br>Farro Caballero, Alfredo<br>TB1: Se identificó el sector al cual pertenece el usuario. Además de las herramientas para lograr satisfacer sus necesidades.<br>TP: Se desarrolló en base a los requerimientos del usuario la Web App y Sprint 1, utilizando herramientas como vue, PrimeVue, axios, entre otras. <br>TB2: Se desarrolló siguiendo las necesidades del usuario: Front-end Application, Back-end Application, Mobile Application y la elaboración del reporte, utilizando herramientas como vue, PrimeVue, axios, entre otras.</td>
     <td>Se evidencia el esfuerzo por comprender profundamente el entorno en el que se desenvuelve el proyecto. Los equipos demostraron una dedicación notable al investigar y familiarizarse con el mercado, los competidores y las necesidades de los usuarios. Esta investigación directa, que incluyó entrevistas con personas del público objetivo, permitió una comprensión más completa de los desafíos y oportunidades dentro del sector específico.</td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
 
 ## Capítulo I: Introducción
 
@@ -209,22 +335,22 @@ Universitario que cursa el 8to ciclo de, teniendo 22 años. En mis ratos libres 
 + **Cristhian Orosco Orcotuma:** Estudio la carrera de Ingeniería de Software en la UPC. Me considero una persona detallista, amante de los animales, la música, sobre todo la tecnología y los videojuegos, en el futuro me gustaría crear un videojuego y tener mi propia empresa de videojuegos. Soy un chico al cual le gusta aprender todo tipo de cosas, porque considero que siempre uno debe estar preparado para todo. 
 
 
-    <img src="/assets/Cristhian_perfil_original.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+    <img src="/Assets/Cristhian_perfil_original.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 + **Anthony Samir Nuñez Martinez:** <br>
 Estudiante de Ingeniería de Software de 19 años en la Universidad Peruana de Ciencias y Tecnología, nacido el 15 de julio del 2004. Me gusta la música punk y desarrollo videojuegos en mi tiempo libre. Me gusta resolver problemas y buscar soluciones creativas o únicas a las cosas, inclusive cuando no es la forma más eficiente de hacerla, y soy una persona muy obsecionada con la puntualidad.
 
-    <img src="assets\profileAnthony.jpg" width="255" height="340" style="padding-top: 12px;padding-bottom: 12px;"><br> 
+    <img src="Assets\profileAnthony.jpg" width="255" height="340" style="padding-top: 12px;padding-bottom: 12px;"><br> 
 
 + **Enrique Aldhair Llatas Flores:** <br>
 Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 7mo ciclo de la carrera de Ingeniería de Software  tengo habilidades en frontend y backend, también cuento con conocimiento en margenes ágiles y otros lenguajes como C++ y C#. Espero seguir aumentando mis conocimientos durante este ciclo.En mis tiempos libres me gusta investigar sobre margenes agiles ,jugar  y hacer ejercicio. Me gusta escuchar rock
 
-  <img src="assets\enrique.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="Assets\enrique.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
   
 + **Alfredo Farro Caballero:**
 Soy Alfredo Farro, actualmente me encuentro cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me considero una persona con gran potencial para trabajar en grupo, ya que siempre buscó entregar todo a tiempo.
 
-  <img src="assets\alfredo.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+  <img src="Assets\alfredo.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 
 
@@ -368,7 +494,7 @@ sabremos que hemos tenido éxito cuando veamos un uso de nuestro producto por 3 
 El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que
 tratamos de resolver, así como tener más claro nuestro modelo de negocio.
 
-![Canvas LINK ](/assets//LeanUxCanvas.png) 
+![Canvas LINK ](/Assets//LeanUxCanvas.png) 
 
 
 # 1.3. Segmentos objetivo.
@@ -465,7 +591,7 @@ En esta sección se presenta la información recolectada en las entrevistas real
 
 <img src="Assets\Screeshot_Norma_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 30:57 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 5:41 minutos <br>
 
@@ -483,7 +609,7 @@ Norma tiene un celular android y su explorador principal es Google Chrome.<br>
 
 <img src="Assets\EntrevistadoPonce.png" width="596" height="334"> <br>
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 28:16 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 2:40 minutos <br>
 
@@ -497,7 +623,7 @@ Nuestro entrevistado fue Juan Ponce, estudiante de ingeniería de sistemas que e
 
 ![](Assets/Entrevista_Jonatan.png)
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 07:30 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 6:13 minutos <br>
 
@@ -513,7 +639,7 @@ Jonatan sugiere mejoras para facilitar su situación, como la flexibilización d
 
 <img src="Assets\Screeshot_Raquel_Interview.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 22:53 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 4:04 minutos <br>
 
@@ -531,7 +657,7 @@ Raquel usa más frecuentemente su celular Android y su laptop, y su principal na
 
 <img src="Assets\EntrevistadoJordi.PNG" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 00:00 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 7:30 minutos <br>
 
@@ -539,7 +665,7 @@ Jordi es un estudiante de enfermo (Universidad Jose Faustino Sanchez Carrión) e
 Lo importante a realizar a un abuelo es que no les genere ulceras por presión, esto sucede porque para mucho tiempo postrados en cama o sentados, sus huesos comiencen a rozar con su piel. Por eso si se usaran una pulsera deben ser productos no lacerantes, algodón estaria bien<br>
 En caso de que los abuelos quieran irse es una constante cuando se les saca de paseo, ya que necesitan estimulación tanto fisica como mental. <br>
 En caso del producto es necesario para los pacientes de hipertensión, ya que es necesario revisar su presión o que tomen sus pastillas a tiempo, sino podrian caer en un taquicardia o un paro cardiaco. En estos casos es una revisión cada 8 horas o 3 veces al dia. <br>
-Ante la diferenciación la competencia dijo que serian los relojos pero algo que no tienen es la presión, eso seria relevante<br>
+Ante la diferenciación la competencia dijo que serian los relojos pero algo que no tienen es la presión, eso seria relevante<br> Y nos comento que usa un computadora Windows y Celular Android
 
 
 
@@ -547,9 +673,9 @@ Ante la diferenciación la competencia dijo que serian los relojos pero algo que
 **Edad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 26 años <br>
 **Distrito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Callao, Lima <br>
 
-![Maryfe](assets/EntrevistaCristhian.png)
+![Maryfe](Assets/EntrevistaCristhian.png)
 
-**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://tinyurl.com/bdzku79j](https://tinyurl.com/bdzku79j)<br>
+**Enlace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/Ef7_XxnNMhZIgzy4VRMm6mQBB5MHPlwxWjkzuy2TeSJGrw?e=fj6oLD)<br>
 **Inicio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** Al minuto 13:43 <br>
 **Duración &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:** 10:30 minutos <br>
 
@@ -559,26 +685,26 @@ Maryfe no observa ninguna discapacidad adicional en la paciente aparte de sus pr
 ## 2.2.3. Análisis de entrevistas.
 De acuerdo a las entrevistas realizadas, los cuidadores de adultos mayores hacen uso de la tecnologia, se observa que los dispositivos que utilizan principalmente son las computadoras, laptops asi como los celulares. 
 
-![Dispositivos](assets/Dispositivos.png)
+![Dispositivos](Assets/Dispositivos.png)
 
 De la misma manera, se observa que los cuidadores de adultos mayores utilizan en su mayoria marcas de celulares con el sistema operativo Android.
 
-![Marcas](assets/Marcas.png)
+![Marcas](Assets/Marcas.png)
 
 En cuanto a los navegadores web, los cuidadores de adultos mayores utilizan principalmente Google Chrome.
 
-![Navegadores](assets/navegadorWeb.png)
+![Navegadores](Assets/navegadorWeb.png)
 
 En base las entrevistas se determino el segmento demografico de la siguiente manera: 
-![Edad](/assets/Edad.png)
+![Edad](/Assets/Edad.png)
 
-![Genero](/assets/Genero.png)
+![Genero](/Assets/Genero.png)
 
-![Distrito](/assets/Distrito.png)
+![Distrito](/Assets/Distrito.png)
 
 De la misma manera, se determino las habilidades personales de los segmentos objetivos en base a la observación y comportamiento en las entrevistas realizadas.
 
-![Habilidades](/assets/Habilidades.png)
+![Habilidades](/Assets/Habilidades.png)
 
 Asimismo, se destaca la importancia del monitoreo de diferentes aspectos de la salud de los adultos mayores, como la presión arterial y la frecuencia cardíaca. Los entrevistados resaltan la relevancia de incluir estos parámetros en la aplicación móvil y la pulsera inteligente para proporcionar un monitoreo integral de la salud de los pacientes. 
 # 2.3. Needfinding
@@ -593,7 +719,7 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 **User Persona – Supervisor**
 
-![](Assets/UserPersonaMayorias.png)
+![](Assets/UserPersonaMayores.png)
 
 ## 2.3.2. User Task Matrix
 
@@ -633,7 +759,7 @@ User - Cuidador
 
 User - Supervisor
 
-<img src="assets\AsIs2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+<img src="Assets\AsIs2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 # 2.4. Ubiquitous Language
 
@@ -666,7 +792,7 @@ User - Cuidador
 
 User - Supervisor
 
-<img src="assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
+<img src="Assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
 
 # 3.2. User Stories
@@ -927,6 +1053,64 @@ User - Supervisor
     <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Procesamiento exitoso de una venta<br>&nbsp;&nbsp;&nbsp;<br>Dado que un usuario realiza una compra de un producto en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud POST a "/API/V1/ventas" con&nbsp;&nbsp;&nbsp;los detalles de la venta, incluyendo el ID del usuario, el ID del producto y&nbsp;&nbsp;&nbsp;la cantidad comprada<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend actualiza el inventario<br>&nbsp;&nbsp;&nbsp;<br>Y registra la transacción de venta en la base de datos, incluyendo&nbsp;&nbsp;&nbsp;detalles como el usuario que realizó la compra, el producto comprado, la&nbsp;&nbsp;&nbsp;cantidad adquirida y la dirección.<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en el procesamiento de la venta<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante el procesamiento de la venta, como un&nbsp;&nbsp;&nbsp;producto fuera de stock o un error interno del servidor<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud POST a "/API/V1/ventas" con&nbsp;&nbsp;&nbsp;los detalles de la venta<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un código 400<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un mensaje de error descriptivo indicando la causa del problema.&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
   </tr>
+  <tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>US30&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Consulta de ubicación del paciente&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como usuario, quiero poder consultar la ubicación actual de un paciente para saber dónde se encuentra en tiempo real.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Consulta exitosa de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que quiero conocer la ubicación de un paciente en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando ingreso a la seccion Ubicación<br>&nbsp;&nbsp;&nbsp;<br>Entonces el sistema devuelve la ubicación actual del paciente y la ubicacion donde inicio <br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la consulta de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante la consulta de la ubicación del paciente, como un latitud y longitud del paciente inválido o un error interno <br>Cuando Ingreso a la seccion ubicación <br>Entonces observo la seccion en blanco.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+</tr>
+  
+  <tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>US31&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Consulta de ubicación del paciente (Front-end)&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero consumir la Api de Google Maps para obtener la ubicación actual de un paciente , de modo que los usuarios puedan consultar la ubicación de los pacientes en tiempo real.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Consulta exitosa de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que un usuario quiere conocer la ubicación de un paciente en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud GET a "/API/V1/patient/{id}/report" con el ID del paciente<br>&nbsp;&nbsp;&nbsp;<br>Entonces el front consulta la ubicación del paciente en la API de Google Maps<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve la ubicación actual del paciente, incluyendo detalles como la ruta tomada, dirección exacta, y cualquier otra información relevante.<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la consulta de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante la consulta de la ubicación del paciente, como un ID de paciente inválido o un error interno del servidor<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud GET a "/API/V1/patient/{id}/report" con el ID del paciente<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un código 400<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un mensaje de error descriptivo indicando la causa del problema. &nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>US32&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Estadísticas sobre los reportes del paciente (Front-end)&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero crear cuadros estadísticos para que los usuarios puedan ver cómo va su paciente y tengan más detalles sobre su estado.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Visualización exitosa de las estadísticas del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que un usuario quiere ver las estadísticas del estado de un paciente en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud GET a "/API/V1/patient/{id}/report" con el ID del paciente<br>&nbsp;&nbsp;&nbsp;<br>Entonces el front-end muestra cuadros estadísticos basados en los datos recibidos<br>&nbsp;&nbsp;&nbsp;<br>Y los cuadros incluyen información relevante como gráficos de evolución del estado de salud, frecuencia de visitas, y resultados de exámenes recientes.<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la consulta de los reportes del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante la consulta de los reportes del paciente, como un ID de paciente inválido o un error interno del servidor<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud GET a "/API/V1/patient/{id}/report" con el ID del paciente<br>&nbsp;&nbsp;&nbsp;<br>Entonces el front-end muestra un mensaje de error descriptivo indicando la causa del problema, como un ID de paciente incorrecto o un fallo en el servidor.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>US33&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Consulta del último reporte del paciente (Front-end)&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero crear una funcionalidad que permita a los usuarios consultar el último reporte del paciente para que puedan obtener información actualizada sobre su estado.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Consulta exitosa del último reporte del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que un usuario quiere ver el último reporte del estado de un paciente en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud GET a "/API/V1/patient/{id}/report" con el ID del paciente<br>&nbsp;&nbsp;&nbsp;<br>Entonces el front-end muestra el último reporte basado en los datos recibidos<br>&nbsp;&nbsp;&nbsp;<br>Y el reporte incluye información relevante como fecha y hora del reporte, resultados de exámenes recientes.<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la consulta del último reporte del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante la consulta del último reporte del paciente, como un ID de paciente inválido o un error interno del servidor<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud GET a "/API/V1/patient/{id}/report" con el ID del paciente<br>&nbsp;&nbsp;&nbsp;<br>Entonces el front-end muestra un mensaje de error descriptivo indicando la causa del problema.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US30&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Captura de Datos de Frecuencia Cardíaca&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario del sistema de monitoreo de salud quiero que el dispositivo embedded  capture y envíe mis datos de frecuencia cardíaca en tiempo real&nbsp;&nbsp;&nbsp;para que mi médico pueda monitorear mi condición cardíaca y detectar cualquier anomalía a tiempo.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Captura y envío de datos de frecuencia cardíaca<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario lleva puesto el dispositivo embedded <br>&nbsp;&nbsp;&nbsp;<br>Cuando el dispositivo detecta la frecuencia cardíaca<br>&nbsp;&nbsp;&nbsp;<br>Entonces envía los datos en tiempo real al sistema de monitoreo<br>&nbsp;&nbsp;&nbsp;<br>Y el médico puede revisar estos datos para detectar cualquier anomalía<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la captura de datos<br>&nbsp;&nbsp;&nbsp;<br>Dado que el dispositivo tiene un problema técnico<br>&nbsp;&nbsp;&nbsp;<br>Cuando intenta capturar los datos de frecuencia cardíaca<br>&nbsp;&nbsp;&nbsp;<br>Entonces el sistema muestra una alerta de error<br>&nbsp;&nbsp;&nbsp;<br>Y el usuario puede tomar medidas para resolver el problema&nbsp;&nbsp;&nbsp;</td>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US31&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Captura de Datos de Frecuencia Respiratoria&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario del sistema de monitoreo de salud quiero que el dispositivo embedded  capture y envíe mis datos de frecuencia respiratoria en tiempo real&nbsp;&nbsp;&nbsp;para que mi médico pueda monitorear mi condición respiratoria y tomar medidas preventivas si es necesario.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Captura y envío de datos de frecuencia respiratoria<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario lleva puesto el dispositivo embedded <br>&nbsp;&nbsp;&nbsp;<br>Cuando el dispositivo detecta la frecuencia respiratoria<br>&nbsp;&nbsp;&nbsp;<br>Entonces envía los datos en tiempo real al sistema de monitoreo<br>&nbsp;&nbsp;&nbsp;<br>Y el médico puede revisar estos datos para detectar cualquier problema respiratorio<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la captura de datos<br>&nbsp;&nbsp;&nbsp;<br>Dado que el dispositivo tiene un problema técnico<br>&nbsp;&nbsp;&nbsp;<br>Cuando intenta capturar los datos de frecuencia respiratoria<br>&nbsp;&nbsp;&nbsp;<br>Entonces el sistema muestra una alerta de error<br>&nbsp;&nbsp;&nbsp;<br>Y el usuario puede tomar medidas para resolver el problema&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP02&nbsp;&nbsp;&nbsp;</td>
+</tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP01&nbsp;&nbsp;&nbsp;</td>
+</tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US32&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Captura de Datos de Temperatura Corporal&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario del sistema de monitoreo de salud quiero que el dispositivo embedded  capture y envíe mis datos de temperatura corporal en tiempo real&nbsp;&nbsp;&nbsp;para que mi médico pueda detectar signos tempranos de fiebre o infección.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Captura y envío de datos de temperatura corporal<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario lleva puesto el dispositivo embedded <br>&nbsp;&nbsp;&nbsp;<br>Cuando el dispositivo detecta la temperatura corporal<br>&nbsp;&nbsp;&nbsp;<br>Entonces envía los datos en tiempo real al sistema de monitoreo<br>&nbsp;&nbsp;&nbsp;<br>Y el médico puede revisar estos datos para detectar signos de fiebre o infección<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la captura de datos<br>&nbsp;&nbsp;&nbsp;<br>Dado que el dispositivo tiene un problema técnico<br>&nbsp;&nbsp;&nbsp;<br>Cuando intenta capturar los datos de temperatura corporal<br>&nbsp;&nbsp;&nbsp;<br>Entonces el sistema muestra una alerta de error<br>&nbsp;&nbsp;&nbsp;<br>Y el usuario puede tomar medidas para resolver el problema&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
+</tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US33&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Captura de Datos de Ubicación&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario del sistema de monitoreo de salud quiero que el dispositivo embedded  capture y envíe mi ubicación en tiempo real&nbsp;&nbsp;&nbsp;para que mis cuidadores o servicios de emergencia puedan localizarme rápidamente en caso de una emergencia médica.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Captura y envío de datos de ubicación<br>&nbsp;&nbsp;&nbsp;<br>Dado que el usuario lleva puesto el dispositivo embedded <br>&nbsp;&nbsp;&nbsp;<br>Cuando el dispositivo detecta la ubicación<br>&nbsp;&nbsp;&nbsp;<br>Entonces envía los datos en tiempo real al sistema de monitoreo<br>&nbsp;&nbsp;&nbsp;<br>Y los cuidadores pueden localizar rápidamente al usuario en caso de emergencia<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la captura de datos<br>&nbsp;&nbsp;&nbsp;<br>Dado que el dispositivo tiene un problema técnico<br>&nbsp;&nbsp;&nbsp;<br>Cuando intenta capturar los datos de ubicación<br>&nbsp;&nbsp;&nbsp;<br>Entonces el sistema muestra una alerta de error<br>&nbsp;&nbsp;&nbsp;<br>Y el usuario puede tomar medidas para resolver el problema&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>EP04&nbsp;&nbsp;&nbsp;</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -1150,6 +1334,28 @@ User - Supervisor
     <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero&nbsp;&nbsp;&nbsp;poder agregar un nuevo usuario al sistema mediante una solicitud POST&nbsp;&nbsp;&nbsp;“API/V1/user”, proporcionando detalles como nombre, correo electrónico y&nbsp;&nbsp;&nbsp;contraseña, para permitir el login de nuevos usuarios en la plataforma.&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
   </tr>
+    <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>30&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US30&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Consulta de ubicación del paciente  &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como usuario, quiero poder consultar la ubicación actual de un paciente para saber dónde se encuentra en tiempo real.  </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+      <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>31&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US32&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>   Estadísticas sobre los reportes del paciente (Front-end)    &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero crear cuadros estadísticos para que los usuarios puedan ver cómo va su paciente y tengan más detalles sobre su estado.    </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>13&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+      <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>32&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US31&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Consulta de ubicación del paciente (Front-end)    &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Como desarrollador, quiero consumir la Api de Google Maps para obtener la ubicación actual de un paciente , de modo que los usuarios puedan consultar la ubicación de los pacientes en tiempo real.</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
 </tbody>
 </table>
 
@@ -2667,21 +2873,21 @@ Estas pautas de estilo deben aplicarse de manera consistente en toda la aplicaci
 
 Para representar nuestro producto, se decantó por el siguiente logo, el cual representa a la pulsera inteligente cuidando de los adultos mayores que tiene encerrados. El corazón encima representaría tanto a la detección de pulso cardiaco como al cuidado que busca.
 
-<img src="assets\Logos\Logo_indigo.png" style="width: 30%;"><br>
+<img src="Assets\Logos\Logo_indigo.png" style="width: 30%;"><br>
 
 A partir de este logo, se diseñaron distintas variaciones de colores que se aplicarían de acuerdo al color que se tenga en el fondo.
 
-<img src="assets\Logos\Logo_indigo.png" style="width: 12%;">
-<img src="assets\Logos\Logo_negro.png" style="width: 12%;">
-<img src="assets\Logos\Logo_blanco.png" style="width: 12%;">
+<img src="Assets\Logos\Logo_indigo.png" style="width: 12%;">
+<img src="Assets\Logos\Logo_negro.png" style="width: 12%;">
+<img src="Assets\Logos\Logo_blanco.png" style="width: 12%;">
 
 <br>
 
 Por último, también se diseño un banner que contendría el logo y nombre del producto. Para este banner, se combinaron ambos aspectos para mantener continuidad entre ambos aspectos, otorgando un logo interesante de ver.
 
-<img src="assets\Logos\Logo_Banner.png" style="width: 50%;"><br>
+<img src="Assets\Logos\Logo_Banner.png" style="width: 50%;"><br>
 
-<img src="assets\Logos\Branding.png" style="width: 80%;"><br>
+<img src="Assets\Logos\Branding.png" style="width: 80%;"><br>
 
 ## 5.1.2. Web, Mobile and IoT Style Guidelines.
 
@@ -2693,19 +2899,19 @@ Para la lectura de la información, se tiene previsto que se manejará una canti
 
 Los elementos a utilizar para las aplicación son los siguientes:
 
-<img src="assets\inicio_sesion.png" style="width: 30%;">
+<img src="Assets\inicio_sesion.png" style="width: 30%;">
 <br><br>
-<img src="assets\header_oneup.png" style="width: 30%;">
+<img src="Assets\header_oneup.png" style="width: 30%;">
 <br><br>
-<img src="assets\medicine_appoint_switch.png" style="width: 30%;">
+<img src="Assets\medicine_appoint_switch.png" style="width: 30%;">
 <br><br>
-<img src="assets\opciones.png" style="width: 30%;">
+<img src="Assets\opciones.png" style="width: 30%;">
 <br><br>
-<img src="assets\emergency_notif.png" style="width: 30%;">
+<img src="Assets\emergency_notif.png" style="width: 30%;">
 <br><br>
-<img src="assets\corazon.png" style="width: 30%;">
+<img src="Assets\corazon.png" style="width: 30%;">
 <br><br>
-<img src="assets\alarma_card.png" style="width: 30%;">
+<img src="Assets\alarma_card.png" style="width: 30%;">
 <br><br>
 
 
@@ -2784,10 +2990,10 @@ En el menú inferior de la aplicación móvil, se pueden acceder a las siguiente
 ## 5.2.4. Searching Systems.
 Para mejorar la experiencia del usuario al buscar recordatorios de medicación o citas médicas, así como datos históricos de salud del adulto mayor en nuestra aplicación móvil, hemos implementado un sistema de búsqueda. Este sistema proporciona a los usuarios opciones principales para encontrar la información que necesitan de manera eficiente.
 **Búsqueda por nombre de recordatorio:** Los usuarios pueden buscar recordatorios de medicación o citas médicas específicos ingresando el nombre asociado al recordatorio. Esta función permite a los usuarios encontrar rápidamente los recordatorios relacionados con un medicamento o una cita médica en particular.
-![Busqueda nombre](/assets/searching%201.png)
+![Busqueda nombre](/Assets/searching%201.png)
 
 **Filtro de búsqueda por fecha de los datos historicos de salud del adulto mayor:** Utilizando los datos de salud recopilados por la pulsera del adulto mayor, hemos integrado un filtro de búsqueda por fecha. Los usuarios pueden especificar un rango de fechas para buscar registros históricos de presión arterial, temperatura corporal, nivel de actividad, entre otros datos biométricos. Este filtro de búsqueda permite a los usuarios obtener información detallada sobre la salud del adulto mayor en un período específico, lo que puede ser útil para el seguimiento y la gestión de su bienestar.
-![Busqueda fecha ](/assets//searching%202.png)
+![Busqueda fecha ](/Assets//searching%202.png)
 
 
 Estas funciones de búsquedase han agregaron para mejorar la accesibilidad y la eficiencia en la recuperación de información relevante para el cuidado del adulto mayor. Al proporcionar tanto la opción de búsqueda por nombre como el filtro por fecha, garantizamos que los usuarios puedan acceder fácilmente a los datos específicos que necesitan, ya sea para administrar la medicación, programar citas médicas o monitorear la salud general del adulto mayor.
@@ -2797,13 +3003,13 @@ Estas funciones de búsquedase han agregaron para mejorar la accesibilidad y la 
 Para poder navegar dentro de la aplicación, se va a añadir las siguientes secciones:
 
 <br><br>
-<img src="assets\searching_system_1.PNG" style="width: 30%;">
+<img src="Assets\searching_system_1.PNG" style="width: 30%;">
 <br><br>
-<img src="assets\searching_system_2.PNG" style="width: 80%;">
+<img src="Assets\searching_system_2.PNG" style="width: 80%;">
 <br><br>
-<img src="assets\header_oneup.png" style="width: 80%;">
+<img src="Assets\header_oneup.png" style="width: 80%;">
 <br><br>
-<img src="assets\opciones.png" style="width: 80%;">
+<img src="Assets\opciones.png" style="width: 80%;">
 <br><br>
 
 # 5.3. Landing Page UI Design.
@@ -2838,27 +3044,27 @@ A continuación, se muestran los diseños elaborados de acuerdo a las funcionali
 
 **Mobile Application Wireframes**  
 Registro de Usuario (Cuidador)
-![Registro de Usuario (Cuidador)](/assets/Register.png)
+![Registro de Usuario (Cuidador)](/Assets/Register.png)
 Inicio de Sesión 
-![Inicio de Sesión](/assets/Login.png)
+![Inicio de Sesión](/Assets/Login.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
 ![Home](Assets/Home.png)
 Ubicacion del Adulto Mayor
-![Ubicacion](/assets/UbicacionLocation.png)
+![Ubicacion](/Assets/UbicacionLocation.png)
 Recordatorios de las citas medicas y medicamentos
-![Recordatorios](/assets/reminders.png)
+![Recordatorios](/Assets/reminders.png)
 Perfil del adulto mayor
-![Perfil](/assets/Profile.png)
+![Perfil](/Assets/Profile.png)
 Sincronización de la pulsera
-![Sincronización](/assets/Connection.png)
+![Sincronización](/Assets/Connection.png)
 
 **Web Application Wireframes**<br>
 Registro de usuario <br>
-<img src="assets\LoginWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\LoginWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Compra de producto<br>
-<img src="assets\compraWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\compraWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Pagina Principalz<br>
-<img src="assets\DashWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\DashWebW.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 ## 5.4.2. Applications Wireflow Diagrams.
 
 **User Goal 1 : Verificar ritmo cardiaco**
@@ -2867,7 +3073,7 @@ Pagina Principalz<br>
 
 - Unhappy Path: <br>Se ha generado una alarma de ritmo cardiaco no regular.
 
-<img src="assets\UG_1_WF.jpg" style="width: 80%;"><br>
+<img src="Assets\UG_1_WF.jpg" style="width: 80%;"><br>
 
 **User Goal 2 : Ver localización del adulto mayor**
 
@@ -2875,7 +3081,7 @@ Pagina Principalz<br>
 
 - Unhappy Path: <br>No se puede detectar la posición del adulto mayor, ya que este está afuera del área restringida.
 
-<img src="assets\UG_2_WF.jpg" style="width: 80%;"><br>
+<img src="Assets\UG_2_WF.jpg" style="width: 80%;"><br>
 
 **User Goal 3 : Añadir un recordatorio de medicamento**
 
@@ -2883,7 +3089,7 @@ Pagina Principalz<br>
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="assets\UG_3_WF.jpg" style="width: 80%;"><br>
+<img src="Assets\UG_3_WF.jpg" style="width: 80%;"><br>
 
 **User Goal 4 : Añadir un recordatorio de cita médica**
 
@@ -2891,7 +3097,7 @@ Pagina Principalz<br>
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="assets\UG_4_WF.jpg" style="width: 80%;"><br>
+<img src="Assets\UG_4_WF.jpg" style="width: 80%;"><br>
 
 **User Goal 5 : Connección con el dispositivo**
 
@@ -2899,33 +3105,33 @@ Pagina Principalz<br>
 
 - Unhappy Path: <br>El dispositivo no llega a conectarse.
 
-<img src="assets\UG_5_WF.jpg" style="width: 80%;"><br>
+<img src="Assets\UG_5_WF.jpg" style="width: 80%;"><br>
 
 ## 5.4.3. Applications Mock-ups.
 A continuación, se presentan los mock-ups de la aplicación ElderlyCare, diseñados para brindar una experiencia de usuario intuitiva y atractiva.
 **Mobile Application Mock-ups**  
 Registro de Usuario (Cuidador)
-![Registro de Usuario](/assets/MRegister.png)
+![Registro de Usuario](/Assets/MRegister.png)
 Inicio de Sesión 
-![Inicio de Sesión](/assets/MLogin.png)
+![Inicio de Sesión](/Assets/MLogin.png)
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
 ![Home](Assets/MHome.png)
 Ubicaion del Adulto Mayor
-![Ubicacion](/assets/MLocation.png)
+![Ubicacion](/Assets/MLocation.png)
 Recordatorios de las citas medicas y medicamentos
-![Recordatorios](/assets/MReminder.png)
+![Recordatorios](/Assets/MReminder.png)
 Perfil del adulto mayor
-![Perfil](/assets/MProfile.png)
+![Perfil](/Assets/MProfile.png)
 Sincronización de la pulsera
-![Sincronización](/assets/MConnection.png)
+![Sincronización](/Assets/MConnection.png)
 
 **Web Application Mock-ups**
 Registro de usuario <br>
-<img src="assets\LoginWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\LoginWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Compra de producto<br>
-<img src="assets\compraWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\compraWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 Pagina Principalz<br>
-<img src="assets\DashWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\DashWebM.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 ## 5.4.4. Applications User Flow Diagrams.
 
@@ -2937,7 +3143,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>Se ha generado una alarma de ritmo cardiaco no regular.
 
-<img src="assets\userflow_1.jpg" style="width: 80%;"><br>
+<img src="Assets\userflow_1.jpg" style="width: 80%;"><br>
 
 **User Goal 2 : Ver localización del adulto mayor**
 
@@ -2945,7 +3151,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>No se puede detectar la posición del adulto mayor, ya que este está afuera del área restringida.
 
-<img src="assets\userflow_2.jpg" style="width: 80%;"><br>
+<img src="Assets\userflow_2.jpg" style="width: 80%;"><br>
 
 **User Goal 3 : Añadir un recordatorio de medicamento**
 
@@ -2953,7 +3159,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="assets\userflow_3.jpg" style="width: 80%;"><br>
+<img src="Assets\userflow_3.jpg" style="width: 80%;"><br>
 
 **User Goal 4 : Añadir un recordatorio de cita médica**
 
@@ -2961,7 +3167,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="assets\userflow_4.jpg" style="width: 80%;"><br>
+<img src="Assets\userflow_4.jpg" style="width: 80%;"><br>
 
 **User Goal 5 : Connección con el dispositivo**
 
@@ -2969,26 +3175,26 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>El dispositivo no llega a conectarse.
 
-<img src="assets\userflow_5.jpg" style="width: 80%;"><br>
+<img src="Assets\userflow_5.jpg" style="width: 80%;"><br>
 
 
 **Web Diagram Flow**
 | User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\LoginWebM.png" style="width: 80%;">                                  |                                                                        
-| User Flow |     <img src="assets\LoginLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\LoginWebM.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="Assets\LoginLucid.png" style="width: 80%;">                                 |
                                                                                       
 
 | User Goal | Como usuario deseo poder comprar  OneUp ElderlyCare en la pagina web                      |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\compraWebM.png" style="width: 80%;">                                   |                                                                        
-| User Flow |     <img src="assets\ProductLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\compraWebM.png" style="width: 80%;">                                   |                                                                        
+| User Flow |     <img src="Assets\ProductLucid.png" style="width: 80%;">                                 |
 
 
 | User Goal | Como usuario quiero editar información personal .                                         |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\DashWebM.png" style="width: 80%;">                                  |                                                                        
-| User Flow |     <img src="assets\ProfileLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\DashWebM.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="Assets\ProfileLucid.png" style="width: 80%;">                                 |
 
 
 
@@ -2997,19 +3203,19 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 | User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\LoginWebW.png" style="width: 80%;">                                  |                                                             
-| User Flow |     <img src="assets\LoginLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\LoginWebW.png" style="width: 80%;">                                  |                                                             
+| User Flow |     <img src="Assets\LoginLucid.png" style="width: 80%;">                                 |
                                                                                       
 | User Goal | Como usuario deseo poder comprar  OneUp ElderlyCare en la pagina web                      |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\compraWebW.png" style="width: 80%;">                                   |                                                                        
-| User Flow |     <img src="assets\ProductLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\compraWebW.png" style="width: 80%;">                                   |                                                                        
+| User Flow |     <img src="Assets\ProductLucid.png" style="width: 80%;">                                 |
 
 
 | User Goal | Como usuario quiero editar información personal .                                         |
 |-----------|-------------------------------------------------------------------------------------------|
-| Task Flow |     <img src="assets\DashWebW.png" style="width: 80%;">                                  |                                                                        
-| User Flow |     <img src="assets\ProfileLucid.png" style="width: 80%;">                                 |
+| Task Flow |     <img src="Assets\DashWebW.png" style="width: 80%;">                                  |                                                                        
+| User Flow |     <img src="Assets\ProfileLucid.png" style="width: 80%;">                                 |
 
 
 
@@ -3022,33 +3228,33 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 **User Goal 1 : Verificar ritmo cardiaco**
 
-<img src="assets\prototype_flow1.PNG" style="width: 90%;"><br>
+<img src="Assets\prototype_flow1.PNG" style="width: 90%;"><br>
 
-[https://tinyurl.com/4w5vfwht](https://tinyurl.com/4w5vfwht)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/ETkyVRuohT1IpFk5W6PZx3YBgk793paCEtnStCCSekvUaQ?e=uKYS6o](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/ETkyVRuohT1IpFk5W6PZx3YBgk793paCEtnStCCSekvUaQ?e=uKYS6o)
 
 **User Goal 2 : Ver localización del adulto mayor**
 
-<img src="assets\prototype_flow2.PNG" style="width: 90%;"><br>
+<img src="Assets\prototype_flow2.PNG" style="width: 90%;"><br>
 
-[https://tinyurl.com/5x259srr](https://tinyurl.com/5x259srr)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EUeJ9gi1cHVHgkbSw5gEe9kBxKaArn8apXZKvG37cxUBcw?e=auXL6y](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EUeJ9gi1cHVHgkbSw5gEe9kBxKaArn8apXZKvG37cxUBcw?e=auXL6y)
 
 **User Goal 3 : Añadir un recordatorio de medicamento**
 
-<img src="assets\prototype_flow3.PNG" style="width: 90%;"><br>
+<img src="Assets\prototype_flow3.PNG" style="width: 90%;"><br>
 
-[https://tinyurl.com/5n977ufv](https://tinyurl.com/5n977ufv)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQM-KSVWnEdHuaeaNQT-XKoBRsNG4n-fxPvw2OVKbMMS8w?e=2ByzC0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQM-KSVWnEdHuaeaNQT-XKoBRsNG4n-fxPvw2OVKbMMS8w?e=2ByzC0)
 
 **User Goal 4 : Añadir un recordatorio de cita médica**
 
-<img src="assets\prototype_flow4.PNG" style="width: 90%;"><br>
+<img src="Assets\prototype_flow4.PNG" style="width: 90%;"><br>
 
-[https://tinyurl.com/9uywjux7](https://tinyurl.com/9uywjux7)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EV1m-G3IZfxCvmMT5HLvFZsBgUjxSp_u0N7Z0_etKEMteA?e=QASfip](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EV1m-G3IZfxCvmMT5HLvFZsBgUjxSp_u0N7Z0_etKEMteA?e=QASfip)
 
 **User Goal 5 : Connección con el dispositivo**
 
-<img src="assets\prototype_flow5.PNG" style="width: 90%;"><br>
+<img src="Assets\prototype_flow5.PNG" style="width: 90%;"><br>
 
-[https://tinyurl.com/bdzfrurf](https://tinyurl.com/bdzfrurf)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EakehguTJbRLrYVZETYtGlcBHHXkqauMt6oCdW18sKK0bw?e=TCLNuf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EakehguTJbRLrYVZETYtGlcBHHXkqauMt6oCdW18sKK0bw?e=TCLNuf)
 
 ## Capítulo VI: Product Implementation, Validation & Deployment.
 
@@ -3057,19 +3263,19 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 ## 6.1.1. Software Development Environment Configuration.
 ### **Project Management**
 Se emplearon herramientas de software que permiten la comunicación en tiempo real y la edición rápida y compartida, lo que facilitó el trabajo eficiente. Algunas de las herramientas utilizadas fueron los servicios de Google (Drive, Documents, Meet) y Microsoft Outlook. Para el registro de versiones y la creación de repositorios se utilizó GitHub, una plataforma que permite registrar de manera ordenada cada uno de los commits realizados y Git  una herramienta que permite el control de versiones.
-![github](/assets/github.jpg) 
+![github](/Assets/github.jpg) 
 ### **Product UX/UI Design**
 Se utilizó Miro y UXPressia para el desarrollo de los segmentos objetivos y sus mapeos, así como para los As-Is y To-Be Scenario Maps. Para los mockups, wireframes, wireflows y el prototipo de la aplicación web se empleó Figma.
 
 ### **Software Development**
 Para el desarrollo del software se utilizó Visual Studio Code, HTML, CSS, Bootstrap y Javascript. Visual Studio Code es un software que admite muchos lenguajes de programación, incluyendo HTML y CSS, y fue utilizado principalmente para el Landing Page. HTML se utilizó para el desarrollo de la estructura de las páginas web, CSS para el diseño y presentación, Bootstrap para crear interfaces más limpias y responsive, y Javascript para implementar la interactividad dinámica y animaciones en el Landing Page.<br>
-![visual](/assets/visual%20studio.png) 
+![visual](/Assets/visual%20studio.png) 
 También se está desarrollando la aplicación móvil emppleando el framework Flutter, la cual es multiplataforma. Sin embargo, no se utiliza Flutter solo por su responsiveness, sino que se eligió por el uso de distintos componentes que permite darle una estética más personalizado. El lenguaje en uso para el desarrollo de la aplicación móvil es Dart.
-![visual](/assets/android%20studio.png)
+![visual](/Assets/android%20studio.png)
 Asimismo, se utilizo Vue para el desarrollo de la aplicación web, un framework progresivo de JavaScript que permite crear interfaces de usuario interactivas y dinámicas.
-![vue](/assets//vue.jpg)
+![vue](/Assets//vue.jpg)
 Para el desarrollo del backend se utilizó Node.js, un entorno de ejecución de JavaScript que permite ejecutar código JavaScript en el servidor.
-![node](/assets/node.png)
+![node](/Assets/node.png)
 ### **Software Testing**
 Para probar el Landing Page se utilizó la extensión LiveShare de Visual Studio Code, que permite crear un localhost para ver en tiempo real los cambios realizados. Para los test de aceptación se utilizó el lenguaje Gherkin y se subió al repositorio mencionado anteriormente.
 
@@ -3294,12 +3500,12 @@ En este punto, se dara a conocer el proceso de despliegue de las aplicaciones, a
 Para desplegar la Landing Page, se utilizó GitHub Pages, una plataforma gratuita que permite alojar sitios web estáticos directamente desde un repositorio de GitHub. El proceso de despliegue fue el siguiente:
 1. Crear un repositorio en GitHub con el código de la Landing Page.
 2. Acceder a la configuración del repositorio y habilitar GitHub Pages.
-![landing](/assets/landing%20deploy%201.png)
+![landing](/Assets/landing%20deploy%201.png)
 
 3. Seleccionar la rama y la carpeta de origen del sitio web.
 4. Guardar la configuración y obtener la URL del sitio web desplegado.
 5. Finalmente, acceder a la URL del sitio web para verificar que se haya desplegado correctamente.
-![page](/assets/landing%20deploy%202.png)
+![page](/Assets/landing%20deploy%202.png)
 
 + Enlace de la Landing Page desplegada: https://oneup-ws71.github.io/landign-page/
 
@@ -3314,10 +3520,10 @@ Inicia sesión en Netlify y ve al panel de control.
 Hacer clic en el botón "New site from Git" (Nuevo sitio desde Git).
 Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
 Seleccionar el repositorio que contiene la página web.
-![front](/assets/netlify.png
+![front](/Assets/netlify.png)
 + Configurar las Opciones de Despliegue:
 Netlify detectará automáticamente la configuración de tu proyecto. Si necesitas ajustes adicionales, como la configuración del directorio de compilación, puedes establecerlos en la sección de configuración de tu sitio.
-![front2](/assets/netlify%202.png)
+![front2](/Assets/netlify%202.png)
 + Despliegue Automático:
 Activa la opción de "Deploy site" (Desplegar sitio) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
 + Verificar el Despliegue:
@@ -3335,11 +3541,11 @@ Crea un nuevo proyecto y selecciona "Backend" como tipo de proyecto.
 Conectar el Repositorio:
 Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
 Selecciona el repositorio que contiene tu backend.
-![back](/assets/railway.png)
+![back](/Assets/railway.png)
 + Configurar el Entorno:
 Railway detectará automáticamente el tipo de backend que estás utilizando y configurará el entorno según sea necesario.
 Si tu backend necesita variables de entorno específicas, como claves API o configuraciones de base de datos, puedes establecerlas en la sección de configuración de tu proyecto.
-![back2](/assets/railway2.png)
+![back2](/Assets/railway2.png)
 + Despliegue Automático:
 Activar la opción de "Auto Deploy" (Despliegue Automático) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
 + Verificar el Despliegue:
@@ -3507,7 +3713,7 @@ WEB SITE
 
 ### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
-<img src="assets\Testing-Landing.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Testing-Landing.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-oneup-ws71-github-io-landign-page/15eeol9hre?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext
 
@@ -3516,10 +3722,10 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
 
 Esta seccion se centrara en la ejecucion de la aplicación durante el sprint. Se visualizara la navegacion del landing page como la de la pagina web, de esta manera se destacaran las caracteristicas y funcionalidades implementadas en la aplicacación.
 + Landing Page: 
-![page](/assets/landing%20deploy%202.png)
+![page](/Assets/landing%20deploy%202.png)
 Enlace de la navegacion del landing page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EZTD_-0Y6wpFu2RDXbsQZvgB9MRhNlWynKjaJBZzJ614rA?e=vLAKlw 
 + Web Application:
-![web](/assets//webApp.png)
+![web](/Assets//webApp.png)
 Enlace de la navegacion de la pagina web: https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FVideos%2FVideo%5FFrontEnd%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E515614d5%2Dbb95%2D4b78%2D81f4%2D5dfcb0a715bb 
 
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -3549,12 +3755,1641 @@ Aqui se presentara la documentacion relacionada con los EndPoints de la aplicaci
 En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
 Para llevar a cabo la automatizacion del despliegue del landing page, se utilizaron las herramientas de Github Pages, esta plataforma permite alojar sitios web estáticos directamente desde un repositorio de GitHub: https://oneup-ws71.github.io/landign-page/
 
-![Front](/assets/DespliegueLanding.png)
+![Front](/Assets/DespliegueLanding.png)
 De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
-![Lainding](/assets/DespliegueFront.png) 
+![Lainding](/Assets/DespliegueFront.png) 
 ### 6.2.1.8. Team Collaboration Insights during Sprint
 Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro del equipo de desarrollo durante el sprint .Esto incluira la colaboracion,resolucion de problemas y la gestion de tareas.
-<img src="assets\DiscordGroup.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\DiscordGroup.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+## 6.2.2. Sprint 2
+
+### 6.2.2.1.Sprint Planning 2.
+En el segundo sprint, el equipo se reunió para coordinar las actividades necesarias para el desarrollo e implementación de  de la aplicaciones. Se establecieron objetivos claros y alcanzables para cada componente, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded.
+
+De la misma manera el equipo se comprometió a trabajar de manera colaborativa, definir tareas individuales y grupales, establecer plazos de entrega.
+
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <th colspan="2">Sprint Planning Background</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>07-06-2024</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>22:00</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Lima,  Perú- Reunión realizada mediante Discord </td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Liberato Susanibar, Piero</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Farro Caballero, Alfredo /<br>Orosco Orcotuma, Cristhian /<br>Nuñez Martinez, Anthony /<br>Llatas Flores, Enrique </td>
+  </tr>
+  <tr>
+    <th colspan="2">Sprint Goal & User Stories</th>
+  </tr>
+  <tr>
+    <td>Sprint n Goal</td>
+    <td>Desarrollo de la aplicación móvil, web, API, database, embedded application; despliegue del API,  aplicación web  y documentación del informe</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>128</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>128 story points </td>
+  </tr>
+</tbody></table>
+
+### 6.2.2.2.Sprint Backlog 2.
+Para este sprint tuvimos como objetivo el desarrollo e implementación de la de la aplicación, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded para dispositivos IoT.
+
+Adicionalmente, se realizó la comunicacion entre los diferentes componentes de la aplicación, la implementación de las funcionalidades principales, la integración de la base de datos y la configuración de la API RESTful. Asimismo el despliegue de la API, la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación. 
+
+<b>Trello</b>
+
+<b>Enlace:</b> https://trello.com/b/dqGrz1ZG/oneup 
+
+<img src="Assets/Trello_evidence.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><be>
+
+<b>Mobile </b>
+
+<table><thead>
+  <tr>
+    <th>Sprin #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task </td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>Doing /<br>Review /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">  <br>US02   </td>
+    <td rowspan="3">Acceso a la cuenta   (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de inicio de sesión </td>
+    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los usuarios ingresar a la aplicación utilizando su correo electrónico y contraseña.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de inicio de sesión</td>
+    <td>Implementar la lógica necesaria para validar las credenciales de los usuarios al momento de ingresar a la aplicación.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar la autenticación en el Backend</td>
+    <td> Integrar un sistema de autenticación robusto en el Backend para verificar la identidad de los usuarios y gestionar las sesiones de acceso. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US04   </td>
+    <td rowspan="3">Registro de cuenta   (Mobile Application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de registro </td>
+    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los nuevos usuarios crear una cuenta en la aplicación. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de registro</td>
+    <td> Implementar la lógica necesaria para registrar nuevos usuarios en la aplicación. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar el registro de usuarios con el Backend</td>
+    <td>Integrar el proceso de registro de usuarios en el Backend para almacenar la información personal de manera segura y gestionar las cuentas creadas.</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US08   </td>
+    <td rowspan="3">   Visualización de   la información sobre la persona cuidada (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de información de la persona cuidada (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar los datos relevantes sobre la persona cuidada. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de visualización de información</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar la información de la persona cuidada en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar  y integrar con la base de datos</td>
+    <td> Establecer la conexión entre la aplicación móvil y la base de datos para acceder a la información de la persona cuidada</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US14   </td>
+    <td rowspan="3">  Visualización de la lista de recordatorios y citas médicas (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de recordatorios y citas médicas (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva y funcional que permita visualizar la lista de recordatorios y citas médicas de manera organizada y clara.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de visualización de recordatorios y citas</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar la lista de recordatorios y citas médicas en la aplicación móvil.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar los recordatorios y citas  con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para acceder a la información de los recordatorios y citas médicas. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Anthony Nuñez</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US15  </td>
+    <td rowspan="3">   Modificación de los recordatorios (Mobile application)    </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de edición de recordatorios (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) intuitiva y fácil de usar que permita modificar los detalles de los recordatorios existentes. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de edición de recordatorios</td>
+    <td>Implementar la lógica necesaria para modificar los datos de los recordatorios en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar la  modificación de recordatorios con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para actualizar la información de los recordatorios. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US16   <br></td>
+    <td rowspan="3">Acceso a registros   históricos (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de registros históricos (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva y organizada que permita visualizar el historial de eventos relevantes relacionados con la persona cuidada.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de acceso a registros históricos</td>
+    <td> Implementar la lógica necesaria para obtener y mostrar el historial de eventos en la aplicación móvil.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar los registros históricos con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para acceder al historial de eventos.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US18   </td>
+    <td rowspan="3">   Configurar alertas   personalizadas (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de configuración de alertas (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) intuitiva y fácil de usar que permita configurar alertas personalizadas para recibir notificaciones sobre eventos relevantes.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de configuración de alertas</td>
+    <td>Implementar la lógica necesaria para configurar y gestionar las alertas personalizadas en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar  el servicio de notificaciones con el  Backend</td>
+    <td>Integrar un servicio de notificaciones confiable en el Backend para enviar alertas personalizadas a los usuarios.</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US19   </td>
+    <td rowspan="3">  Seguimiento de la   ubicación del adulto mayor (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de seguimiento de ubicación (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar la ubicación actual del adulto mayor en tiempo real.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de seguimiento de ubicación en tiempo real</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar la ubicación del adulto mayor en la aplicación móvil.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar el servicio de ubicación con el Backend</td>
+    <td>Integrar un servicio de ubicación confiable en el Backend para obtener y almacenar la información de ubicación del adulto mayor.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">  US20   </td>
+    <td rowspan="3">Agregar lista de   medicamentos con recordatorio (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de lista de medicamentos (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) organizada y fácil de usar que permita gestionar una lista de medicamentos con recordatorios. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato,Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de gestión de lista de medicamentos</td>
+    <td> Implementar la lógica necesaria para crear, editar y eliminar medicamentos en la lista.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato,Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar la lista de  medicamentos con la base de datos SQLite</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos SQLite para almacenar la información de los medicamentos.</td>
+    <td>4</td>
+    <td>Cristhian Orosco, Piero Liberato,Alfredo Farro</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US21   </td>
+    <td rowspan="3">Historial de   ubicaciones del adulto mayor (Mobile application)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de historial de ubicaciones (UI/UX Design)</td>
+    <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar el historial de ubicaciones del adulto mayor.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de acceso al historial de ubicaciones</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar el historial de ubicaciones del adulto mayor en la aplicación móvil. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Configurar y integrar el  historial de ubicaciones con el Backend</td>
+    <td>Establecer la conexión entre la aplicación móvil y la base de datos para acceder al historial de ubicaciones del adulto mayor.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+</tbody></table>
+
+<b>BackEnd </b>
+
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation<br>(Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US09</td>
+    <td rowspan="2">Proceso de ventas</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>productos.</td>
+    <td>Model, service, repository y<br>controller de Products.</td>
+    <td>2</td>
+    <td>Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Funcionalidad de error de<br>procesamiento de venta.</td>
+    <td>Error Management cuando se ingresen<br>datos incorrectos.</td>
+    <td>1</td>
+    <td>Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US24</td>
+    <td rowspan="2">Iniciar sesión<br>(Back End)</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>usuario.</td>
+    <td>Model, service, repository y<br>controller de User</td>
+    <td>2</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Servicio de autentificación<br>del usuario.</td>
+    <td>Endpoint para verificar el registro de<br>un usuario con contraseña y<br>usuario.</td>
+    <td>1</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US23</td>
+    <td>Agregar personas<br>enfermas<br>(Back End)</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>pacientes.</td>
+    <td>Model, service, repository y<br>controller de Patients</td>
+    <td>2</td>
+    <td>Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US22</td>
+    <td>Registrar un nuevo<br>usuario<br>(Back End)</td>
+    <td>TS01</td>
+    <td>Añadido de Endpoint de<br>usuario.</td>
+    <td>Model, service, repository y<br>controller de User</td>
+    <td>2</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+<b>Front-End</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation<br>(Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US07</td>
+    <td rowspan="2">Visualización de la información sobre
+   la persona cuidada.</td>
+    <td>TS01</td>
+    <td>Añadido de servicio consumiendo el Endpoint de<br>patient</td>
+    <td>Service.js.</td>
+    <td>2</td>
+    <td>Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Funcionalidad de consumo del servicio implementado previamente</td>
+    <td>Get de los servicios y maqueta para el consumo de este</td>
+    <td>1</td>
+    <td>Cristhian Orosco</td>
+    <td>Done</td>
+  </tr>
+  
+  <tr>
+    <td rowspan="2">US03</td>
+    <td rowspan="2">Registro de cuenta </td>
+    <td>TS01</td>
+    <td>Añadido el consumo del Endpoint Register </td>
+    <td> service</td>
+    <td>2</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Diseño del Register</td>
+    <td>.Vue completo usando el servicio de Register </td>
+    <td>3</td>
+    <td>Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  
+  <tr>
+    <td>US01</td>
+    <td>Accesso a la Cuenta</td>
+    <td>TS01</td>
+    <td>Añadido el consumo del EndPoint Login.</td>
+    <td>Model, service del Login </td>
+    <td>2</td>
+    <td>Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US22</td>
+    <td>Notificacion cuando las credenciales son incorrectas</td>
+    <td>TS01</td>
+    <td>Notificacion contra errores.</td>
+    <td>Login del Usuario</td>
+    <td>2</td>
+    <td>Cristhian Orosco</td>
+    <td>Done</td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 6.2.2.3.Development Evidence for Sprint Review.
+En esta seccion se presenta la evidencia del progreso del desarrollo de las aplicaciones. Se incluye detalles sobre lo que se implemento en el sprint actual, se mostrata un cuadro con los commits realizados en el repositorio de la aplicacion movil, web y API RESTful.
+
+  <h4>Back end</h4>
+  
+ <table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message </th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>45eae737648786dcc1d07d131ad18faf8642cd9e</td>
+    <td>Add Product Service imp</td>
+    <td>06/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>c47bea0fe61be247e36d7201ffac4dff9fb579d3</td>
+    <td>Add Service Product</td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>e98d41e94002d74b9432d63e461219279c72833e</td>
+    <td>add Product Controller </td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/patient</td>
+    <td>b17b32dcd61cc90c634ce4f27f7e2fc48317d1769</td>
+    <td>Add Patient Controller</td>
+    <td>04/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>bd4206f710d1b12cda12bea19fdccb05043c9912</td>
+    <td>add Report Controller</td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>036aaea252e55b78cd1851273f6ae995f3aba43e</td>
+    <td>add Report Service </td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>6a8cd4ab474eca2555d7779b2ff2113573b471d8</td>
+    <td>add Report Service Impl</td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>ca256740c54aef93ceea7d8901d6b575240c9c2a</td>
+    <td>Add Device Controller </td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>8a739b723e5a0fb4a17256719863117b4e55a9c6</td>
+    <td>Add Model Device</td>
+    <td>28/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>1bef2656018de5ce0c19ea41381a48d8e3cb6e01</td>
+    <td>Terminando user</td>
+    <td>23/05/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/back-end-application</td>
+    <td>Feature/product</td>
+    <td>1bef2656018de5ce0c19ea41381a48d8e3cb6c2a</td>
+    <td>Agregando nuevos metodos a user</td>
+    <td>20/05/2024</td>
+  </tr>
+</tbody></table>
+
+  <h4>Mobile</h4>
+
+  <table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commite on (date)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>7a8997bf3f40344f68d9b2b012e12d72b7066094 </td>
+    <td>feat: add login screen </td>
+    <td>Se agregó la vista de login  </td>
+    <td>28/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>9d3602e7182026d96b2978533bc2c44aa8237f4f</td>
+    <td>feat: Add register screen</td>
+    <td>Se agregó la vista de register para nuevos usuarios </td>
+    <td>31/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application </td>
+    <td>feature/TEAC-03</td>
+    <td>1d08962e7d1712fec84c7e0d24e937b355e70861</td>
+    <td>feat: profile screen </td>
+    <td>Se agregó la vista profile de los adultos mayores </td>
+    <td>31/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application </td>
+    <td>feature/TEAC-03</td>
+    <td>08af574f2b2d34d5ecc9f2b013bfd73cd0adcdb4</td>
+    <td>feat: mobile router page </td>
+    <td>Se agregó las rutas de navegación para las vistas profile, login y register</td>
+    <td>31/05/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-04</td>
+    <td>ed40940e327902015e3fab4b906f1298cc1d4809</td>
+    <td>feat: add folders of reminders </td>
+    <td>Se agregó las carpetas y widgets para la vista reminders  </td>
+    <td>30/05/24</td>
+  </tr>
+  <tr>
+    <td> OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-04</td>
+    <td>0b1f8d92f4883331a34d85740d180fd408b20ef6</td>
+    <td>feat: add reminder</td>
+    <td>Se agregó la vista reminders </td>
+    <td>01/06/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application </td>
+    <td>feature/TEAC-05</td>
+    <td>c39b5e74ac026f444e8962f11d0f09d56fde3b78</td>
+    <td>feat: add page view in homepage </td>
+    <td>Se agregó la vista homepage </td>
+    <td>06/06/24</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-05</td>
+    <td>e68b489f069118b3dc7aa4029e992c544424bc6c</td>
+    <td>feat: add api config </td>
+    <td>Se agrego las clases para la configuración del API </td>
+    <td>06/06/24</td>
+  </tr>
+</tbody></table>
+
+<h4>Front-End</h4>
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>cc723274711e278cbc71a11dbac8429e81810aa6</td>
+    <td>Update payment-confirm.vue</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>a0ae3ecf2dd5defc1c346ed38b7a00379a90141c</td>
+    <td>Update payment-methods.vue</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>6af282fe447f4ef3dbc7175eb7b4f2170c02bd8d</td>
+    <td>feat: add profile container in user profile</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>1a4788eb937b42f47b7e58093abb0f72a209ce14</td>
+    <td>feat: add scipt of user</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>781ab08a87be758398bfa14246538aad91365791</td>
+    <td>feat: add styles in user profile</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>b50eb22e8c30724d6f28f59da3ce3e5356014456</td>
+    <td>fix: problem with template</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>bb6348c6acfadb5c76e440157d767e73926a200b</td>
+    <td>feat: loginservice and pegenotfound</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>a483c7b98f75f42ac31ef4d7b5ed91e0de47e5a8</td>
+    <td>Merge pull request #1 from OneUp-WS71/feature/components-context</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>2a169756e6004674f9fd31bf2b491e7931d13c5b</td>
+    <td>Merge pull request #2 from OneUp-WS71/feature/login-context</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>9dbcb616d06ffdbeb35b7a93fc232b6c07f3c83d</td>
+    <td>Merge pull request #3 from OneUp-WS71/feature/payment-confirm-context</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>22f76e205338deeb5165bdf6715b97f67cd33dcb</td>
+    <td>Merge pull request #4 from OneUp-WS71/feature/payment-methods-context</td>
+    <td>07/06/2024</td>
+  </tr>
+</tbody></table>
+
+### 6.2.2.4.Testing Suite Evidence for Sprint Review.
+Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
+<img src="Assets\Testing-Landing.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-oneup-ws71-github-io-landign-page/15eeol9hre?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext
+
+### 6.2.2.5.Execution Evidence for Sprint Review.
+  <h4>Backend  Evidence</h4>
+  <img src="Assets\backendevidence.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f172_upc_edu_pe/EYyKxgjPy1hAiDEeHG_AP68BsIEf60qUGv0zORsWJmOJeA?e=wxcYSu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+  <h4>Mobile Evidence</h4>
+
+  <img src="/Assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
+
+  <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+
+  <h4>Frontend  Evidence</h4>
+  
+  ![Frontend](/Assets/FrontEvidence.png)
+  
+  <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EZULU8XZauZJrcY_k6ZTSxIBGbvka7i60XUc-y_YpioM5A?e=wdID4o 
+
+  <h4>Embedded application Evidence</h4> 
+  
+  <b>Enlace:</b>
+
+  ![Embedded](/Assets/embeddedAplication.png)
+
+  <b>Enlance:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/EbueAyh2zMpGvYHwXlTRnMoBRmEnmV6UpMor8xI6dixvMQ?e=ve5UG6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+
+### 6.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
+  <h4>Devices Service</h4>
+  <img src="Assets\deviceservice.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Users Service</h4>
+  <img src="Assets\UsersService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Patient Service</h4>
+  <img src="Assets\PatientService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Products Service</h4>
+  <img src="Assets\ProductsService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Payment Service</h4>
+  <img src="Assets\PaymentService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Report Service</h4>
+  <img src="Assets\ReportService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+
+### 6.2.2.7.Software Deployment Evidence for Sprint Review.
+En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+
+<b>Despliegue del Backend:</b>
+Para llevar a cabo la automatizacion del despliegue del backend, se utilizaron las herramientas de  railway,  esta plataforma permite alojar servicios estáticos directamente desde un repositorio de GitHub: https://github.com/OneUp-WS71/back-end-application
+
+  <img src="Assets\railway_deployment_1.PNG"><br>
+
+<b>Despliegue del Frontend:</b>
+De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
+![Lainding](/Assets/DespliegueFront.png) 
+
+De la misma manera para el desarrollo del movil app se utilizo 
+
+
+### 6.2.2.8.Team Collaboration Insights during Sprint.
+En esta seccion se presentara la colaboracion del equipo durante el sprint. Se destacaran los aspectos clave de la colaboracion y la comunicacion del equipo, asi como los desafios y las lecciones aprendidas.
+
+<b>FrontEnd:</b>
+
+![](/Assets/FrontCollab.png) 
+
+<b>BackEnd:</b>
+<b>Mobile:</b>
+
+## 6.2.2. Sprint 3
+
+### 6.2.3.1.Sprint Planning 3.
+
+En el tercer sprint, el equipo se reunió para coordinar las actividades necesarias para el desarrollo e implementación de  de la aplicaciones. Se establecieron objetivos claros y alcanzables para cada componente, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded.
+
+De la misma manera el equipo se comprometió a trabajar de manera colaborativa, definir tareas individuales y grupales, establecer plazos de entrega.
+
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 3</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <th colspan="2">Sprint Planning Background</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>26-06-2024</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>22:00</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Lima,  Perú- Reunión realizada mediante Discord </td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Liberato Susanibar, Piero</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Farro Caballero, Alfredo /<br>Orosco Orcotuma, Cristhian /<br>Nuñez Martinez, Anthony /<br>Llatas Flores, Enrique </td>
+  </tr>
+  <tr>
+    <th colspan="2">Sprint Goal & User Stories</th>
+  </tr>
+  <tr>
+    <td>Sprint n Goal</td>
+    <td>Desarrollo de la aplicación móvil, web, API, database, embedded application; despliegue del API,  aplicación web, mejoras visuales del Fron-End, validación de errores  y documentación del informe</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>128</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>128 story points </td>
+  </tr>
+</tbody></table>
+
+### 6.2.3.2.Sprint Backlog 3.
+
+Para este sprint tuvimos como objetivo el desarrollo completo e implementación de la de la aplicación, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded para dispositivos IoT.
+
+Adicionalmente, se realizó la comunicacion entre los diferentes componentes de la aplicación, la implementación de las funcionalidades principales, la integración de la base de datos y la configuración de la API RESTful. Asimismo el despliegue de la API, la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación.
+
+
+<b>Trello</b>
+  ![](/Assets/Trello.png) 
+<b>Enlace:</b> https://trello.com/invite/b/C38dv1wR/ATTI4365ad63ae88e8d3d5d640c89cf71f80051AAD10/sprint-3
+
+<table><thead>
+  <tr>
+    <th>Sprin #</th>
+    <th colspan="7">Sprint 3</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task </td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>Doing /<br>Review /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">  <br>US31   </td>
+    <td rowspan="3">Consulta de ubicación del paciente </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de ubicacion </td>
+    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los usuarios senitrse comodos.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de  ubicacion</td>
+    <td>Implementar la lógica necesaria para validar la longitud y latitud del reporte del paciente.</td>
+    <td>3</td>
+    <td>Alfredo Farro, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Mostrar la ruta tomada por el usuario para llegar al punto final</td>
+    <td> Utiliza la api de google maps para poder mostrar el recorrido necesario para llegar al punto final </td>
+    <td>3</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="2">US32   </td>
+    <td rowspan="2">Estadísticas sobre los reportes del paciente (Front-end)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de registro </td>
+    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los nuevos usuarios crear una cuenta en la aplicación. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de registro</td>
+    <td> Implementar la lógica necesaria para registrar nuevos usuarios en la aplicación. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Done</td>
+  </tr>
+ <tr>
+  <td rowspan="2">US31</td>
+  <td rowspan="2">Estadísticas sobre los reportes del paciente (Front-end)</td>
+  <td>TS01</td>
+  <td>Diseñar la pantalla de estadísticas del paciente (UI/UX Design)</td>
+  <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar las estadísticas relevantes sobre el estado del paciente.</td>
+  <td>2</td>
+  <td>Anthony Nuñez,Alfredo Farro, Enrique Llatas</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS02</td>
+  <td>Desarrollar la funcionalidad de visualización de estadísticas</td>
+  <td>Implementar la lógica necesaria para obtener y mostrar las estadísticas del estado del paciente en la aplicación.</td>
+  <td>3</td>
+  <td>Cristhian Orosco, Piero Liberato</td>
+  <td>Done</td>
+</tr> 
+</tbody></table>
+
+
+### 6.2.3.3.Development Evidence for Sprint Review.
+
+<h4>Front-End</h4>
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>2be69c74ce11f63bc02ee9976c2d60464ad1dc9d</td>
+    <td>Update patient-info.vue</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>599b8f1ef88284c97cbe37524c653fc68303a205</td>
+    <td>feat: add location</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>7f7e83c9656ef62b628c0d925ed9072de406b684</td>
+    <td>Merge pull request #6 from OneUp-WS71/feature/patient-info</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>fdcbcb42237bbb6ae9ca525a7327844a57128882</td>
+    <td>Update dashboard.vue</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>129f4e70dbb5cea63a9696cc5ff6008a66b0a508</td>
+    <td>Merge pull request #7 from OneUp-WS71/feature/location</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>e501ade0680abf7c893066df425a6cc8036d95cc</td>
+    <td>Merge pull request #8 from OneUp-WS71/feature/dashboard</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>b318b83a22cac34115768c650cde64af2ac2e0e1</td>
+    <td>feat: add patients with functions</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>e7470278ed35f977cfe8eca1061379155b203344</td>
+    <td>Merge branch 'feature/patients' into develop</td>
+    <td>27/06/2024</td>
+  </tr>
+</tbody></table>
+
+<h4>Mobile</h4>
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>9e9ae9604ce1a64646194211af8e4c0d156a9428</td>
+    <td>fix: profile_screen</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>452de27c1382ba016909ce30e2d475d21d3f04e5</td>
+    <td>fix: register patient</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-02</td>
+    <td>18da0ce887eefb5f0b619f95482e2047c19e1eda</td>
+    <td>fix: error endpoint</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-05</td>
+    <td>9144d389f5043c17a1799ed5adb1ecdbe171a25f</td>
+    <td>feat: add connection with api in locations</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/mobile-application</td>
+    <td>feature/TEAC-05</td>
+    <td>1e04d0d9134fa9bc82496f2256b927c525226bbe</td>
+    <td>feat: add connections database with homescreeen</td>
+    <td>27/06/2024</td>
+  </tr>
+</tbody></table>
+
+<b>Embedded Application </b>
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-01</td>
+    <td>1484620195570645f86d0a86b74976759ba9c396</td>
+    <td>feat: Add DHTSensor</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-02</td>
+    <td>8a9a0714730eea298fc1d5b0928b662eb6db0f43</td>
+    <td>Adding diagram.json</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-02</td>
+    <td>4bd468ced29195afceca01d64aace7ccfcf60d9f</td>
+    <td>Adding sketch.ino</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-03</td>
+    <td>79fa0821b02fbd5376edcaa6103f584a7e20fc01</td>
+    <td>Update HeartRateSensor.cpp</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-03</td>
+    <td>4b5870f2ba134558eadd0a1ac7412db04511757c</td>
+    <td>Update HeartRateSensor.h</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-04</td>
+    <td>f6a3c7aa292f93acd85a2035ab37cb526986eb21</td>
+    <td>feat: add files and configure the environment</td>
+    <td>26/26/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-04</td>
+    <td>4e65f3a00800fe10b6b2ee32751e37ef5448647f</td>
+    <td>Update RespiratoryRateSensor.h</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-04</td>
+    <td>4eda2a2f27b6e16c22ca4ee688b052aa0109db73</td>
+    <td>Update RespiratoryRateSensor.cpp</td>
+    <td>26/26/2024</td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+
+BackEnd Application
+
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/main</td>
+    <td>f5fdd6c1d58c31e5eb3cf554cc84c3ea45cdd760</td>
+    <td>feat: Validate Username</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/main</td>
+    <td>717c4c6d4773d389ab73ef2997da00d9b0526c6a</td>
+    <td>Fixing Update User</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/device-context</td>
+    <td>f32999a6fdd612c714aa87f5d65bd4992f29136a</td>
+    <td>adding get patient by device</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+     <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/product-context</td>
+    <td>080ff17185c0fc0137849e0aa9fc259975f5bcff</td>
+    <td>Update of post product</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+  <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/product-context</td>
+    <td>15653cad6e7a5e480254481e331df1f9f02911e7</td>
+    <td>Update product model</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+ <td>Oneup-WS71/Back-end-application/td>
+    <td>feature/report-context</td>
+    <td>93aa380ced7f1410b4666d95264be89ba307ac2d</td>
+    <td>ixing Endpointsf</td>
+    <td>26/06/2024</td>
+  </tr>
+</tbody></table>
+
+
+Edge GateWay
+
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Oneup-WS71/Edge GateWay/td>
+    <td>feature/Teac-01</td>
+    <td>e29ab855e60f3caf254e7bd89c1e9043f3adef56</td>
+    <td>adding swagger</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+     <td>Oneup-WS71/Edge GateWay/td>
+    <td>feature/Teac-02</td>
+    <td>87b4cfc2521b203006f3fd10d3190ff2f0b796fb</td>
+    <td>Update Report Controller</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+     <td>Oneup-WS71/Edge GateWay/td>
+    <td>feature/teac-03</td>
+    <td>7c9aea4f1640a4bd48341900ee0fa2690179b7d7</td>
+    <td>adding report class</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/Edge GateWay/td>
+    <td>feature/Teac-03</td>
+    <td>f27bfa99399ba079a3b0be9d917a2611e5d05842</td>
+    <td>Adding model</td>
+    <td>26/06/2024</td>
+  </tr>
+ 
+</tbody></table> 
+
+### 6.2.3.4.Testing Suite Evidence for Sprint Review.
+Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
+<img src="Assets\Testing-Landing.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-oneup-ws71-github-io-landign-page/15eeol9hre?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext
+### 6.2.3.5.Execution Evidence for Sprint Review.
+
+<h4>Backend  Evidence</h4>
+  <img src="Assets\backendevidence.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f172_upc_edu_pe/EYyKxgjPy1hAiDEeHG_AP68BsIEf60qUGv0zORsWJmOJeA?e=wxcYSu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+  <h4>Mobile Evidence</h4>
+
+  <img src="/Assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
+
+  <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+
+  <h4>Frontend  Evidence</h4>
+  
+  ![Frontend](/Assets/FrontEvidence.png)
+  
+  <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EZULU8XZauZJrcY_k6ZTSxIBGbvka7i60XUc-y_YpioM5A?e=wdID4o 
+
+  <h4>Embedded application Evidence</h4> 
+  
+  <b>Enlace:</b>
+
+  ![Embedded](/Assets/embeddedAplication.png)
+
+  <b>Enlance:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/EbueAyh2zMpGvYHwXlTRnMoBRmEnmV6UpMor8xI6dixvMQ?e=ve5UG6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+
+
+### 6.2.3.6.Services Documentation Evidence for Sprint Review.
+<b>Backend Edge </b>
+
+![](/Assets/GateWay.png) 
+
+ <h4>Devices Service</h4>
+  <img src="Assets\deviceservice.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Users Service</h4>
+  <img src="Assets\UsersService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Patient Service</h4>
+  <img src="Assets\PatientService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Products Service</h4>
+  <img src="Assets\ProductsService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Payment Service</h4>
+  <img src="Assets\PaymentService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Report Service</h4>
+  <img src="Assets\ReportService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+
+### 6.2.3.7.Software Deployment Evidence for Sprint Review.
+
+En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+
+<b>Despliegue del Backend:</b>
+Para llevar a cabo la automatizacion del despliegue del backend, se utilizaron las herramientas de  railway,  esta plataforma permite alojar servicios estáticos directamente desde un repositorio de GitHub: https://github.com/OneUp-WS71/back-end-application
+
+  <img src="Assets\railway_deployment_1.PNG"><br>
+
+<b>Despliegue del Frontend:</b>
+De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
+![Lainding](/Assets/DespliegueFront.png) 
+
+De la misma manera para el desarrollo del movil app se utilizo 
+
+<b>Despliegue Edge Backend:</b>
+
+Para conección entre el edge device y el Backend, se creó un edge Backend de conección. El edge Backend se ha desplegado en Azure.
+
+ <img src="/Assets/EdgeBackendEvidence.png" width="500" height="338" ><br>
+
+### 6.2.3.8.Team Collaboration Insights during Sprint.
+
+En esta seccion se presentara la colaboracion del equipo durante el sprint. Se destacaran los aspectos clave de la colaboracion y la comunicacion del equipo, asi como los desafios y las lecciones aprendidas.
+
+<b>FrontEnd:</b>
+
+![](/Assets/FrontCollab1.png) 
+
+<b>BackEnd:</b>
+![](/Assets/InsightsBackend.png) 
+
+<b>Edge Backend</b>
+![](/Assets/edge.png) 
+
+# 6.3. Validation Interviews.
+
+## 6.3.1. Diseño de Entrevistas.
+<b> Segmento: Cuidadores y Supervisores de Adultos Mayores.</b>
+
+1. ¿Cuál es tu nombre y edad?
+2. ¿Qué relación tienes con el cuidado del adulto mayor?
+3. ¿Cómo describirías tu experiencia general utilizando nuestra aplicación hasta ahora?
+4.  En una escala del 1 al 10, ¿qué tan fácil te resultó navegar por la aplicación?
+5. ¿La aplicación cumplió tus expectativas en términos de funcionalidad? ¿Por qué sí o por qué no?
+6. ¿Qué opinas del diseño y la organización de la aplicación?
+7. ¿Tuviste algún problema de rendimiento (por ejemplo, tiempos de carga lentos, fallos) mientras usabas la aplicación?
+8. ¿Es el contenido y la información proporcionada dentro de la aplicación clara y útil?
+9. ¿Sientes que la aplicación aporta valor en el cuidado del adulto mayor? ¿Por qué sí o por qué no?
+10. ¿Cuáles son las principales mejoras que recomendarías para la applicación?
+
+
+## 6.3.2. Registro de Entrevistas.
+<h4>Segmento: Supervisores</h4>
+
+<b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay <br>
+<b>Edad :</b> 26 años <br>
+<b>Distrito:</b> Callao, Lima <br>
+![EntrevistaCris](/Assets/EntrevistaCris2.png) <br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
+<b>Inicio:</b> <br>
+<b>Duracion:</b> 00:11:05 <br>
+Maryfe enfermera de 26 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite registrar información básica, como el peso y la talla de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de medicamentos y citas médicas. Sin embargo, indicó que la aplicación comienza en inglés, lo cual puede ser una barrera significativa para algunos usuarios hispanohablantes, sugiriendo que todas las secciones deberían estar en español.
+
+En cuanto a la funcionalidad, Maryfe mencionó que la aplicación cumplió sus expectativas, especialmente en relación con los recordatorios de citas y medicamentos, que están alineados con las fechas anteriores. Sin embargo, sugirió que la aplicación sería más útil si pudiera integrarse con dispositivos de monitoreo para registrar signos vitales en tiempo real. El diseño de la aplicación le pareció bien organizado, con indicaciones claras en cada sección, y no experimentó problemas de rendimiento, describiendo la aplicación como rápida y eficiente.
+
+Maryfe también ofreció varias recomendaciones de mejora. Propuso que la aplicación debería incluir la posibilidad de monitorear más signos vitales y que todas las secciones estén completamente traducidas al español. Además, sugirió la inclusión de rutinas de ejercicio adecuadas para adultos mayores, como caminatas cortas y ejercicios ligeros, y la necesidad de adaptar estas recomendaciones a las condiciones específicas de salud de los pacientes para evitar riesgos. En resumen, Mary valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad. <br>
+
+<b>Nombre y Apellidos :</b> Juan Diego Ponce Arasaki <br>
+<b>Edad :</b> 21 años <br>
+<b>Distrito:</b> Callao, Lima <br>
+ <img src="Assets\EntrevistaJd.png" width="500" height="338" ><br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
+<b>Inicio:</b>22:53 -> 28:26 <br>
+<b>Duracion:</b>  <br>
+Juan cuidador de 21 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite obtener información básica, como la temperaturaa de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de los pacientes a cargo . 
+
+En cuanto a la funcionalidad, Juan mencionó que la aplicación cumplió sus expectativas, especialmente en relación con los recordatorios de citas y medicamentos, que están alineados con las fechas anteriores. Sin embargo, sugirió que a la aplicación web le faltan secciones por completar lo cual espera con ansias . El diseño de la aplicación le pareció bien organizado, con indicaciones claras en cada sección, y no experimentó problemas de rendimiento, describiendo la aplicación como rápida y eficiente.
+En resumen, Juan valoró positivamente la aplicación, reconociendo su potencial para facilitar el cuidado de los adultos mayores, pero destacó la necesidad de realizar ciertas mejoras para aumentar su accesibilidad y funcionalidad. <br>
+
+
+<b>Nombre y Apellidos :</b> Jonathan Curi <br>
+<b>Edad :</b> 22 años <br>
+<b>Distrito:</b> Carabayllo, Lima <br>
+![EntrevistaJonathan](/Assets/entrevistaJonathan.png)  <br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
+<b>Inicio:</b> Minuto 00:00:00 <br>
+<b>Duracion:</b> 00:04:29
+
+Jonathan, un estudiante universitario encargado de cuidar a sus abuelos, nos cuenta su experiencia con el uso de la app, la cual comenta que es muy intuitiva y facil de usar. Nos comenta, que se debe mejorar ciertos aspectos de esta, ya sea como arreglar cierto errores visuales, mejorar colores, entre cosas diferentes. Cree que si logramos implementar estas mejoras, la aplicación será una de las mejores del mercado. 
+
+
+
+<h4>Segmento: Cuidadores</h4>
+
+
+<b>Nombre y Apellidos :</b> Abraham <br>
+<b>Edad :</b> 20 años <br>
+<b>Distrito:</b> San Juan Lurigancho, Lima <br>
+![EntrevistaCris](/Assets/entrevista_Piero.PNG) <br>
+<b>Enlace:</b> <br>
+<b>Inicio:</b> 15:35 <br>
+<b>Duracion:</b> 00:7:16 <br>
+
+Abraham Medina visualiza una aplicación diseñada para el cuidado del adulto mayor, enfocada en el seguimiento de su estado de salud y la prestación de auxilio en caso de emergencia.
+Opinión del Entrevistador:
+
+Encuentra la aplicación interesante y bien diseñada.
+Cree que tiene el potencial de ser un buen proyecto funcional y útil en el día a día.
+Experiencia del Usuario:
+
+Encuentra la aplicación intuitiva y directa, tanto en el login como en el registro.
+Considera que la página de inicio muestra claramente la información necesaria.
+Destaca la lista de medicación como un apartado bien diseñado y simple, lo cual facilita su uso por parte de los usuarios.
+Califica el diseño y la navegación de la aplicación con un 9, aunque cree que hay espacio para mejorar.
+Aspectos Técnicos:
+
+No ha encontrado problemas de rendimiento; la aplicación es rápida y está bien optimizada.
+Sugiere probar la aplicación en diferentes dispositivos para verificar su rendimiento.
+Valor y Utilidad:
+
+Considera la información clara y útil, y cree que la aplicación aporta valor al cuidado del adulto mayor al mantener un seguimiento constante de su salud.
+Recomendaciones:
+
+Añadir un modo oscuro a la aplicación para mejorar la experiencia del usuario.
+Conclusión:
+Abraham agradece la entrevista y concluye que la aplicación tiene potencial y es útil, con algunas áreas de mejora identificadas para aumentar su funcionalidad y usabilidad.
+ <br>
+
+
+<b>Nombre y Apellidos :</b> Raquel Lili Melany Romero Martinez <br>
+<b>Edad :</b> 24 años <br>
+<b>Distrito:</b> Villa María, Nuevo Chimbote <br>
+<img src="Assets\Screeshot_Raquel_Interview_Validation.png" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;"><br>
+<b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
+<b>Inicio:</b> 28:26 <br>
+<b>Duracion:</b> 6:17 <br>
+Raquel, de 24 años, vive con su abuelo, el cual padece de alzheimer y padece de dificultad al caminar o moverse.
+Al momento de interactuar con la aplicación, Raquel menciono que la aplicación le pareció muy sencilla de usar y muy útil. Sin embargo, también queda recalcar que nuestra entrevistada es una nativa digital, por lo cual manejarse en la aplicación podría haberle resultado más sencillo. En la entrevista también se puede notar que Raquel tiene mejor opinión en la aplicación móvil que la de escritorio, y que cree que sería un buen añadido el poder medir otros parámetros o poder guardar datos importantes, tal como glucosa o datos históricos del paciente, dentro de la aplicación. Esto se tiene ya previsto en la aplicación web y móvil.
+
+
+## 6.3.3. Evaluaciones según heurísticas.
+<h4 align="center"> UX Heuristics & Principles Evaluation  </h4> <br> 
+<h5 align="center">Usability – Inclusive Design – Information Architecture  </h5>
+
+<b> CARRERA: </b> Ingeniería de Software  <br>
+<b>CURSO </b> Desarrollo de Soluciones IoT <br>
+<b>SECCIÓN : </b> SI572 <br>
+<b>PROFESORES: </b> Angel Augusto Velasquez Nuñez <br>
+<b>AUDITOR : </b> OneUp Team  <br>
+<b>CLIENTE(S): </b>  Maryfe Pamela Cortez Menguay, ..... <br>
+
+<b> SITE o APP A EVALUAR:  </b> 
+ElderlyCare App <br>
+
+<b>TAREAS A EVALUAR: </b> <br>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Inicio de sesión en la aplicación. <br>
+
+<img src="/Assets/logintb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+2. Registro un usuario Cuidador.<br>
+<img src="/Assets/registertb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+3. Aprobación de Terminos y condiciones.<br>
+<img src="/Assets/terminostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+4. Registro de los datos de un adulto mayor. <br>
+<img src="/Assets/registroDatostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+5. Visualización de las medidas de un adulto mayor. <br>
+<img src="/Assets/measuretb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+6. Visualización de los signos vitales de un adulto mayor.<br>
+<img src="/Assets/vitalsignstb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+7. Agregar Recordatorio de Medicamentos y citas medicas. <br>
+<img src="/Assets/recordatoriostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+8. Editar perfil del adulto mayor <br>
+<img src="/Assets/perfiltb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel 	| Descripción                                                                                                                                                                                    	|
+|-------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 1     	| Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  	|
+| 2     	| Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase 	|
+| 3     	| Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                	|
+| 4     	| Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              	|
+
+**TABLA DE SEVERIDAD:**
+
+| # 	| Problema                                	| Escala de severidad 	| Heurística/Principio violado(o)                                 	|
+|---	|-----------------------------------------	|---------------------	|-----------------------------------------------------------------	|
+| 1 	| Mobile Application no es responsive     	| 2                   	| Inclusive Design: falta de experiencia en diversos dispositivos 	|
+| 2 	| Web Application no es responsive        	| 2                   	| Inclusive Design: falta de experiencia en diversos dispositivos 	|
+| 3 	| Falta de visualizar estado del producto 	| 3                   	| Information Architecture: Is it usable?                         	|
+| 4 	| Edicion de informacion del adulto mayor 	| 2                   	| Usability: Libertad y control del usuario                       	|
+
+# 6.4. Video About-the-Product.
+
+En esta sección presentaremos un video, el cual va dirigido a los visitantes del landing page que requieran un resumen sencillo y rápido de la funcionalidad principal del producto. <br>
+
+<img src="/Assets/AboutTheProduct.PNG" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EdCuA539YSFCmMdADP-VpxMBeVt1CXjrZAGkm3gESj-H-g?e=V1INYc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EdCuA539YSFCmMdADP-VpxMBeVt1CXjrZAGkm3gESj-H-g?e=V1INYc) <br>
+
+**Timing :** 1 minuto, 2 segundos <br>
+
 
 ### Conclusiones
-Las técnicas empleadas para la formulación de proyectos DDD, como el Eventstorming y sus procesos correlativos, nos brindaron una comprensión más profunda de los posibles comportamientos requeridos por los potenciales usuarios de nuestro producto. Es esencial que todos los integrantes del equipo estén al tanto de estos cambios y de cómo influyen en la concepción y desarrollo del software. En proyectos de gran envergadura como el nuestro, es fundamental reconocer las diversas habilidades de cada miembro del equipo y asignarles tareas que se ajusten a sus talentos individuales, garantizando así un proceso fluido y sin contratiempos para todo el equipo.
+El desarrollo del proyecto ha permitido alcanzar los objetivos principales, incluyendo la creación de una aplicación móvil funcional, una aplicación web robusta, una base de datos segura, una API RESTful eficiente y una aplicación embedded para la recolección de datos.
+La adopción de técnicas DDD, como el Eventstorming y sus procesos correlativos, resultó fundamental para comprender a profundidad los comportamientos esperados de los usuarios potenciales. Esta comprensión profunda nos permitió enfocar el desarrollo en las necesidades reales de los usuarios, lo que se traduce en el cumplimiento de los Problem Statements, Hypotheses Statements y criterios de éxito definidos en el proceso de Lean UX.
+Las validaciones realizadas han demostrado la efectividad de las soluciones implementadas, destacando la facilidad de uso, la escalabilidad y la seguridad del sistema. Estos resultados positivos son producto de la colaboración efectiva del equipo y la asignación de tareas acorde a las habilidades individuales de cada miembro.
+En proyectos de gran envergadura como el nuestro, es fundamental reconocer las diversas habilidades y talentos del equipo para garantizar un proceso fluido y sin contratiempos. La comunicación constante y la alineación de objetivos son claves para el éxito del proyecto.
+### Recomendaciones 
+Para continuar con el éxito del proyecto, se recomienda:
+
+- Realizar un seguimiento constante del uso de los productos digitales para realizar ajustes que optimicen la experiencia del usuario. Implementar pruebas de seguridad regulares para proteger los datos de los usuarios. Mantener los productos digitales actualizados con las últimas tecnologías.
+
+- Implementar un sistema de retroalimentación de los usuarios para recopilar comentarios y sugerencias de mejora.
+
+- Buscar nuevas oportunidades de negocio para ampliar el alcance de la solución, como la integración con otros servicios de salud o la expansión a nuevos mercados.
+
+- Continuar invirtiendo en la investigación y desarrollo de nuevas funcionalidades y tecnologías que mejoren aún más la solución y la experiencia del usuario.
+
+### Bibliografía
+
+- Google. (n.d.). Maps documentation. Recuperado de [https://developers.google.com/maps/documentation?hl=es-419](https://developers.google.com/maps/documentation?hl=es-419)
+- PostgreSQL Global Development Group. (n.d.). PostgreSQL documentation. Recuperado de [https://www.postgresql.org/docs/current/](https://www.postgresql.org/docs/current/)
+- PrimeVue. (n.d.). Introduction. Recuperado de [https://primevue.org/introduction/](https://primevue.org/introduction/)
+- Spring. (n.d.). Spring Boot documentation. Recuperado de [https://docs.spring.io/spring-boot/documentation.html](https://docs.spring.io/spring-boot/documentation.html)
+- Vuetify. (n.d.). Components. Recuperado de [https://vuetifyjs.com/en/components/all/#containment](https://vuetifyjs.com/en/components/all/#containment)
+
+### Anexos
+
+- Cuidum. (n.d.). Preguntas frecuentes. Recuerado de [https://www.cuidum.com/preguntas-frecuentes/](https://www.cuidum.com/preguntas-frecuentes/)
+- Safe365. (n.d.). Recuperado de [https://safe365global.com/](https://safe365global.com/)
+- MyTherapy. (n.d.). Recuperado de [https://www.mytherapyapp.com/es](https://www.mytherapyapp.com/es)
+
