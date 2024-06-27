@@ -3685,7 +3685,7 @@ WEB SITE
 
 ### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
-<img src="assets\Testing-Landing.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+<img src="Assets\Testing-Landing.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-oneup-ws71-github-io-landign-page/15eeol9hre?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext
 
@@ -4537,6 +4537,10 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
 </tbody></table>
 
 ### 6.2.2.4.Testing Suite Evidence for Sprint Review.
+Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
+<img src="Assets\Testing-Landing.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-oneup-ws71-github-io-landign-page/15eeol9hre?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext
 
 ### 6.2.2.5.Execution Evidence for Sprint Review.
   <h4>Backend  Evidence</h4>
@@ -4675,6 +4679,7 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
 
 
 <b>Trello</b>
+  ![](/Assets/Trello.png) 
 <b>Enlace:</b> https://trello.com/invite/b/C38dv1wR/ATTI4365ad63ae88e8d3d5d640c89cf71f80051AAD10/sprint-3
 
 <table><thead>
@@ -5012,7 +5017,55 @@ BackEnd Application
   </tr>
 </tbody></table>
 
+
+Edge GateWay
+
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Oneup-WS71/Edge GateWay/td>
+    <td>feature/Teac-01</td>
+    <td>e29ab855e60f3caf254e7bd89c1e9043f3adef56</td>
+    <td>adding swagger</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+     <td>Oneup-WS71/Edge GateWay/td>
+    <td>feature/Teac-02</td>
+    <td>87b4cfc2521b203006f3fd10d3190ff2f0b796fb</td>
+    <td>Update Report Controller</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+     <td>Oneup-WS71/Edge GateWay/td>
+    <td>feature/teac-03</td>
+    <td>7c9aea4f1640a4bd48341900ee0fa2690179b7d7</td>
+    <td>adding report class</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>Oneup-WS71/Edge GateWay/td>
+    <td>feature/Teac-03</td>
+    <td>f27bfa99399ba079a3b0be9d917a2611e5d05842</td>
+    <td>Adding model</td>
+    <td>26/06/2024</td>
+  </tr>
+ 
+</tbody></table> 
+
 ### 6.2.3.4.Testing Suite Evidence for Sprint Review.
+Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
+<img src="Assets\Testing-Landing.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
+
+Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-oneup-ws71-github-io-landign-page/15eeol9hre?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext
 ### 6.2.3.5.Execution Evidence for Sprint Review.
 
 <h4>Backend  Evidence</h4>
