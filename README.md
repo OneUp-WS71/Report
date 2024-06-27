@@ -4670,6 +4670,11 @@ De la misma manera para el desarrollo del frontend se utilizo Netlify, una plata
 
 De la misma manera para el desarrollo del movil app se utilizo 
 
+<b>Despliegue Edge Backend:</b>
+
+Para conección entre el edge device y el Backend, se creó un edge Backend de conección. El edge Backend se ha desplegado en Azure.
+
+ <img src="Assets/EdgeBackendEvidence.png.png" width="500" height="338" ><br>
 
 ### 6.2.3.8.Team Collaboration Insights during Sprint.
 
