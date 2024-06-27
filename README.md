@@ -4110,75 +4110,6 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
   </tr>
 </tbody></table>
 
-<b>Embedded Application </b>
-
-<table><thead>
-  <tr>
-    <th>Repository</th>
-    <th>Branch</th>
-    <th>Commit ID</th>
-    <th>Commit Message</th>
-    <th>Committed on</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>OneUp-WS71/embedded-application</td>
-    <td>feature/TEAC-01</td>
-    <td>1484620195570645f86d0a86b74976759ba9c396</td>
-    <td>feat: Add DHTSensor</td>
-    <td>26/06/2024</td>
-  </tr>
-  <tr>
-    <td>OneUp-WS71/embedded-application</td>
-    <td>feature/TEAC-02</td>
-    <td>8a9a0714730eea298fc1d5b0928b662eb6db0f43</td>
-    <td>Adding diagram.json</td>
-    <td>26/06/2024</td>
-  </tr>
-  <tr>
-    <td>OneUp-WS71/embedded-application</td>
-    <td>feature/TEAC-02</td>
-    <td>4bd468ced29195afceca01d64aace7ccfcf60d9f</td>
-    <td>Adding sketch.ino</td>
-    <td>26/06/2024</td>
-  </tr>
-  <tr>
-    <td>OneUp-WS71/embedded-application</td>
-    <td>feature/TEAC-03</td>
-    <td>79fa0821b02fbd5376edcaa6103f584a7e20fc01</td>
-    <td>Update HeartRateSensor.cpp</td>
-    <td>26/06/2024</td>
-  </tr>
-  <tr>
-    <td>OneUp-WS71/embedded-application</td>
-    <td>feature/TEAC-03</td>
-    <td>4b5870f2ba134558eadd0a1ac7412db04511757c</td>
-    <td>Update HeartRateSensor.h</td>
-    <td>26/06/2024</td>
-  </tr>
-  <tr>
-    <td>OneUp-WS71/embedded-application</td>
-    <td>feature/TEAC-04</td>
-    <td>f6a3c7aa292f93acd85a2035ab37cb526986eb21</td>
-    <td>feat: add files and configure the environment</td>
-    <td>26/26/2024</td>
-  </tr>
-  <tr>
-    <td>OneUp-WS71/embedded-application</td>
-    <td>feature/TEAC-04</td>
-    <td>4e65f3a00800fe10b6b2ee32751e37ef5448647f</td>
-    <td>Update RespiratoryRateSensor.h</td>
-    <td>26/06/2024</td>
-  </tr>
-  <tr>
-    <td>OneUp-WS71/embedded-application</td>
-    <td>feature/TEAC-04</td>
-    <td>4eda2a2f27b6e16c22ca4ee688b052aa0109db73</td>
-    <td>Update RespiratoryRateSensor.cpp</td>
-    <td>26/26/2024</td>
-  </tr>
-</tbody></table>
-
 ### 6.2.2.3.Development Evidence for Sprint Review.
 En esta seccion se presenta la evidencia del progreso del desarrollo de las aplicaciones. Se incluye detalles sobre lo que se implemento en el sprint actual, se mostrata un cuadro con los commits realizados en el repositorio de la aplicacion movil, web y API RESTful.
 
@@ -4437,6 +4368,75 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
     <td>22f76e205338deeb5165bdf6715b97f67cd33dcb</td>
     <td>Merge pull request #4 from OneUp-WS71/feature/payment-methods-context</td>
     <td>07/06/2024</td>
+  </tr>
+</tbody></table>
+
+<b>Embedded Application </b>
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-01</td>
+    <td>1484620195570645f86d0a86b74976759ba9c396</td>
+    <td>feat: Add DHTSensor</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-02</td>
+    <td>8a9a0714730eea298fc1d5b0928b662eb6db0f43</td>
+    <td>Adding diagram.json</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-02</td>
+    <td>4bd468ced29195afceca01d64aace7ccfcf60d9f</td>
+    <td>Adding sketch.ino</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-03</td>
+    <td>79fa0821b02fbd5376edcaa6103f584a7e20fc01</td>
+    <td>Update HeartRateSensor.cpp</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-03</td>
+    <td>4b5870f2ba134558eadd0a1ac7412db04511757c</td>
+    <td>Update HeartRateSensor.h</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-04</td>
+    <td>f6a3c7aa292f93acd85a2035ab37cb526986eb21</td>
+    <td>feat: add files and configure the environment</td>
+    <td>26/26/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-04</td>
+    <td>4e65f3a00800fe10b6b2ee32751e37ef5448647f</td>
+    <td>Update RespiratoryRateSensor.h</td>
+    <td>26/06/2024</td>
+  </tr>
+  <tr>
+    <td>OneUp-WS71/embedded-application</td>
+    <td>feature/TEAC-04</td>
+    <td>4eda2a2f27b6e16c22ca4ee688b052aa0109db73</td>
+    <td>Update RespiratoryRateSensor.cpp</td>
+    <td>26/26/2024</td>
   </tr>
 </tbody></table>
 
