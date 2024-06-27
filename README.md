@@ -4680,7 +4680,7 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
 <table><thead>
   <tr>
     <th>Sprin #</th>
-    <th colspan="7">Sprint 2</th>
+    <th colspan="7">Sprint 3</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -4724,8 +4724,8 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
     <td>Review </td>
   </tr>
   <tr>
-    <td rowspan="3">US32   </td>
-    <td rowspan="3">Estadísticas sobre los reportes del paciente (Front-end)   </td>
+    <td rowspan="2">US32   </td>
+    <td rowspan="2">Estadísticas sobre los reportes del paciente (Front-end)   </td>
     <td>TS01</td>
     <td>Diseñar la pantalla de registro </td>
     <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los nuevos usuarios crear una cuenta en la aplicación. </td>
