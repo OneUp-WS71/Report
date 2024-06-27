@@ -198,6 +198,12 @@ _____________________
     <td>Anthony</td>
     <td>Team Collaboration Insights during sprint,Sprint Planning,Sprint Backlog</td>
   </tr>
+   <tr>
+    <td>V4.0</td>
+    <td>27/06/2024</td>
+    <td>Cristhian</td>
+    <td>Se culmino y se corrigió los puntos, Team Collaboration Insights during Sprint, Sprint Planning 3, Sprint Backlog 3 y Development Evidence for Sprint Review, se agregaron las conclusiones, recomendaciones y bibliografía.</td>
+  </tr>
 </tbody>
 </table>
 
