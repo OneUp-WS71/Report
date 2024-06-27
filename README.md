@@ -64,7 +64,7 @@ _____________________
   Student Outcome, Lean UX Problem Statements,Diseño de Entrevistas,Registro de Entrevistas,As-Is Scenario Mapping
   </td>
   </tr>
-      <tr>
+  <tr>
     <td>V1.1.3</td>
     <td>09/04/2024</td>
     <td>Cristhian</td>
@@ -169,10 +169,34 @@ _____________________
      </td>
   </tr>
   <tr>
-    <td>V2.1</td>
+    <td>V3.1.1</td>
     <td>08/06/2024</td>
-    <td>OneUp</td>
-    <td>Se agregaron las siguientes secciones: Capitulo 6.2,Capitulo 6.3, Capitulo 6.4, Conclusiones, Recomendaciones</td>
+    <td>Piero</td>
+    <td>Testing Suite Evidence for Sprint Review,Sprint Planning,Sprint Backlog</td>
+  </tr>
+  <tr>
+    <td>V3.1.1</td>
+    <td>10/06/2024</td>
+    <td>Enrique</td>
+    <td>Execution Evidence For Sprint Review,Sprint Planning,Sprint Backlog </td>
+  </tr>
+  <tr>
+    <td>V3.1.2</td>
+    <td>13/06/2024</td>
+    <td>Cristhian</td>
+    <td>Services Documentation Evidence For Sprint Review,Sprint Planning,Sprint Backlog</td>
+  </tr>
+  <tr>
+    <td>V3.1.3</td>
+    <td>16/06/2024</td>
+    <td>Alfredo</td>
+    <td>Software Deployment Evidence For Sprint ReviewSprint Planning,Sprint Backlog,</td>
+  </tr>
+  <tr>
+    <td>V3.1.4</td>
+    <td>19/06/2024</td>
+    <td>Anthony</td>
+    <td>Team Collaboration Insights during sprint,Sprint Planning,Sprint Backlog</td>
   </tr>
 </tbody>
 </table>
