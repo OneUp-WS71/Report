@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Assets/Logo_Upc.png" alt="Logo" width="200"/>
+  <img src="Assets/Logo_Upc.png" alt="Logo" width="200"/>
 </p>
 
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas</h3> 
@@ -335,7 +335,7 @@ Universitario que cursa el 8to ciclo de, teniendo 22 años. En mis ratos libres 
 + **Cristhian Orosco Orcotuma:** Estudio la carrera de Ingeniería de Software en la UPC. Me considero una persona detallista, amante de los animales, la música, sobre todo la tecnología y los videojuegos, en el futuro me gustaría crear un videojuego y tener mi propia empresa de videojuegos. Soy un chico al cual le gusta aprender todo tipo de cosas, porque considero que siempre uno debe estar preparado para todo. 
 
 
-    <img src="/Assets/Cristhian_perfil_original.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
+    <img src="Assets/Cristhian_perfil_original.jpg" width="369" height="338" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
 + **Anthony Samir Nuñez Martinez:** <br>
 Estudiante de Ingeniería de Software de 19 años en la Universidad Peruana de Ciencias y Tecnología, nacido el 15 de julio del 2004. Me gusta la música punk y desarrollo videojuegos en mi tiempo libre. Me gusta resolver problemas y buscar soluciones creativas o únicas a las cosas, inclusive cuando no es la forma más eficiente de hacerla, y soy una persona muy obsecionada con la puntualidad.
@@ -494,7 +494,8 @@ sabremos que hemos tenido éxito cuando veamos un uso de nuestro producto por 3 
 El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que
 tratamos de resolver, así como tener más claro nuestro modelo de negocio.
 
-![Canvas LINK ](/Assets//LeanUxCanvas.png) 
+![Canvas LINK ](
+  ets//LeanUxCanvas.png) 
 
 
 # 1.3. Segmentos objetivo.
@@ -4578,7 +4579,7 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
 
   <h4>Mobile Evidence</h4>
 
-  <img src="/Assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
+  <img src="Assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
 
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 
@@ -5103,7 +5104,7 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
 
   <h4>Mobile Evidence</h4>
 
-  <img src="/Assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
+  <img src="Assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
 
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 
@@ -5166,7 +5167,7 @@ De la misma manera para el desarrollo del movil app se utilizo
 
 Para conección entre el edge device y el Backend, se creó un edge Backend de conección. El edge Backend se ha desplegado en Azure.
 
- <img src="/Assets/EdgeBackendEvidence.png" width="500" height="338" ><br>
+ <img src="Assets/EdgeBackendEvidence.png" width="500" height="338" ><br>
 
 ### 6.2.3.8.Team Collaboration Insights during Sprint.
 
@@ -5307,28 +5308,28 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 1. Inicio de sesión en la aplicación. <br>
 
-<img src="/Assets/logintb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="Assets/logintb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 2. Registro un usuario Cuidador.<br>
-<img src="/Assets/registertb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="Assets/registertb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 3. Aprobación de Terminos y condiciones.<br>
-<img src="/Assets/terminostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="Assets/terminostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 4. Registro de los datos de un adulto mayor. <br>
-<img src="/Assets/registroDatostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="Assets/registroDatostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 5. Visualización de las medidas de un adulto mayor. <br>
-<img src="/Assets/measuretb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="Assets/measuretb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 6. Visualización de los signos vitales de un adulto mayor.<br>
-<img src="/Assets/vitalsignstb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="Assets/vitalsignstb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 7. Agregar Recordatorio de Medicamentos y citas medicas. <br>
-<img src="/Assets/recordatoriostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="Assets/recordatoriostb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 8. Editar perfil del adulto mayor <br>
-<img src="/Assets/perfiltb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="Assets/perfiltb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
@@ -5356,7 +5357,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 En esta sección presentaremos un video, el cual va dirigido a los visitantes del landing page que requieran un resumen sencillo y rápido de la funcionalidad principal del producto. <br>
 
-<img src="/Assets/AboutTheProduct.PNG" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="Assets/AboutTheProduct.PNG" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EdCuA539YSFCmMdADP-VpxMBeVt1CXjrZAGkm3gESj-H-g?e=V1INYc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EdCuA539YSFCmMdADP-VpxMBeVt1CXjrZAGkm3gESj-H-g?e=V1INYc) <br>
 
