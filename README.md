@@ -4283,6 +4283,95 @@ En esta seccion se presenta la evidencia del progreso del desarrollo de las apli
   </tr>
 </tbody></table>
 
+<h4>Front-End</h4>
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>cc723274711e278cbc71a11dbac8429e81810aa6</td>
+    <td>Update payment-confirm.vue</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>a0ae3ecf2dd5defc1c346ed38b7a00379a90141c</td>
+    <td>Update payment-methods.vue</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>6af282fe447f4ef3dbc7175eb7b4f2170c02bd8d</td>
+    <td>feat: add profile container in user profile</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>1a4788eb937b42f47b7e58093abb0f72a209ce14</td>
+    <td>feat: add scipt of user</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>781ab08a87be758398bfa14246538aad91365791</td>
+    <td>feat: add styles in user profile</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>b50eb22e8c30724d6f28f59da3ce3e5356014456</td>
+    <td>fix: problem with template</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>bb6348c6acfadb5c76e440157d767e73926a200b</td>
+    <td>feat: loginservice and pegenotfound</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>a483c7b98f75f42ac31ef4d7b5ed91e0de47e5a8</td>
+    <td>Merge pull request #1 from OneUp-WS71/feature/components-context</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>2a169756e6004674f9fd31bf2b491e7931d13c5b</td>
+    <td>Merge pull request #2 from OneUp-WS71/feature/login-context</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>9dbcb616d06ffdbeb35b7a93fc232b6c07f3c83d</td>
+    <td>Merge pull request #3 from OneUp-WS71/feature/payment-confirm-context</td>
+    <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>22f76e205338deeb5165bdf6715b97f67cd33dcb</td>
+    <td>Merge pull request #4 from OneUp-WS71/feature/payment-methods-context</td>
+    <td>07/06/2024</td>
+  </tr>
+</tbody></table>
 
 ### 6.2.2.4.Testing Suite Evidence for Sprint Review.
 
