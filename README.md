@@ -4165,7 +4165,7 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
     <td>Funcionalidad de consumo del servicio implementado previamente</td>
     <td>Get de los servicios y maqueta para el consumo de este</td>
     <td>1</td>
-    <td>Alfredo Farro</td>
+    <td>Cristhian Orosco</td>
     <td>Done</td>
   </tr>
   
