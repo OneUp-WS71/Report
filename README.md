@@ -719,7 +719,7 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 **User Persona – Supervisor**
 
-![](Assets/UserPersonaMayorias.png)
+![](Assets/UserPersonaMayores.png)
 
 ## 2.3.2. User Task Matrix
 
