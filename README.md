@@ -4453,6 +4453,57 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 ## 6.2.2. Sprint 3
 
 ### 6.2.3.1.Sprint Planning 3.
+
+En el tercer sprint, el equipo se reunió para coordinar las actividades necesarias para el desarrollo e implementación de  de la aplicaciones. Se establecieron objetivos claros y alcanzables para cada componente, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded.
+
+De la misma manera el equipo se comprometió a trabajar de manera colaborativa, definir tareas individuales y grupales, establecer plazos de entrega.
+
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 3</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <th colspan="2">Sprint Planning Background</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>26-06-2024</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>22:00</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Lima,  Perú- Reunión realizada mediante Discord </td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Liberato Susanibar, Piero</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Farro Caballero, Alfredo /<br>Orosco Orcotuma, Cristhian /<br>Nuñez Martinez, Anthony /<br>Llatas Flores, Enrique </td>
+  </tr>
+  <tr>
+    <th colspan="2">Sprint Goal & User Stories</th>
+  </tr>
+  <tr>
+    <td>Sprint n Goal</td>
+    <td>Desarrollo de la aplicación móvil, web, API, database, embedded application; despliegue del API,  aplicación web, mejoras visuales del Fron-End, validación de errores  y documentación del informe</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>128</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>128 story points </td>
+  </tr>
+</tbody></table>
+
 ### 6.2.3.2.Sprint Backlog 3.
 ### 6.2.3.3.Development Evidence for Sprint Review.
 
