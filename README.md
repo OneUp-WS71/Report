@@ -4747,7 +4747,7 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
     <td>Done</td>
   </tr>
  <tr>
-  <td rowspan="2">US32</td>
+  <td rowspan="2">US31</td>
   <td rowspan="2">Estadísticas sobre los reportes del paciente (Front-end)</td>
   <td>TS01</td>
   <td>Diseñar la pantalla de estadísticas del paciente (UI/UX Design)</td>
