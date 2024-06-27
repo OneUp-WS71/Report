@@ -6,7 +6,7 @@
 <h4 align="center"> Ingeniería de Sistemas y Computación | Ingeniería de Software  </h4>
 <h4 align="center"> Desarrollo de Soluciones IOT </h4>
 <h4 align="center"> Informe de Trabajo Parcial  </h4>
-
+f
 ### Startup: OneUp
 #### Team Members 
 + Liberato Susanibar, Piero Anthony_U20181H057
@@ -5099,6 +5099,25 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
 <b>Backend Edge </b>
 
 ![](/Assets/GateWay.png) 
+
+ <h4>Devices Service</h4>
+  <img src="Assets\deviceservice.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Users Service</h4>
+  <img src="Assets\UsersService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Patient Service</h4>
+  <img src="Assets\PatientService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Products Service</h4>
+  <img src="Assets\ProductsService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Payment Service</h4>
+  <img src="Assets\PaymentService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
+  <h4>Report Service</h4>
+  <img src="Assets\ReportService.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
+
 
 ### 6.2.3.7.Software Deployment Evidence for Sprint Review.
 
