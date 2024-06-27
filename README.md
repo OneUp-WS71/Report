@@ -4444,6 +4444,9 @@ De la misma manera para el desarrollo del movil app se utilizo
 En esta seccion se presentara la colaboracion del equipo durante el sprint. Se destacaran los aspectos clave de la colaboracion y la comunicacion del equipo, asi como los desafios y las lecciones aprendidas.
 
 <b>FrontEnd:</b>
+
+![](/Assets/FrontCollab) 
+
 <b>BackEnd:</b>
 <b>Mobile:</b>
 
