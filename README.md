@@ -1057,9 +1057,18 @@ User - Supervisor
   <td>&nbsp;&nbsp;&nbsp;<br>US30&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Consulta de ubicación del paciente&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como usuario, quiero poder consultar la ubicación actual de un paciente para saber dónde se encuentra en tiempo real.&nbsp;&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Consulta exitosa de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que quiero conocer la ubicación de un paciente en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando ingreso a la seccion location<br>&nbsp;&nbsp;&nbsp;<br>Entonces el sistema devuelve la ubicación actual del paciente y la ubicacion donde inicio <br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la consulta de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante la consulta de la ubicación del paciente, como un latitud y longitud del paciente inválido o un error interno <br>Entonces observo la seccion en blanco.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Consulta exitosa de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que quiero conocer la ubicación de un paciente en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando ingreso a la seccion Ubicación<br>&nbsp;&nbsp;&nbsp;<br>Entonces el sistema devuelve la ubicación actual del paciente y la ubicacion donde inicio <br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la consulta de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante la consulta de la ubicación del paciente, como un latitud y longitud del paciente inválido o un error interno <br>Cuando Ingreso a la seccion ubicación <br>Entonces observo la seccion en blanco.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
 </tr>
+  
+  <tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>US31&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Consulta de ubicación del paciente (Front-end)&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero consumir la Api de Google Maps para obtener la ubicación actual de un paciente , de modo que los usuarios puedan consultar la ubicación de los pacientes en tiempo real.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Consulta exitosa de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que un usuario quiere conocer la ubicación de un paciente en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud GET a "/API/V1/pacientes/{id}/ubicacion" con el ID del paciente<br>&nbsp;&nbsp;&nbsp;<br>Entonces el front consulta la ubicación del paciente en la API de Google Maps<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve la ubicación actual del paciente, incluyendo detalles como la ruta tomada, dirección exacta, y cualquier otra información relevante.<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la consulta de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante la consulta de la ubicación del paciente, como un ID de paciente inválido o un error interno del servidor<br>&nbsp;&nbsp;&nbsp;<br>Cuando se envía una solicitud GET a "/API/V1/patient/{id}/report" con el ID del paciente<br>&nbsp;&nbsp;&nbsp;<br>Entonces el backend responde con un código 400<br>&nbsp;&nbsp;&nbsp;<br>Y devuelve un mensaje de error descriptivo indicando la causa del problema. &nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>EP06&nbsp;&nbsp;&nbsp;</td>
+</tr>
+
 </tbody>
 </table>
 
