@@ -5151,6 +5151,8 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 <b>BackEnd:</b>
 ![](/Assets/InsightsBackend.png) 
 
+<b>Edge Backend</b>
+![](/Assets/edge.png) 
 
 # 6.3. Validation Interviews.
 
