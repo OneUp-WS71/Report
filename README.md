@@ -1313,6 +1313,21 @@ User - Supervisor
     <td>&nbsp;&nbsp;&nbsp;<br>Como usuario, quiero poder consultar la ubicación actual de un paciente para saber dónde se encuentra en tiempo real.  </td>
     <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
   </tr>
+      <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>31&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US32&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>   Estadísticas sobre los reportes del paciente (Front-end)    &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador, quiero crear cuadros estadísticos para que los usuarios puedan ver cómo va su paciente y tengan más detalles sobre su estado.    </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>13&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+      <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>32&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US31&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Consulta de ubicación del paciente (Front-end)    &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Como desarrollador, quiero consumir la Api de Google Maps para obtener la ubicación actual de un paciente , de modo que los usuarios puedan consultar la ubicación de los pacientes en tiempo real.</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
 </tbody>
 </table>
 
