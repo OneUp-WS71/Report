@@ -4445,7 +4445,7 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 
 <b>FrontEnd:</b>
 
-![](/Assets/FrontCollab) 
+![](/Assets/FrontCollab.png) 
 
 <b>BackEnd:</b>
 <b>Mobile:</b>
