@@ -4452,6 +4452,76 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 ### 6.2.3.1.Sprint Planning 3.
 ### 6.2.3.2.Sprint Backlog 3.
 ### 6.2.3.3.Development Evidence for Sprint Review.
+
+<h4>Front-End</h4>
+
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>2be69c74ce11f63bc02ee9976c2d60464ad1dc9d</td>
+    <td>Update patient-info.vue</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>599b8f1ef88284c97cbe37524c653fc68303a205</td>
+    <td>feat: add location</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>7f7e83c9656ef62b628c0d925ed9072de406b684</td>
+    <td>Merge pull request #6 from OneUp-WS71/feature/patient-info</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>fdcbcb42237bbb6ae9ca525a7327844a57128882</td>
+    <td>Update dashboard.vue</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>129f4e70dbb5cea63a9696cc5ff6008a66b0a508</td>
+    <td>Merge pull request #7 from OneUp-WS71/feature/location</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>e501ade0680abf7c893066df425a6cc8036d95cc</td>
+    <td>Merge pull request #8 from OneUp-WS71/feature/dashboard</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>b318b83a22cac34115768c650cde64af2ac2e0e1</td>
+    <td>feat: add patients with functions</td>
+    <td>27/06/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/OneUp-WS71/frontend-web-applications</td>
+    <td>develop</td>
+    <td>e7470278ed35f977cfe8eca1061379155b203344</td>
+    <td>Merge branch 'feature/patients' into develop</td>
+    <td>27/06/2024</td>
+  </tr>
+</tbody></table>
+
 ### 6.2.3.4.Testing Suite Evidence for Sprint Review.
 ### 6.2.3.5.Execution Evidence for Sprint Review.
 ### 6.2.3.6.Services Documentation Evidence for Sprint Review.
