@@ -502,8 +502,9 @@ sabremos que hemos tenido éxito cuando veamos un uso de nuestro producto por 3 
 El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que
 tratamos de resolver, así como tener más claro nuestro modelo de negocio.
 
-![Canvas LINK ](
-  ets//LeanUxCanvas.png) 
+
+  <img src="Assets/LeanUxCanvas.png" width="700"/>
+
 
 
 # 1.3. Segmentos objetivo.
@@ -1073,7 +1074,6 @@ User - Supervisor
   <td>&nbsp;&nbsp;&nbsp;<br>Escenario: Consulta exitosa de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que quiero conocer la ubicación de un paciente en la plataforma<br>&nbsp;&nbsp;&nbsp;<br>Cuando ingreso a la seccion Ubicación<br>&nbsp;&nbsp;&nbsp;<br>Entonces el sistema devuelve la ubicación actual del paciente y la ubicacion donde inicio <br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>Escenario: Error en la consulta de la ubicación del paciente<br>&nbsp;&nbsp;&nbsp;<br>Dado que ocurre un error durante la consulta de la ubicación del paciente, como un latitud y longitud del paciente inválido o un error interno <br>Cuando Ingreso a la seccion ubicación <br>Entonces observo la seccion en blanco.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>EP03&nbsp;&nbsp;&nbsp;</td>
 </tr>
-  
   <tr>
   <td>&nbsp;&nbsp;&nbsp;<br>US31&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Consulta de ubicación del paciente (Front-end)&nbsp;&nbsp;&nbsp;</td>
@@ -3006,12 +3006,12 @@ En el menú inferior de la aplicación móvil, se pueden acceder a las siguiente
 ## 5.2.4. Searching Systems.
 Para mejorar la experiencia del usuario al buscar recordatorios de medicación o citas médicas, así como datos históricos de salud del adulto mayor en nuestra aplicación móvil, hemos implementado un sistema de búsqueda. Este sistema proporciona a los usuarios opciones principales para encontrar la información que necesitan de manera eficiente.
 **Búsqueda por nombre de recordatorio:** Los usuarios pueden buscar recordatorios de medicación o citas médicas específicos ingresando el nombre asociado al recordatorio. Esta función permite a los usuarios encontrar rápidamente los recordatorios relacionados con un medicamento o una cita médica en particular.
- <img src="Assets/searching%201.png" width="700"/>
+ <img src="Assets/searching%201.png" width="400"/>
 
 
 
 **Filtro de búsqueda por fecha de los datos historicos de salud del adulto mayor:** Utilizando los datos de salud recopilados por la pulsera del adulto mayor, hemos integrado un filtro de búsqueda por fecha. Los usuarios pueden especificar un rango de fechas para buscar registros históricos de presión arterial, temperatura corporal, nivel de actividad, entre otros datos biométricos. Este filtro de búsqueda permite a los usuarios obtener información detallada sobre la salud del adulto mayor en un período específico, lo que puede ser útil para el seguimiento y la gestión de su bienestar.
- <img src="Assets/searching%202.png" width="700"/>
+ <img src="Assets/searching%202.png" width="400"/>
 
 
 
@@ -3306,7 +3306,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 ### **Project Management**
 Se emplearon herramientas de software que permiten la comunicación en tiempo real y la edición rápida y compartida, lo que facilitó el trabajo eficiente. Algunas de las herramientas utilizadas fueron los servicios de Google (Drive, Documents, Meet) y Microsoft Outlook. Para el registro de versiones y la creación de repositorios se utilizó GitHub, una plataforma que permite registrar de manera ordenada cada uno de los commits realizados y Git  una herramienta que permite el control de versiones.
 
- <img src="Assets/github.png" width="700"/>
+ <img src="Assets/github.jpg" width="700"/>
 
 ### **Product UX/UI Design**
 Se utilizó Miro y UXPressia para el desarrollo de los segmentos objetivos y sus mapeos, así como para los As-Is y To-Be Scenario Maps. Para los mockups, wireframes, wireflows y el prototipo de la aplicación web se empleó Figma.
@@ -3319,7 +3319,7 @@ También se está desarrollando la aplicación móvil emppleando el framework Fl
     <img src="Assets/android%20studio.png" width="700"/>
 
 Asimismo, se utilizo Vue para el desarrollo de la aplicación web, un framework progresivo de JavaScript que permite crear interfaces de usuario interactivas y dinámicas.
-    <img src="Assets/vue.png" width="700"/>
+    <img src="Assets/vue.jpg" width="700"/>
 
 Para el desarrollo del backend se utilizó Node.js, un entorno de ejecución de JavaScript que permite ejecutar código JavaScript en el servidor.
 
