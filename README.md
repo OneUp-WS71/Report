@@ -211,12 +211,14 @@ _____________________
 + Link del repositorio Github:  [Github](https://github.com/OneUp-WS71) / https://github.com/OneUp-WS71 
 
   **Desarrollo de las actividades del informe:**  
-  + TB1: Para esta entrega se desarrollaron las secciones del capitulo I al capitulo IV, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
-  ![commits](/Assets/Commits_tb1.png)
+  + TB1: Para esta entrega se desarrollaron las secciones del capitulo I al capitulo IV, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.}
+   <img src="Assets/Commits.png" width="700"/>
+  
   + TP: Para la entrega del TP se desarrollo las secciones del capitulo V al capitulo VI, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
-  ![CAP6](/Assets/ContribucionCap6.png)
+  +  <img src="Assets/ContribucionCap6.png" " width="700"/>
+ 
   + TB2: Para la entrega del TB2 se desarrollo las secciones del capitulo 6.2 al capitulo 6.4, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
- ![TB2](/Assets/githubReportb2.png)
+  +  <img src="Assets/githubReportb2.png" alt="Logo" width="700"/>
 
 ## Contenido 
 - [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
@@ -704,15 +706,18 @@ En cuanto a los navegadores web, los cuidadores de adultos mayores utilizan prin
 ![Navegadores](Assets/navegadorWeb.png)
 
 En base las entrevistas se determino el segmento demografico de la siguiente manera: 
-![Edad](/Assets/Edad.png)
+ <img src="Assets/Edad.png" width="700"/>
 
-![Genero](/Assets/Genero.png)
+ <img src="Assets/Genero.png" width="700"/>
 
-![Distrito](/Assets/Distrito.png)
+ <img src="Assets/Distrito.png" width="700"/>
+
+
 
 De la misma manera, se determino las habilidades personales de los segmentos objetivos en base a la observación y comportamiento en las entrevistas realizadas.
 
-![Habilidades](/Assets/Habilidades.png)
+ <img src="Assets/Habilidades.png" width="700"/>
+
 
 Asimismo, se destaca la importancia del monitoreo de diferentes aspectos de la salud de los adultos mayores, como la presión arterial y la frecuencia cardíaca. Los entrevistados resaltan la relevancia de incluir estos parámetros en la aplicación móvil y la pulsera inteligente para proporcionar un monitoreo integral de la salud de los pacientes. 
 # 2.3. Needfinding
@@ -1771,10 +1776,13 @@ A continuación, presentamos el component level diagram considerado para el Devi
 #### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams.
 A continuación, presentamos el diagrama de clases del dominio considerado para el Device.
 
-![Device Domain Layer Class Diagram](/Assets/Device_ClassDiagram.png)
+ <img src="Assets/Device_ClassDiagram.png" width="700"/>
+
+
 #### 4.2.1.7.2. Bounded Context Database Design Diagram.
 
-![Device Database Design Diagram](/Assets/Database_Device.png)
+ <img src="Assets/Database_Device.png" width="700"/>
+
 
 ## 4.2.2. Bounded Context: Reminder
 
@@ -2998,10 +3006,13 @@ En el menú inferior de la aplicación móvil, se pueden acceder a las siguiente
 ## 5.2.4. Searching Systems.
 Para mejorar la experiencia del usuario al buscar recordatorios de medicación o citas médicas, así como datos históricos de salud del adulto mayor en nuestra aplicación móvil, hemos implementado un sistema de búsqueda. Este sistema proporciona a los usuarios opciones principales para encontrar la información que necesitan de manera eficiente.
 **Búsqueda por nombre de recordatorio:** Los usuarios pueden buscar recordatorios de medicación o citas médicas específicos ingresando el nombre asociado al recordatorio. Esta función permite a los usuarios encontrar rápidamente los recordatorios relacionados con un medicamento o una cita médica en particular.
-![Busqueda nombre](/Assets/searching%201.png)
+ <img src="Assets/searching%201.png" width="700"/>
+
+
 
 **Filtro de búsqueda por fecha de los datos historicos de salud del adulto mayor:** Utilizando los datos de salud recopilados por la pulsera del adulto mayor, hemos integrado un filtro de búsqueda por fecha. Los usuarios pueden especificar un rango de fechas para buscar registros históricos de presión arterial, temperatura corporal, nivel de actividad, entre otros datos biométricos. Este filtro de búsqueda permite a los usuarios obtener información detallada sobre la salud del adulto mayor en un período específico, lo que puede ser útil para el seguimiento y la gestión de su bienestar.
-![Busqueda fecha ](/Assets//searching%202.png)
+ <img src="Assets/searching%202.png" width="700"/>
+
 
 
 Estas funciones de búsquedase han agregaron para mejorar la accesibilidad y la eficiencia en la recuperación de información relevante para el cuidado del adulto mayor. Al proporcionar tanto la opción de búsqueda por nombre como el filtro por fecha, garantizamos que los usuarios puedan acceder fácilmente a los datos específicos que necesitan, ya sea para administrar la medicación, programar citas médicas o monitorear la salud general del adulto mayor.
@@ -3052,19 +3063,32 @@ A continuación, se muestran los diseños elaborados de acuerdo a las funcionali
 
 **Mobile Application Wireframes**  
 Registro de Usuario (Cuidador)
-![Registro de Usuario (Cuidador)](/Assets/Register.png)
+ <img src="Assets/Register.png" width="700"/>
+
+
 Inicio de Sesión 
-![Inicio de Sesión](/Assets/Login.png)
+ <img src="Assets/Login.png" width="700"/>
+
+
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
 ![Home](Assets/Home.png)
 Ubicacion del Adulto Mayor
-![Ubicacion](/Assets/UbicacionLocation.png)
+ <img src="Assets/UbicacionLocation.png" width="700"/>
+
+
 Recordatorios de las citas medicas y medicamentos
-![Recordatorios](/Assets/reminders.png)
+ <img src="Assets/reminders.png" width="700"/>
+
+
 Perfil del adulto mayor
-![Perfil](/Assets/Profile.png)
+
+ <img src="Assets/Profile.png" width="700"/>
+
+
 Sincronización de la pulsera
-![Sincronización](/Assets/Connection.png)
+
+ <img src="Assets/Connection.png" width="700"/>
+
 
 **Web Application Wireframes**<br>
 Registro de usuario <br>
@@ -3119,19 +3143,29 @@ Pagina Principalz<br>
 A continuación, se presentan los mock-ups de la aplicación ElderlyCare, diseñados para brindar una experiencia de usuario intuitiva y atractiva.
 **Mobile Application Mock-ups**  
 Registro de Usuario (Cuidador)
-![Registro de Usuario](/Assets/MRegister.png)
+
+ <img src="Assets/MRegister.png" width="700"/>
+
+
 Inicio de Sesión 
-![Inicio de Sesión](/Assets/MLogin.png)
+ <img src="Assets/MLogin.png" width="700"/>
+
+
 Seccion Home donde se visualiza los datos biométricos del adulto mayor
 ![Home](Assets/MHome.png)
 Ubicaion del Adulto Mayor
-![Ubicacion](/Assets/MLocation.png)
+ <img src="Assets/MLocation.png" width="700"/>
+
 Recordatorios de las citas medicas y medicamentos
-![Recordatorios](/Assets/MReminder.png)
+ <img src="Assets/MReminder.png" width="700"/>
+
+
 Perfil del adulto mayor
-![Perfil](/Assets/MProfile.png)
+ <img src="Assets/MProfile.png" width="700"/>
+
 Sincronización de la pulsera
-![Sincronización](/Assets/MConnection.png)
+ <img src="Assets/MConnection.png" width="700"/>
+
 
 **Web Application Mock-ups**
 Registro de usuario <br>
@@ -3271,19 +3305,27 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 ## 6.1.1. Software Development Environment Configuration.
 ### **Project Management**
 Se emplearon herramientas de software que permiten la comunicación en tiempo real y la edición rápida y compartida, lo que facilitó el trabajo eficiente. Algunas de las herramientas utilizadas fueron los servicios de Google (Drive, Documents, Meet) y Microsoft Outlook. Para el registro de versiones y la creación de repositorios se utilizó GitHub, una plataforma que permite registrar de manera ordenada cada uno de los commits realizados y Git  una herramienta que permite el control de versiones.
-![github](/Assets/github.jpg) 
+
+ <img src="Assets/github.png" width="700"/>
+
 ### **Product UX/UI Design**
 Se utilizó Miro y UXPressia para el desarrollo de los segmentos objetivos y sus mapeos, así como para los As-Is y To-Be Scenario Maps. Para los mockups, wireframes, wireflows y el prototipo de la aplicación web se empleó Figma.
 
 ### **Software Development**
 Para el desarrollo del software se utilizó Visual Studio Code, HTML, CSS, Bootstrap y Javascript. Visual Studio Code es un software que admite muchos lenguajes de programación, incluyendo HTML y CSS, y fue utilizado principalmente para el Landing Page. HTML se utilizó para el desarrollo de la estructura de las páginas web, CSS para el diseño y presentación, Bootstrap para crear interfaces más limpias y responsive, y Javascript para implementar la interactividad dinámica y animaciones en el Landing Page.<br>
-![visual](/Assets/visual%20studio.png) 
+ <img src="Assets/visual%20studio.png" width="700"/>
+
 También se está desarrollando la aplicación móvil emppleando el framework Flutter, la cual es multiplataforma. Sin embargo, no se utiliza Flutter solo por su responsiveness, sino que se eligió por el uso de distintos componentes que permite darle una estética más personalizado. El lenguaje en uso para el desarrollo de la aplicación móvil es Dart.
-![visual](/Assets/android%20studio.png)
+    <img src="Assets/android%20studio.png" width="700"/>
+
 Asimismo, se utilizo Vue para el desarrollo de la aplicación web, un framework progresivo de JavaScript que permite crear interfaces de usuario interactivas y dinámicas.
-![vue](/Assets//vue.jpg)
+    <img src="Assets/vue.png" width="700"/>
+
 Para el desarrollo del backend se utilizó Node.js, un entorno de ejecución de JavaScript que permite ejecutar código JavaScript en el servidor.
-![node](/Assets/node.png)
+
+    <img src="Assets/node.png" width="700"/>
+
+
 ### **Software Testing**
 Para probar el Landing Page se utilizó la extensión LiveShare de Visual Studio Code, que permite crear un localhost para ver en tiempo real los cambios realizados. Para los test de aceptación se utilizó el lenguaje Gherkin y se subió al repositorio mencionado anteriormente.
 
@@ -3508,12 +3550,15 @@ En este punto, se dara a conocer el proceso de despliegue de las aplicaciones, a
 Para desplegar la Landing Page, se utilizó GitHub Pages, una plataforma gratuita que permite alojar sitios web estáticos directamente desde un repositorio de GitHub. El proceso de despliegue fue el siguiente:
 1. Crear un repositorio en GitHub con el código de la Landing Page.
 2. Acceder a la configuración del repositorio y habilitar GitHub Pages.
-![landing](/Assets/landing%20deploy%201.png)
+<img src="Assets/landing%20deploy%201.png" width="700"/>
 
-3. Seleccionar la rama y la carpeta de origen del sitio web.
-4. Guardar la configuración y obtener la URL del sitio web desplegado.
-5. Finalmente, acceder a la URL del sitio web para verificar que se haya desplegado correctamente.
-![page](/Assets/landing%20deploy%202.png)
+
+
+4. Seleccionar la rama y la carpeta de origen del sitio web.
+5. Guardar la configuración y obtener la URL del sitio web desplegado.
+6. Finalmente, acceder a la URL del sitio web para verificar que se haya desplegado correctamente.
+    <img src="Assets/landing%20deploy%202.png" width="700"/>
+
 
 + Enlace de la Landing Page desplegada: https://oneup-ws71.github.io/landign-page/
 
@@ -3528,10 +3573,12 @@ Inicia sesión en Netlify y ve al panel de control.
 Hacer clic en el botón "New site from Git" (Nuevo sitio desde Git).
 Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
 Seleccionar el repositorio que contiene la página web.
-![front](/Assets/netlify.png)
+<img src="Assets/netlify.png" width="700"/>
+
 + Configurar las Opciones de Despliegue:
 Netlify detectará automáticamente la configuración de tu proyecto. Si necesitas ajustes adicionales, como la configuración del directorio de compilación, puedes establecerlos en la sección de configuración de tu sitio.
-![front2](/Assets/netlify%202.png)
+<img src="Assets/netlify%202.png" width="700"/>
+
 + Despliegue Automático:
 Activa la opción de "Deploy site" (Desplegar sitio) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
 + Verificar el Despliegue:
@@ -3549,11 +3596,13 @@ Crea un nuevo proyecto y selecciona "Backend" como tipo de proyecto.
 Conectar el Repositorio:
 Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
 Selecciona el repositorio que contiene tu backend.
-![back](/Assets/railway.png)
+ <img src="Assets/railway.png" width="700"/>
+
 + Configurar el Entorno:
 Railway detectará automáticamente el tipo de backend que estás utilizando y configurará el entorno según sea necesario.
 Si tu backend necesita variables de entorno específicas, como claves API o configuraciones de base de datos, puedes establecerlas en la sección de configuración de tu proyecto.
-![back2](/Assets/railway2.png)
+ <img src="Assets/railway2.png" width="700"/>
+
 + Despliegue Automático:
 Activar la opción de "Auto Deploy" (Despliegue Automático) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
 + Verificar el Despliegue:
@@ -3729,11 +3778,13 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
 ### 6.2.1.5. Execution Evidence for Sprint Review.
 
 Esta seccion se centrara en la ejecucion de la aplicación durante el sprint. Se visualizara la navegacion del landing page como la de la pagina web, de esta manera se destacaran las caracteristicas y funcionalidades implementadas en la aplicacación.
-+ Landing Page: 
-![page](/Assets/landing%20deploy%202.png)
++ Landing Page:
++  <img src="Assets/landing%20deploy%202.png" width="700"/>
+
 Enlace de la navegacion del landing page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EZTD_-0Y6wpFu2RDXbsQZvgB9MRhNlWynKjaJBZzJ614rA?e=vLAKlw 
 + Web Application:
-![web](/Assets//webApp.png)
++  <img src="Assets/webApp.png" width="700"/>
+
 Enlace de la navegacion de la pagina web: https://upcedupe-my.sharepoint.com/personal/u202119276_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119276%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%207%2FSoluciones%20IOT%2FTF%2FVideos%2FVideo%5FFrontEnd%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E515614d5%2Dbb95%2D4b78%2D81f4%2D5dfcb0a715bb 
 
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -3763,9 +3814,11 @@ Aqui se presentara la documentacion relacionada con los EndPoints de la aplicaci
 En esta seccion se describira el proceso de implementacion del software en un entorno de produccion o pruebas. Se destacaran los hitos clave alcanzados en terminos de despliegue y disponibilidad de la plataforma para los usuarios finales.
 Para llevar a cabo la automatizacion del despliegue del landing page, se utilizaron las herramientas de Github Pages, esta plataforma permite alojar sitios web estáticos directamente desde un repositorio de GitHub: https://oneup-ws71.github.io/landign-page/
 
-![Front](/Assets/DespliegueLanding.png)
+ <img src="Assets/DespliegueLanding.png" width="700"/>
+
 De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
-![Lainding](/Assets/DespliegueFront.png) 
+ <img src="Assets/DespliegueFront.png" width="700"/>
+
 ### 6.2.1.8. Team Collaboration Insights during Sprint
 Se proporcionara detalles sobre la colaboracion y comunicacion que hubo dentro del equipo de desarrollo durante el sprint .Esto incluira la colaboracion,resolucion de problemas y la gestion de tareas.
 <img src="Assets\DiscordGroup.jpg" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
@@ -4591,16 +4644,16 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 
   <h4>Frontend  Evidence</h4>
-  
-  ![Frontend](/Assets/FrontEvidence.png)
+   <img src="Assets/FrontEvidence.png" width="700"/>
+
   
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EZULU8XZauZJrcY_k6ZTSxIBGbvka7i60XUc-y_YpioM5A?e=wdID4o 
 
   <h4>Embedded application Evidence</h4> 
   
   <b>Enlace:</b>
+ <img src="Assets/embeddedAplication.png" width="700"/>
 
-  ![Embedded](/Assets/embeddedAplication.png)
 
   <b>Enlance:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/EbueAyh2zMpGvYHwXlTRnMoBRmEnmV6UpMor8xI6dixvMQ?e=ve5UG6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
@@ -4638,7 +4691,8 @@ Para llevar a cabo la automatizacion del despliegue del backend, se utilizaron l
 
 <b>Despliegue del Frontend:</b>
 De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
-![Lainding](/Assets/DespliegueFront.png) 
+
+ <img src="Assets/DespliegueFront.png" width="700"/>
 
 De la misma manera para el desarrollo del movil app se utilizo 
 
@@ -4647,8 +4701,8 @@ De la misma manera para el desarrollo del movil app se utilizo
 En esta seccion se presentara la colaboracion del equipo durante el sprint. Se destacaran los aspectos clave de la colaboracion y la comunicacion del equipo, asi como los desafios y las lecciones aprendidas.
 
 <b>FrontEnd:</b>
+ <img src="Assets/FrontCollab.png" width="700"/>
 
-![](/Assets/FrontCollab.png) 
 
 <b>BackEnd:</b>
 <b>Mobile:</b>
@@ -4715,7 +4769,8 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
 
 
 <b>Trello</b>
-  ![](/Assets/Trello.png) 
+ <img src="Assets/Trello.png" width="700"/>
+
 <b>Enlace:</b> https://trello.com/invite/b/C38dv1wR/ATTI4365ad63ae88e8d3d5d640c89cf71f80051AAD10/sprint-3
 
 <table><thead>
@@ -5116,25 +5171,24 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 
   <h4>Frontend  Evidence</h4>
-  
-  ![Frontend](/Assets/FrontEvidence.png)
+   <img src="Assets/FrontEvidence.png" width="700"/>
+
   
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EZULU8XZauZJrcY_k6ZTSxIBGbvka7i60XUc-y_YpioM5A?e=wdID4o 
 
   <h4>Embedded application Evidence</h4> 
   
   <b>Enlace:</b>
-
-  ![Embedded](/Assets/embeddedAplication.png)
-
+ <img src="Assets/embeddedAplication.png" width="700"/>
+ 
   <b>Enlance:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/EbueAyh2zMpGvYHwXlTRnMoBRmEnmV6UpMor8xI6dixvMQ?e=ve5UG6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
 
 
 ### 6.2.3.6.Services Documentation Evidence for Sprint Review.
 <b>Backend Edge </b>
+ <img src="Assets/GateWay.png" width="700"/>
 
-![](/Assets/GateWay.png) 
 
  <h4>Devices Service</h4>
   <img src="Assets\deviceservice.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
@@ -5166,7 +5220,8 @@ Para llevar a cabo la automatizacion del despliegue del backend, se utilizaron l
 
 <b>Despliegue del Frontend:</b>
 De la misma manera para el desarrollo del frontend se utilizo Netlify, una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git: https://66346fd5681906a0ebc84020--one-up-app.netlify.app/ 
-![Lainding](/Assets/DespliegueFront.png) 
+ <img src="Assets/DespliegueFront.png" width="700"/>
+
 
 De la misma manera para el desarrollo del movil app se utilizo 
 
@@ -5181,14 +5236,16 @@ Para conección entre el edge device y el Backend, se creó un edge Backend de c
 En esta seccion se presentara la colaboracion del equipo durante el sprint. Se destacaran los aspectos clave de la colaboracion y la comunicacion del equipo, asi como los desafios y las lecciones aprendidas.
 
 <b>FrontEnd:</b>
+ <img src="Assets/FrontCollab1.png" width="700"/>
 
-![](/Assets/FrontCollab1.png) 
 
 <b>BackEnd:</b>
-![](/Assets/InsightsBackend.png) 
+ <img src="Assets/InsightsBackend.png" width="700"/>
+
 
 <b>Edge Backend</b>
-![](/Assets/edge.png) 
+ <img src="Assets/edge.png" width="700"/>
+
 
 # 6.3. Validation Interviews.
 
@@ -5213,7 +5270,7 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 <b>Nombre y Apellidos :</b> Maryfe Pamela Cortez Menguay <br>
 <b>Edad :</b> 26 años <br>
 <b>Distrito:</b> Callao, Lima <br>
-![EntrevistaCris](/Assets/EntrevistaCris2.png) <br>
+ <img src="Assets/EntrevistaCris2.png" width="700"/> <br>
 <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b> <br>
 <b>Duracion:</b> 00:11:05 <br>
@@ -5239,7 +5296,7 @@ En resumen, Juan valoró positivamente la aplicación, reconociendo su potencial
 <b>Nombre y Apellidos :</b> Jonathan Curi <br>
 <b>Edad :</b> 22 años <br>
 <b>Distrito:</b> Carabayllo, Lima <br>
-![EntrevistaJonathan](/Assets/entrevistaJonathan.png)  <br>
+ <img src="Assets/entrevistaJonathan.png" width="700"/><br>
 <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
 <b>Inicio:</b> Minuto 00:00:00 <br>
 <b>Duracion:</b> 00:04:29
@@ -5254,7 +5311,8 @@ Jonathan, un estudiante universitario encargado de cuidar a sus abuelos, nos cue
 <b>Nombre y Apellidos :</b> Abraham <br>
 <b>Edad :</b> 20 años <br>
 <b>Distrito:</b> San Juan Lurigancho, Lima <br>
-![EntrevistaCris](/Assets/entrevista_Piero.PNG) <br>
+ <img src="Assets/entrevista_Piero.png" width="700"/>
+
 <b>Enlace:</b> <br>
 <b>Inicio:</b> 15:35 <br>
 <b>Duracion:</b> 00:7:16 <br>
