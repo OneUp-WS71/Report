@@ -4668,6 +4668,100 @@ De la misma manera el equipo se comprometió a trabajar de manera colaborativa, 
 </tbody></table>
 
 ### 6.2.3.2.Sprint Backlog 3.
+
+Para este sprint tuvimos como objetivo el desarrollo completo e implementación de la de la aplicación, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded para dispositivos IoT.
+
+Adicionalmente, se realizó la comunicacion entre los diferentes componentes de la aplicación, la implementación de las funcionalidades principales, la integración de la base de datos y la configuración de la API RESTful. Asimismo el despliegue de la API, la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación.
+
+
+<b>Trello</b>
+<b>Enlace:</b> https://trello.com/invite/b/C38dv1wR/ATTI4365ad63ae88e8d3d5d640c89cf71f80051AAD10/sprint-3
+
+<table><thead>
+  <tr>
+    <th>Sprin #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task </td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>Doing /<br>Review /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">  <br>US31   </td>
+    <td rowspan="3">Consulta de ubicación del paciente </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de ubicacion </td>
+    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los usuarios senitrse comodos.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de  ubicacion</td>
+    <td>Implementar la lógica necesaria para validar la longitud y latitud del reporte del paciente.</td>
+    <td>3</td>
+    <td>Alfredo Farro, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Mostrar la ruta tomada por el usuario para llegar al punto final</td>
+    <td> Utiliza la api de google maps para poder mostrar el recorrido necesario para llegar al punto final </td>
+    <td>3</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Review </td>
+  </tr>
+  <tr>
+    <td rowspan="3">US32   </td>
+    <td rowspan="3">Estadísticas sobre los reportes del paciente (Front-end)   </td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de registro </td>
+    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los nuevos usuarios crear una cuenta en la aplicación. </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Desarrollar la funcionalidad de registro</td>
+    <td> Implementar la lógica necesaria para registrar nuevos usuarios en la aplicación. </td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Done</td>
+  </tr>
+ <tr>
+  <td rowspan="2">US32</td>
+  <td rowspan="2">Estadísticas sobre los reportes del paciente (Front-end)</td>
+  <td>TS01</td>
+  <td>Diseñar la pantalla de estadísticas del paciente (UI/UX Design)</td>
+  <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar las estadísticas relevantes sobre el estado del paciente.</td>
+  <td>2</td>
+  <td>Anthony Nuñez,Alfredo Farro, Enrique Llatas</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS02</td>
+  <td>Desarrollar la funcionalidad de visualización de estadísticas</td>
+  <td>Implementar la lógica necesaria para obtener y mostrar las estadísticas del estado del paciente en la aplicación.</td>
+  <td>3</td>
+  <td>Cristhian Orosco, Piero Liberato</td>
+  <td>Done</td>
+</tr> 
+</tbody></table>
+
+
 ### 6.2.3.3.Development Evidence for Sprint Review.
 
 <h4>Front-End</h4>
