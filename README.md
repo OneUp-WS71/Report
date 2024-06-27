@@ -4110,6 +4110,119 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
   </tr>
 </tbody></table>
 
+
+
+
+
+
+<b>Front-End</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation<br>(Hours)</td>
+    <td>Assigned To</td>
+    <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US07</td>
+    <td rowspan="2">Visualización de la información sobre
+   la persona cuidada.</td>
+    <td>TS01</td>
+    <td>Añadido de servicio consumiendo el Endpoint de<br>patient</td>
+    <td>Service.js.</td>
+    <td>2</td>
+    <td>Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Funcionalidad de consumo del servicio implementado previamente</td>
+    <td>Get de los servicios y maqueta para el consumo de este</td>
+    <td>1</td>
+    <td>Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  
+  <tr>
+    <td rowspan="2">US03</td>
+    <td rowspan="2">Registro de cuenta </td>
+    <td>TS01</td>
+    <td>Añadido el consumo del Endpoint Register </td>
+    <td> service</td>
+    <td>2</td>
+    <td>Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Diseño del Register</td>
+    <td>.Vue completo usando el servicio de Register </td>
+    <td>3</td>
+    <td>Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  
+  <tr>
+    <td>US01</td>
+    <td>Accesso a la Cuenta</td>
+    <td>TS01</td>
+    <td>Añadido el consumo del EndPoint Login.</td>
+    <td>Model, service del Login </td>
+    <td>2</td>
+    <td>Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US22</td>
+    <td>Notificacion cuando las credenciales son incorrectas</td>
+    <td>TS01</td>
+    <td>Notificacion contra errores.</td>
+    <td>Login del Usuario</td>
+    <td>2</td>
+    <td>Cristhian Orosco</td>
+    <td>Done</td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 6.2.2.3.Development Evidence for Sprint Review.
 En esta seccion se presenta la evidencia del progreso del desarrollo de las aplicaciones. Se incluye detalles sobre lo que se implemento en el sprint actual, se mostrata un cuadro con los commits realizados en el repositorio de la aplicacion movil, web y API RESTful.
 
