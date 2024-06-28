@@ -212,13 +212,17 @@ _____________________
 
   **Desarrollo de las actividades del informe:**  
   + TB1: Para esta entrega se desarrollaron las secciones del capitulo I al capitulo IV, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
-   <img src="Assets/Commits.png" width="700"/>
+   <img src="/Assets/Commits_tb1.png" width="700"/>
   
   + TP: Para la entrega del TP se desarrollo las secciones del capitulo V al capitulo VI, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
     <img src="Assets/ContribucionCap6.png"  width="700"/>
  
   + TB2: Para la entrega del TB2 se desarrollo las secciones del capitulo 6.2 al capitulo 6.4, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
      <img src="Assets/githubReportb2.png" alt="Logo" width="700"/>
+
+  + TF: Para la entrega del TF se desarrolló el sprint 3, como correciones del reporte, adicionalmente se incluyen conclusiones, recomendaciones, bibliografía, video about the team. Cada miembro desarrolló el avance del infome en el repositorio de Github realizando sus commits en la rama respectiva de cada capítulo, luego se realizó el merge en la rama develop, finalmente a la rama principal main, a continuación las capturas de imagen de los commits.
+     <img src="/Assets/reportTF.png" alt="Logo" width="700"/>
+
 
 ## Contenido 
 - [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
@@ -499,8 +503,7 @@ sabremos que hemos tenido éxito cuando veamos un uso de nuestro producto por 3 
 
 ### 1.2.2.4. Lean UX Canvas.
 
-El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que
-tratamos de resolver, así como tener más claro nuestro modelo de negocio.
+El siguiente artefacto es la síntesis del Lean UX, este nos ayudará a identificar el problema que tratamos de resolver, así como tener más claro nuestro modelo de negocio.
 
 
   <img src="Assets/LeanUxCanvas.png" width="700"/>
@@ -518,7 +521,7 @@ Inicialmente, la aplicación estará disponible únicamente en Perú.
 + **Personas que tienen un adulto mayor en su familia (Cuidadores):**
  
     Este grupo incluye a aquellos usuarios que conviven con adultos mayores en su entorno familiar y son responsables de su cuidado. Según el INEI, en Perú hay aproximadamente 4 millones 598,000 personas de 60 años en adelante. Los datos de la Encuesta Nacional de Hogares (ENAHO) indican que el 80% de los adultos mayores a nivel nacional sufren de problemas de salud crónicos, que incluyen artritis, hipertensión, asma, reumatismo, diabetes, tuberculosis, colesterol elevado, entre otros. Además, el 85.1% de las mujeres y el 74.2% de los hombres adultos mayores presentan al menos un problema de salud crónico.
-## Capítulo II: Requirements Elicitation & Analysi
+## Capítulo II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
 
@@ -639,7 +642,9 @@ Nuestro entrevistado fue Juan Ponce, estudiante de ingeniería de sistemas que e
 
 Jonatan, estudiante de la UPC, enfrenta el desafío de equilibrar sus estudios con el cuidado especializado de un familiar de edad avanzada. Aunque se compromete con esta responsabilidad debido a su estrecha relación con su ser querido, reconoce las limitaciones de tiempo que le impone. 
 
-Jonatan sugiere mejoras para facilitar su situación, como la flexibilización de horarios académicos y el acceso a recursos de apoyo para estudiantes en circunstancias similares. Su experiencia resalta la importancia de considerar las necesidades de aquellos que enfrentan responsabilidades de cuidado familiar mientras persiguen sus objetivos educativos. Finalmente, nos comenta que cuenta con un celular marca Xiaomi y su navegador de preferencia es Gooogle Chrome.
+Jonatan sugiere mejoras para facilitar su situación, como la flexibilización de horarios académicos y el acceso a recursos de apoyo para estudiantes en circunstancias similares. Su experiencia resalta la importancia de considerar las necesidades de aquellos que enfrentan responsabilidades de cuidado familiar mientras persiguen sus objetivos educativos.
+
+Adicionalmente, Jonatán menciona que utiliza un celular Android y para su estudio utiliza su computador de escritorio; para navegar por la web, su navegador principal es Google Chrome.
 
 ### Segmento: Supervisores
  
@@ -767,11 +772,11 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
 
 ## 2.3.5. As-is Scenario Mapping
 
-User - Cuidador
+**User - Cuidador**
 
 <img src="Assets\AsIs.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
-User - Supervisor
+**User - Supervisor**
 
 <img src="Assets\AsIs2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
@@ -800,11 +805,11 @@ User - Supervisor
 # 3.1. To-Be Scenario Mapping
 
 
-User - Cuidador
+**User - Cuidador**
 
 <img src="Assets\ToBe.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
-User - Supervisor
+**User - Supervisor**
 
 <img src="Assets\ToBe2.jpg" width="596" height="334" style="padding-top: 12px;padding-bottom: 12px;">
 
@@ -1379,7 +1384,7 @@ User - Supervisor
   <tr>
     <td>   <br>30   </td>
     <td>   <br>US30   </td>
-    <td>   <br>Consulta de ubicación del paciente     </td>
+    <td>   <br>Consulta de ubicación del paciente(Front-end)     </td>
     <td>   <br>Como usuario, quiero poder consultar la ubicación actual de un paciente para saber dónde se encuentra en tiempo real.  </td>
     <td>   <br>8   </td>
   </tr>
@@ -1388,7 +1393,7 @@ User - Supervisor
     <td>   <br>US32   </td>
     <td>   <br>   Estadísticas sobre los reportes del paciente (Front-end)       </td>
     <td>   <br>Como desarrollador, quiero crear cuadros estadísticos para que los usuarios puedan ver cómo va su paciente y tengan más detalles sobre su estado.    </td>
-    <td>   <br>13   </td>
+    <td>   <br>8   </td>
   </tr>
   <tr>
     <td>   <br>32   </td>
@@ -3306,7 +3311,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>Se cancela el añadido del recordatorio.
 
-<img src="Assets\userflow_4.jpg" style="width: 80%;"><br>
+<img src="/Assets/userflow_4.jpg" style="width: 80%;"><br>
 
 **User Goal 5 : Connección con el dispositivo**
 
@@ -3314,7 +3319,7 @@ Para esta sección se visualizarán los flujos y las posibles opciones dentro de
 
 - Unhappy Path: <br>El dispositivo no llega a conectarse.
 
-<img src="Assets\userflow_5.jpg" style="width: 80%;"><br>
+<img src="/Assets/userflow_4.jpg" style="width: 80%;"><br>
 
 
 **Web Diagram Flow**
@@ -3440,7 +3445,8 @@ siguientes:
 1. Repositorio para el landing page: https://github.com/OneUp-WS71/landign-page 
 2. Repositorio de la aplicación web: https://github.com/OneUp-WS71/frontend-web-applications 
 3. Repositorio de la aplicación móvil: https://github.com/OneUp-WS71/Mobile-applications 
-4. Repositorio del backend: https://github.com/OneUp-WS71/web-services 
+4. Repositorio del backend: https://github.com/OneUp-WS71/web-services
+5. Repositorio del embedded application: https://github.com/OneUp-WS71/embedded-application  
 
 Se utilizará GitFlow para la administración de versiones del proyecto, en concreto se hará uso de las ramas main, develop and feature. 
 + Para cada commit que se realice, ya sea para el landing page o los archivos .feature, se utilizará el formato de mensaje "Conventional Commits" para ayudar a reconocer mejor lo que se hizo en los commits y de esta forma conocer mejor el estado del proyecto.
@@ -4804,11 +4810,11 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 <b>BackEnd:</b>
 <b>Mobile:</b>
 
-## 6.2.2. Sprint 3
+## 6.2.3. Sprint 3
 
 ### 6.2.3.1.Sprint Planning 3.
 
-En el tercer sprint, el equipo se reunió para coordinar las actividades necesarias para el desarrollo e implementación de  de la aplicaciones. Se establecieron objetivos claros y alcanzables para cada componente, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded.
+En el tercer sprint, el equipo se reunió para coordinar las actividades necesarias para el desarrollo e culminacionn de  de la aplicaciones. Se establecieron objetivos claros y alcanzables para cada componente, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded.
 
 De la misma manera el equipo se comprometió a trabajar de manera colaborativa, definir tareas individuales y grupales, establecer plazos de entrega.
 
@@ -4846,39 +4852,43 @@ De la misma manera el equipo se comprometió a trabajar de manera colaborativa, 
   </tr>
   <tr>
     <td>Sprint n Goal</td>
-    <td>Desarrollo de la aplicación móvil, web, API, database, embedded application; despliegue del API,  aplicación web, mejoras visuales del Fron-End, validación de errores  y documentación del informe</td>
+    <td>Desarrollo y culminación de la aplicación móvil, web, API, database, embedded application; despliegue del API,  aplicación web, mejoras visuales del Fron-End, validación de errores  y documentación del informe</td>
   </tr>
   <tr>
     <td>Sprint n Velocity</td>
-    <td>128</td>
+    <td>72</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>128 story points </td>
+    <td>72 story points </td>
   </tr>
 </tbody></table>
 
 ### 6.2.3.2.Sprint Backlog 3.
 
-Para este sprint tuvimos como objetivo el desarrollo completo e implementación de la de la aplicación, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded para dispositivos IoT.
+Para este sprint tuvimos como objetivo el desarrollo completo e implementación de las aplicaciones, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos, la aplicación embedded para dispositivos IoT y Edge service Api.
 
-Adicionalmente, se realizó la comunicacion entre los diferentes componentes de la aplicación, la implementación de las funcionalidades principales, la integración de la base de datos y la configuración de la API RESTful. Asimismo el despliegue de la API, la aplicación web en Netlify, poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación.
+Adicionalmente, se realizó la comunicacion entre los diferentes componentes de la aplicación, la implementación de las funcionalidades principales, la integración de la base de datos y la configuración de la API RESTful. Asimismo el despliegue de la API, la aplicación web en Netlify, el Edge service Api,  poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación.
 
 
 <b>Trello</b>
- <img src="Assets/Trello.png" width="700"/>
+ <img src="/Assets/TrelloTF.png" width="700"/>
 
-<b>Enlace:</b> https://trello.com/invite/b/C38dv1wR/ATTI4365ad63ae88e8d3d5d640c89cf71f80051AAD10/sprint-3
+<b>Enlace:</b> https://trello.com/b/dqGrz1ZG/oneup 
 
-<table><thead>
+
+
+<table>
+<thead>
   <tr>
     <th>Sprin #</th>
     <th colspan="7">Sprint 3</th>
-  </tr></thead>
+  </tr>
+</thead>
 <tbody>
   <tr>
     <td colspan="2">User Story</td>
-    <td colspan="6">Work-Item / Task </td>
+    <td colspan="6">Work-Item / Task</td>
   </tr>
   <tr>
     <td>Id</td>
@@ -4891,68 +4901,430 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
     <td>Status<br>(To-do /<br>Doing /<br>Review /<br>Done)</td>
   </tr>
   <tr>
-    <td rowspan="3">  <br>US31   </td>
-    <td rowspan="3">Consulta de ubicación del paciente </td>
+    <td rowspan="3">US31</td>
+    <td rowspan="3">Consulta de ubicación del paciente</td>
     <td>TS01</td>
-    <td>Diseñar la pantalla de ubicacion </td>
-    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los usuarios senitrse comodos.</td>
+    <td>Configurar el dispositivo para capturar datos de ubicación</td>
+    <td>Programar el dispositivo para capturar datos de ubicación en tiempo real.</td>
     <td>2</td>
     <td>Cristhian Orosco, Enrique Llatas</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>TS02</td>
-    <td>Desarrollar la funcionalidad de  ubicacion</td>
-    <td>Implementar la lógica necesaria para validar la longitud y latitud del reporte del paciente.</td>
+    <td>Implementar la transmisión de datos de ubicación</td>
+    <td>Configurar el protocolo de comunicación para enviar los datos capturados al backend.</td>
     <td>3</td>
     <td>Alfredo Farro, Piero Liberato</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>TS03</td>
-    <td>Mostrar la ruta tomada por el usuario para llegar al punto final</td>
-    <td> Utiliza la api de google maps para poder mostrar el recorrido necesario para llegar al punto final </td>
+    <td>Integrar el dispositivo con el backend</td>
+    <td>Configurar el backend para recibir y almacenar los datos de ubicación.</td>
     <td>3</td>
     <td>Anthony Nuñez, Piero Liberato</td>
-    <td>Review </td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">US32   </td>
-    <td rowspan="2">Estadísticas sobre los reportes del paciente (Front-end)   </td>
+    <td rowspan="2">US32</td>
+    <td rowspan="2">Estadísticas sobre los reportes del paciente (Front-end)</td>
     <td>TS01</td>
-    <td>Diseñar la pantalla de registro </td>
-    <td> Crear una interfaz de usuario (UI) atractiva e intuitiva que permita a los nuevos usuarios crear una cuenta en la aplicación. </td>
+    <td>Diseñar la pantalla de estadísticas del paciente</td>
+    <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar las estadísticas relevantes sobre el estado del paciente.</td>
     <td>2</td>
-    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>TS02</td>
-    <td>Desarrollar la funcionalidad de registro</td>
-    <td> Implementar la lógica necesaria para registrar nuevos usuarios en la aplicación. </td>
+    <td>Desarrollar la funcionalidad de visualización de estadísticas</td>
+    <td>Implementar la lógica necesaria para obtener y mostrar las estadísticas del estado del paciente en la aplicación.</td>
     <td>3</td>
-    <td>Cristhian Orosco, Piero Liberato, Enrique Llatas </td>
+    <td>Anthony Nuñez, Alfredo Farro, Enrique Llatas</td>
     <td>Done</td>
   </tr>
- <tr>
-  <td rowspan="2">US31</td>
-  <td rowspan="2">Estadísticas sobre los reportes del paciente (Front-end)</td>
-  <td>TS01</td>
-  <td>Diseñar la pantalla de estadísticas del paciente (UI/UX Design)</td>
-  <td>Crear una interfaz de usuario (UI) atractiva e informativa que permita visualizar las estadísticas relevantes sobre el estado del paciente.</td>
-  <td>2</td>
-  <td>Anthony Nuñez,Alfredo Farro, Enrique Llatas</td>
-  <td>Done</td>
-</tr>
-<tr>
-  <td>TS02</td>
-  <td>Desarrollar la funcionalidad de visualización de estadísticas</td>
-  <td>Implementar la lógica necesaria para obtener y mostrar las estadísticas del estado del paciente en la aplicación.</td>
-  <td>3</td>
-  <td>Cristhian Orosco, Piero Liberato</td>
-  <td>Done</td>
-</tr> 
-</tbody></table>
+  <tr>
+    <td rowspan="5">US34</td>
+    <td rowspan="5">Captura de Datos de Frecuencia Cardíaca</td>
+    <td>TS01</td>
+    <td>Configurar el dispositivo para capturar datos de frecuencia cardíaca</td>
+    <td>Programar el dispositivo para capturar datos de frecuencia cardíaca en tiempo real.</td>
+    <td>2</td>
+    <td>Enrique Llatas, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Implementar la transmisión de datos de frecuencia cardíaca</td>
+    <td>Configurar el protocolo de comunicación para enviar los datos capturados al backend.</td>
+    <td>3</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Integrar el dispositivo con el backend</td>
+    <td>Configurar el backend para recibir y almacenar los datos de frecuencia cardíaca.</td>
+    <td>3</td>
+    <td>Alfredo Farro, Cristhian Orosco</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Visualizar los datos en la aplicación móvil</td>
+    <td>Implementar la funcionalidad en la aplicación móvil para mostrar los datos de frecuencia cardíaca en tiempo real.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>Pruebas de funcionalidad y precisión</td>
+    <td>Realizar pruebas para asegurar que los datos se capturan y transmiten correctamente y que la funcionalidad es precisa y confiable.</td>
+    <td>2</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="5">US35</td>
+    <td rowspan="5">Captura de Datos de Frecuencia Respiratoria</td>
+    <td>TS01</td>
+    <td>Configurar el dispositivo para capturar datos de frecuencia respiratoria</td>
+    <td>Programar el dispositivo para capturar datos de frecuencia respiratoria en tiempo real.</td>
+    <td>2</td>
+    <td>Alfredo Farro, Cristhian Orosco</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Implementar la transmisión de datos de frecuencia respiratoria</td>
+    <td>Configurar el protocolo de comunicación para enviar los datos capturados al backend.</td>
+    <td>3</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Integrar el dispositivo con el backend</td>
+    <td>Configurar el backend para recibir y almacenar los datos de frecuencia respiratoria.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Visualizar los datos en la aplicación móvil</td>
+    <td>Implementar la funcionalidad en la aplicación móvil para mostrar los datos de frecuencia respiratoria en tiempo real.</td>
+    <td>2</td>
+    <td>Anthony Nuñez, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>Pruebas de funcionalidad y precisión</td>
+    <td>Realizar pruebas para asegurar que los datos se capturan y transmiten correctamente y que la funcionalidad es precisa y confiable.</td>
+    <td>2</td>
+    <td>Enrique Llatas, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="5">US36</td>
+    <td rowspan="5">Captura de Datos de Temperatura Corporal</td>
+    <td>TS01</td>
+    <td>Configurar el dispositivo para capturar datos de temperatura corporal</td>
+    <td>Programar el dispositivo para capturar datos de temperatura corporal en tiempo real.</td>
+    <td>2</td>
+    <td>Enrique Llatas, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Implementar la transmisión de datos de temperatura corporal</td>
+    <td>Configurar el protocolo de comunicación para enviar los datos capturados al backend.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Integrar el dispositivo con el backend</td>
+    <td>Configurar el backend para recibir y almacenar los datos de temperatura corporal.</td>
+    <td>3</td>
+    <td>Anthony Nuñez, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Visualizar los datos en la aplicación móvil</td>
+    <td>Implementar la funcionalidad en la aplicación móvil para mostrar los datos de temperatura corporal en tiempo real.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>Pruebas de funcionalidad y precisión</td>
+    <td>Realizar pruebas para asegurar que los datos se capturan y transmiten correctamente y que la funcionalidad es precisa y confiable.</td>
+    <td>2</td>
+    <td>Alfredo Farro, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="5">US37</td>
+    <td rowspan="5">Consulta de Datos del Paciente en el Backend</td>
+    <td>TS01</td>
+    <td>Configurar el backend para recibir y almacenar datos del paciente</td>
+    <td>Programar el backend para recibir y almacenar datos de frecuencia cardíaca, frecuencia respiratoria y temperatura corporal.</td>
+    <td>3</td>
+    <td>Anthony Nuñez, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Implementar la API para consulta de datos del paciente</td>
+    <td>Desarrollar la API que permita consultar los datos del paciente almacenados en el backend.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Implementar la funcionalidad de actualización de datos</td>
+    <td>Programar la funcionalidad para actualizar los datos del paciente en el backend.</td>
+    <td>3</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Integrar la API con la aplicación móvil</td>
+    <td>Configurar la aplicación móvil para consumir la API del backend y mostrar los datos del paciente.</td>
+    <td>3</td>
+    <td>Alfredo Farro, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>Pruebas de integración</td>
+    <td>Realizar pruebas de integración para asegurar que la consulta de datos del paciente funciona correctamente.</td>
+    <td>2</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="5">US38</td>
+    <td rowspan="5">Notificaciones en tiempo real de alertas médicas</td>
+    <td>TS01</td>
+    <td>Diseñar el sistema de notificaciones</td>
+    <td>Crear el diseño del sistema de notificaciones en la aplicación móvil.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Implementar la funcionalidad de notificaciones en el backend</td>
+    <td>Desarrollar la funcionalidad en el backend para generar y enviar notificaciones en tiempo real.</td>
+    <td>3</td>
+    <td>Enrique Llatas, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Integrar el sistema de notificaciones en la aplicación móvil</td>
+    <td>Configurar la aplicación móvil para recibir y mostrar notificaciones en tiempo real.</td>
+    <td>3</td>
+    <td>Anthony Nuñez, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Configurar notificaciones push</td>
+    <td>Implementar el servicio de notificaciones push en la aplicación móvil.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>Pruebas de notificaciones</td>
+    <td>Realizar pruebas para asegurar que las notificaciones se reciben y se muestran correctamente.</td>
+    <td>2</td>
+    <td>Alfredo Farro, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="5">US39</td>
+    <td rowspan="5">Control de Acceso y Autenticación</td>
+    <td>TS01</td>
+    <td>Diseñar el sistema de control de acceso</td>
+    <td>Crear el diseño del sistema de control de acceso y autenticación en la aplicación móvil.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Implementar la funcionalidad de registro de usuarios</td>
+    <td>Desarrollar la funcionalidad en el backend para registrar nuevos usuarios.</td>
+    <td>3</td>
+    <td>Enrique Llatas, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Integrar el sistema de autenticación en la aplicación móvil</td>
+    <td>Configurar la aplicación móvil para autenticar usuarios mediante el backend.</td>
+    <td>3</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Implementar la funcionalidad de inicio de sesión</td>
+    <td>Desarrollar la funcionalidad de inicio de sesión en la aplicación móvil.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>Pruebas de control de acceso</td>
+    <td>Realizar pruebas para asegurar que el sistema de control de acceso y autenticación funciona correctamente.</td>
+    <td>2</td>
+    <td>Enrique Llatas, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="5">US40</td>
+    <td rowspan="5">Visualización de Datos Históricos del Paciente</td>
+    <td>TS01</td>
+    <td>Diseñar la pantalla de datos históricos</td>
+    <td>Crear una interfaz de usuario (UI) atractiva que permita visualizar datos históricos del paciente.</td>
+    <td>2</td>
+    <td>Anthony Nuñez, Cristhian Orosco</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Implementar la funcionalidad de consulta de datos históricos</td>
+    <td>Desarrollar la funcionalidad en el backend para consultar datos históricos del paciente.</td>
+    <td>3</td>
+    <td>Enrique Llatas, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Integrar la funcionalidad de consulta de datos históricos en la aplicación móvil</td>
+    <td>Configurar la aplicación móvil para consultar y mostrar datos históricos del paciente.</td>
+    <td>3</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Desarrollar gráficos para visualizar datos históricos</td>
+    <td>Implementar gráficos en la aplicación móvil para visualizar los datos históricos del paciente.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>Pruebas de visualización de datos históricos</td>
+    <td>Realizar pruebas para asegurar que los datos históricos se muestran correctamente.</td>
+    <td>2</td>
+    <td>Alfredo Farro, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="5">US41</td>
+    <td rowspan="5">Generación de Reportes Periódicos del Paciente</td>
+    <td>TS01</td>
+    <td>Diseñar la funcionalidad de generación de reportes</td>
+    <td>Crear el diseño del sistema de generación de reportes periódicos del paciente.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Implementar la funcionalidad de generación de reportes en el backend</td>
+    <td>Desarrollar la funcionalidad en el backend para generar reportes periódicos del estado del paciente.</td>
+    <td>3</td>
+    <td>Enrique Llatas, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Integrar la funcionalidad de generación de reportes en la aplicación móvil</td>
+    <td>Configurar la aplicación móvil para recibir y mostrar los reportes generados.</td>
+    <td>3</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Desarrollar plantillas de reportes</td>
+    <td>Crear plantillas de reportes que muestren información relevante sobre el estado del paciente.</td>
+    <td>2</td>
+    <td>Cristhian Orosco, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>Pruebas de generación de reportes</td>
+    <td>Realizar pruebas para asegurar que los reportes se generan y se muestran correctamente.</td>
+    <td>2</td>
+    <td>Alfredo Farro, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="5">US42</td>
+    <td rowspan="5">Integración con Dispositivos de Monitoreo Externos</td>
+    <td>TS01</td>
+    <td>Investigar dispositivos de monitoreo compatibles</td>
+    <td>Realizar una investigación sobre dispositivos de monitoreo externos compatibles con la aplicación.</td>
+    <td>2</td>
+    <td>Enrique Llatas, Alfredo Farro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Diseñar la integración con dispositivos externos</td>
+    <td>Crear el diseño de la integración con dispositivos de monitoreo externos.</td>
+    <td>2</td>
+    <td>Anthony Nuñez, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Implementar la integración con dispositivos externos</td>
+    <td>Desarrollar la funcionalidad en el backend para integrar dispositivos de monitoreo externos.</td>
+    <td>3</td>
+    <td>Cristhian Orosco, Enrique Llatas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Configurar la aplicación móvil para recibir datos de dispositivos externos</td>
+    <td>Implementar la funcionalidad en la aplicación móvil para recibir y mostrar datos de dispositivos de monitoreo externos.</td>
+    <td>3</td>
+    <td>Alfredo Farro, Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>Pruebas de integración con dispositivos externos</td>
+    <td>Realizar pruebas para asegurar que la integración con dispositivos de monitoreo externos funciona correctamente.</td>
+    <td>2</td>
+    <td>Enrique Llatas, Piero Liberato</td>
+    <td>Done</td>
+  </tr>
+</tbody>
+</table>
+
 
 
 ### 6.2.3.3.Development Evidence for Sprint Review.
@@ -5250,36 +5622,37 @@ Edge GateWay
 </tbody></table> 
 
 ### 6.2.3.4.Testing Suite Evidence for Sprint Review.
-Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
+Aquí se proporcionara información sobre las pruebas realizadas durante el sprint. Adicionalmente se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada. <br>
+
 <img src="Assets\Testing-Landing.PNG" style="width: 75%; padding-top: 12px;padding-bottom: 12px;"><br>
 
 Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-oneup-ws71-github-io-landign-page/15eeol9hre?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext
 ### 6.2.3.5.Execution Evidence for Sprint Review.
 
-<h4>Backend  Evidence</h4>
+<h4>Backend  Evidence:</h4> Se muestra la evidencia de la ejecución de las pruebas en el backend.
   <img src="Assets\backendevidence.png" width="100%" height="100%" style="padding-top: 12px;padding-bottom: 12px;"><br>
 
    <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f172_upc_edu_pe/EYyKxgjPy1hAiDEeHG_AP68BsIEf60qUGv0zORsWJmOJeA?e=wxcYSu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
   <h4>Mobile Evidence</h4>
-
+  Se muestra la evidencia de la ejecución de las pruebas en el mobile.
   <img src="Assets/homepagemobile.png" width= 50%  height= 50%  style="padding-top: 12px;padding-bottom: 12px;">
 
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/Ec8KeS_YqyxBo2_I2yggs2cB68y3WN_Bcb6Cw6hcn42s3Q?e=xvuCeW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 
   <h4>Frontend  Evidence</h4>
+  Se muestra la evidencia de la ejecución de las pruebas en el frontend.
    <img src="Assets/FrontEvidence.png" width="700"/>
 
   
   <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EZULU8XZauZJrcY_k6ZTSxIBGbvka7i60XUc-y_YpioM5A?e=wdID4o 
 
   <h4>Embedded application Evidence</h4> 
-  
-  <b>Enlace:</b>
- <img src="Assets/embeddedAplication.png" width="700"/>
+  Se muestra la evidencia de la ejecución de las pruebas en el embedded application. <br>
+ <img src="/Assets/WokwiIOT.png" width="700"/>
  
   <b>Enlance:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921031_upc_edu_pe/EbueAyh2zMpGvYHwXlTRnMoBRmEnmV6UpMor8xI6dixvMQ?e=ve5UG6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
-
+  
 
 
 ### 6.2.3.6.Services Documentation Evidence for Sprint Review.
@@ -5332,16 +5705,22 @@ Para conección entre el edge device y el Backend, se creó un edge Backend de c
 
 En esta seccion se presentara la colaboracion del equipo durante el sprint. Se destacaran los aspectos clave de la colaboracion y la comunicacion del equipo, asi como los desafios y las lecciones aprendidas.
 
-<b>FrontEnd:</b>
+<b>FrontEnd:</b><br>
  <img src="Assets/FrontCollab1.png" width="700"/>
 
 
-<b>BackEnd:</b>
+<b>BackEnd:</b><br>
  <img src="Assets/InsightsBackend.png" width="700"/>
 
 
-<b>Edge Backend</b>
+<b>Edge Backend</b><br>
  <img src="Assets/edge.png" width="700"/>
+
+<b>Mobile</b><br>
+ <img src="/Assets/MobileGit.png" width="700"/>
+
+ <b>Embedded Application</b> <br>
+ <img src="/Assets/embeddedGIt.png" width="700"/>
 
 
 # 6.3. Validation Interviews.
@@ -5369,7 +5748,7 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 <b>Distrito:</b> Callao, Lima <br>
  <img src="Assets/EntrevistaCris2.png" width="700"/> <br>
 <b>Enlace:</b> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EQT-OtOziopLjwjfqbmlv8YBut7YYkwiV6uDhR8-DMpJCg?e=vtQDOy <br>
-<b>Inicio:</b> <br>
+<b>Inicio:</b> 00:04:30 <br>
 <b>Duracion:</b> 00:11:05 <br>
 Maryfe enfermera de 26 años, compartió su experiencia utilizando la aplicación ElderlyCare. En términos generales, encontró que la aplicación es similar a otras que ha utilizado, lo que facilitó su adaptación. Destacó que la aplicación permite registrar información básica, como el peso y la talla de los pacientes, y establecer recordatorios importantes para el cuidado físico, como la administración de medicamentos y citas médicas. Sin embargo, indicó que la aplicación comienza en inglés, lo cual puede ser una barrera significativa para algunos usuarios hispanohablantes, sugiriendo que todas las secciones deberían estar en español.
 
@@ -5494,6 +5873,10 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 <img src="Assets/perfiltb2.png" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
+ 1. Visualización de la ubicación del adulto mayor.
+ 2. Alertas de emergencia y notificaciones.
+ 3. Envio de los signos vitales a la aplicación.
+ 5. Estadisticas de los signos vitales. <br>
 
 **ESCALA DE SEVERIDAD:**
 
@@ -5519,8 +5902,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 En esta sección presentaremos un video, el cual va dirigido a los visitantes del landing page que requieran un resumen sencillo y rápido de la funcionalidad principal del producto. <br>
 
-<img src="Assets/AboutTheProduct.PNG" width="50%" height="50%" style="padding-top: 12px;padding-bottom: 12px;"> <br>
+<img src="Assets/AboutTheProduct.PNG" width="700"> <br>
 
+**Enlace :** 
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EdCuA539YSFCmMdADP-VpxMBeVt1CXjrZAGkm3gESj-H-g?e=V1INYc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119276_upc_edu_pe/EdCuA539YSFCmMdADP-VpxMBeVt1CXjrZAGkm3gESj-H-g?e=V1INYc) <br>
 
 **Timing :** 1 minuto, 2 segundos <br>
@@ -5549,10 +5933,31 @@ Para continuar con el éxito del proyecto, se recomienda:
 - PrimeVue. (n.d.). Introduction. Recuperado de [https://primevue.org/introduction/](https://primevue.org/introduction/)
 - Spring. (n.d.). Spring Boot documentation. Recuperado de [https://docs.spring.io/spring-boot/documentation.html](https://docs.spring.io/spring-boot/documentation.html)
 - Vuetify. (n.d.). Components. Recuperado de [https://vuetifyjs.com/en/components/all/#containment](https://vuetifyjs.com/en/components/all/#containment)
+- Schwaber, K., & Sutherland, J. (2020). The Scrum Guide. Recuperado de https://scrumguides.org/scrum-guide.html
+
+- Patton, J. (2014). User Story Mapping: Discover the Whole Story, Build the Right Product. Sebastopol, CA: O'Reilly Media. Recuperado de https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909
+
+- Cohn, M. (2005). Agile Estimating and Planning. Upper Saddle River, NJ: Pearson Education. Recuperado de https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415
+
+- Atlassian. (n.d.). User Stories. Recuperado de https://www.atlassian.com/agile/project-management/user-stories
+
+- Microsoft. (n.d.). Plan and track user stories. Recuperado de https://docs.microsoft.com/en-us/azure/devops/boards/plans/user-stories?view=azure-devops
+
+- Evans, E. (2004). Domain-Driven Design: Tackling Complexity in the Heart of Software. Boston, MA: Addison-Wesley Professional. Recuperado de https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
+
+- Vernon, V. (2013). Implementing Domain-Driven Design. Boston, MA: Addison-Wesley Professional. Recuperado de https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577
+
+- Evans, E. (2014). Domain-Driven Design Reference: Definitions and Pattern Summaries. Boston, MA: Addison-Wesley Professional. Recuperado de https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/032183464X
+
+- Domain Language. (n.d.). DDD Community. Recuperado de https://www.domainlanguage.com/ddd/
+
+- Microsoft. (n.d.). Domain-driven design in microservices. Recuperado de https://docs.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis
+
+- Domain-Driven Design Europe. (n.d.). DDD Europe Conference Talks. Recuperado de https://dddeurope.com/
 
 ### Anexos
 
 - Cuidum. (n.d.). Preguntas frecuentes. Recuerado de [https://www.cuidum.com/preguntas-frecuentes/](https://www.cuidum.com/preguntas-frecuentes/)
 - Safe365. (n.d.). Recuperado de [https://safe365global.com/](https://safe365global.com/)
 - MyTherapy. (n.d.). Recuperado de [https://www.mytherapyapp.com/es](https://www.mytherapyapp.com/es)
-
+- Enlace del Wokwi. https://wokwi.com/projects/399923520581913601 
