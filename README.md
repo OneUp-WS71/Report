@@ -5321,6 +5321,24 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
     <td>2</td>
     <td>Enrique Llatas, Piero Liberato</td>
     <td>Done</td>
+  </tr> 
+  <tr>
+    <td rowspan="2">US42</td>
+    <td rowspan="2">Descarga del ultimo Reporte del Paciente en pdf</td>
+    <td>TS01</td>
+    <td>Diseñar la funcionalidad de descarga de reportes</td>
+    <td>Implementar la descarga del pdf dentro de la aplicacion </td>
+    <td>2</td>
+    <td>Cristhian Orosco, Anthony Nuñez</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>TS02</td>
+    <td>Implementar la funcionalidad de  escribir los datos del paciente dentro del pdf </td>
+    <td>Desarrollar la funcionalidad en el frontend para generar reportes en pdf sobre el estado del paciente.</td>
+    <td>3</td>
+    <td>Enrique Llatas, Alfredo Farro</td>
+    <td>Done</td>
   </tr>
 </tbody>
 </table>
