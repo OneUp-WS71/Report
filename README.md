@@ -5964,6 +5964,13 @@ Para continuar con el éxito del proyecto, se recomienda:
 
 - Continuar invirtiendo en la investigación y desarrollo de nuevas funcionalidades y tecnologías que mejoren aún más la solución y la experiencia del usuario.
 
+### Video About-The-Team 
+En esta sección se detalla la participacion de cada miembro del equipo en el desarrollo del proyecto, asi como el logro en base a los outcomes y desarrollo de competencias alcanzadas <br>
+<img src="/Assets/Abouttheteam2.png" width="800"> <br>
+
+**Enlace:**
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181h057_upc_edu_pe/EZC5NsnzgtRKvi-oY27xJKIBw1B5jFtic--MFSaxxt6xZA?e=zwqBx2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
 ### Bibliografía
 
 - Google. (n.d.). Maps documentation. Recuperado de [https://developers.google.com/maps/documentation?hl=es-419](https://developers.google.com/maps/documentation?hl=es-419)
