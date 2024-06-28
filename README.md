@@ -5966,6 +5966,7 @@ Para continuar con el éxito del proyecto, se recomienda:
 
 ### Video About-The-Team 
 En esta sección se detalla la participacion de cada miembro del equipo en el desarrollo del proyecto, asi como el logro en base a los outcomes y desarrollo de competencias alcanzadas <br>
+
 <img src="/Assets/Abouttheteam2.png" width="800"> <br>
 
 **Enlace:**
