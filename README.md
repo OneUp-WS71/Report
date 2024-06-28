@@ -215,10 +215,10 @@ _____________________
    <img src="Assets/Commits.png" width="700"/>
   
   + TP: Para la entrega del TP se desarrollo las secciones del capitulo V al capitulo VI, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
-  +  <img src="Assets/ContribucionCap6.png" " width="700"/>
+    <img src="Assets/ContribucionCap6.png"  width="700"/>
  
   + TB2: Para la entrega del TB2 se desarrollo las secciones del capitulo 6.2 al capitulo 6.4, cada miembro desarrollo el avance del infome en el repositorio de Github realizando sus commits en la rama respectivo de cada capitulo, luego se realizo el merge en la rama develop, a continuacion las capturas de imagen de los commits.
-  +  <img src="Assets/githubReportb2.png" alt="Logo" width="700"/>
+     <img src="Assets/githubReportb2.png" alt="Logo" width="700"/>
 
 ## Contenido 
 - [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
