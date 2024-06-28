@@ -1479,6 +1479,13 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
     <td>   <br>Como desarrollador Quiero poder crear un intermediario entre el Backend y el Edge Application. Para que el usuario final no pueda acceder al Backend a través del dispositivo.</td>
     <td>8</td>
   </tr>
+    <tr>
+    <td><br>43</td>
+    <td><br>US43</td>
+    <td><br>Descarga del último Reporte del Paciente en PDF</td>
+    <td>   <br>Como usuario Quiero poder descargar el último reporte del paciente Para poder mostrárselo físicamente a sus familiares.</td>
+    <td>8</td>
+  </tr>
 </tbody></table>
 
 ## Capítulo IV: Solution Software Design
