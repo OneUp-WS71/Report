@@ -4817,12 +4817,16 @@ De la misma manera para el desarrollo del movil app se utilizo
 ### 6.2.2.8.Team Collaboration Insights during Sprint.
 En esta seccion se presentara la colaboracion del equipo durante el sprint. Se destacaran los aspectos clave de la colaboracion y la comunicacion del equipo, asi como los desafios y las lecciones aprendidas.
 
-<b>FrontEnd:</b>
+<b>FrontEnd:</b> <br>
  <img src="Assets/FrontCollab.png" width="700"/>
 
 
-<b>BackEnd:</b>
-<b>Mobile:</b>
+<b>BackEnd:</b> <br>
+ <img src="/Assets/InsightsBackend.png" width="700"/> <br>
+
+<b>Mobile:</b> <br>
+ 
+<img src="/Assets/MobileGit.png" width="700"/> <br>
 
 ## 6.2.3. Sprint 3
 
@@ -4830,7 +4834,7 @@ En esta seccion se presentara la colaboracion del equipo durante el sprint. Se d
 
 En el tercer sprint, el equipo se reunió para coordinar las actividades necesarias para el desarrollo e culminacionn de  de la aplicaciones. Se establecieron objetivos claros y alcanzables para cada componente, incluyendo la aplicación móvil, la aplicación web, la API RESTful, la base de datos y la aplicación embedded.
 
-De la misma manera el equipo se comprometió a trabajar de manera colaborativa, definir tareas individuales y grupales, establecer plazos de entrega.
+De la misma manera el equipo se comprometió a trabajar de manera colaborativa, definir tareas individuales y grupales, establecer plazos de entrega. <br>
 
 <table><thead>
   <tr>
@@ -4885,8 +4889,8 @@ Para este sprint tuvimos como objetivo el desarrollo completo e implementación 
 Adicionalmente, se realizó la comunicacion entre los diferentes componentes de la aplicación, la implementación de las funcionalidades principales, la integración de la base de datos y la configuración de la API RESTful. Asimismo el despliegue de la API, la aplicación web en Netlify, el Edge service Api,  poniendo a disposición de los usuarios las funcionalidades básicas de la aplicación.
 
 
-<b>Trello</b>
- <img src="/Assets/TrelloTF.png" width="700"/>
+<b>Trello</b> <br>
+ <img src="/Assets/TrelloTF.png" width="700"/> <br>
 
 <b>Enlace:</b> https://trello.com/b/dqGrz1ZG/oneup 
 
@@ -5553,7 +5557,7 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
 
 
 
-BackEnd Application
+**BackEnd Application** <br> 
 
 
 <table><thead>
@@ -5610,7 +5614,7 @@ BackEnd Application
 </tbody></table>
 
 
-Edge GateWay
+**Edge GateWay** <br>
 
 
 <table><thead>
@@ -5688,8 +5692,9 @@ Link de donde se realizo el testeo: https://pagespeed.web.dev/analysis/https-one
 
 
 ### 6.2.3.6.Services Documentation Evidence for Sprint Review.
-<b>Backend Edge </b>
- <img src="Assets/GateWay.png" width="700"/>
+<b>Backend Edge </b> <br>
+
+ <img src="Assets/GateWay.png" width="700"/> <br>
 
 
  <h4>Devices Service</h4>
@@ -5819,7 +5824,8 @@ Jonathan, un estudiante universitario encargado de cuidar a sus abuelos, nos cue
 <b>Nombre y Apellidos :</b> Abraham <br>
 <b>Edad :</b> 20 años <br>
 <b>Distrito:</b> San Juan Lurigancho, Lima <br>
- <img src="Assets/entrevista_Piero.png" width="700"/>
+
+ <img src="/Assets/entrevista_Piero.PNG" width="700"/>
 
 <b>Enlace:</b> <br>
 <b>Inicio:</b> 15:35 <br>
