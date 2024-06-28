@@ -1161,6 +1161,13 @@ En esta sección, se describirán las actividades que realizarían los usuarios 
     <td><br>Escenario: Generación de la fecha de actualización<br><br>Escenario: Envío de la información al Endpoint de reportes<br><br>Dado que el dispositivo ha envíado información del reporte desde el dispositivo IOT<br><br>Cuando el Edge Gateway reciba la información<br><br>Entonces se le asignará una fecha y hora al reporte<br><br>Y se hará una solicitud POST al endpoint de reportes del Backend.</td>
     <td>EP06</td>
   </tr>
+<tr>
+    <td><br>US43</td>
+    <td><br>Descarga del último Reporte del Paciente en PDF</td>
+    <td>   <br>Como usuario<br>Quiero poder descargar el último reporte del paciente<br>Para poder mostrárselo físicamente a sus familiares.</td>
+    <td><br>Escenario: Solicitud de descarga del reporte<br><br>Dado que el usuario ha iniciado sesión en la aplicación<br><br>Cuando el usuario selecciona la opción para descargar el último reporte del paciente<br><br>Entonces se generará y descargará el reporte en formato PDF.<br><br>Escenario: Falla en la descarga del reporte<br><br>Dado que el usuario ha iniciado sesión en la aplicación<br><br>Y el usuario selecciona la opción para descargar el último reporte del paciente<br><br>Cuando hay un problema en el servidor o en la red<br><br>Entonces se mostrará un mensaje de error indicando que la descarga ha fallado<br><br>Y se proporcionarán instrucciones para intentar nuevamente</td>
+    <td>EP06</td>
+</tr>
 </tbody></table>
 
 
@@ -5323,7 +5330,7 @@ Adicionalmente, se realizó la comunicacion entre los diferentes componentes de 
     <td>Done</td>
   </tr> 
   <tr>
-    <td rowspan="2">US42</td>
+    <td rowspan="2">US43</td>
     <td rowspan="2">Descarga del ultimo Reporte del Paciente en pdf</td>
     <td>TS01</td>
     <td>Diseñar la funcionalidad de descarga de reportes</td>
